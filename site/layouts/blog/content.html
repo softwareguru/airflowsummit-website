@@ -1,0 +1,56 @@
+{{/*
+ Licensed to the Apache Software Foundation (ASF) under one
+ or more contributor license agreements.  See the NOTICE file
+ distributed with this work for additional information
+ regarding copyright ownership.  The ASF licenses this file
+ to you under the Apache License, Version 2.0 (the
+ "License"); you may not use this file except in compliance
+ with the License.  You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing,
+ software distributed under the License is distributed on an
+ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ KIND, either express or implied.  See the License for the
+ specific language governing permissions and limitations
+ under the License.
+*/}}
+
+<div class="blogpost-content--header-wrapper">
+    <div class="blogpost-content__metadata--container">
+        <div class="tags-container">
+            {{ range $tag := .Params.tags }}
+                {{ with $.Site.GetPage (printf "/tags/%s" $tag) }}
+                    <a class="tag" href="{{ .Permalink }}">{{ humanize $tag }}</a>
+                {{ end }}
+            {{ end }}
+        </div>
+        <span class="bodytext__medium--brownish-grey">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+    </div>
+    <p class="blogpost-content__metadata--title">{{ .Title }}</p>
+    <div class="blogpost-content__metadata--author">
+        <span class="blogpost-content__metadata--author">
+            {{ .Params.author }}
+        </span>
+        {{ with .Params.twitter }}
+            <a href="https://twitter.com/{{ . }}/" class="blogpost-content__metadata--social-media-icon">
+                {{ with resources.Get "icons/twitter-small.svg" }}{{ .Content | safeHTML }}{{ end }}
+            </a>
+        {{ end }}
+        {{ with .Params.github }}
+            <a href="https://github.com/{{ . }}/" class="blogpost-content__metadata--social-media-icon">
+                {{ with resources.Get "icons/github-small.svg" }}{{ .Content | safeHTML }}{{ end }}
+            </a>
+        {{ end }}
+        {{ with .Params.linkedin }}
+            <a href="https://linkedin.com/in/{{ . }}/" class="blogpost-content__metadata--social-media-icon">
+                {{ with resources.Get "icons/linkedin-small.svg" }}{{ .Content | safeHTML }}{{ end }}
+            </a>
+        {{ end }}
+    </div>
+    <p class="blogpost-content__metadata--description">{{ .Params.description }}</p>
+</div>
+<div class="markdown-content">
+    {{ .Content }}
+</div>

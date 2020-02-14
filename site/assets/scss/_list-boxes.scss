@@ -1,0 +1,239 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+@import "colors";
+@import "media";
+
+$card-margin: 20px;
+
+.list-items {
+  display: flex;
+  flex-wrap: wrap;
+  margin: #{-1 * $card-margin};
+  align-items: stretch;
+
+  @media (max-width: $tablet) {
+    margin: auto;
+    max-width: 580px;
+  }
+
+  @media (max-width: $mobile) {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.list-item {
+  width: 25%;
+  padding: $card-margin;
+  @media (min-width: $fullhd) {
+    width: 20%;
+  }
+  @media (max-width: $tablet) {
+    padding: $card-margin / 2;
+    width: 50%;
+  }
+  @media (max-width: $mobile) {
+    width: 100%;
+  }
+
+  &--wide {
+    width: 50%;
+    @media (max-width: $tablet) {
+      width: 100%;
+    }
+  }
+}
+
+.card {
+  border: solid 1px map_get($colors, very-light-pink);
+  border-radius: 5px;
+  padding: 30px 10px;
+  height: 100%;
+}
+
+.box-event {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &__blogpost {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+
+    padding: 0 20px;
+
+    &--metadata {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-bottom: 20px;
+    }
+
+    &--header {
+      @extend .subtitle__large--greyish-brown;
+      margin-bottom: 4px;
+    }
+
+    &--author {
+      @extend .bodytext__medium--cerulean-blue;
+      font-weight: 500;
+    }
+
+    &--description {
+      @extend .bodytext__medium--brownish-grey;
+      margin-bottom: 20px;
+    }
+
+    &--date {
+      @extend .bodytext__medium--brownish-grey;
+    }
+  }
+
+  &__case-study {
+    padding: 18px 18px 0;
+    justify-content: space-between;
+
+    &--logo {
+      display: flex;
+      height: 60px;
+      width:100%;
+      justify-content: center;
+      align-items: center;
+
+      svg, img {
+        max-height: 100%;
+        max-width: 100%;
+      }
+    }
+
+    &--quote {
+      @extend .bodytext__medium--brownish-grey;
+      font-style: italic;
+      margin: 30px 0 20px;
+      text-align: center;
+
+      &::before {
+        content: "“";
+      }
+
+      &::after {
+        content: "”";
+      }
+    }
+  }
+
+  &__committer {
+    &--nick {
+      @extend .bodytext__medium--greyish-brown;
+      font-weight: 500;
+      margin-top: 12px;
+    }
+
+    &--social-media-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    &--social-media-icon {
+      margin: 0 6px;
+    }
+  }
+
+  &__meetup {
+    &--location {
+      @extend .subtitle__large--cerulean-blue;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    &--members {
+      @extend .bodytext__medium--brownish-grey;
+      margin-bottom: 30px;
+
+      span {
+        vertical-align: middle;
+      }
+    }
+
+    &--next-meetup {
+      @extend .bodytext__medium--cerulean-blue;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      min-height: 52px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+  }
+
+  &__integration {
+    height: 208px;
+    justify-content: center;
+
+    &--logo {
+      margin: auto 0;
+      filter: grayscale(1);
+      opacity: 0.6;
+    }
+
+    &--name {
+      @extend .subtitle__medium--brownish-grey;
+      font-weight: bold;
+      text-align: center;
+    }
+
+    &:hover {
+      .box-event__integration--logo {
+        filter: none;
+        opacity: 1;
+      }
+    }
+  }
+
+  &.hoverable-icon {
+    svg, img {
+      filter: grayscale(1);
+      opacity: 0.6;
+      transition: all 0.2s;
+    }
+
+    &:hover {
+      svg, img {
+        filter: none;
+        opacity: 1;
+      }
+    }
+  }
+}
+
+@media (max-width: $mobile) {
+  .box-event {
+    &__blogpost {
+      &--metadata {
+        flex-direction: column;
+      }
+
+      &--date {
+        margin-top: 17px;
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+@import "colors";
+@import "media";
+
+details.accordion {
+  padding: 40px 30px;
+  border-bottom: solid 1px map_get($colors, very-light-pink);
+  transition: ease 1s;
+
+  &:first-of-type {
+    border-top: solid 1px map_get($colors, very-light-pink);
+  }
+
+  summary {
+    position: relative;
+    display: block;
+  }
+
+  summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .accordion__summary-content {
+    display: flex;
+    max-width: 750px;
+    margin-right: 40px;
+
+    &--icon {
+      display: flex;
+      align-items: center;
+      width: 60px;
+      margin-right: 42px;
+    }
+
+    &--header {
+      margin-bottom: 20px;
+    }
+  }
+
+  .accordion__arrow {
+    display: flex;
+    position: absolute;
+    width: 36px;
+    height: 36px;
+    top: 0;
+    right: 0;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px map_get($colors, cerulean-blue);
+    border-radius: 50%;
+
+    svg {
+      transition: ease-out 0.2s;
+    }
+  }
+
+  &[open] {
+    .accordion__arrow {
+      svg {
+        transform: rotate(180deg);
+      }
+    }
+  }
+
+  .accordion__content {
+    margin-top: 30px;
+    margin-right: 36px;
+
+    &.indented {
+      margin-left: 102px;
+    }
+  }
+}
+
+@media (max-width: $tablet) {
+  details.accordion {
+    padding: 30px 0;
+
+    .accordion__summary-content {
+      &--icon {
+        align-items: unset;
+        margin-right: 20px;
+        margin-top: 28px;
+      }
+    }
+
+    .accordion__arrow {
+      width: 28px;
+      height: 28px;
+      top: 5px;
+    }
+
+    .accordion__content {
+      &.indented {
+        margin-left: 80px;
+      }
+
+      ol.counter-blue {
+        margin-left: -38px !important;
+      }
+    }
+  }
+}

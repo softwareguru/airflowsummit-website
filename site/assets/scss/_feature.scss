@@ -1,0 +1,108 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+@import "media";
+@import "fonts";
+
+.features-list {
+  margin: 76px auto 100px;
+  max-width: 720px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  @media (min-width: $fullhd) {
+    max-width: unset;
+    justify-content: center;
+    margin-top: 0;
+  }
+
+  @media (max-width: $mobile) {
+    margin-top: 0;
+  }
+}
+
+.feature-item {
+  display: flex;
+  margin: 44px auto 0;
+
+  &--icon-box {
+    display: flex;
+    max-width: 150px;
+    width: 100%;
+    height: fit-content;
+    justify-content: center;
+    margin-top: 18px;
+  }
+
+  &--text-box {
+    margin-left: 60px;
+  }
+
+  &--header {
+    @extend .header__xsmall--greyish-brown;
+  }
+
+  &--text {
+    @extend .bodytext__medium--brownish-grey;
+  }
+
+  @media (min-width: $fullhd), (max-width: $tablet) {
+    flex-direction: column;
+
+    &--icon-box {
+      margin-top: 0;
+      margin-bottom: 20px;
+      max-width: unset;
+    }
+
+    &--text-box {
+      margin-left: 0;
+      text-align: center;
+    }
+  }
+
+  @media (min-width: $fullhd) {
+    margin-top: 60px;
+    max-width: 392px;
+
+    margin-left: 40px;
+    margin-right: 40px;
+  }
+
+  @media (max-width: $tablet) {
+    margin-top: 40px;
+    max-width: 260px;
+
+    svg {
+      height: 60px;
+      width: auto;
+    }
+
+    &--header {
+      font-family: $primary-font !important;
+      font-size: 24px !important;
+      line-height: 1.5 !important;
+    }
+
+    &--text {
+      font-size: 14px !important;
+      line-height: 1.57 !important;
+    }
+  }
+}

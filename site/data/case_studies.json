@@ -1,0 +1,47 @@
+[
+  {
+    "name": "dish",
+    "logo_path": "icons/dish-logo.svg",
+    "quote": {
+      "author": "John Doe",
+      "text": "A great ecosystem and community that comes together to address about any batch data pipeline need."
+    },
+    "url": ""
+  },
+  {
+    "name": "dish",
+    "logo_path": "icons/dish-logo.svg",
+    "quote": {
+      "author": "John Doe",
+      "text": "A great ecosystem and community that comes together to address about any batch data pipeline need."
+    },
+    "url": ""
+  },
+  {
+    "name": "dish",
+    "logo_path": "icons/dish-logo.svg",
+    "quote": {
+      "author": "John Doe",
+      "text": "A great ecosystem and community that comes together to address about any batch data pipeline need."
+    },
+    "url": ""
+  },
+  {
+    "name": "dish",
+    "logo_path": "icons/dish-logo.svg",
+    "quote": {
+      "author": "John Doe",
+      "text": "A great ecosystem and community that comes together to address about any batch data pipeline need."
+    },
+    "url": ""
+  },
+  {
+    "name": "dish",
+    "logo_path": "icons/dish-logo.svg",
+    "quote": {
+      "author": "John Doe",
+      "text": "A great ecosystem and community that comes together to address about any batch data pipeline need."
+    },
+    "url": ""
+  }
+]

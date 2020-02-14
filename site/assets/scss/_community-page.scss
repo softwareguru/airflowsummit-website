@@ -1,0 +1,100 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+@import "media";
+@import "fonts";
+
+.list-link {
+  @extend .bodytext__medium--greyish-brown;
+  text-decoration: underline;
+}
+
+.community {
+  &--header-container {
+    max-width: 936px;
+    margin: 0 auto;
+  }
+
+  &--header-join {
+    @extend .header__small--greyish-brown;
+    text-align: center;
+  }
+
+  &--accordion-container {
+    margin: 60px 18px;
+  }
+
+  &--committers-header {
+    @extend .header__small--greyish-brown;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 40px;
+
+    &.large-margin {
+      margin-top: 100px;
+      margin-bottom: 40px;
+    }
+  }
+}
+
+@media (min-width: $fullhd) {
+  .community {
+    .list-items {
+      max-width: 1220px;
+      margin-right: auto;
+      margin-left: auto;
+    }
+
+    .list-item {
+      width: 25%;
+    }
+  }
+}
+
+@media (max-width: $tablet) {
+  .community {
+    &--header-container {
+      max-width: 580px;
+    }
+
+    &--header-join {
+      font-family: $primary-font !important;
+      font-size: 24px !important;
+      line-height: 1.5 !important;
+    }
+
+    &--accordion-container {
+      margin: 40px 0;
+    }
+
+    &--committers-header {
+      font-size: 36px !important;
+      line-height: 1.22 !important;
+      margin-top: 60px;
+
+      &.large-margin {
+        margin-top: 60px;
+        margin-bottom: 40px;
+      }
+    }
+
+    &--button-container {
+      margin-top: 20px;
+    }
+  }
+}

@@ -1,0 +1,128 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+@import "media";
+@import "fonts";
+
+.base-layout {
+  padding: 123px 0 40px;
+
+  &--button {
+    display: flex;
+    position: sticky;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: 40px;
+    bottom: 40px;
+    justify-content: flex-end;
+    z-index: 1;
+  }
+}
+
+@media (max-width: $tablet) {
+  .base-layout {
+    padding: 76px 0 60px;
+
+    &--button {
+      display: none;
+    }
+  }
+}
+
+.page-header {
+  @extend .header__medium--greyish-brown;
+  text-align: center;
+  margin-bottom: 16px;
+
+  @media (max-width: $tablet) {
+    font-size: 36px !important;
+    line-height: 1.22 !important;
+  }
+}
+
+.page-subtitle {
+  @extend .subtitle__large--brownish-grey;
+  text-align: center;
+  font-weight: normal !important;
+  margin-bottom: 80px;
+
+  @media (max-width: $tablet) {
+    font-family: $primary-font !important;
+    font-size: 16px !important;
+    line-height: 1.63 !important;
+    margin-bottom: 30px;
+  }
+}
+
+.container {
+  margin-top: 44px;
+  max-width: 1200px;
+
+  @media (min-width: $fullhd) {
+    max-width: 1510px;
+  }
+
+  @media (max-width: $tablet) {
+    & > * {
+      max-width: 630px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .no-width-restriction {
+      max-width: none;
+    }
+  }
+
+  @media (max-width: $mobile) {
+    & > * {
+      max-width: 306px;
+    }
+  }
+}
+
+.container-fluid {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.show-more-button {
+  width: fit-content;
+  margin: 60px auto 0;
+
+  @media (max-width: $tablet) {
+    margin-top: 30px;
+  }
+}
+
+.desktop-only {
+  @media (max-width: $tablet) {
+    display: none;
+  }
+}
+
+.no-desktop {
+  @media (min-width: calc(#{$tablet} + 1px)) {
+    display: none;
+  }
+}
+
+.mobile-only {
+  @media (min-width: calc(#{$mobile} + 1px)) {
+    display: none;
+  }
+}

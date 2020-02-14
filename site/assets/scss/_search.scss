@@ -1,0 +1,57 @@
+/**
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+@import "media";
+@import "fonts";
+@import "colors";
+
+.search-form {
+  display: flex;
+  width: 344px;
+  padding: 8px 20px;
+  border: solid 1px #cbcbcb;
+  border-radius: 5px;
+  margin: 60px auto 0;
+
+  &__input {
+    font-family: $primary-font;
+    font-size: 16px;
+    color: map-get($colors, brownish-grey);
+    line-height: 1.63;
+    flex-grow: 1;
+    padding-right: 10px;
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+  }
+
+  &__button {
+    border: none;
+    background-color: transparent;
+    padding: 0;
+  }
+}
+
+@media (max-width: $tablet) {
+  .search-form {
+    width: 270px;
+    padding: 3px 20px;
+    margin-top: 30px;
+  }
+}

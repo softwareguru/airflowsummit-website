@@ -1,0 +1,177 @@
+# Licensed to the Apache Software Foundation (ASF) under one
+# or more contributor license agreements.  See the NOTICE file
+# distributed with this work for additional information
+# regarding copyright ownership.  The ASF licenses this file
+# to you under the Apache License, Version 2.0 (the
+# "License"); you may not use this file except in compliance
+# with the License.  You may obtain a copy of the License at
+#
+#   http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing,
+# software distributed under the License is distributed on an
+# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+# KIND, either express or implied.  See the License for the
+# specific language governing permissions and limitations
+# under the License.
+
+baseURL = "/"
+title = "Apache Airflow"
+enableRobotsTXT = true
+
+# Hugo allows theme composition (and inheritance). The precedence is from left to right.
+theme = ["docsy"]
+
+# Will give values to .Lastmod etc.
+enableGitInfo = true
+
+# Language settings
+contentDir = "content/en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+# Useful when translating.
+enableMissingTranslationPlaceholders = true
+
+pygmentsStyle = "vs"
+pygmentsUseClasses = true
+
+## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
+[blackfriday]
+plainIDAnchors = true
+hrefTargetBlank = true
+angledQuotes = false
+latexDashes = true
+
+# Image processing configuration.
+[imaging]
+resampleFilter = "CatmullRom"
+quality = 75
+anchor = "smart"
+
+[services]
+[services.googleAnalytics]
+# Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
+id = "UA-140539454-1"
+
+# Language configuration
+
+[languages]
+[languages.en]
+title = "Apache Airflow"
+description = "Platform created by community to programmatically author, schedule and monitor workflows."
+languageName ="English"
+# Weight used for sorting.
+weight = 1
+
+# Everything below this are Site Params
+
+[params]
+copyright = "The Apache Software Foundation"
+privacy_policy = "https://policies.google.com/privacy"
+
+# First one is picked as the Twitter card image if not set on page.
+images = ["images/feature-image.png"]
+
+# Menu title if your navbar has a versions selector to access old versions of your site.
+# This menu appears only if you have at least one [params.versions] set.
+version_menu = "Releases"
+
+# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
+github_repo = "https://github.com/apache/airflow-site"
+# An optional link to a related project repo. For example, the sibling repository where your product code lives.
+github_project_repo = "https://github.com/apache/airflow"
+
+# Specify a value here if your content directory is not in your repo's root directory
+# github_subdir = ""
+
+# Google Custom Search Engine ID. Remove or comment out to disable search.
+#gcs_engine_id = "011737558837375720776:fsdu1nryfng"
+
+# User interface configuration
+[params.ui]
+# Enable to show the side bar menu in its compact state.
+sidebar_menu_compact = false
+#  Set to true to disable breadcrumb navigation.
+breadcrumb_disable = false
+#  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
+sidebar_search_disable = false
+#  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
+navbar_logo = true
+# Set to true to disable the About link in the site footer
+footer_about_disable = false
+
+# Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
+# This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
+# If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
+# add "hide_feedback: true" to the page's front matter.
+[params.ui.feedback]
+enable = true
+# The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
+yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
+
+[params.links]
+[[params.links.media]]
+    name = "Github"
+    url = "https://github.com/apache/airflow/"
+    iconName = "github-white.svg"
+[[params.links.media]]
+    name = "Jira"
+    url = "https://jira.apache.org/jira/projects/AIRFLOW/"
+    iconName = "jira.svg"
+[[params.links.media]]
+    name = "Slack"
+    url = "https://apache-airflow.slack.com/"
+    iconName = "slack.svg"
+[[params.links.media]]
+    name = "Stack Overflow"
+    url = "https://stackoverflow.com/questions/tagged/airflow/"
+    iconName = "stackoverflow.svg"
+[[params.links.media]]
+    name = "Twitter"
+    url = "https://twitter.com/apacheairflow/"
+    iconName = "twitter-white.svg"
+[[params.links.media]]
+    name = "Youtube"
+    url = "https://www.youtube.com/channel/UCSXwxpWZQ7XZ1WL3wqevChA/"
+    iconName = "youtube.svg"
+
+[[params.links.policies]]
+    name = "License"
+    url = "https://www.apache.org/licenses/"
+[[params.links.policies]]
+    name = "Donate"
+    url = "https://www.apache.org/foundation/sponsorship.html"
+[[params.links.policies]]
+    name = "Thanks"
+    url = "https://www.apache.org/foundation/thanks.html"
+[[params.links.policies]]
+    name = "Security"
+    url = "https://www.apache.org/security/"
+[[params.links.policies]]
+    name = "Season of Docs"
+    url = "https://cwiki.apache.org/confluence/display/AIRFLOW/Season+of+Docs+2019/"
+[[params.links.policies]]
+    name = "Privacy notice"
+    url = "/privacy-notice/"
+
+[related]
+threshold = 50.0
+includeNewer = true
+toLower = false
+
+  [[related.indices]]
+  name = "keywords"
+  weight = 100.0
+
+  [[related.indices]]
+  name = "tags"
+  weight = 80.0
+
+  [[related.indices]]
+  name = "author"
+  weight = 50.0
+
+[permalinks]
+tags = "/blog/tags/:slug/"
+posts = "/:year/:month/:title/"
