@@ -29,7 +29,7 @@
                     <a class="mr-4" href="https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp" id="header-button">
                         <button id="button-cfp" class="btn btn-primary">Call For Papers</button>            
                     </a>
-                    <a href="https://ti.to/airflowsummit/airflow-summit-2020" id="header-button">
+                    <a href="#tickets" id="header-button">
                         <button id="button-cfp" class="btn btn-primary">Tickets</button>            
                     </a>
                 </div>
@@ -39,6 +39,7 @@
 {{ end }}
 
 {{ define "main" }}
+    <a name="tickets" class="ticket-anchor"></a>
     <div class="bg-white">
         <h4 class="page-header principles-header">Tickets</h4>
         <tito-widget event="airflowsummit/airflow-summit-2020"></tito-widget>
