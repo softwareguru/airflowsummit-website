@@ -7,7 +7,7 @@
   "author": "",
   "license": "MIT",
   "scripts": {
-    "build": "npm run build:webpack && npm run build:hugo",
+    "build": "npm run build:webpack && npm run build:hugo && mv dist docs",
     "build:hugo": "cross-env HUGO_ENV=production hugo -d ../dist -s site -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
     "build:preview": "npm run build:webpack && npm run build:hugo:preview",

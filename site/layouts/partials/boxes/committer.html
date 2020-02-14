@@ -21,8 +21,8 @@
 <div class="card">
     <div class="box-event">
         <img src="{{ $image }}" alt="Committer {{ .name }}" class="avatar"/>
-        <p class="box-event__committer--nick">@{{ .nick }}</p>
-        <p class="bodytext__medium--brownish-grey">{{ .name }}</p>
+        <p class="community-member-name">{{ .name }}</p>
+        <p class="bodytext__medium--brownish-grey">{{ .title }}</p>
         <div class="box-event__committer--social-media-container">
             {{ if .github }}
                 {{ $url := .github }}

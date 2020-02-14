@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/blog/tags/documentation/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/experience-in-google-season-of-docs-2019-with-apache-airflow/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/airflow-survey/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/community/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/announcing-new-website/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/survey/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/users/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/apache-con-europe-2019-thoughts-and-insights-by-airflow-committers/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/development/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/documenting-using-local-development-environments/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/its-a-breeze-to-develop-apache-airflow/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/adobe/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/coc/</loc>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/meetups/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/partners/onefootball/</loc>
+  </url>
+  
+  <url>
+    <loc>/partners/</loc>
+  </url>
+  
+  <url>
+    <loc>/privacy/</loc>
+  </url>
+  
+  <url>
+    <loc>/search/</loc>
+    <lastmod>2020-02-14T04:05:20-06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/speakers/</loc>
+  </url>
+  
+  <url>
+    <loc>/team/</loc>
+  </url>
+  
+</urlset>

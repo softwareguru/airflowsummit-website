@@ -1,0 +1,580 @@
+
+
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="generator" content="Hugo 0.64.0" />
+
+<META NAME="ROBOTS" CONTENT="INDEX, FOLLOW">
+
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/favicons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/favicons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/favicons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<title>It&#39;s a &#34;Breeze&#34; to develop Apache Airflow | Apache Airflow</title><meta property="og:title" content="It&#39;s a &#34;Breeze&#34; to develop Apache Airflow" />
+<meta property="og:description" content="A Principal Software Engineer&#39;s journey to developer productivity. Learn how Jarek and his team speeded up and simplified Airflow development for the community." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/its-a-breeze-to-develop-apache-airflow/" />
+<meta property="og:image" content="/images/feature-image.png"/>
+<meta property="article:published_time" content="2019-11-22T00:00:00+00:00" />
+<meta property="article:modified_time" content="2020-02-14T04:05:20-06:00" /><meta property="og:site_name" content="Apache Airflow" />
+<meta itemprop="name" content="It&#39;s a &#34;Breeze&#34; to develop Apache Airflow">
+<meta itemprop="description" content="A Principal Software Engineer&#39;s journey to developer productivity. Learn how Jarek and his team speeded up and simplified Airflow development for the community.">
+<meta itemprop="datePublished" content="2019-11-22T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2020-02-14T04:05:20-06:00" />
+<meta itemprop="wordCount" content="127">
+<meta itemprop="image" content="/images/feature-image.png"/>
+
+
+
+<meta itemprop="keywords" content="Development," /><meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="/images/feature-image.png"/>
+
+<meta name="twitter:title" content="It&#39;s a &#34;Breeze&#34; to develop Apache Airflow"/>
+<meta name="twitter:description" content="A Principal Software Engineer&#39;s journey to developer productivity. Learn how Jarek and his team speeded up and simplified Airflow development for the community."/>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-140539454-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+
+
+
+
+<link rel="preload" href="/scss/main.min.5a4aa62d650a0b271d283be474283f83ff8c32cad3ee14ba818cccbb8bd0ca3e.css" as="style">
+<link href="/scss/main.min.5a4aa62d650a0b271d283be474283f83ff8c32cad3ee14ba818cccbb8bd0ca3e.css" rel="stylesheet" integrity="">
+
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+
+
+<meta name="description" content="A Principal Software Engineer&#39;s journey to developer productivity. Learn how Jarek and his team speeded up and simplified Airflow development for the community." />
+
+
+
+    
+    <link rel="preload" href="/scss/main-custom.min.2dfeeaf2faad7cd5a585528f2e19209295676aabf7a039fb12ee89406486959c.css" as="style">
+    <link href="/scss/main-custom.min.2dfeeaf2faad7cd5a585528f2e19209295676aabf7a039fb12ee89406486959c.css" rel="stylesheet" integrity="">
+
+
+
+<link rel="preload" href="/main.69199.js" as="script">
+<link rel="preload" href="/chunk-1.69199.js" as="script">
+
+<link rel="preload" href="/chunk-4.69199.js" as="script">
+
+
+
+
+</head>
+<body class="td-page">
+<header>
+    
+
+
+<nav class="js-navbar-scroll navbar bg-dark">
+    <div class="navbar__icon-container">
+        <a href="/">
+        <img src="/images/logo-white.svg" height="40" class="d-inline-block align-top" alt="Airflow Summit 2020">            
+        </a>
+    </div>
+    <div class="desktop-only navbar__menu-container">
+        
+    <div class="navbar__menu-content" id="main_navbar">
+        
+        
+        <div class="navbar__links-container">
+            
+                
+                
+                    
+                
+                
+                
+                <a class="navbar__text-link "
+                       href="/about/"
+                    >
+                    About
+                </a>
+            
+                
+                
+                    
+                
+                
+                
+                <a class="navbar__text-link "
+                       href="/team/"
+                    >
+                    Team
+                </a>
+            
+                
+                
+                    
+                
+                
+                
+                <a class="navbar__text-link "
+                       href="/speakers/"
+                    >
+                    Speakers
+                </a>
+            
+        </div>
+        
+            
+            
+
+            <a href="https://eventbrite.com" target="_blank">
+              <button id="register-button-nav" class="btn btn-danger text-uppercase">Register</button>            
+            </a>
+        
+    </div>
+
+    </div>
+    <div class="no-desktop navbar__drawer-container">
+        <button class="navbar__toggle-button" id="navbar-toggle-button">
+            
+                <div id="hamburger-icon" class="navbar__toggle-button--icon visible">
+                    <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 26 20" style="enable-background:new 0 0 26 20;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g id="Group_1294" transform="translate(-38.791 291)">
+	<g id="Group_1291" transform="translate(39 -291)">
+		<path id="Rectangle_461" class="st0" d="M0.8,0h24c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-24c-0.6,0-1-0.4-1-1l0,0
+			C-0.2,0.4,0.2,0,0.8,0z"/>
+	</g>
+	<g id="Group_1292" transform="translate(39 -281.822)">
+		<path id="Rectangle_462" class="st0" d="M0.8-0.2h24c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-24c-0.6,0-1-0.4-1-1l0,0
+			C-0.2,0.3,0.2-0.2,0.8-0.2z"/>
+	</g>
+	<g id="Group_1293" transform="translate(39 -272.644)">
+		<path id="Rectangle_463" class="st0" d="M0.8-0.4h24c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-24c-0.6,0-1-0.4-1-1l0,0
+			C-0.2,0.1,0.2-0.4,0.8-0.4z"/>
+	</g>
+</g>
+</svg>
+
+                </div>
+            
+            
+                <div id="close-icon" class="navbar__toggle-button--icon">
+                    <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 19.8 19.8" style="enable-background:new 0 0 19.8 19.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<g id="Group_1574" transform="translate(-41.892 290.899)">
+	<g id="Group_1291" transform="rotate(-45 -308.114 -187.077)">
+		<path id="Rectangle_461" class="st0" d="M0.8,0h24c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-24c-0.6,0-1-0.4-1-1l0,0
+			C-0.2,0.4,0.2,0,0.8,0z"/>
+	</g>
+	<g id="Group_1292" transform="rotate(45 372.48 -93.011)">
+		<path id="Rectangle_462" class="st0" d="M0.8-0.2h24c0.6,0,1,0.4,1,1l0,0c0,0.6-0.4,1-1,1h-24c-0.6,0-1-0.4-1-1l0,0
+			C-0.2,0.3,0.2-0.2,0.8-0.2z"/>
+	</g>
+</g>
+</svg>
+
+                </div>
+            
+        </button>
+        <div class="navbar__drawer" id="navbar-drawer">
+    <div class="navbar__menu-content" id="main_navbar">
+        
+        
+        <div class="navbar__links-container">
+            
+                
+                
+                    
+                
+                
+                
+                <a class="navbar__text-link "
+                       href="/about/"
+                    >
+                    About
+                </a>
+            
+                
+                
+                    
+                
+                
+                
+                <a class="navbar__text-link "
+                       href="/team/"
+                    >
+                    Team
+                </a>
+            
+                
+                
+                    
+                
+                
+                
+                <a class="navbar__text-link "
+                       href="/speakers/"
+                    >
+                    Speakers
+                </a>
+            
+        </div>
+        
+            
+            
+
+            <a href="https://eventbrite.com" target="_blank">
+              <button id="register-button-nav" class="btn btn-danger text-uppercase">Register</button>            
+            </a>
+        
+    </div>
+</div>
+    </div>
+</nav>
+
+
+
+</header>
+<div class="container-fluid td-default">
+    <div class="base-layout">
+        <main role="main" class="td-main container">
+            
+    <div class="blogpost-content">
+        
+
+<div class="blogpost-content--header-wrapper">
+    <div class="blogpost-content__metadata--container">
+        <div class="tags-container">
+            
+                
+                    <a class="tag" href="/blog/tags/development/">Development</a>
+                
+            
+        </div>
+        <span class="bodytext__medium--brownish-grey">Fri, Nov 22, 2019</span>
+    </div>
+    <p class="blogpost-content__metadata--title">It&#39;s a &#34;Breeze&#34; to develop Apache Airflow</p>
+    <div class="blogpost-content__metadata--author">
+        <span class="blogpost-content__metadata--author">
+            Jarek Potiuk
+        </span>
+        
+            <a href="https://twitter.com/higrys/" class="blogpost-content__metadata--social-media-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="22" height="21" viewBox="0 0 22 21">
+    <g id="Group_1746" data-name="Group 1746" transform="translate(.076 -.055)">
+        <ellipse id="Ellipse_19" cx="11" cy="10.5" fill="#51504f" data-name="Ellipse 19" rx="11" ry="10.5"
+                 transform="translate(-.076 .055)"/>
+        <g id="Logo_FIXED" data-name="Logo — FIXED" transform="translate(5.568 5.872)">
+            <path id="Path_643"
+                  d="M-1554.714 1446.466a6.538 6.538 0 0 0 6.581-6.581v-.3a4.711 4.711 0 0 0 1.155-1.2 4.7 4.7 0 0 1-1.331.365 2.328 2.328 0 0 0 1.019-1.281 4.6 4.6 0 0 1-1.47.559 2.309 2.309 0 0 0-1.687-.73 2.316 2.316 0 0 0-2.314 2.314 2.555 2.555 0 0 0 .059.528 6.569 6.569 0 0 1-4.767-2.418 2.311 2.311 0 0 0-.311 1.164 2.319 2.319 0 0 0 1.028 1.926 2.34 2.34 0 0 1-1.047-.289v.031a2.318 2.318 0 0 0 1.854 2.269 2.257 2.257 0 0 1-.609.081 2.281 2.281 0 0 1-.433-.041 2.313 2.313 0 0 0 2.161 1.606 4.639 4.639 0 0 1-2.873.992 4.445 4.445 0 0 1-.55-.031 6.578 6.578 0 0 0 3.541 1.033"
+                  fill="#fff" data-name="Path 643" transform="translate(1558.255 -1437.301)"/>
+        </g>
+    </g>
+</svg>
+
+            </a>
+        
+        
+            <a href="https://github.com/potiuk/" class="blogpost-content__metadata--social-media-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="21.737" height="21.2" viewBox="0 0 21.737 21.2">
+    <path id="Path_1378" d="M33.971 1181.31a10.87 10.87 0 0 0-3.435 21.182c.543.1.742-.236.742-.524 0-.258-.009-.941-.015-1.848-3.023.657-3.661-1.457-3.661-1.457a2.876 2.876 0 0 0-1.207-1.59c-.987-.674.075-.661.075-.661a2.283 2.283 0 0 1 1.665 1.12 2.314 2.314 0 0 0 3.163.9 2.322 2.322 0 0 1 .69-1.453c-2.413-.274-4.951-1.207-4.951-5.371a4.2 4.2 0 0 1 1.119-2.917 3.908 3.908 0 0 1 .107-2.876s.913-.292 2.989 1.114a10.3 10.3 0 0 1 5.442 0c2.075-1.406 2.986-1.114 2.986-1.114a3.9 3.9 0 0 1 .108 2.876 4.2 4.2 0 0 1 1.117 2.917c0 4.175-2.541 5.094-4.962 5.363a2.6 2.6 0 0 1 .738 2.013c0 1.453-.013 2.625-.013 2.982 0 .291.2.629.747.523a10.87 10.87 0 0 0-3.443-21.18z" fill="#51504f" fill-rule="evenodd" data-name="Path 1378" transform="translate(-23.103 -1181.31)"/>
+</svg>
+
+            </a>
+        
+        
+            <a href="https://linkedin.com/in/jarekpotiuk/" class="blogpost-content__metadata--social-media-icon">
+                <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 21">
+    <g id="Group_1745" data-name="Group 1745" transform="translate(.155 -.055)">
+        <ellipse id="Ellipse_20" cx="10" cy="10.5" fill="#51504f" data-name="Ellipse 20" rx="10" ry="10.5" transform="translate(-.155 .055)"/>
+        <g id="Group_698" data-name="Group 698" transform="translate(5.843 5.004)">
+            <path id="Path_644" d="M-1311.072 1423.962a.9.9 0 0 1-.972.9.888.888 0 0 1-.937-.9.9.9 0 0 1 .961-.9.892.892 0 0 1 .948.9zm-1.862 7.413v-5.8h1.8v5.8z" fill="#fff" data-name="Path 644" transform="translate(1312.981 -1423.061)"/>
+            <path id="Path_645" d="M-1284.253 1448.767c0-.723-.024-1.328-.047-1.85h1.565l.083.806h.035a2.084 2.084 0 0 1 1.791-.937c1.186 0 2.076.795 2.076 2.5v3.428h-1.8v-3.214c0-.747-.261-1.257-.914-1.257a.989.989 0 0 0-.925.676 1.29 1.29 0 0 0-.06.451v3.345h-1.8z" fill="#fff" data-name="Path 645" transform="translate(1287.182 -1444.402)"/>
+        </g>
+    </g>
+</svg>
+
+            </a>
+        
+    </div>
+    <p class="blogpost-content__metadata--description">A Principal Software Engineer&#39;s journey to developer productivity. Learn how Jarek and his team speeded up and simplified Airflow development for the community.</p>
+</div>
+<div class="markdown-content">
+    <h2 id="the-story-behind-the-airflow-breeze-tool">The story behind the Airflow Breeze tool</h2>
+<p>Initially, we started contributing to this fantastic open-source project [Apache Airflow] with a team of three which then grew to five. When we kicked it off a year ago, I realized pretty soon where the biggest bottlenecks and areas for improvement in terms of productivity were. Even with the help of our client, who provided us with a “homegrown” development environment it took us literally days to set it up and learn some basics.</p>
+<p>That is how the journey to increased productivity in Apache Airflow began. The result? The Airflow Breeze open-source tool. Jarek Potiuk, an Airflow Committer, will tell you all about it.</p>
+<p>You can learn <a href="https://www.polidea.com/blog/its-a-breeze-to-develop-apache-airflow/?utm_source=ApacheAirflowBlog&amp;utm_medium=Npaid&amp;utm_campaign=Blog&amp;utm_term=Article&amp;utm_content=AAB_NOP_BLG_ART_AB_001">how and why it’s a &ldquo;Breeze&rdquo; to Develop Apache Airflow on Polidea blog</a>.</p>
+
+</div>
+
+        
+
+<div class="mt-5">
+    <p class="bodytext__medium--greyish-brown font-weight-500 mb-2">Share</p>
+    <div class="share-section--icons-wrapper">
+        <div class="share-section--icon"
+             onclick="window.open(`https://twitter.com/intent/tweet?url=${window.location.href}&original_referer=${window.location.origin}`,'targetWindow', `toolbar=no, location=no, status=no, menubar=no, directories=no, scrollbars=no, resizable=no, centerscreen=yes, chrome=yes, width=550, height=400, top=${window.outerHeight / 2 + (window.screenY || window.screenTop || 0) - 200} left=${window.outerWidth / 2 + (window.screenX || window.screenLeft || 0) - 275}`); return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="22" height="21" viewBox="0 0 22 21">
+    <g id="Group_1746" data-name="Group 1746" transform="translate(.076 -.055)">
+        <ellipse id="Ellipse_19" cx="11" cy="10.5" fill="#51504f" data-name="Ellipse 19" rx="11" ry="10.5"
+                 transform="translate(-.076 .055)"/>
+        <g id="Logo_FIXED" data-name="Logo — FIXED" transform="translate(5.568 5.872)">
+            <path id="Path_643"
+                  d="M-1554.714 1446.466a6.538 6.538 0 0 0 6.581-6.581v-.3a4.711 4.711 0 0 0 1.155-1.2 4.7 4.7 0 0 1-1.331.365 2.328 2.328 0 0 0 1.019-1.281 4.6 4.6 0 0 1-1.47.559 2.309 2.309 0 0 0-1.687-.73 2.316 2.316 0 0 0-2.314 2.314 2.555 2.555 0 0 0 .059.528 6.569 6.569 0 0 1-4.767-2.418 2.311 2.311 0 0 0-.311 1.164 2.319 2.319 0 0 0 1.028 1.926 2.34 2.34 0 0 1-1.047-.289v.031a2.318 2.318 0 0 0 1.854 2.269 2.257 2.257 0 0 1-.609.081 2.281 2.281 0 0 1-.433-.041 2.313 2.313 0 0 0 2.161 1.606 4.639 4.639 0 0 1-2.873.992 4.445 4.445 0 0 1-.55-.031 6.578 6.578 0 0 0 3.541 1.033"
+                  fill="#fff" data-name="Path 643" transform="translate(1558.255 -1437.301)"/>
+        </g>
+    </g>
+</svg>
+
+        </div>
+        <div class="share-section--icon"
+             onclick="window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${window.location.href}`,'targetWindow', `toolbar=no, location=no, status=no, menubar=no, directories=no, scrollbars=no, resizable=no, centerscreen=yes, chrome=yes, width=750, height=600, top=${window.outerHeight / 2 + (window.screenY || window.screenTop || 0) - 300} left=${window.outerWidth / 2 + (window.screenX || window.screenLeft || 0) - 375}`); return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 21">
+    <g id="Group_1745" data-name="Group 1745" transform="translate(.155 -.055)">
+        <ellipse id="Ellipse_20" cx="10" cy="10.5" fill="#51504f" data-name="Ellipse 20" rx="10" ry="10.5" transform="translate(-.155 .055)"/>
+        <g id="Group_698" data-name="Group 698" transform="translate(5.843 5.004)">
+            <path id="Path_644" d="M-1311.072 1423.962a.9.9 0 0 1-.972.9.888.888 0 0 1-.937-.9.9.9 0 0 1 .961-.9.892.892 0 0 1 .948.9zm-1.862 7.413v-5.8h1.8v5.8z" fill="#fff" data-name="Path 644" transform="translate(1312.981 -1423.061)"/>
+            <path id="Path_645" d="M-1284.253 1448.767c0-.723-.024-1.328-.047-1.85h1.565l.083.806h.035a2.084 2.084 0 0 1 1.791-.937c1.186 0 2.076.795 2.076 2.5v3.428h-1.8v-3.214c0-.747-.261-1.257-.914-1.257a.989.989 0 0 0-.925.676 1.29 1.29 0 0 0-.06.451v3.345h-1.8z" fill="#fff" data-name="Path 645" transform="translate(1287.182 -1444.402)"/>
+        </g>
+    </g>
+</svg>
+
+        </div>
+        <div class="share-section--icon"
+             onclick="window.open(`https://www.facebook.com/sharer/sharer.php?u=${window.location.href}`,'targetWindow', `toolbar=no, location=no, status=no, menubar=no, directories=no, scrollbars=no, resizable=no, centerscreen=yes, chrome=yes, width=550, height=400, top=${window.outerHeight / 2 + (window.screenY || window.screenTop || 0) - 200} left=${window.outerWidth / 2 + (window.screenX || window.screenLeft || 0) - 275}`); return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" width="21.332" height="21.2" viewBox="0 0 21.332 21.2">
+    <g id="Group_1748" data-name="Group 1748" transform="translate(-1654.242 -1377.267)">
+        <path id="Path_1379" d="M1766.91 1472.142v-.022h-2.955v.022z" fill="none" data-name="Path 1379" transform="translate(-97.392 -84.198)"/>
+        <path id="Path_1380" d="M1712.911 1420.842v-2.351c0-2.669 1.582-4.152 4.02-4.152a15.28 15.28 0 0 1 2.362.218v-.009a15.3 15.3 0 0 0-2.373-.22c-2.439 0-4.02 1.483-4.02 4.152v2.351h-2.724v3.076h.011v-3.065z" fill="none" data-name="Path 1380" transform="translate(-49.651 -32.898)"/>
+        <path id="Path_1381" d="M1675.574 1387.933a10.666 10.666 0 1 0-12.325 10.534v-7.448h-2.713v-.011h-.011v-3.076h2.724v-2.351c0-2.669 1.582-4.152 4.02-4.152a15.307 15.307 0 0 1 2.373.22v.009h.011v2.615h-1.34a1.553 1.553 0 0 0-1.747 1.67v1.977h2.955v.022h.014l-.472 3.076h-2.483v7.433a10.635 10.635 0 0 0 8.994-10.518z" fill="#51504f" data-name="Path 1381"/>
+        <path id="Rectangle_882" d="M0 0h2.713v.011H0z" fill="#51504f" data-name="Rectangle 882" transform="translate(1660.536 1391.009)"/>
+        <path id="Path_1382" d="M1765.607 1418.958a1.553 1.553 0 0 0-1.747 1.67v2h.011v-1.977a1.553 1.553 0 0 1 1.747-1.67h1.34v-2.614h-.011v2.594z" fill="#51504f" data-name="Path 1382" transform="translate(-97.305 -34.705)"/>
+        <path id="Path_1383" d="M1766.365 1475.391l.472-3.076h-.014l-.469 3.054h-2.494v7.459h.022v-7.433z" fill="#51504f" data-name="Path 1383" transform="translate(-97.305 -84.371)"/>
+    </g>
+</svg>
+
+        </div>
+    </div>
+</div>
+
+        <div class="no-width-restriction no-desktop">
+            
+
+<div class="pager">
+    <a >
+        
+
+<button class="btn-hollow btn-blue bodytext__medium--cerulean-blue" disabled>Previous</button>
+
+    </a>
+    <a href="/blog/documenting-using-local-development-environments/">
+        
+
+<button class="btn-hollow btn-blue bodytext__medium--cerulean-blue" >Next</button>
+
+    </a>
+</div>
+
+        </div>
+    </div>
+
+    <div class="no-width-restriction desktop-only">
+        
+
+
+
+    <div class="blog-pager">
+        <h5 class="header__xsmall--greyish-brown">Read also</h5>
+        <div class="pager">
+            <div class="list-items">
+                
+                    <div class="list-item list-item--wide">
+                        
+
+<div class="card">
+    <div class="box-event__blogpost">
+        <div class="box-event__blogpost--metadata">
+            <div class="tags-container">
+                
+                    
+                        <a class="tag" href="/blog/tags/development/">Development</a>
+                    
+                
+            </div>
+            <span class="bodytext__medium--brownish-grey box-event__blogpost--date">Fri, Nov 22, 2019</span>
+        </div>
+        <p class="box-event__blogpost--header">Documenting using local development environment</p>
+        <p class="box-event__blogpost--author">Elena Fedotova</p>
+        <p class="box-event__blogpost--description">The story behind documenting local development environment of Apache Airflow</p>
+        <div class="mt-auto">
+            <a href="/blog/documenting-using-local-development-environments/">
+                
+
+<button class="btn-hollow btn-blue bodytext__medium--cerulean-blue" >Read more</button>
+
+            </a>
+        </div>
+    </div>
+</div>
+
+                    </div>
+                
+            </div>
+        </div>
+    </div>
+
+
+    </div>
+
+        </main>
+        
+
+<div class="base-layout--button">
+    
+    <a href=https://github.com/apache/airflow-site/edit/master/landing-pages/site/content/en/blog/Its-a-breeze-to-develop-apache-airflow.md>
+        
+
+
+<button class="btn-hollow btn-brown btn-with-icon with-box-shadow button-fixed">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30.76" height="30">
+    <path d="M15.379 0a15.381 15.381 0 00-4.86 29.974c.769.141 1.05-.334 1.05-.741 0-.365-.013-1.332-.021-2.616-4.278.929-5.181-2.062-5.181-2.062a4.071 4.071 0 00-1.708-2.25c-1.4-.954.106-.935.106-.935a3.231 3.231 0 012.356 1.585 3.274 3.274 0 004.476 1.278 3.287 3.287 0 01.976-2.056c-3.415-.388-7.005-1.707-7.005-7.6a5.947 5.947 0 011.583-4.127 5.53 5.53 0 01.151-4.07s1.291-.413 4.229 1.577a14.577 14.577 0 017.7 0c2.936-1.99 4.225-1.577 4.225-1.577a5.523 5.523 0 01.153 4.07 5.937 5.937 0 011.581 4.127c0 5.909-3.6 7.209-7.022 7.589a3.672 3.672 0 011.044 2.848c0 2.056-.019 3.715-.019 4.219 0 .411.277.89 1.057.74A15.382 15.382 0 0015.378.001z"
+          data-name="Path 224" fill="#51504f" fill-rule="evenodd"/>
+</svg>
+
+    <span class="bodytext__medium--brownish-grey">Suggest a change on this page</span>
+</button>
+
+    </a>
+</div>
+
+    </div>
+</div>
+
+
+
+<footer>
+    <div class="container-fluid bg-secondary">
+        <div class="container py-5">
+            <div class="d-flex justify-content-between">
+                <div class="col-md-6">
+                    <div class="mb-3"> <img src="/images/logo.svg" class="img-fluid w-50" alt="Logo Subtext"></div>
+                    
+                        
+                            
+                                <a class="footer-section__media-section--link" target="_blank" href="https://twitter.com/airflowsummit/">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="44.355" height="44.355" viewBox="0 0 44.355 44.355">
+    <g id="Group_211" data-name="Group 211" transform="translate(-503 -1382.2)">
+        <path id="Path_221" d="M541.811 1382.2h-33.267a5.546 5.546 0 0 0-5.544 5.544v33.266a5.547 5.547 0 0 0 5.544 5.545h33.267a5.546 5.546 0 0 0 5.544-5.545v-33.266a5.546 5.546 0 0 0-5.544-5.544zm-5.611 16.533c.011.244.011.488.011.732 0 7.507-5.722 16.178-16.179 16.178a16.173 16.173 0 0 1-8.7-2.539 10.92 10.92 0 0 0 1.353.078 11.4 11.4 0 0 0 7.064-2.44 5.685 5.685 0 0 1-5.311-3.947 5.725 5.725 0 0 0 2.561-.1 5.7 5.7 0 0 1-4.557-5.578v-.078a5.752 5.752 0 0 0 2.572.71 5.709 5.709 0 0 1-1.763-7.6 16.146 16.146 0 0 0 11.721 5.944 6.282 6.282 0 0 1-.144-1.3 5.688 5.688 0 0 1 9.836-3.892 11.3 11.3 0 0 0 3.615-1.375 5.721 5.721 0 0 1-2.506 3.149 11.538 11.538 0 0 0 3.271-.9 11.585 11.585 0 0 1-2.844 2.958z" fill="#fff" data-name="Path 221"/>
+    </g>
+</svg>
+
+                                </a>
+                            
+                                <a class="footer-section__media-section--link" target="_blank" href="mailto:info@airflowsummit.org">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="49.594" height="34.941" viewBox="0 0 49.594 34.941">
+    <path id="Path_223" d="M1124.557 1230a6.232 6.232 0 0 0-4.385-4.413c-3.867-1.043-19.376-1.043-19.376-1.043s-15.508 0-19.376 1.043a6.232 6.232 0 0 0-4.385 4.413c-1.036 3.893-1.036 12.014-1.036 12.014s0 8.122 1.036 12.015a6.232 6.232 0 0 0 4.385 4.413c3.867 1.043 19.376 1.043 19.376 1.043s15.509 0 19.376-1.043a6.232 6.232 0 0 0 4.385-4.413c1.036-3.893 1.036-12.015 1.036-12.015s.001-8.123-1.036-12.014zm-28.833 19.388v-14.748l12.962 7.374z" fill="#fff" data-name="Path 223" transform="translate(-1076 -1224.542)"/>
+</svg>
+
+                                </a>
+                            
+                        
+                    
+                </div>    
+                <div class="col-md-6 text-right">
+                    <div class="footer-links">
+                    
+                        
+                        <ul>
+                            
+                            <li><a href="/coc" >
+                                Code of Conduct
+                            </a></li>
+                            
+                            <li><a href="/privacy" >
+                                Privacy Policy
+                            </a></li>
+                            
+                            <li><a href="/docs/AirflowSummit_SP.pdf" target="_blank">
+                                Prospectus
+                            </a></li>
+                            
+                            <li><a href="https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp" target="_blank">
+                                Call for papers
+                            </a></li>
+                            
+                        </ul>    
+                        
+                    
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </div>
+    <div class="footer-section footer-section__policies-section bg-dark">
+    <div class="container my-0">
+        <span class="footer-section__policies-section--disclaimer">
+            Apache Airflow, Apache, Airflow, the Airflow logo, and the Apache feather logo are either registered trademarks or trademarks of The Apache Software Foundation.
+            All other products or name brands are trademarks of their respective holders, including The Apache Software Foundation.
+        </span>
+    </div>    
+    </div>
+</footer>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+
+
+
+
+
+
+<script src="/js/main.min.29b0315468c00226fa6f4556a9cebc0ac4fe1ce1457a01b22c0a06b329877383.js" integrity="sha256-KbAxVGjAAib6b0VWqc68CsT&#43;HOFFegGyLAoGsymHc4M=" crossorigin="anonymous"></script>
+
+
+
+</body>
+
+
+    <script src="/main.69199.js"></script>
+
+</html>

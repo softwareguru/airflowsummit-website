@@ -21,6 +21,8 @@
 <html lang="{{ .Site.Language.Lang }}" class="no-js">
 <head>
     {{ partial "head.html" . }}
+  <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+  <script src='https://js.tito.io/v1' async></script>
 </head>
 <body class="td-{{ .Kind }}">
 <header>
@@ -29,12 +31,10 @@
 <div class="container-fluid td-default">
     {{ block "animation-header" . }}{{ end }}
     <div class="home-page-layout base-layout">
-        <main role="main" class="td-main container">
             {{ block "main" . }}{{ end }}
-        </main>
-        {{ partial "suggest-change" . }}
     </div>
 </div>
+
 {{ partialCached "footer.html" . }}
 {{ partialCached "scripts.html" . }}
 </body>

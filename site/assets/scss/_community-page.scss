@@ -24,6 +24,13 @@
   text-decoration: underline;
 }
 
+.community-member-name {
+  font-weight:500;
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  margin-top: 12px;
+}
+
 .community {
   &--header-container {
     max-width: 936px;

@@ -19,46 +19,45 @@
 
 {{ $links := .Site.Params.links }}
 <footer>
-    <div class="footer-section footer-section__media-section">
-        <div class="d-flex align-items-center">
-            {{ with $links }}
-                {{ with index . "media"}}
-                    {{ range . }}
-                        <a class="footer-section__media-section--link" target="_blank" href="{{ .url }}">
-                            {{ with resources.Get (print "icons/" .iconName) }}{{ .Content | safeHTML }}{{ end }}
-                        </a>
-                    {{ end }}
-                {{ end }}
-            {{ end }}
-        </div>
-        <div class="footer-section__media-section--button-with-text">
-            <span class="footer-section__media-section--text">Want to be a part of Apache Airflow?</span>
-            <a href="/community/">
-                {{ partial "buttons/button-filled" (dict "text" "Join community") }}
-            </a>
-        </div>
-    </div>
-    <div class="footer-section footer-section__policies-section">
-        <div class="footer-section">
-            {{ with .Site.Params.copyright }}<span>&copy; {{ . }} {{ now.Format "2006" }}</span>{{ end }}
-            <div class="footer-section__policies-section--policies">
-                {{ with $links }}
-                    {{ with index . "policies"}}
-                        {{ range . }}
-                            <a href="{{ .url }}" class="footer-section__policies-section--policy-item">
-                                <span>{{ .name }}</span>
-                            </a>
+    <div class="container-fluid bg-secondary">
+        <div class="container py-5">
+            <div class="d-flex justify-content-between">
+                <div class="col-md-6">
+                    <div class="mb-3"> <img src="/images/logo.svg" class="img-fluid w-50" alt="Logo Subtext"></div>
+                    {{ with $links }}
+                        {{ with index . "media"}}
+                            {{ range . }}
+                                <a class="footer-section__media-section--link" target="_blank" href="{{ .url }}">
+                                    {{ with resources.Get (print "icons/" .iconName) }}{{ .Content | safeHTML }}{{ end }}
+                                </a>
+                            {{ end }}
                         {{ end }}
                     {{ end }}
-                {{ end }}
-                <div class="footer-section__policies-section--language-toggle">
-                    {{ partial "lang-selector" . }}
+                </div>    
+                <div class="col-md-6 text-right">
+                    <div class="footer-links">
+                    {{ with $links }}
+                        {{ with index . "footer"}}
+                        <ul>
+                            {{ range . }}
+                            <li><a href="{{ .url }}" {{ with .target }}target="{{ . }}"{{ end }}>
+                                {{ .name }}
+                            </a></li>
+                            {{ end }}
+                        </ul>    
+                        {{ end }}
+                    {{ end }}
+                    </div>
                 </div>
             </div>
-        </div>
+        </div>    
+    </div>
+    <div class="footer-section footer-section__policies-section bg-dark">
+    <div class="container my-0">
         <span class="footer-section__policies-section--disclaimer">
             Apache Airflow, Apache, Airflow, the Airflow logo, and the Apache feather logo are either registered trademarks or trademarks of The Apache Software Foundation.
             All other products or name brands are trademarks of their respective holders, including The Apache Software Foundation.
         </span>
+    </div>    
     </div>
 </footer>

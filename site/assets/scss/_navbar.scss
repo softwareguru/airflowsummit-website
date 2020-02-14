@@ -23,11 +23,10 @@
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: white;
   justify-content: flex-start;
   border-bottom: solid 1px map-get($colors, very-light-pink);
   z-index: 32;
-  padding: 30px 60px;
+  padding: 20px 60px;
 
   &__menu-container {
     flex-grow: 1;
@@ -46,7 +45,7 @@
   }
 
   &__text-link {
-    @extend .bodytext__medium--greyish-brown;
+    color: #ffffff;
     margin-right: 30px;
     position: relative;
     width: fit-content;
@@ -63,7 +62,7 @@
     }
 
     &:hover, &.active {
-      color: map-get($colors, greyish-brown);
+      color: #ffffff;
       &::before, &::after {
         width: 100%;
         left: 0;
@@ -144,9 +143,12 @@
     }
 
     &__text-link {
-      margin-right: 0;
-      margin-bottom: 10px;
+      color: map-get($colors, greyish-brown);
 
+      &:hover, &.active {
+        color: map-get($colors, greyish-brown);
+      }
+  
       &:last-child {
         margin-bottom: 20px;
       }

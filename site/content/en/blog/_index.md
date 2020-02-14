@@ -1,7 +1,7 @@
 ---
-title: "Blog"
-linkTitle: "Blog"
-menu:
-  main:
-    weight: 25
+title: "News"
+linkTitle: "News"
+# menu:
+#  main:
+#    weight: 25
 ---
