@@ -18,17 +18,23 @@
 */}}
 
 {{ define "main" }}
-    <div class="about--headers-wrapper">
+    <div class="page--headers-wrapper">
         <h2 class="page-header">{{ .Title }}</h2>
-        <h5 class="page-subtitle">
-        {{ with .Subtitle }}
+        {{ with .Params.subtitle }}
+          <h5 class="page-subtitle">
             {{ . | markdownify }}
-        {{ end }}
-        </h5>
-    </div>
-    <div class="no-width-restriction">
-        {{ with .Content }}
-            {{ . }}
+          </h5>
         {{ end }}
     </div>
+    {{ range .Params.images }}
+    <div class="mx-auto text-center">
+      <img class="img-fluid mb-3" src="/{{ . }}" />
+    </div>
+    {{ end }}    
+    {{ with .Content }}
+    <div class="rst-content">
+        {{ . }}
+    </div>
+    {{ end }}
+
 {{ end }}

@@ -20,10 +20,22 @@
 {{ define "main" }}
     <div class="page--headers-wrapper">
         <h2 class="page-header">{{ .Title }}</h2>
-        {{ with .Content }}
-        <div class="rst-content">
-          {{ . }}
-        </div>
+        <h5 class="page-subtitle">
+        {{ with .Params.subtitle }}
+            {{ . | markdownify }}
         {{ end }}
-    </div>
+        </h5>
+    </div>   
+    {{ range .Params.images }}
+        <div class="mx-auto text-center">
+            <img class="img-fluid mb-3" src="/{{ . }}" />
+        </div>
+    {{ end }}    
+
+    {{ with .Content }}
+        <div class="rst-content">
+            {{ . }}
+        </div>
+    {{ end }}
+
 {{ end }}

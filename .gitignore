@@ -3,3 +3,5 @@ dist/
 site/data/webpack.json
 resources/
 site/static/_gen/
+.firebase
+

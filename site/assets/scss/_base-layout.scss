@@ -79,7 +79,7 @@
 
   @media (max-width: $tablet) {
     & > * {
-      max-width: 630px;
+//      max-width: 630px;
       margin-left: auto;
       margin-right: auto;
     }
@@ -90,10 +90,10 @@
 
 }
 
-.container-fluid {
-  padding-left: 20px;
-  padding-right: 20px;
-}
+// .container-fluid {
+//  padding-left: 20px;
+//  padding-right: 20px;
+// }
 
 .show-more-button {
   width: fit-content;

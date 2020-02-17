@@ -18,16 +18,21 @@ under the License.
 */}}
 
 {{ define "main" }}
-<div class="community--header-container">
-    <h2 class="page-header">{{ .Title }}</h2>
-    <h5 class="page-subtitle">
-        We will soon publish our first round of confirmed speakers. 
-    </h5>
+    <div class="community--header-container">
+        <h2 class="page-header">{{ .Title }}</h2>
+        <h5 class="page-subtitle">
+            We will soon publish our first round of confirmed speakers. 
+        </h5>
+    </div>
+    {{ range .Params.images }}
+        <div class="mx-auto text-center">
+        <img class="img-fluid mb-3" src="/{{ . }}" />
+        </div>
+    {{ end }}    
 
     {{ with .Content }}
     <div class="no-width-restriction">
         {{ . }}
     </div>
     {{ end }}
-</div>
 {{ end }}

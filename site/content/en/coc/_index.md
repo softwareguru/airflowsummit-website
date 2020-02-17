@@ -1,6 +1,10 @@
 ---
 title: "Code of Conduct"
 linkTitle: "Code of Conduct"
+
+images:
+ - images/coc.jpg
+
 ---
 
 Airflow Summit is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or expelled without a refund, at the discretion of the event organizers.

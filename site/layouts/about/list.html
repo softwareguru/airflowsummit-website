@@ -25,11 +25,17 @@
             {{ . | markdownify }}
         {{ end }}
         </h5>
-        {{ with .Content }}
+    </div>   
+    {{ range .Params.images }}
+        <div class="mx-auto text-center">
+            <img class="img-fluid mb-3" src="/{{ . }}" />
+        </div>
+    {{ end }}    
+
+    {{ with .Content }}
         <div class="rst-content">
             {{ . }}
         </div>
-        {{ end }}
-    </div>
+    {{ end }}
 
 {{ end }}

@@ -48,8 +48,14 @@
   {
     "name": "Siddharth Anand",
     "github": "https://github.com/r39132",
-    "image": "https://github.com/r39132.png",
-    "nick": "sanand"
+    "image": "https://github.com/r39132.png"
+  },
+  {
+    "name": "Maxime Beauchemin",
+    "title": "CEO at Preset & PMC on Airflow, Superset and Druid",
+    "linkedin": "https://www.linkedin.com/in/maximebeauchemin/",
+    "github": "https://github.com/mistercrunch",
+    "image": "/images/team/maxime.jpg"
   }
 
 ]

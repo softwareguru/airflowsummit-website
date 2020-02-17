@@ -15,7 +15,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-baseURL = "https://airflow-summit.firebaseapp.com/"
+baseURL = "https://airflowsummit.org/"
 title = "Airflow Summit 2020"
 enableRobotsTXT = true
 
@@ -51,8 +51,7 @@ anchor = "smart"
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-# id = "UA-140539454-1"
-# This is injected by Firebase on deploy.
+id = "UA-158553455-1"
 
 # Language configuration
 
