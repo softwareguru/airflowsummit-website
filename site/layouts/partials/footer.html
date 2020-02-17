@@ -22,15 +22,19 @@
     <div class="container-fluid bg-secondary">
         <div class="container py-5">
             <div class="d-flex justify-content-between">
-                <div class="col-md-6">
-                    <div class="mb-3"> <img src="/images/logo.svg" class="img-fluid w-50" alt="Logo Subtext"></div>
+                <div class="col-6 col-md-4 col-lg-3">
+                    <div class="mb-3"> <img src="/images/logo.svg" class="img-fluid" alt="Airflow Summit 2020"></div>
                     {{ with $links }}
                         {{ with index . "media"}}
+                            <ul class="list-inline mb-0">
                             {{ range . }}
-                                <a class="footer-section__media-section--link" target="_blank" href="{{ .url }}">
-                                    {{ with resources.Get (print "icons/" .iconName) }}{{ .Content | safeHTML }}{{ end }}
+                            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title aria-label="{{ .name }}" data-original-title="{{ .name }}">
+                                <a class="text-white" target="_blank" href="{{ .url }}">
+                                  <i class="{{ .icon }}"></i>
                                 </a>
+                            </li>    
                             {{ end }}
+                            </ul>
                         {{ end }}
                     {{ end }}
                 </div>    

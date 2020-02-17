@@ -15,8 +15,8 @@
 # specific language governing permissions and limitations
 # under the License.
 
-baseURL = "/"
-title = "Apache Airflow"
+baseURL = "https://airflow-summit.firebaseapp.com/"
+title = "Airflow Summit 2020"
 enableRobotsTXT = true
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
@@ -51,14 +51,15 @@ anchor = "smart"
 [services]
 [services.googleAnalytics]
 # Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-140539454-1"
+# id = "UA-140539454-1"
+# This is injected by Firebase on deploy.
 
 # Language configuration
 
 [languages]
 [languages.en]
-title = "Apache Airflow"
-description = "Platform created by community to programmatically author, schedule and monitor workflows."
+title = "Airflow Summit 2020"
+description = "Airflow summit is the first conference for the worldwide community of developers and users of Apache Airflow."
 languageName ="English"
 # Weight used for sorting.
 weight = 1
@@ -66,23 +67,18 @@ weight = 1
 # Everything below this are Site Params
 
 [params]
-copyright = "The Apache Software Foundation"
-privacy_policy = "https://policies.google.com/privacy"
+privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/feature-image.png"]
-
-# Menu title if your navbar has a versions selector to access old versions of your site.
-# This menu appears only if you have at least one [params.versions] set.
-version_menu = "Releases"
+images = ["images/airflowsummit-card.png"]
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/apache/airflow-site"
+github_repo = "https://github.com/softwareguru/airflowsummit-website"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
 github_project_repo = "https://github.com/apache/airflow"
 
 # Specify a value here if your content directory is not in your repo's root directory
-# github_subdir = ""
+github_subdir = "dist"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
 #gcs_engine_id = "011737558837375720776:fsdu1nryfng"
@@ -92,33 +88,26 @@ github_project_repo = "https://github.com/apache/airflow"
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
 #  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = false
+breadcrumb_disable = true
 #  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 #  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
 navbar_logo = true
-# Set to true to disable the About link in the site footer
-footer_about_disable = false
 
-# Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
-# This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.
-# If you want this feature, but occasionally need to remove the "Feedback" section from a single page,
-# add "hide_feedback: true" to the page's front matter.
-[params.ui.feedback]
-enable = true
-# The responses that the user sees after clicking "yes" (the page was helpful) or "no" (the page was not helpful).
-yes = 'Glad to hear it! Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
-no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY/issues/new">tell us how we can improve</a>.'
 
 [params.links]
 [[params.links.media]]
-    name = "Twitter"
-    url = "https://twitter.com/airflowsummit/"
-    iconName = "twitter-white.svg"
-[[params.links.media]]
-    name = "Email"
+    name = "Email us"
     url = "mailto:info@airflowsummit.org"
-    iconName = "youtube.svg"
+    icon = "fa fa-envelope"
+[[params.links.media]]
+    name = "Follow us on Twitter"
+    url = "https://twitter.com/airflowsummit/"
+    icon = "fab fa-twitter"
+[[params.links.media]]
+    name = "Check us on LinkedIn"
+    url = "https://www.linkedin.com/company/airflow-summit"
+    icon = "fab fa-linkedin-in"
 
 [[params.links.footer]]
     name = "Code of Conduct"
