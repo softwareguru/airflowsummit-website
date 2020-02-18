@@ -7,8 +7,9 @@ menu:
 
 subtitle: "Airflow Summit 2020 is the first large scale conference for the worldwide community of developers and users of Apache Airflow."
 
-images:
- - images/about.jpg
+# Seeking permission
+# images:
+# - images/about.jpg
 
 ---
 
@@ -22,10 +23,5 @@ Prior to the conference, 3rd of June (Wednesday) will be dedicated to workshops 
 
 Also there will be workshops for Airflow Users and Airflow Contributors. Check the CFP link for details.
 
-This is a community driven event, so we would like to share the thoughts of some of the organizers:
-
-Jarek Potiuk, Apache Airflow Committer and PMC member: *"I am looking forward to the event, it’s a great opportunity to meet fellow community members and be able to learn from them how they use Airflow and to be able to enthuse others with my passion for it. I am also looking forward for more opportunities to turn some of our community members into contributors!"*
-
-Fokko Driesprong, Apache Airflow Committer and PMC member: *"After being more than 3 years involved in the Airflow community, I’m still amazed by the continuous growth and adoption of Airflow. While organizing and attending many Airflow meetups, having an Airflow summit is a great next milestone. The summit is an excellent opportunity to share experiences and see the faces behind the Github handles!"*
 
 
