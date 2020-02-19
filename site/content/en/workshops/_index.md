@@ -3,11 +3,11 @@ title: "Workshops"
 linkTitle: "Workshops"
 menu:
     main:
-        weight: 25
+        weight: 3
 
 
 images:
- - images/workshops.jpg
+ - images/workshops2.jpg
 
 ---
 

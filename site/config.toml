@@ -69,7 +69,7 @@ weight = 1
 privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/airflowsummit-card.png"]
+images = ["images/afsummit-card.png"]
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/softwareguru/airflowsummit-website"
