@@ -28,12 +28,10 @@
 <header>
     {{ partial "navbar.html" . }}
 </header>
-<div class="container-fluid td-default">
     {{ block "animation-header" . }}{{ end }}
     <div class="home-page-layout base-layout">
             {{ block "main" . }}{{ end }}
     </div>
-</div>
 
 {{ partialCached "footer.html" . }}
 {{ partialCached "scripts.html" . }}

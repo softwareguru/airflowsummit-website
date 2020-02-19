@@ -53,3 +53,42 @@ a.ticket-anchor { display: block; position: relative; top: -100px; visibility: h
 #header-lead {
   font-family: 'Roboto Mono', Roboto, sans-serif !important;
 }
+
+#at-a-glance {
+  background-color: #e6e6e6;
+  padding: 20px 0 40px 0;
+}
+
+.statistics-block {
+  width: 100%;
+  display: grid;
+  grid-gap: 32px 16px;
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.numbers {
+  font-size: 40px;
+}
+
+.numbers::after {
+  content: "";
+  display: block;
+  height: 2px;
+  width: 64px;
+  background-color: map-get($colors, cerulean-blue);
+}
+
+@media (min-width: 640px) {
+  .content {
+    grid-gap: 64px;
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  }
+
+  .statistics-block {
+    grid-gap: 32px;
+  }
+
+  .numbers {
+    font-size: 56px;
+  }
+}
