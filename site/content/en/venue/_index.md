@@ -13,8 +13,8 @@ images:
 ---
 
 ## Workshops (June 3rd)
-Googleplex in Mountain View, CA  
-(building and rooms yet to be confirmed)
+Google MTV offices, Building LMK2  
+1883 Landings Dr. Mountain View, CA 94043
 
 ## Conference (June 4-5th) 
 [Computer History Museum](https://computerhistory.org/)  

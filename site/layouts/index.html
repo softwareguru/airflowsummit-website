@@ -39,7 +39,6 @@
 {{ end }}
 
 {{ define "main" }}
-
 <div id="at-a-glance" class="container-fluid">
     <div class="container d-flex justify-content-between nopadding">
 
@@ -79,5 +78,27 @@
         <h4 class="page-header principles-header">Tickets</h4>
         <tito-widget event="airflowsummit/airflow-summit-2020"></tito-widget>
     </div>
+
+<section id="partners" class="container bg-white">
+    <h2>Partners</h2>
+
+    <h4>Platinum</h4>
+    <div class="partner-list platinum">
+    {{range where .Site.RegularPages "Section" "partners"}}    
+        {{ if eq .Params.level "platinum" }}
+            <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+        {{ end }}
+    {{ end }}
+    </div>
+
+    <h4>Silver</h4>
+    <div class="partner-list silver">
+    {{range where .Site.RegularPages "Section" "partners"}}    
+        {{ if eq .Params.level "silver" }}
+            <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+        {{ end }}
+    {{ end }}
+    </div>
     
+</section>
 {{ end }}    

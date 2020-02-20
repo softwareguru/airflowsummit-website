@@ -1,0 +1,39 @@
+.partner-list {
+    display: grid;
+    grid-gap: 20px 30px;
+  }
+  
+  .partner-list.platinum {
+    grid-template-columns: repeat(1, 1fr);
+  
+  }
+  
+  .partner-list.silver {
+    grid-template-columns: repeat(3, 1fr);
+  }
+  
+  #partners img {
+    width: 100%;
+  } 
+  
+  @media (min-width: 640px) {
+    .partner-list.platinum {
+      grid-template-columns: repeat(3, 1fr);
+    
+    }
+    
+    .partner-list.silver {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  
+  @media (min-width: 960px) {
+    .partner-list.platinum {
+      grid-template-columns: repeat(4, 1fr);  
+    }
+      
+    .partner-list.silver {
+      grid-template-columns: repeat(6, 1fr);
+    }  
+  }
+  

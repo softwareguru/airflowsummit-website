@@ -18,17 +18,30 @@
 */}}
 
 {{ define "main" }}
-    <div>
-        <h2 class="page-header">{{ .Title }}</h2>
-        <h5 class="page-subtitle">
-            Airflow Summit is possible thanks to these amazing organizations.
-        </h5>
-        <div id="case-studies-container" class="list-items">
-            {{ range .Pages }}
-                <a href="{{ .RelPermalink }}" class="list-item">
-                    {{ partial "boxes/case-study" .Params }}
-                </a>
+    <h2 class="page-header">{{ .Title }}</h2>
+    <h5 class="page-subtitle">
+    Please consider sponsoring Airflow Summit. Check out our <a href="/docs/AirflowSummit_SP.pdf" target="_blank">Prospectus</a>.</h5>
+
+<h5 class="page-subtitle mb-2 text-left">These amazing organizations have already joined.</p>
+
+    <div id="partners">
+        <h4>Platinum</h4>
+        <div class="partner-list platinum">
+        {{range .Pages}} 
+            {{ if eq .Params.level "platinum" }}
+                <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
             {{ end }}
+        {{ end }}
+        </div>
+
+        <h4>Silver</h4>
+        <div class="partner-list silver">
+        {{range where .Site.RegularPages "Section" "partners"}}    
+            {{ if eq .Params.level "silver" }}
+                <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+            {{ end }}
+        {{ end }}
         </div>
     </div>
+
 {{ end }}

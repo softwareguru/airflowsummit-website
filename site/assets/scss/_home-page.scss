@@ -84,11 +84,8 @@ a.ticket-anchor { display: block; position: relative; top: -100px; visibility: h
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   }
 
-  .statistics-block {
-    grid-gap: 32px;
-  }
-
   .numbers {
     font-size: 56px;
   }
 }
+
