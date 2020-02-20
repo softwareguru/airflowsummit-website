@@ -15,15 +15,15 @@ On June 3rd, we will have the following preconference workshops:
 
 ---
 
-### Airflow Contributor Workshop: Beginner
-*Instructors: [Jarek Potiuk](https://github.com/potiuk), Apache Airflow Committer & PMC member. [Tomasz Urbaszek](https://github.com/nuclearpinguin), Apache Airflow Committer *
+### Airflow Contributor Workshop: Beginner  
+*Instructors: [Jarek Potiuk](https://github.com/potiuk), Apache Airflow Committer & PMC member. [Tomasz Urbaszek](https://github.com/nuclearpinguin), Apache Airflow Committer.*
 
 By attending this workshop, you will learn how you can become a contributor to the Apache Airflow project. You will learn how to setup a development environment, how to pick your first issue, how to communicate effectively within the community and how to make your first PR - experienced committers of Apache Airflow project will give you step-by-step instructions and will guide you in the process. When you finish the workshop you will be equipped with everything that is needed to make further contributions to the Apache Airflow project.
 
 ---
 
-### Airflow Contributor Workshop: Advanced
-*Instructors: [Jarek Potiuk](https://github.com/potiuk), Apache Airflow Committer & PMC member. [Tomasz Urbaszek](https://github.com/nuclearpinguin), Apache Airflow Committer*  
+### Airflow Contributor Workshop: Advanced  
+*Instructors: [Jarek Potiuk](https://github.com/potiuk), Apache Airflow Committer & PMC member. [Tomasz Urbaszek](https://github.com/nuclearpinguin), Apache Airflow Committer.*
 
 In the Beginner workshop you learned how to contribute small changes to Apache Airflow - and it is a prerequisite to Advanced Workshop. In this workshop you will learn about the internal architecture of the core Apache Airflow (Executors, TaskRunners, Scheduler internals), about the philosophy behind Airflow and why some design choices were made. You will learn how to improve and test the advanced features of Apache Airflow and what is planned to be implemented in the future versions of Airflow. You will learn about the mechanics of the discussion in the Apache Airflow community, about the AIP process and how to engage community members in meaningful discussions. Experienced committers of the Apache Airflow project will provide their guidelines and discuss with you ideas that you might bring on improving Apache Airflow. When you finish the workshop you will be equipped with everything that is needed to make further contributions to the Apache Airflow project.  
 
