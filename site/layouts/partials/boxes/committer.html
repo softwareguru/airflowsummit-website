@@ -27,7 +27,7 @@
             {{ if .github }}
                 {{ $url := .github }}
                 {{ with resources.Get "icons/github.svg" }}
-                    <a href="{{ $url }}" class="box-event__committer--social-media-icon">
+                    <a href="{{ $url }}" class="box-event__committer--social-media-icon" target="_blank">
                         {{ .Content | safeHTML }}
                     </a>
                 {{ end }}
@@ -35,7 +35,7 @@
             {{ if .twitter }}
                 {{ $url := .twitter }}
                 {{ with resources.Get "icons/twitter.svg" }}
-                    <a href="{{ $url }}" class="box-event__committer--social-media-icon">
+                    <a href="{{ $url }}" class="box-event__committer--social-media-icon" target="_blank">
                         {{ .Content | safeHTML }}
                     </a>
                 {{ end }}
@@ -43,7 +43,7 @@
             {{ if .linkedin }}
                 {{ $url := .linkedin }}
                 {{ with resources.Get "icons/linkedin.svg" }}
-                    <a href="{{ $url }}" class="box-event__committer--social-media-icon">
+                    <a href="{{ $url }}" class="box-event__committer--social-media-icon" target="_blank">
                         {{ .Content | safeHTML }}
                     </a>
                 {{ end }}
