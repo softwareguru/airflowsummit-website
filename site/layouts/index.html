@@ -17,61 +17,74 @@
  under the License.
 */}}
 
-{{ define "animation-header" }}
+<!doctype html>
+<html lang="{{ .Site.Language.Lang }}" class="no-js">
+
+<head>
+    {{ partial "head.html" . }}
+    <link rel="stylesheet" type="text/css" href='https://css.tito.io/v1.1' />
+    <script src='https://js.tito.io/v1' async></script>
+</head>
+
+<body class="td-{{ .Kind }}">
+    <header>
+        {{ partial "navbar.html" . }}
+    </header>
     <section id="header">
         <div id="header-canvas">
             <div class="text-area">
-                <h2 class="text-area--header col-12 col-md-10" id="header-title"><img src="/images/logo-white.svg" class="d-inline-block" alt="Airflow Summit 2020"></h2>
+                <h2 class="text-area--header col-12 col-md-10" id="header-title"><img src="/images/logo-white.svg"
+                        class="d-inline-block" alt="Airflow Summit 2020"></h2>
                 <h5 class="text-area--subheader col-12 col-md-10" id="header-lead">
                     June 3-5, 2020. Mountain View, CA.
                 </h5>
                 <div class="d-flex">
-                    <a class="mr-5" href="https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp" id="header-button">
-                        <button id="button-cfp" class="btn btn-primary">Submit a Talk</button>            
+                    <a class="mr-5" href="https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp"
+                        id="header-button">
+                        <button id="button-cfp" class="btn btn-primary">Submit a Talk</button>
                     </a>
                     <a href="#tickets" id="header-button">
-                        <button id="button-cfp" class="btn btn-primary">Register Now&nbsp;</button>            
+                        <button id="button-cfp" class="btn btn-primary">Register Now&nbsp;</button>
                     </a>
                 </div>
             </div>
         </div>
     </section>
-{{ end }}
+    <div class="home-page-layout base-layout">
+        <div id="at-a-glance" class="container-fluid">
+            <div class="container d-flex justify-content-between nopadding">
 
-{{ define "main" }}
-<div id="at-a-glance" class="container-fluid">
-    <div class="container d-flex justify-content-between nopadding">
+                <div class="col-md-5">
+                    <h2>Welcome to the first conference for Apache Airflow developers.</h2>
+                    <p>Join us to find out how Airflow is being used by leading companies, what is its roadmap and how
+                        you can participate in its development.</p>
+                </div>
 
-        <div class="col-md-5">
-            <h2>Welcome to the first conference for Apache Airflow developers.</h2>
-            <p>Join us to find out how Airflow is being used by leading companies, what is its roadmap and how you can participate in its development.</p>
-        </div>
+                <div class="col-md-5 statistics-block">
 
-        <div class="col-md-5 statistics-block">
+                    <div class="item">
+                        <div class="numbers">3</div>
+                        <div class="label">Days</div>
+                    </div>
 
-            <div class="item">
-                <div class="numbers">3</div>
-                <div class="label">Days</div>
-            </div>
+                    <div class="item">
+                        <div class="numbers">300+</div>
+                        <div class="label">Attendees</div>
+                    </div>
 
-            <div class="item">
-                <div class="numbers">300+</div>
-                <div class="label">Attendees</div>
-            </div>
+                    <div class="item">
+                        <div class="numbers">4</div>
+                        <div class="label">Keynotes</div>
+                    </div>
 
-            <div class="item">
-                <div class="numbers">4</div>
-                <div class="label">Keynotes</div>
-            </div>
-
-            <div class="item">
-                <div class="numbers">24</div>
-                <div class="label">Track sessions</div>
+                    <div class="item">
+                        <div class="numbers">24</div>
+                        <div class="label">Track sessions</div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-    </div>
-</div>
 
     <a name="tickets" class="ticket-anchor"></a>
     <div class="bg-white">
@@ -79,26 +92,35 @@
         <tito-widget event="airflowsummit/airflow-summit-2020"></tito-widget>
     </div>
 
-<section id="partners" class="container bg-white">
-    <h2>Partners</h2>
+    <section id="partners" class="container bg-white">
+        <h2>Partners</h2>
 
-    <h4>Platinum</h4>
-    <div class="partner-list platinum">
-    {{range where .Site.RegularPages "Section" "partners"}}    
-        {{ if eq .Params.level "platinum" }}
+        <h4>Platinum</h4>
+        <div class="partner-list platinum">
+            {{range where .Site.RegularPages "Section" "partners"}}
+            {{ if eq .Params.level "platinum" }}
             <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-        {{ end }}
-    {{ end }}
+            {{ end }}
+            {{ end }}
+        </div>
+
+        <h4>Silver</h4>
+        <div class="partner-list silver">
+            {{range where .Site.RegularPages "Section" "partners"}}
+            {{ if eq .Params.level "silver" }}
+            <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+            {{ end }}
+            {{ end }}
+        </div>
+
+    </section>
     </div>
 
-    <h4>Silver</h4>
-    <div class="partner-list silver">
-    {{range where .Site.RegularPages "Section" "partners"}}    
-        {{ if eq .Params.level "silver" }}
-            <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-        {{ end }}
-    {{ end }}
-    </div>
-    
-</section>
-{{ end }}    
+    {{ partialCached "footer.html" . }}
+    {{ partialCached "scripts.html" . }}
+</body>
+{{ with .Site.Data.webpack }}
+<script src="{{ relURL .main.js }}"></script>
+{{ end }}
+
+</html>
