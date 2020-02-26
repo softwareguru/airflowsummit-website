@@ -5,4 +5,5 @@ resources/
 site/static/_gen/
 .firebase/
 public/
+*Zone.Identifier
 
