@@ -21,18 +21,19 @@ under the License.
     <div class="community--header-container">
         <h2 class="page-header">{{ .Title }}</h2>
         <h5 class="page-subtitle">
-            We will soon publish our first round of confirmed speakers. 
+            Key members of the Airflow community will share insights and experience. 
         </h5>
+    </div>    
+
+    <h3 class="text-center">Keynote speakers</h3>
+    <div class="speaker-list keynote row justify-content-center">
+    {{range .Pages}} 
+        {{ partial "boxes/speaker" .Params }}
+    {{ end }}
     </div>
-    {{ range .Params.images }}
-        <div class="mx-auto text-center">
-        <img class="img-fluid mb-3" src="/{{ . }}" />
-        </div>
-    {{ end }}    
 
     {{ with .Content }}
-    <div class="no-width-restriction">
         {{ . }}
-    </div>
     {{ end }}
 {{ end }}
+
