@@ -3,7 +3,7 @@ title: "Ash Berlin"
 oneliner: "Airflow core committer @ ASF"
 photo: "ash-berlin.jpg"
 twitter: "https://twitter.com/ashberlin"
-weight: 2
+weight: 3
 publish: true
 type: "keynote"
 

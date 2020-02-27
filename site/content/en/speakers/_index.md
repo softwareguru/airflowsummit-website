@@ -4,8 +4,8 @@ menu:
   main:
     weight: 2
 
-images:
- - images/speakers.jpg
+# images:
+# - images/speakers.jpg
 
 ---
 

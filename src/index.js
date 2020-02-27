@@ -19,14 +19,11 @@
 
 import {shuffleNodeChildren} from "./js/committersList";
 import {showMore} from "./js/showMore";
-import {handleActiveVideo} from "./js/handleActiveVideo";
 import "./js/navbarScroll";
 import "./js/drawer";
 import "./js/contentDrawer";
 import "./js/progressTracking";
-import "./js/rating";
 import "./js/makeTableResponsive";
-import "./js/versionSelector";
 
 if (document.querySelector("#search")) {
   import(/* webpackChunkName: "search" */ "./js/searchBlogPosts");
@@ -35,19 +32,9 @@ if (document.querySelector("#search")) {
 shuffleNodeChildren("#committers-container");
 shuffleNodeChildren("#pmc-container");
 
-showMore("#committers-container", "#show-more-committers", 4);
-showMore("#pmc-container", "#show-more-pmcs", 4);
-showMore(
-  "#case-studies-container",
-  "#show-more-case-studies",
-  window.innerWidth < 1920 ? 8 : 15);
-
-handleActiveVideo();
 
 if (document.querySelector("#header")) {
   import(/* webpackChunkName: "header" */ "./js/headerAnimation").then((module) => {
     module.initHeaderAnimation();
   });
 }
-require("./js/integrationList.js");
-require("./js/meetupsList.js");

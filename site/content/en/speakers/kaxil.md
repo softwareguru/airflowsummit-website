@@ -2,7 +2,7 @@
 title: "Kaxil Naik"
 oneliner: "Senior Data Engineer @ Astronomer | Airflow PMC member & core committer"
 twitter: "https://twitter.com/"
-photo: "kaxil-naik.jpg"
+photo: "kaxil.jpg"
 weight: 3
 type: "keynote"
 publish: true

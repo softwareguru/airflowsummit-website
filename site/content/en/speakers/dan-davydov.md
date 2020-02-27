@@ -3,7 +3,7 @@ title: "Dan Davydov"
 type: "keynote"
 oneliner: "Software Engineer @ Twitter | Airflow PMC member"
 photo: "dan-davydov.jpg"
-weight: 1
+weight: 3
 publish: true
 
 ---

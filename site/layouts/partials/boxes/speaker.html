@@ -22,29 +22,5 @@
     <img src="/images/speakers/{{ .photo }}" alt="{{ .title }}" class="rounded-circle shadow"/>
     <h4>{{ .title }}</h4>
     <p class="oneliner">{{ .oneliner }}</p>
-        {{ if .github }}
-            {{ $url := .github }}
-            {{ with resources.Get "icons/github.svg" }}
-                <a href="{{ $url }}" class="box-event__committer--social-media-icon" target="_blank">
-                    {{ .Content | safeHTML }}
-                </a>
-            {{ end }}
-        {{ end }}
-        {{ if .twitter }}
-            {{ $url := .twitter }}
-            {{ with resources.Get "icons/twitter.svg" }}
-                <a href="{{ $url }}" class="box-event__committer--social-media-icon" target="_blank">
-                    {{ .Content | safeHTML }}
-                </a>
-            {{ end }}
-        {{ end }}
-        {{ if .linkedin }}
-            {{ $url := .linkedin }}
-            {{ with resources.Get "icons/linkedin.svg" }}
-                <a href="{{ $url }}" class="box-event__committer--social-media-icon" target="_blank">
-                    {{ .Content | safeHTML }}
-                </a>
-            {{ end }}
-        {{ end }}
 </div>
 {{ end }}
