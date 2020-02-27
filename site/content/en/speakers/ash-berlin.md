@@ -1,6 +1,6 @@
 ---
-title: "Ash Berlin"
-oneliner: "Airflow core committer @ ASF"
+title: "Ash Berlin-Taylor"
+oneliner: "Lead Airflow Engineer @ Astronomer | Airflow PMC member & committer"
 photo: "ash-berlin.jpg"
 twitter: "https://twitter.com/ashberlin"
 weight: 3
