@@ -7,7 +7,10 @@ menu:
 
 
 images:
- - images/chm-exterior.jpg
+ - images/venue0.jpg
+ - images/venue1.jpg
+ - images/venue2.jpg
+ - images/venue3.jpg
 
 
 ---
