@@ -29,8 +29,8 @@ if (document.querySelector("#search")) {
   import(/* webpackChunkName: "search" */ "./js/searchBlogPosts");
 }
 
-shuffleNodeChildren("#committers-container");
-shuffleNodeChildren("#pmc-container");
+shuffleNodeChildren("#organizers");
+showMore("#organizers", "#show-more-organizers", 8);
 
 
 if (document.querySelector("#header")) {

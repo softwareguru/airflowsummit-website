@@ -52,6 +52,7 @@
   },
   {
     "name": "Siddharth Anand",
+    "title": "Airflow PMC member & core committer, Co-chair @ QCon Data council",
     "github": "https://github.com/r39132",
     "image": "https://github.com/r39132.png"
   },
@@ -61,6 +62,13 @@
     "linkedin": "https://www.linkedin.com/in/maximebeauchemin/",
     "github": "https://github.com/mistercrunch",
     "image": "/images/team/maxime.jpg"
+  },
+  {
+    "name": "Fokko Driesprong",
+    "title": "Code Connaisseur @ GoDataDriven | Apache Airflow PMC member",
+    "github": "https://github.com/fokko",
+    "image": "https://github.com/fokko.png",
+    "nick": "fokko"
   }
 
 ]

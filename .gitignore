@@ -6,4 +6,5 @@ site/static/_gen/
 .firebase/
 public/
 *Zone.Identifier
+firebase-debug.log
 
