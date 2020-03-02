@@ -92,23 +92,20 @@
         <tito-widget event="airflowsummit/airflow-summit-2020"></tito-widget>
     </div>
 
-    <section id="partners" class="container bg-white">
-        <h2>Partners</h2>
-
+    <section id="partners" class="container bg-white text-center">
+        <h4 class="page-header principles-header">Partners</h4>
         <h4>Platinum</h4>
-        <div class="partner-list platinum">
-            {{range where .Site.RegularPages "Section" "partners"}}
-            {{ if eq .Params.level "platinum" }}
-            <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
+        <div class="partner-list platinum row justify-content-center">
+            {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum" }}
+            <a class="col-12 col-md-4" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
             {{ end }}
         </div>
 
         <h4>Silver</h4>
-        <div class="partner-list silver">
+        <div class="partner-list silver row justify-content-center">
             {{range where .Site.RegularPages "Section" "partners"}}
             {{ if eq .Params.level "silver" }}
-            <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+            <a class="col-4 col-md-2" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
             {{ end }}
             {{ end }}
         </div>

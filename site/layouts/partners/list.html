@@ -17,29 +17,27 @@
  under the License.
 */}}
 
+
 {{ define "main" }}
     <h2 class="page-header">{{ .Title }}</h2>
-    <h5 class="page-subtitle">
-    Please consider sponsoring Airflow Summit. Check out our <a href="/docs/AirflowSummit_SP.pdf" target="_blank">Prospectus</a>.</h5>
 
-<h5 class="page-subtitle mb-2 text-left">These amazing organizations have already joined.</p>
+    <h5 class="page-subtitle"><strong>Interested in becoming a sponsor for Airflow Summit 2020?</strong><br />The Summit is driven by community volunteers and is completely non-profit. Sponsoring will result in a higher quality event. 
+    Learn more about the different options in our <a href="/docs/AirflowSummit_SP.pdf" target="_blank">Prospectus</a>.</h5>
 
-    <div id="partners">
+    <h5 class="page-subtitle">These amazing organizations have already joined.</h5>
+
+    <div id="partners" class="text-center mb-5">
         <h4>Platinum</h4>
-        <div class="partner-list platinum">
-        {{range .Pages}} 
-            {{ if eq .Params.level "platinum" }}
-                <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
+        <div class="partner-list platinum row justify-content-center">
+        {{range where .Pages ".Params.level" "platinum" }} 
+            <a class="col-12 col-md-4" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
         {{ end }}
         </div>
 
         <h4>Silver</h4>
-        <div class="partner-list silver">
-        {{range where .Site.RegularPages "Section" "partners"}}    
-            {{ if eq .Params.level "silver" }}
-                <a href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
+        <div class="partner-list silver row justify-content-center">
+        {{range where .Pages ".Params.level" "silver" }} 
+            <a class="col-4 col-md-2" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
         {{ end }}
         </div>
     </div>
