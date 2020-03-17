@@ -11,7 +11,7 @@ images:
 
 ---
 
-On June 3rd, we will have the following preconference workshops:
+On August 25th, we will have the following preconference workshops:
 
 ---
 

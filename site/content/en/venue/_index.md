@@ -15,11 +15,11 @@ images:
 
 ---
 
-## Workshops (June 3rd)
+## Workshops (August 25th)
 Google MTV offices, Building LMK2  
 1883 Landings Dr. Mountain View, CA 94043
 
-## Conference (June 4-5th) 
+## Conference (August 26th-27th) 
 [Computer History Museum](https://computerhistory.org/)  
 1401 N. Shoreline Blvd. Mountain View, CA 94043
 

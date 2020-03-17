@@ -8,7 +8,7 @@ menu:
 ---
 
 ## What is included in the registration?
-The conference admission ticket includes access to keynotes, breakout sessions, exhibition area, breakfast, lunch and free WiFi on June 4-5. For participating in the preconference workshops you also need to purchase a workshop ticket.
+The conference admission ticket includes access to keynotes, breakout sessions, exhibition area, breakfast, lunch and free WiFi on August 26-27. For participating in the preconference workshops you also need to purchase a workshop ticket.
 
 ## Can I return a ticket I already purchased?
 If you cancel attendance at least 15 days before the event you will have your ticket refunded minus a $50 fee. Less than 15 days before the event, we cannot refund you but you can transfer your ticket.
