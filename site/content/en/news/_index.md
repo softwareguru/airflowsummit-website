@@ -1,7 +1,7 @@
 ---
 title: "News"
 linkTitle: "News"
-# menu:
-#  main:
-#    weight: 25
+menu:
+  main:
+    weight: 2
 ---

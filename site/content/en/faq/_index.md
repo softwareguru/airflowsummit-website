@@ -7,17 +7,11 @@ menu:
 
 ---
 
-## What is included in the registration?
-The conference admission ticket includes access to keynotes, breakout sessions, exhibition area, breakfast, lunch and free WiFi on August 26-27. For participating in the preconference workshops you also need to purchase a workshop ticket.
+## Why is this an online conference?
+Our original purpose was for this to be an onsite event in Mountain View, CA. However, in light of the COVID-19 pandemic, we decided to do it entirely online. 
 
-## Can I return a ticket I already purchased?
-If you cancel attendance at least 15 days before the event you will have your ticket refunded minus a $50 fee. Less than 15 days before the event, we cannot refund you but you can transfer your ticket.
+## When will the agenda with confirmed sessions be available?
+We expect to publish a first round of confirmed sessions in the first week of June, and the full agenda by June 18th.
 
-## Are there any recommended hotels for staying?
-We are working on securing deals with local hotels for Airflow Summit attendees. Please check back later. 
-
-## Do I need to bring my own computer for the workshops?
-Yes, the workshops are bring your own laptop. We will send software requirements to registered attendees two weeks before the event.
-
-## Is the place accesible?
-Yes, both the Computer History Museum and the Google building used for workshops meet or exceed California accesibility standards for buildings. However, if you have any specific question or need please contact us about it so that we make sure we take care of it and you have a great experience at the event.
+## How can I attend the sessions?
+The live event will be hosted on the crowdcast platform. In order to register and watch the sessions please visit https://crowdcast.io/e/airflowsummit 

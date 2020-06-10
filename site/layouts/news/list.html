@@ -19,15 +19,7 @@
 
 {{ define "main" }}
     <div class="no-width-restriction">
-        <h2 class="page-header">Blog</h2>
-        <form class="search-form" method="get" action="/blog">
-            <input class="search-form__input" placeholder="Search" name="q" type="search" id="search" size="16">
-            <button class="search-form__button" type="submit">
-                {{ with resources.Get "icons/search-icon.svg" }}
-                    {{ .Content | safeHTML }}
-                {{ end }}
-            </button>
-        </form>
+        <h2 class="page-header">News</h2>
         <div class="all-tags-container">
             <div class="tags-container mx-auto">
                 <a class="tag active" href="/blog/">All</a>
@@ -39,9 +31,6 @@
             </div>
         </div>
         <div class="blog__list-items-wrapper">
-            <div class="new-entry">
-                <a class="new-entry--link" href="https://github.com/apache/airflow-site">ADD YOUR ENTRY</a>
-            </div>
             <div class="list-items">
                 {{ range .Pages }}
                     <div class="list-item list-item--wide">

@@ -9,16 +9,13 @@ images:
 
 Airflow Summit is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form. Participants violating these rules may be sanctioned or expelled without a refund, at the discretion of the event organizers.
 
-Harassment includes offensive verbal comments, deliberate intimidation, stalking, following, unwanted photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention. Participants asked to stop any harassing behaviour are expected to comply immediately.
+Harassment includes offensive verbal comments, deliberate intimidation, stalking, following, unwanted photography or recording, sustained disruption of talks or other events, and unwelcome sexual attention. Participants asked to stop any harassing behaviour are expected to comply immediately.
 
-Sexual language and imagery will not be tolerated in any event venue, including talks. Exhibitors should also refrain from using sexualised images, activities, or other material. Booth staff (including volunteers) should not use sexualised clothing/uniforms/costumes, or otherwise create a sexualised environment.
+Sexual language and imagery will not be tolerated in any event venue, including talks. Exhibitors should also refrain from using sexualised images, activities, or other material.
 
-If a participant engages in harassing behaviour, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event without a refund. We expect participants to follow these rules at all event venues and related social events.
+If a participant engages in harassing behaviour, the organizers may take any action they deem appropriate, including warning the offender or expulsion from the event without a refund. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event team immediately. The team can be found at the registration desk.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event team immediately.
 
-The event team will be happy to help participants contact hotel/venue security (as available) or local law enforcement, provide escorts to walk you to/from your room/car/taxi/etc, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance.
+You can contact the event team via email at info@airflowsummit.org
 
-You can contact the event team via email at conduct@airflowsummit.org
-
-You can find the event team on the day at the registration desk.

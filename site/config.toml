@@ -42,6 +42,11 @@ hrefTargetBlank = true
 angledQuotes = false
 latexDashes = true
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 # Image processing configuration.
 [imaging]
 resampleFilter = "CatmullRom"
@@ -69,7 +74,7 @@ weight = 1
 privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/afsummit-card-august.png"]
+images = ["images/afsummit-card-july.jpg"]
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
 github_repo = "https://github.com/softwareguru/airflowsummit-website"
@@ -116,7 +121,7 @@ navbar_logo = true
     url = "/privacy"
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/AirflowSummit_SP.pdf"
+    url = "/docs/AirflowSummit-Prospectus.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Call for papers"

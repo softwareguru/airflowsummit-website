@@ -1,9 +1,9 @@
 ---
 title: "Venue"
 linkTitle: "Venue"
-menu:
-    main:
-        weight: 4
+# menu:
+#    main:
+#        weight: 4
 
 
 images:
@@ -15,12 +15,6 @@ images:
 
 ---
 
-## Workshops (August 25th)
-Google MTV offices, Building LMK2  
-1883 Landings Dr. Mountain View, CA 94043
 
-## Conference (August 26th-27th) 
-[Computer History Museum](https://computerhistory.org/)  
-1401 N. Shoreline Blvd. Mountain View, CA 94043
-
+The Airflow summit was originally planned as an onsite event in Mountain View, CA but will now be an online conference.
 

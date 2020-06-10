@@ -11,7 +11,7 @@ images:
 
 ---
 
-On August 25th, we will have the following preconference workshops:
+We are looking to provide in-depth workshops on how to use and contribute to Airflow. Originally, we planned for them to be full-day onsite workshops, but now that this will be an online conference we are working out to define the best way to provide them online. Please bear with us as we work out the details for this.
 
 ---
 
