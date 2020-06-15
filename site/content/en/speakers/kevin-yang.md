@@ -1,11 +1,8 @@
 ---
 title: "Kevin Yang"
-oneliner: "Engineering Manager @ Airbnb | Airflow PMC member"
-twitter: "https://twitter.com/"
-photo: "kevin-yang.jpg"
-weight: 3
-publish: true
-type: "keynote"
+designation: "Engineering Manager @ Airbnb | Airflow PMC member"
+github: "https://github.com/KevinYang21"
+image: "/images/speakers/kevin-yang.jpg"
 
 ---
 

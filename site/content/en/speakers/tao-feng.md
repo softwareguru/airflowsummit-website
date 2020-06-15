@@ -1,11 +1,10 @@
 ---
 title: "Tao Feng"
-oneliner: "Tech Lead Data @ Lyft | Airflow PMC member"
+designation: "Tech Lead Data @ Lyft | Airflow PMC member"
+image: "/images/speakers/tao-feng.jpg"
 twitter: "https://twitter.com/photoft45"
-photo: "tao-feng.jpg"
-weight: 3
-publish: true
-type: "keynote"
+linkedin: "https://www.linkedin.com/in/tao-f-17195814/"
+github: "https://github.com/feng-tao"
 
 ---
 

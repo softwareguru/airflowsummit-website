@@ -1,6 +1,6 @@
 ---
 title: "Databand"
-level: "silver"
+level: "gold"
 logo: "databand.png"
 webUrl: "https://databand.ai"
 weight: 2

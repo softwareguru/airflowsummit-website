@@ -93,12 +93,17 @@
             {{ end }}
         </div>
 
+        <h4>Gold</h4>
+        <div class="partner-list gold row justify-content-center">
+            {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
+            <a class="col-6 col-md-3" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+            {{ end }}
+        </div>
+
         <h4>Silver</h4>
         <div class="partner-list silver row justify-content-center">
-            {{range where .Site.RegularPages "Section" "partners"}}
-            {{ if eq .Params.level "silver" }}
+            {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "silver" }}
             <a class="col-4 col-md-2" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
             {{ end }}
         </div>
 

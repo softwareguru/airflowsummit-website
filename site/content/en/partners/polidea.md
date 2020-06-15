@@ -1,6 +1,6 @@
 ---
 title: "Polidea"
-level: "silver"
+level: "gold"
 logo: "polidea.png"
 webUrl: "https://www.polidea.com"
 weight: 1 

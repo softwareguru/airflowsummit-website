@@ -1,11 +1,9 @@
 ---
 title: "Daniel Imberman"
-oneliner: "Software Engineer @ Astronomer.io | Airflow core committer"
+designation: "Software Engineer @ Astronomer.io | Airflow core committer"
+image: "/images/speakers/daniel-imberman.jpg"
+linkedin: "https://www.linkedin.com/in/danielimberman/"
 twitter: "https://twitter.com/danimberman"
-photo: "daniel-imberman.jpg"
-weight: 3
-publish: true
-type: "keynote"
 
 ---
 

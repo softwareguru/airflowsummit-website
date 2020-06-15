@@ -27,9 +27,19 @@ under the License.
 
     <h3 class="text-center">Confirmed speakers</h3>
     <div class="speaker-list keynote row justify-content-center">
-    {{range .Pages}} 
-        {{ partial "boxes/speaker" .Params }}
-    {{ end }}
+        {{ range .Data.Pages.ByTitle }}
+        <div class="speaker-box col-5 col-md-3">
+            <a href="{{ .Permalink }}">
+              <img src="{{ .Params.Image }}" alt="{{ .Title }}" class="rounded-circle shadow" />
+            </a>
+            <h4>
+              <a href="{{ .Permalink }}">
+                {{ .Title }}
+              </a>  
+            </h4>
+            <p class="oneliner">{{ .Params.designation }}</p>
+          </div>        
+        {{ end }}
     </div>
 
     {{ with .Content }}
