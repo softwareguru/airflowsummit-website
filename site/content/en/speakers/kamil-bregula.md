@@ -1,6 +1,6 @@
 ---
 title: "Kamil Bregula"
-designation: "Software Engineer @ Polidea | Airflow core committer"
+designation: "Software Engineer @ Polidea | Airflow committer & PMC member"
 twitter: "https://twitter.com/czerwonyelmo"
 image: "/images/speakers/kamil.jpg"
 linkedin: "https://www.linkedin.com/in/kamil-bregu%C5%82a-ba558b108/"

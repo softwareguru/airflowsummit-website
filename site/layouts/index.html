@@ -28,52 +28,32 @@
     <header>
         {{ partial "navbar.html" . }}
     </header>
-    <section id="header">
-        <div id="header-canvas">
-            <div class="text-area">
-                <h2 class="text-area--header col-12 col-md-10" id="header-title"><img src="/images/logo-white.svg"
-                        class="d-inline-block" alt="Airflow Summit 2020"></h2>
-                <h5 class="text-area--subheader col-12 col-md-10" id="header-lead">
-                    July 6-17, 2020. Join from anywhere.
-                </h5>
-                <div class="d-flex">
-                    <a class="mr-5" href="https://crowdcast.io/e/airflowsummit"
-                        id="header-button">
-                        <button id="button-cfp" class="btn btn-primary">Join us!</button>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </section>
+    {{ partial "hero.html" . }}
+
     <div class="home-page-layout base-layout">
         <div id="at-a-glance" class="container-fluid">
             <div class="container d-flex justify-content-between nopadding">
 
-                <div class="col-md-5">
+                <div class="col-6 col-md-5 px-0">
                     <h2>Welcome to the first online conference for Apache Airflow developers.</h2>
                     <p>Join us from all over the world to find out how Airflow is being used by leading companies, what is its roadmap and how
                         you can participate in its development.</p>
                 </div>
 
-                <div class="col-md-5 statistics-block">
+                <div class="col-5 col-md-5 statistics-block">
 
-                    <div class="item">
+                    <div class="item1">
                         <div class="numbers">2</div>
                         <div class="label">Weeks</div>
                     </div>
 
-                    <div class="item">
-                        <div class="numbers">4</div>
-                        <div class="label">Keynotes</div>
-                    </div>
-
-                    <div class="item">
-                        <div class="numbers">30+</div>
+                    <div class="item2">
+                        <div class="numbers">40+</div>
                         <div class="label">Sessions</div>
                     </div>
 
-                    <div class="item">
-                        <div class="numbers">500+</div>
+                    <div class="item3">
+                        <div class="numbers">3,000+</div>
                         <div class="label">Participants from all over the world</div>
                     </div>
 
@@ -83,31 +63,8 @@
         </div>
     </div>
 
+    {{ partialCached "partners.html" . }}
 
-    <section id="partners" class="container bg-white text-center">
-        <h4 class="page-header principles-header">Partners</h4>
-        <h4>Platinum</h4>
-        <div class="partner-list platinum row justify-content-center">
-            {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum" }}
-            <a class="col-12 col-md-4" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
-        </div>
-
-        <h4>Gold</h4>
-        <div class="partner-list gold row justify-content-center">
-            {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
-            <a class="col-6 col-md-3" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
-        </div>
-
-        <h4>Silver</h4>
-        <div class="partner-list silver row justify-content-center">
-            {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "silver" }}
-            <a class="col-4 col-md-2" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
-            {{ end }}
-        </div>
-
-    </section>
     </div>
 
     {{ partialCached "footer.html" . }}

@@ -1,6 +1,6 @@
 ---
 title: "Daniel Imberman"
-designation: "Software Engineer @ Astronomer.io | Airflow core committer"
+designation: "Software Engineer @ Astronomer.io | Airflow committer & PMC member"
 image: "/images/speakers/daniel-imberman.jpg"
 linkedin: "https://www.linkedin.com/in/danielimberman/"
 twitter: "https://twitter.com/danimberman"

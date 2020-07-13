@@ -1,8 +1,8 @@
 ---
 title: "Google"
 level: "platinum"
-logo: "google.svg"
-webUrl: "https://about.google"
+logo: "google-cloud.png"
+webUrl: "https://cloud.google.com"
 weight: 1
 ---
 

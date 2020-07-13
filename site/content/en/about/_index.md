@@ -1,9 +1,6 @@
 ---
 title: "About Airflow Summit"
 linkTitle: "About"
-menu:
-    main:
-        weight: 1
 
 subtitle: "Airflow Summit 2020 is an online conference for the worldwide community of Apache Airflow users and contributors."
 

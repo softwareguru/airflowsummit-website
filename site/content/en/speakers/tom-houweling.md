@@ -7,6 +7,7 @@ country: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/tomhouweling/"
 github: ""
+draft: true
 ---
 
 Tom is a seasoned consultant with a software engineering background with 20+ years of Silicon Valley experience.

@@ -3,11 +3,17 @@
   width: 100%;
 } 
 
+.partner-list a {
+  padding: 0 30px;
+}
+
 .partner-list.platinum a {
   padding: 0 40px;
 }
-
-.partner-list.silver a, .partner-list.gold a, .partner-list.bronze a {
-  padding: 0 30px;
-}
   
+.partner-list.community {
+  display: grid;
+  grid-template-columns: 125px 200px 125px;
+  justify-content: center;
+  align-items: end;
+}

@@ -7,5 +7,4 @@ twitter: "https://twitter.com/griscz"
 
 ---
 
-Gris works as as a Product Manager @ Google Cloud. She is an experienced tech strategist with 13 years of experience in a broad range of industries such as oil and gas and cloud computing. She has a Masters in Operation Research and Data Science from UC Berkeley and is passionate about data engineering, open source projects, information architecture, diversity and inclusion in tech & Italian wines.
-
+Gris is a Product Manager @ Google Cloud. She has 13 years of experience in a broad range of industries, from oil and gas to data engineering in cloud computing. She has a Masters in Operation Research and Data Science from UC Berkeley and is passionate about data engineering, open source technology, information architecture, diversity and inclusion in tech and physical training & wine. 

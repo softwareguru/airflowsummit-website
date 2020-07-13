@@ -1,7 +1,7 @@
 [
   {
     "name": "Aizhamal Nurmamat kyzy",
-    "title": "Apache Airflow Committer & PMC member",
+    "title": "PMC and Committer @ Apache Airflow | Open Source Program Manager @ Google",
     "github": "https://github.com/aijamalnk",
     "linkedin": "https://www.linkedin.com/in/aizhamal-n-14864363",
     "image": "https://i.imgur.com/SRNwWic.jpg"
@@ -15,11 +15,19 @@
   },
   {
     "name": "Tomasz Urbaszek",
-    "title": "Software Engineer @ Polidea, Apache Airflow Committer",
+    "title": "Software Engineer @ Polidea, Apache Airflow Committer & PMC member",
     "linkedin": "https://www.linkedin.com/in/tomaszurbaszek",
     "twitter": "https://twitter.com/Nuclearriot",
     "github": "https://github.com/nuclearpinguin",
     "image": "/images/team/turbaszek.jpg"
+  },
+  {
+    "name": "Daniel Imberman",
+    "title": "Software Engineer @ Astronomer.io | Airflow committer & PMC member",
+    "linkedin": "https://www.linkedin.com/in/danielimberman/",
+    "twitter": "https://twitter.com/danimberman",
+    "github": "https://github.com/dimberman",
+    "image": "/images/speakers/daniel-imberman.jpg"
   },
   {
     "name": "Jarek Potiuk",

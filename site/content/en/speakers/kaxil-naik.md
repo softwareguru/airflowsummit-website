@@ -1,9 +1,9 @@
 ---
 title: "Kaxil Naik"
 designation: "Senior Data Engineer @ Astronomer | Airflow PMC member & core committer"
-twitter: "https://twitter.com/"
 image: "/images/speakers/kaxil.jpg"
 linkedin: "https://www.linkedin.com/in/kaxil/"
+twitter: "https://twitter.com/kaxil"
 
 ---
 

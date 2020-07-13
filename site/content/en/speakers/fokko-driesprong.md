@@ -2,6 +2,7 @@
 title: "Fokko Driesprong"
 designation: "Code Connaisseur @ GoDataDriven | Apache Airflow PMC member"
 twitter: ""
+github: https://github.com/Fokko
 image: "/images/speakers/fokko.jpg"
 weight: 3
 

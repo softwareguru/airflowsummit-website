@@ -42,6 +42,17 @@ under the License.
     {{ partial "buttons/button-filled" (dict "text" "Show more" "id" "show-more-organizers")}}
 </div>
 
+<h5 class="community--committers-header">Produced by <a href="https://sg.com.mx/about-us">Software Guru</a></h5>
+<div id="organizers" class="list-items">
+    {{ range .Site.Data.sg }}
+    <div class="list-item">
+        {{ partial "boxes/committer" . }}
+    </div>
+    {{ end }}
+</div>
+
+{{ partialCached "partners.html" . }}
+
 {{ end }}
 
 

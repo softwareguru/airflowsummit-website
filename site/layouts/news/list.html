@@ -20,16 +20,6 @@
 {{ define "main" }}
     <div class="no-width-restriction">
         <h2 class="page-header">News</h2>
-        <div class="all-tags-container">
-            <div class="tags-container mx-auto">
-                <a class="tag active" href="/blog/">All</a>
-                {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-                    {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
-                        <a class="tag" href="{{ .Permalink }}">{{ humanize $name }}</a>
-                    {{ end }}
-                {{ end }}
-            </div>
-        </div>
         <div class="blog__list-items-wrapper">
             <div class="list-items">
                 {{ range .Pages }}

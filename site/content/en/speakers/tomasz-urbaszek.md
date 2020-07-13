@@ -1,6 +1,6 @@
 ---
 title: "Tomasz Urbaszek"
-designation: "Software Engineer @ Polidea | Airflow committer"
+designation: "Software Engineer @ Polidea | Airflow committer & PMC member"
 image: "/images/speakers/tomasz.jpg"
 twitter: "https://twitter.com/turbaszek"
 linkedin: "https://www.linkedin.com/in/tomaszurbaszek/"

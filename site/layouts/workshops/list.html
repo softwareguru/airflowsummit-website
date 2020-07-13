@@ -18,23 +18,36 @@
 */}}
 
 {{ define "main" }}
-    <div class="page--headers-wrapper">
-        <h2 class="page-header">{{ .Title }}</h2>
-        {{ with .Params.subtitle }}
-          <h5 class="page-subtitle">
-            {{ . | markdownify }}
-          </h5>
-        {{ end }}
-    </div>
-    {{ range .Params.images }}
-    <div class="mx-auto text-center">
-      <img class="img-fluid mb-3" src="/{{ . }}" />
-    </div>
-    {{ end }}    
-    {{ with .Content }}
-    <div class="rst-content">
-        {{ . }}
-    </div>
-    {{ end }}
+<div class="page--headers-wrapper">
+  <h2 class="page-header">{{ .Title }}</h2>
+  {{ with .Params.subtitle }}
+  <h5 class="page-subtitle">
+    {{ . | markdownify }}
+  </h5>
+  {{ end }}
+</div>
+{{ range .Params.images }}
+<div class="mx-auto text-center">
+  <img class="img-fluid mb-3" src="/{{ . }}" />
+</div>
+{{ end }}
+<div class="rst-content">
+  {{ .Content }}
+</div>
+<div class="row workshop-strip">
+  {{range sort (where (where .Site.RegularPages "Section" "sessions") ".Params.workshop" true) ".Params.time_start" }}
+  <div class="col-12 col-md-4 px-3">
+    <div class="card">
+      <div class="card-body">
+        <h3 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{ $time_start := .Params.time_start | time  }}
+        <h6 class="card-subtitle mb-2 text-muted">{{ $time_start.Format "Monday, January 2" }}</h6>
+        <p class="card-text">{{ .Summary }}</p>
+        <a href="{{ .Permalink }}" class="card-link">See detail</a>
+      </div>
+    </div>  
+  </div>
+  {{ end }}
+</div>
 
 {{ end }}
