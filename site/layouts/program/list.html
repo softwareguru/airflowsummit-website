@@ -18,7 +18,7 @@
                 <div id="time-{{.Params.id}}" class="session-time col-3 col-md-2">
                 </div>
                 <div class="col-9 col-md-10 mb-2">
-                    <h4><a class="session-title" data-toggle="collapse" href="#abs-{{.Params.id}}">{{ .Params.title }}</a></h4>
+                    <h4><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></h4>
                     {{ if .Params.speakers }}<h6 class="speakers-list">by {{ range .Params.speakers }} <span>{{ . }}</span> {{ end }} </h6>{{ end }}
                     <div class="collapse card-abstract" id="abs-{{.Params.id}}">
                       {{ .Summary }}

@@ -113,6 +113,10 @@ navbar_logo = true
     name = "Check us on LinkedIn"
     url = "https://www.linkedin.com/company/airflow-summit"
     icon = "fab fa-linkedin-in"
+[[params.links.media]]
+    name = "Watch us on YouTube"
+    url = "https://www.youtube.com/channel/UCSXwxpWZQ7XZ1WL3wqevChA/"
+    icon = "fab fa-youtube"
 
 [[params.links.footer]]
     name = "Code of Conduct"

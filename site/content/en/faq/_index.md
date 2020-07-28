@@ -30,4 +30,4 @@ While the event is still on course, you can watch recordings from Crowdcast. Sim
 
 
 ## Is there a code of conduct?
-Yes. Airflow Summit aims to provide a harrassment-free experience to all participants. Please review our [Code of Conduct](/coc).
+Yes. Airflow Summit aims to provide a harrasment-free experience to all participants. Please review our [Code of Conduct](/coc).

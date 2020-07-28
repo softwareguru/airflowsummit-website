@@ -14,28 +14,23 @@
 <table class="table" data-toggle="table" data-search="true">
   <thead>
     <tr>
+      <th scope="col" data-field="id" data-sortable="true">ID</th>
       <th scope="col" data-field="title" data-sortable="true">Title</th>
-      <th scope="col" data-field="speakers"  data-sortable="true">Speaker(s)</th>
-      <th scope="col" data-field="date" data-sortable="true">Time (UTC)</th>
+      <th scope="col" data-field="description"  data-sortable="true">Description</th>
+      <th scope="col" data-field="slides"  data-sortable="true">Slides</th>
     </tr>
   </thead>
   <tbody>
     {{ range sort (.Data.Pages) "Params.time_start" }}
     <tr>
-      <td><a href="{{.Permalink}}">{{ .Title }}</a></td>
-      <td class="speakers-list">
-        {{ range .Params.speakers }}
-          {{ . }}<br />
-        {{ end }}
-      </td>
-      {{ $time_start := .Params.time_start | time  }}
-      <td>
-        {{ if eq $time_start.Day 18 }}
-          TBD
-        {{ else }}  
-          {{ $time_start.Format "Jan-02 15:04" }}
+      <td>{{ .Params.id }}</td>
+      <td>{{ .Title }} - 
+        {{ with .Params.speakers }}
+          {{ delimit . ", " }}
         {{ end }}  
       </td>
+      <td>{{ .Summary }}</td>
+      <td>{{ with .Params.slides }}<a href="/slides/{{ . }}">Download</a>{{ end }}</td>
     </tr>
     {{ end }}
   </tbody>

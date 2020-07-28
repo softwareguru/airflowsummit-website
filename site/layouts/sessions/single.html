@@ -46,21 +46,19 @@
     </div>
     -----
     <div class="content mt-2">{{ .Content }}</div>
+    {{ with .Params.slides }}
+    <div class="mb-3"><a href="/slides/{{ . }}" download>Download slides</a></div>
+    {{ end }}
     {{ with .Params.ticket }}
     <div class="text-center">
       <a href="{{ . }}" class="btn btn-primary btn-lg">Get your ticket for this workshop!</a>
     </div>
     {{ end }}
     {{ with .Params.video }}
-    <iframe id="video-iframe" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"
+    <iframe id="video-iframe" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0"
       allowtransparency="true" src="{{ . }}?navlinks=false&embed=true"
       allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"
       webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-    {{ end }}
-    {{ with .Params.slides }}
-    <iframe id="slides-iframe" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0"
-      allowtransparency="true" src="{{ . }}" allowfullscreen="true" webkitallowfullscreen="true"
-      mozallowfullscreen="true"></iframe>
     {{ end }}
 
   </div>
