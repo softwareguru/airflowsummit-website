@@ -1,0 +1,20 @@
+{
+  "docs": {
+    "js": "/docs.94ebd.js"
+  },
+  "header": {
+    "js": "/chunk-1.94ebd.js"
+  },
+  "main": {
+    "js": "/main.94ebd.js"
+  },
+  "search": {
+    "js": "/chunk-3.94ebd.js"
+  },
+  "vendors~header": {
+    "js": "/chunk-4.94ebd.js"
+  },
+  "vendors~search": {
+    "js": "/chunk-5.94ebd.js"
+  }
+}
