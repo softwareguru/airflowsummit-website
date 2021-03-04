@@ -1,103 +1,58 @@
-# Licensed to the Apache Software Foundation (ASF) under one
-# or more contributor license agreements.  See the NOTICE file
-# distributed with this work for additional information
-# regarding copyright ownership.  The ASF licenses this file
-# to you under the Apache License, Version 2.0 (the
-# "License"); you may not use this file except in compliance
-# with the License.  You may obtain a copy of the License at
-#
-#   http://www.apache.org/licenses/LICENSE-2.0
-#
-# Unless required by applicable law or agreed to in writing,
-# software distributed under the License is distributed on an
-# "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
-# KIND, either express or implied.  See the License for the
-# specific language governing permissions and limitations
-# under the License.
 
 baseURL = "https://airflowsummit.org/"
-title = "Airflow Summit 2020"
+title = "Airflow Summit"
+description = "Airflow summit is the first conference for the worldwide community of developers and users of Apache Airflow."
 enableRobotsTXT = true
 RemovePathAccents = true
+DefaultContentLanguage = "en"
+googleAnalytics = "UA-158553455-1"
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
-theme = ["docsy"]
-
-# Will give values to .Lastmod etc.
-enableGitInfo = true
-
-# Language settings
-contentDir = "content/en"
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = false
-# Useful when translating.
-enableMissingTranslationPlaceholders = true
-
-pygmentsStyle = "vs"
-pygmentsUseClasses = true
-
-## Configuration for BlackFriday markdown parser: https://github.com/russross/blackfriday
-[blackfriday]
-plainIDAnchors = true
-hrefTargetBlank = true
-angledQuotes = false
-latexDashes = true
+theme = "airflowsummit"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-# Image processing configuration.
-[imaging]
-resampleFilter = "CatmullRom"
-quality = 75
-anchor = "smart"
 
-[services]
-[services.googleAnalytics]
-# Comment out the next line to disable GA tracking. Also disables the feature described in [params.ui.feedback].
-id = "UA-158553455-1"
+############################## navigation ###############################
+[menu]
 
-# Language configuration
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 1
 
-[languages]
-[languages.en]
-title = "Airflow Summit 2020"
-description = "Airflow summit is the first conference for the worldwide community of developers and users of Apache Airflow."
-languageName ="English"
-# Weight used for sorting.
-weight = 1
+  [[menu.main]]
+  name = "FAQ"
+  URL = "faq"
+  weight = 7
+
 
 # Everything below this are Site Params
 
 [params]
+description = "Airflow summit is the first conference for the worldwide community of developers and users of Apache Airflow."
+logo = "/images/logo-white-2021.svg"
+home = "Home"
 privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["images/afsummit-card-july.jpg"]
+images = ["/images/card.jpg"]
 
-# Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/softwareguru/airflowsummit-website"
-# An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/apache/airflow"
+[params.hero]
+text = "May 20-28, 2021. Come fly with us."
 
-# Specify a value here if your content directory is not in your repo's root directory
-github_subdir = "dist"
+[params.hero.cta]
+text = "Join our CFP"
+link = "https://sessionize.com/airflow-summit-2021/"
 
-# Google Custom Search Engine ID. Remove or comment out to disable search.
-#gcs_engine_id = "011737558837375720776:fsdu1nryfng"
-
-# User interface configuration
-[params.ui]
-# Enable to show the side bar menu in its compact state.
-sidebar_menu_compact = false
-#  Set to true to disable breadcrumb navigation.
-breadcrumb_disable = true
-#  Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = true
-#  Set to false if you don't want to display a logo (/assets/icons/logo.svg) in the top nav bar
-navbar_logo = true
+# Navigation button
+[params.navigation_button]
+enable = true
+label = "Register"
+link = "https://www.crowdcast.io/e/airflowsummit2021"
 
 
 [params.links]
@@ -126,30 +81,30 @@ navbar_logo = true
     url = "/privacy"
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/AirflowSummit-Prospectus.pdf"
+    url = "/docs/AirflowSummit2021-ProspectUs.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Call for papers"
-    url = "https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp"
+    url = "https://sessionize.com/airflow-summit-2021/"
     target="_blank"
 
-[related]
-threshold = 50.0
-includeNewer = true
-toLower = false
-
-  [[related.indices]]
-  name = "keywords"
-  weight = 100.0
-
-  [[related.indices]]
-  name = "tags"
-  weight = 80.0
-
-  [[related.indices]]
-  name = "author"
-  weight = 50.0
 
 [permalinks]
 tags = "/blog/tags/:slug/"
 posts = "/:year/:month/:title/"
+
+############################# Plugins ##############################
+# CSS Plugins
+[[params.plugins.css]]
+link = "/plugins/bootstrap/css/bootstrap.min.css"
+[[params.plugins.css]]
+link = "/plugins/themefisher-font/themefisher-font.min.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "/plugins/jquery/jquery.js"
+[[params.plugins.js]]
+link = "/plugins/bootstrap/js/bootstrap.min.js"
+[[params.plugins.js]]
+link="https://kit.fontawesome.com/4a6d2efc2e.js"
+

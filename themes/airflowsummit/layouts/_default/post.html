@@ -1,0 +1,9 @@
+<article class="blog-article box-shadow mb-4">
+  {{ with .Params.image }}<img src="{{ . | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid">{{ end }}
+  <div class="content py-5 px-4">
+    <h4 class="my-3"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
+    <p class="mb-4">{{ .Summary }}</p>
+    <a href="{{ .Permalink }}" class="read-more text-color h6">{{ i18n "read_more" }} <i
+        class="tf-ion-android-arrow-forward ml-3"></i></a>
+  </div>
+</article>

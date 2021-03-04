@@ -1,0 +1,75 @@
+<head>
+  <meta charset="utf-8">
+  <title>{{ if .IsHome }}Airflow Summit{{ else }}{{ .Title }} | Airflow Summit{{ end }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta name="description"
+    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+  {{ with .Site.Params.author }}
+  <meta name="author" content="{{ . }}">{{ end }}
+  {{ hugo.Generator }}
+
+  {{- template "_internal/opengraph.html" . -}}
+  {{- template "_internal/twitter_cards.html" . -}}
+
+  {{ with .Site.GoogleAnalytics }}
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ . }}');
+  </script>
+  {{ end }}
+
+  {{ "<!-- plugins -->" | safeHTML }}
+  {{ range .Site.Params.plugins.css }}
+  <link rel="stylesheet" href="{{ .link | relURL }}">
+  {{ end }}
+
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+  <link rel="stylesheet" href='{{ $styles.Permalink | relURL }}?v={{ now.Format "200601021504" }}' media="screen">
+
+  {{ "<!--Favicon-->" | safeHTML }}
+  <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "{{ .Site.Title }}",
+      "startDate": "2021-05-20T11:00-05:00",
+      "endDate": "2021-05-28T19:00-05:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "location": {
+        "@type": "VirtualLocation",
+        "url": "https://airflowsummit.org"
+      },
+      "image": [
+        "https://airflowsummit.org/images/card.jpg"
+      ],
+      "description": "{{ .Site.Params.description }}",
+      "offers": {
+        "@type": "Offer",
+        "url": "https://airflowsummit.org/register",
+        "price": "0",
+        "priceCurrency": "USD",
+        "availability": "https://schema.org/InStock",
+        "validFrom": "2021-02-25T12:00"
+      },
+      "performer": {
+        "@type": "PerformingGroup",
+        "name": "Apache Airflow Community"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "Software Guru",
+        "url": "https://devrel.sg.com.mx"
+      }
+    }
+  </script>
+</head>

@@ -1,0 +1,758 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airflow Summit 2020 – Sessions</title>
+    <link>https://airflowsummit.org/sessions/</link>
+    <description>Recent content in Sessions on Airflow Summit 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://airflowsummit.org/sessions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Sessions: Achieving Airflow Observability</title>
+      <link>https://airflowsummit.org/sessions/achieving-observability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/achieving-observability/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Identify issues in a fraction of the time and streamline root cause analysis for your DAGs. Airflow is the leading orchestration platform for data engineers. But when running Airflow at production scale, many teams have bigger needs for monitoring jobs, creating the right level of alerting, tracking problems in data, and finding the root cause of errors. In this talk we will cover our suggested approach to gaining Airflow observability so that you have the visibility you need to be productive.&lt;/p&gt;
+&lt;p&gt;What is observability? The capability of monitoring and analyzing event logs, along with KPIs and other data, that yields actionable insights.&lt;/p&gt;
+&lt;p&gt;In the data engineering context, observability is crucial for finding problems in jobs and data before those problems impact data consumers downstream. It’s a particularly difficult challenge because of the different platforms data engineers use (Airflow, Spark, Kubernetes, etc.) and the complicated life cycle of data pipeline CI/CD.&lt;/p&gt;
+&lt;p&gt;In the session, we will do a deep dive into the visibility gaps your team might face running production-scale Airflow. We will walk through a typical day in the life of finding errors in DAGs, offer best practices, and discuss open source tools you can use to extend Airflow for observability and robust monitoring.&lt;/p&gt;
+&lt;p&gt;We will use standard Airflow DAG examples to guide the presentation.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Achieving Airflow observability with Databand</title>
+      <link>https://airflowsummit.org/sessions/achieving-observability-with-databand/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/achieving-observability-with-databand/</guid>
+      <description>
+        
+        
+        &lt;p&gt;While Airflow is a central product for data engineering teams, it’s usually one piece of a bigger puzzle. The vast majority of teams use Airflow in combination with other tools like Spark, Snowflake, and BigQuery. Making sure pipelines are reliable, detecting issues that lead to SLA misses, and identifying data quality problems requires deep visibility into DAGs and data flows. Join this session to learn how Databand’s observability system makes it easy to monitor your end-to-end pipeline health and quickly remediate issues.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a sponsored talk, presented by &lt;a href=&#34;https://databand.ai/&#34;&gt;Databand&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Adding an executor to Airflow: A contributor overflow exception</title>
+      <link>https://airflowsummit.org/sessions/adding-executor-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/adding-executor-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Engaging with a new community is a common experience in OSS development. There are usually expectations held by the project about the contributor&amp;rsquo;s exposure  to the community, and by the contributor about interactions with the community.
+When these expectations are misaligned, the process is strained. In this talk Vanessa discusses a real life experience that required communication, persistence, and patience to ultimately lead to a positive outcome.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.google.com/presentation/d/e/2PACX-1vR2cbks1RHm6wYkbyw6u5GsbrIrR6aCDo_xi7f-fzAz3c7w4Nv_xfbBQeMG8dR9a6KUpr7ubg0y3Ac5/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000#slide=id.g76fec2913c_0_1&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Advanced Apache Superset for Data Engineers</title>
+      <link>https://airflowsummit.org/sessions/advanced-apache-superset/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/advanced-apache-superset/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Superset is the leading open source data exploration and visualization platform. In this talk, we&amp;rsquo;ll be presenting Superset with a focus on advanced topics that are most relevant to Data Engineers. The presentation will be largely a live demo of the product, with a deeper dive into advanced topics for Data Engineers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a sponsored talk, presented by &lt;a href=&#34;https://preset.io&#34;&gt;Preset&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: AIP-31: Airflow functional DAG definition</title>
+      <link>https://airflowsummit.org/sessions/aip-31-airflow-functional-dag-definition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/aip-31-airflow-functional-dag-definition/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Airflow does not currently have an explicit way to declare messages passed between tasks in a DAG. XCom are available but are hidden in execution functions inside the operator. AIP-31 proposes a way to make this message passing explicit in the DAG file and make it easier to reason about your DAG behaviour.&lt;/p&gt;
+&lt;p&gt;In this talk, we will explore what other DSL are doing for message passing and how has that influenced AIP-31. We will explore the motivations behind explicit message passing as well as more proposals that can be built on top of it. In addition, we will explore a new way to define custom Python transformations using the task decorator proposed, and how this change may improve the extensibility of Airflow for more experimental ETL use cases.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow as an elastic ETL tool</title>
+      <link>https://airflowsummit.org/sessions/airflow-elastic-etl-tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-elastic-etl-tool/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In search of a better, modern, simplistic method of managing ETL&amp;rsquo;s processes and merging them with various AI and ML tasks,  we landed on Airflow. We envisioned a new user friendly interface that can leverage dynamic DAG&amp;rsquo;s and reusable components to build an ETL tool that requires virtually no training.&lt;/p&gt;
+&lt;p&gt;We built several template DAG&amp;rsquo;s and connectors for Airflow to typical data sources, like SQL Server. Then proceeded to build a modern interface on top that brings ETL build, scheduling and execution capabilities.  Acknowledging Airflow is designed for task orchestration, we expanded our infrastructure to use K8 and Docker for elastic computing. Key to our solution is the ability to create ETL&amp;rsquo;s using only open source tools, whilst executing on-par or faster than commercial solutions and an interface so simple that ETL&amp;rsquo;s could be created in seconds.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow as the next gen of workflow system at Pinterest</title>
+      <link>https://airflowsummit.org/sessions/airflow-as-next-gen-workflow-at-pinterest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-as-next-gen-workflow-at-pinterest/</guid>
+      <description>
+        
+        
+        &lt;p&gt;At Pinterest, our current workflow system, called pinball, has served the data pipeline orchestration demands well for years. However, with the rapid increasing execution demand the system started to expose scalability and performance issues. Therefore we decided to look for a new solution to better address the issues and serve the workflow scheduling demand, and we chose Airflow as our next generation of workflow. In this talk we discuss how we made the decision to on board to Apache Airflow, and beyond the out-of-box features and experience what improvements we made to better support the business need at Pinterest.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow at Société Générale : An open source orchestration solution in a banking environment</title>
+      <link>https://airflowsummit.org/sessions/airflow-societe-generale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-societe-generale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This talk covers an overview of Airflow as well as lessons learned of its implementation in a banking production environment which is Société Générale. It will be the summary of a two-year experience, a storytelling of an adventure within Société Générale in order to offer an internal cloud solution based on Airflow (AirflowaaS).&lt;/p&gt;
+&lt;p&gt;I will cover the following points:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;As part of the search for an open source solution for the replacement of a proprietary orchestration suite, we carried out a study that allowed us to choose Apache Airflow as a solution, but why ?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The different implementation models (HA, Scalability, ..)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;How to manage an Airflow platforms in production with 45,000 runs per month?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow CI/CD: Github to Cloud Composer (safely)</title>
+      <link>https://airflowsummit.org/sessions/airflow-cicd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-cicd/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Deploying bad DAGs to your Airflow environment can wreak havoc. This talk provides an opinionated take on a mono repo structure for GCP data pipelines leveraging BigQuery, Dataflow and a series of CI tests for validating your Airflow DAGs before deploying them to Cloud Composer.&lt;/p&gt;
+&lt;p&gt;Composer makes deploying airflow infrastructure easy and deploying DAGs “just dropping files in a GCS bucket”. However, this opens the opportunity for many organizations to shoot themselves in the foot by not following a strong CI/CD process. Pushing bad dags to Composer can manifest in a really sad airflow webserver and many wasted DAG parsing cycles in the scheduler, disrupting other teams using the same environment. This talk will outline a series of recommended continuous integration tests to validate PRs for updating or deploying new Airflow DAGs before pushing them to your GCP Environment with a small “DAGs deployer” application that will manage deploying DAGs following some best practices. This talk will walk through explaining automating these tests with Cloud Build, but could easily be ported to your favorite CI/CD tool.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow in Airbnb</title>
+      <link>https://airflowsummit.org/sessions/airflow-airbnb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-airbnb/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Go over the yesterday, today and tomorrow for Airflow in Airbnb. Share our learnings and vision in Airflow core and around Airflow in its eco system.&lt;/p&gt;
+&lt;p&gt;Starting with the history of Airflow in Airbnb, briefly describe how Airflow is used and the high level overview of Airflow in Airbnb. Then going into out current setup of Airflow, short term plans, learnings and best practises of Airflow. And finally talk about our the roadmap and vision of Airflow in Airbnb. Aside with Airflow core, we would love to also talk about what we&amp;rsquo;ve done inside the Airflow ecosystem, including frameworks built on top of Airflow, workflow development tools, etc.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;The recording for this session is not available.&lt;/em&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow on Kubernetes: Containerizing your workflows</title>
+      <link>https://airflowsummit.org/sessions/airflow-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-kubernetes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;At Nielsen Digital we have been moving our ETLs to containerized environments managed by Kubernetes. We have successfully transferred some of our ETLs to this environment in production. In order to do this we used the following technologies: Helm to easily deploy Airflow on to Kubernetes; Airflow&amp;rsquo;s Kubernetes Executor to take full advantage Kubernetes features; and Airflow&amp;rsquo;s Kubernetes Pod Operator in order to execute our containerized Tasks within our DAGs. To automate a lot of the deployment process we also used Terraform. Lastly, Kubernetes features were used to gain much more fine grained control of Airflows infrastructure.&lt;/p&gt;
+&lt;p&gt;Join me in this talk to take an in depth look at how we used these technologies, why we used these technologies, and the results of using them so far. I will also briefly go over some features coming in Airflow 2.0 that we are considering to use in our workflows.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow the perfect match in our analytics pipeline</title>
+      <link>https://airflowsummit.org/sessions/k3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/k3/</guid>
+      <description>
+        
+        
+        &lt;p&gt;For three years we at LOVOO, a market-leading dating app, have been using the Google Cloud managed version of Airflow, a product we’ve been familiar with since its Alpha release. We took a calculated risk and integrated the Alpha into our product, and, luckily, it was a match. Since then, we have been leveraging this software to build out not only our data pipeline, but also boost the way we do analytics and BI.&lt;/p&gt;
+&lt;p&gt;The speaker will present an overview of the software’s usability for Pipeline Error Alerting through BashOperators that communicate with Slack and will touch upon how they built their Analytics Pipeline (deployment and growth) and currently batch big amounts of data from different sources effectively using Airflow. We will also showcase our PythonOperators-driven RedShift to BigQuery data migration process, as well as offer a guide for creating fully dynamic tasks inside DAG.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Airflow: A beast character in the gaming world</title>
+      <link>https://airflowsummit.org/sessions/airflow-beast-character-gaming-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-beast-character-gaming-world/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Being a pioneer for the past 25 years, SONY PlayStation has played a vital role in the Interactive Gaming Industry. Over 100+ million monthly active users, 100+ million PS-4 console sales along with thousands of game development partners across the globe, big-data problem is quite inevitable. This presentation talks about how we scaled Airflow horizontally which has helped us building a stable, scalable and optimal data processing infrastructure powered by Apache Spark, AWS ECS, EC2 and Docker.&lt;/p&gt;
+&lt;p&gt;Due to the demand for processing large volumes of data and also to meet the growing Organization’s data analytics and usage demands, the data team at PlayStation took an initiative to build an open source big data processing infrastructure where Apache Spark in Python as the core ETL engine. Apache Airflow is the core workflow management tool for the entire eco system. We started with an Airflow application running on a single AWS EC2 instance to support parallelism of 16 with 1 scheduler and 1 worker and eventually scaled it to a bigger scheduler along with 4 workers to support a parallelism of 96, DAG concurrency of 96 and a worker task concurrency of 24. Containerized all the services on AWS ECS which gave us an ability to scale Airflow horizontally.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Ask me anything with Airflow members</title>
+      <link>https://airflowsummit.org/sessions/ama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/ama/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ask me Anything with a group of Airflow committers &amp;amp; PMC members.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Autonomous driving with Airflow</title>
+      <link>https://airflowsummit.org/sessions/autonomous-driving-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/autonomous-driving-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This talk describes how Airflow is utilized in an Autonomous driving project, originating from Munich - Germany. We describe the Airflow setup, what challenges we encountered and how we maneuvered to achieve a distributed and highly scalable Airflow setup.&lt;/p&gt;
+&lt;p&gt;One of the biggest automotive manufacturers elected to go for Airflow as an orchestration tool, in the pursuit of producing their first Level-3 autonomous driving vehicle in Germany.&lt;/p&gt;
+&lt;p&gt;In this talk, we will describe the journey of deploying Airflow on top of OpenShift using a PostgreSQL database + RabbitMQ. We will describe how we achieve high-availability for the different Airflow components. We will tackle issues related to the database performance and failover recovery for the different Airflow components in our setup. In addition, we will present the bottlenecks we encountered with (1) Airflow scheduler (especially with complex DAGs), and (2) SparkSubmitOperator. For both topics, we will describe how we mitigated them. We will also describe how we leverage OpenShift to dynamically scale our Airflow deployment based on the running workloads.&lt;/p&gt;
+&lt;p&gt;The talk will be concluded with a brief overview of future requirements and beneficial features we believe will be helpful for the community.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Building reuseable and trustworthy ELT pipelines (A templated approach)</title>
+      <link>https://airflowsummit.org/sessions/building-reusable-trustworthy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/building-reusable-trustworthy/</guid>
+      <description>
+        
+        
+        &lt;p&gt;To improve automation of data pipelines, I propose a universal approach to ELT pipeline that optimizes for data integrity, extensibility, and speed to delivery. The workflow is built using open source tools and standards like Apache Airflow, Singer, Great Expectations, and DBT.&lt;/p&gt;
+&lt;p&gt;Templating ETLs is challenging! The creation and maintenance of data pipelines in production require hard work to manage bugs in code and bad data.&lt;/p&gt;
+&lt;p&gt;I like to propose a data pipeline pattern that can simplify building pipelines while optimizing for data integrity and observability. The workflow is built using open source tools like Singer, Great Expectations, and DBT.&lt;/p&gt;
+&lt;p&gt;Goals:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Make &lt;strong&gt;EL&lt;/strong&gt;T simple and fast to implement&lt;/li&gt;
+&lt;li&gt;Validate your assumptions of the data before you make it available for use&lt;/li&gt;
+&lt;li&gt;Allow analysts/data scientists add pain-free contributions to EL&lt;strong&gt;T&lt;/strong&gt; using SQL&lt;/li&gt;
+&lt;li&gt;Generate data documentation, failure logs for quick recovery, and fixes outages in your pipeline&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Target Audience:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Approachable to any level of developer&lt;/li&gt;
+&lt;li&gt;Novice data personals interested in starting ELT workflow and learning about different tools of the ecosystem&lt;/li&gt;
+&lt;li&gt;Intermediate+ developers interested in supercharging their pipeline with Write Audit Publish pattern and reducing pipeline debt&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Data DAGs with lineage for fun and for profit</title>
+      <link>https://airflowsummit.org/sessions/data-dags-with-lineage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/data-dags-with-lineage/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Let’s be honest about it. Many of us don’t consider data lineage to be cool. But what if lineage would allow you to write less boilerplate and less code, while at the same time make your data scientists, your auditors, your management and well everyone more happy? What if you could write DAGs that mix between tasks based and data based?&lt;/p&gt;
+&lt;p&gt;Lineage support has been incubating with Airflow for a while. It was buggy and not very easy to use. Still for a lot of reasons it is really cool to have data lineage available. One of those reasons is that it can make writing DAGs a lot easier. Recently a lot of development has gone into improved lineage support and to make it much easier or even transparent to use. In this talk I will focus on what we have in mind, evangelize data lineage but also gather feedback from the audience where we should take it next.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Data engineering hierarchy of needs</title>
+      <link>https://airflowsummit.org/sessions/data-engineering-hierarchy-needs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/data-engineering-hierarchy-needs/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Data Infrastructures look differently between small, mid, and large sized companies. Yet, most content out there is for large and sophisticated systems. And almost none of it is on migrating a legacy, on-prem, databases over to the cloud. In order to better explain the evolving needs of data engineering organizations, we will review the hierarchy of needs for data engineering.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://airflowsummit.org/images/misc/l1-hierarchy.png&#34; alt=&#34;Hierarchy diagram&#34;&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Data flow with Airflow @ PayPal</title>
+      <link>https://airflowsummit.org/sessions/data-flow-with-airflow-at-paypal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/data-flow-with-airflow-at-paypal/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In PayPal we decided to move away from two of our enterprise schedulers, Control-M and UC4, to Airflow.
+As we started the journey, the first most important step that we wanted to take was to build all the mandatory API’s on the top of Airflow so that we could integrate with our Self-Service Tools. In this talk we share the challenges that we ran into while building APIs on top of Airflow and how we overcame them.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Demo: Reducing the lines, a visual DAG editor</title>
+      <link>https://airflowsummit.org/sessions/demo-visual-dag-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/demo-visual-dag-editor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this talk I will introduce a DAG authoring and editing tool for Airflow that we have built. Installed as a plugin, this tool allows users to author DAGs compose existing operators and hooks with virtually no Python experience. We walk through a demo of DAG authorship and deployment, and spend time reviewing the underlying open-source standards used and the general approach that was taken to develop the code.&lt;/p&gt;
+&lt;p&gt;In addition to allowing dags to be created in a visual editor, the underlying tech enables Airflow DAGs to be described programmatically in YAML or JSON. DAGs described there can be saved in backing databases instead of Python files.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Democratised data workflows at scale</title>
+      <link>https://airflowsummit.org/sessions/democratised-data-workflows-at-scale/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/democratised-data-workflows-at-scale/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Financial Times is increasing its digital revenue by allowing business people to make data-driven decisions. Providing an Airflow based platform where data engineers, data scientists, BI experts and others can run language agnostic jobs was a huge swing. One of the most successful steps in the platform’s development was building our own execution environment, allowing stakeholders to self deploy jobs without cross team dependencies on top of the unlimited scale of Kubernetes. In this talk we share how we have integrated and extended Airflow at Financial Times.&lt;/p&gt;
+&lt;p&gt;The main topics we will cover include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Providing team level security isolation&lt;/li&gt;
+&lt;li&gt;Removing cross team dependencies&lt;/li&gt;
+&lt;li&gt;Creating execution environment for independently creating and deploying R, Python, JAVA, Spark, etc jobs&lt;/li&gt;
+&lt;li&gt;Reducing latency when sharing data between task instances&lt;/li&gt;
+&lt;li&gt;Integrating all these features on top of Kubernetes&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Effective Cross-DAG dependency</title>
+      <link>https://airflowsummit.org/sessions/effective-cross-dag-dependency/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/effective-cross-dag-dependency/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Cross-DAG dependency may reduce cohesion in data pipelines and, without having an explicit solution in Airflow or in a third-party plugin, those pipelines tend to become complex to handle. That is the reason we, at QuintoAndar, have created an intermediate DAG to handle relationships across data pipelines called Mediator, in order for them to be scalable and maintainable by any team.&lt;/p&gt;
+&lt;p&gt;At QuintoAndar we seek automation and modularization in our data pipelines and believe that breaking them into many responsibility modules (DAGs) enhances maintainability, reusability and understanding to move data from one point to another. However, extending interconnections between DAGs tend to reduce those enhancements, make them complex and, above all, there&amp;rsquo;s no explicit built-in solution in Airflow for them. That is why we created a Mediator DAG.&lt;/p&gt;
+&lt;p&gt;The Mediator DAG in Airflow has the responsibility of looking for successfully finished DAG executions that may represent the previous step of another. That is, if a DAG is dependent of another, the Mediator will take care of checking and triggering the necessary objects for the data flow to continue.&lt;/p&gt;
+&lt;p&gt;In conclusion, it is sometimes not practical to combine multiple DAGs into one. Hence, our proposal, is to define a Mediator DAG to handle dependencies and bring cohesion to a data pipeline without losing its purpose.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://prezi.com/view/f9qa6gKEWgdiQ0TuJvXL/&#34;&gt;View presentation (Prezi)&lt;/a&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: From cron to Airflow on Kubernetes: A startup story</title>
+      <link>https://airflowsummit.org/sessions/cron-airflow-kubernetes-startup-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/cron-airflow-kubernetes-startup-story/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Learn how Devoted Health went from cron jobs to Airflow deployment Kubernetes using a combination of open source and internal tooling.&lt;/p&gt;
+&lt;p&gt;Devoted Health, a Medicare Advantage startup, went from cron jobs to Airflow on Kubernetes in a short period of time. This journey is a common one, but still has a steep learning curve for new Airflow users. This talk will give you a blueprint to follow by covering the tools we use, best practices, and lessons learned. We&amp;rsquo;ll share Devoted&amp;rsquo;s approach to managing our deployment, monitoring the platform, and developing, testing, and deploying DAGs. This includes internal tooling we&amp;rsquo;ve written that allows Data Scientists to work with Airflow without worrying about Airflow itself.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: From S3 to BigQuery - How a first-time Airflow user successfully implemented a data pipeline</title>
+      <link>https://airflowsummit.org/sessions/s3-bigquery-implementation-data-pipeline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/s3-bigquery-implementation-data-pipeline/</guid>
+      <description>
+        
+        
+        &lt;p&gt;BigQuery is GCP&amp;rsquo;s serverless, highly scalable and cost-effective cloud data warehouse that can analyze petabytes of data at super fast speeds. Amazon S3 is one of the oldest and most popular cloud storage offerings. Folks with data in S3 often want to use BigQuery to gain insights into their data. Using Apache Airflow, they can build pipelines to seamlessly orchestrate that connection. In this talk, Leah walks through how they created an easily configurable pipeline to extract data.&lt;/p&gt;
+&lt;p&gt;When a team at work mentioned wanting to set up a repeatable process for migrating data stored in S3 to BigQuery, Leah knew using Cloud Composer (GCP-hosted Airflow) was the right tool for the job, but she didn&amp;rsquo;t have much experience with the proprietary file types the data used. Luckily, one of her colleagues did have experience with that proprietary file type, though they hadn&amp;rsquo;t worked with Airflow. Leah and her colleague teamed up to build a reusable, easily configurable solution for the team. She will walk you through their problem, the solution, and the process they took for coming to that solution, highlighting resources that were especially useful to a first-time Airflow user.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: From Zero to Airflow: bootstrapping a ML platform</title>
+      <link>https://airflowsummit.org/sessions/bootstrapping-ml-platform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/bootstrapping-ml-platform/</guid>
+      <description>
+        
+        
+        &lt;p&gt;At Bluevine we use Airflow to drive our ML platform. In this talk, Noam presents the challenges and gains we had at transitioning from a single server running Python scripts with cron to a full blown Airflow setup. This includes: supporting multiple Python versions,  event driven DAGs, performance issues and more!&lt;/p&gt;
+&lt;p&gt;Some of the points that I&amp;rsquo;ll cover are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Supporting multiple Python versions&lt;/li&gt;
+&lt;li&gt;Event driven DAGs&lt;/li&gt;
+&lt;li&gt;Airflow Performance issues and how we circumvented them&lt;/li&gt;
+&lt;li&gt;Building Airflow plugins to enhance observability&lt;/li&gt;
+&lt;li&gt;Monitoring Airflow using Grafana&lt;/li&gt;
+&lt;li&gt;CI for Airflow DAGs (super useful!)&lt;/li&gt;
+&lt;li&gt;Patching Airflow scheduler&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.slideshare.net/noamelf/airflow-summit-2020&#34;&gt;Slides&lt;/a&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: How do we reason about the reliability of our data pipeline in Wrike</title>
+      <link>https://airflowsummit.org/sessions/reliability-data-pipeline-wrike/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/reliability-data-pipeline-wrike/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this talk we will share some of the lessons we have learned after using Airflow for a couple of years and growing from 2 users to 8 teams. We cover: establishing a reliable review process on AirFlow, managing multiple Airflow configurations, data versioning.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Improving Airflow&#39;s user experience</title>
+      <link>https://airflowsummit.org/sessions/improving-airflow-user-experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/improving-airflow-user-experience/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Astronomer is focused on improving Airflow’s user experience through the entire lifecycle — from authoring + testing DAGs, to building containers and deploying the DAGs, to running and monitoring both the DAGs and the infrastructure that they are operating within — with an eye towards increased security and governance as well. In this talk we walk you through some current UX challenges, an overview of how the Astronomer platform addresses the major challenges, and also provide sneak peek of the things that we’re working on in the coming months to improve Airflow’s user experience.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a sponsored talk, presented by &lt;a href=&#34;https://astronomer.io&#34;&gt;Astronomer&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Keynote: Airflow then and now</title>
+      <link>https://airflowsummit.org/sessions/airflow-then-now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/airflow-then-now/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Bolke and Maxime tell us about past on current time of Apache Airflow.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Keynote: Future of Airflow</title>
+      <link>https://airflowsummit.org/sessions/future-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/future-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A team of core committers explain what is coming to Airflow 2.0.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Keynote: How large companies use Airflow for ML and ETL pipelines</title>
+      <link>https://airflowsummit.org/sessions/how-airbnb-twitter-lyft-use-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/how-airbnb-twitter-lyft-use-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this talk, colleagues from Airbnb, Twitter and Lyft share details about how they are using Apache Airflow to power their data pipelines.&lt;/p&gt;
+&lt;p&gt;Slides:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.slideshare.net/taofung/airflow-at-lyft-airflow-summit2020&#34;&gt;Tao Feng (Lyft)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://airflowsummit.org/slides/b1-Twitter-Dan.pdf&#34;&gt;Dan Davydov (Twitter)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Keynote: Making Airflow a sustainable project through D&amp;I</title>
+      <link>https://airflowsummit.org/sessions/making-airflow-community-sustainable-through-di/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/making-airflow-community-sustainable-through-di/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Gris Cuevas shares some statistics about the state of D&amp;amp;I at the Apache Software Foundation and also the initiative the foundation is taking to make projects more diverse and inclusive. Then, Aizhamal shares her own journey on becoming an open source contributor, and dives into project specific initiatives that help Apache Airflow to be one of the most sustainable projects in open source.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Machine Learning with Apache Airflow</title>
+      <link>https://airflowsummit.org/sessions/machine-learning-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/machine-learning-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This talk discusses how to build an Airflow based data platform that can take advantage of popular ML tools (Jupyter, Tensorflow, Spark) while creating an easy-to-manage/monitor&lt;/p&gt;
+&lt;p&gt;As the field of data science grows in popularity, companies find themselves in need of a single common language that can connect their data science teams and data infrastructure teams. Data scientists want rapid iteration, infrastructure engineers want monitoring and security controls, and product owners want their solutions deployed in time for quarterly reports. This talk will discuss how to build an Airflow based data platform that can take advantage of popular ML tools (Jupyter, Tensorflow, Spark) while creating an easy-to-manage/monitor ecosystem for data infrastructure and support team.&lt;/p&gt;
+&lt;p&gt;In this talk, we will take an idea from a single-machine Jupyter Notebook to a cross-service Spark + Tensorflow pipeline, to a canary tested, production-ready model served on Google Cloud Functions. We will show how Apache Airflow can connect all layers of a data team to deliver rapid results.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Migrating Airflow-based Spark jobs to Kubernetes - the native way</title>
+      <link>https://airflowsummit.org/sessions/migrating-airflow-based-spark-jobs-to-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/migrating-airflow-based-spark-jobs-to-kubernetes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;At Nielsen Identity Engine, we use Spark to process 10’s of TBs of data. Our ETLs, orchestrated by Airflow, spin-up AWS EMR clusters with thousands of nodes per day. In this talk, we’ll guide you through migrating Spark workloads to Kubernetes with minimal changes to Airflow DAGs, using the open-sourced GCP Spark-on-K8s operator and the native integration we recently contributed to the Airflow project.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Migration to Airflow backport providers</title>
+      <link>https://airflowsummit.org/sessions/migration-to-airflow-backport-providers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/migration-to-airflow-backport-providers/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this talk Anita showcases how to use the newly released Airflow Backport Providers.&lt;/p&gt;
+&lt;p&gt;Some of the topics we will cover are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to install them in Airflow 1.10.x&lt;/li&gt;
+&lt;li&gt;How to install them in Composer&lt;/li&gt;
+&lt;li&gt;How to migrate one or more DAG from using legacy to new providers.&lt;/li&gt;
+&lt;li&gt;Known bugs and fixes.&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Pipelines on pipelines: Agile CI/CD workflows for Airflow DAGs</title>
+      <link>https://airflowsummit.org/sessions/pipelines-agile-ci-cd-workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/pipelines-agile-ci-cd-workflows/</guid>
+      <description>
+        
+        
+        &lt;p&gt;How do you create fast and painless delivery of new DAGs into production? When running Airflow at scale, it becomes a big challenge to manage the full lifecycle around your pipelines; making sure that DAGs are easy to develop, test, and ship into prod. In this talk, we will cover our suggested approach to building a proper CI/CD cycle that ensures the quality and fast delivery of production pipelines.&lt;/p&gt;
+&lt;p&gt;CI/CD is the practice of delivering software from dev to prod, optimized for fast iteration and quality control. In the data engineering context, DAGs are just another piece of software that require some form of lifecycle management. Traditionally, DAGs have been thought of as relatively static, but the new wave of analytics and machine learning efforts require more agile DAG development, in line with how agile software engineering teams build and ship code.&lt;/p&gt;
+&lt;p&gt;In this session, we will dive into the challenges of building CI/CD cycles for Airflow DAGs. We will focus on a pipeline that involves Apache Spark as an extra dimension of real-world complexity, walking through a typical flow of DAG authoring, debugging, and testing, from local to staging to prod environments. We will offer best practices and discuss open-source tools you can use to easily build your own smooth cycle for Airflow CI/CD.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Production Docker image for Apache Airflow</title>
+      <link>https://airflowsummit.org/sessions/production-docker-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/production-docker-image/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This talk will guide you trough internals of the official Production Docker Image of Airflow. It will show you the foreseen use cases for it and how to use it in conjunction with the Official Helm Chart to make your own deployments.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Run Airflow DAGs in a secure way</title>
+      <link>https://airflowsummit.org/sessions/run-airflow-dags-secure-way/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/run-airflow-dags-secure-way/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In the contemporary world security is important more than ever - Airflow installations are no exception. Google Cloud Platform and Cloud Composer offer useful security options for running your DAGs and tasks in a way so you effectively can manage a risk of data exfiltration and access to the system is limited.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a sponsored talk, presented by &lt;a href=&#34;https://cloud.google.com&#34;&gt;Google Cloud&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Scheduler as a service - Apache Airflow at EA Digital Platform</title>
+      <link>https://airflowsummit.org/sessions/scheduler-as-a-service/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/scheduler-as-a-service/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this talk, we share the lessons learned while building a scheduler-as-a-service leveraging Apache Airflow to achieve improved stability and security for one of the  largest gaming companies. The platform integrates with different data sources and meets varied SLA’s across workflows owned by multiple game studios. In particular, we present a comprehensive self-serve airflow architecture with multi-tenancy, auto-dag generation, SSO-integration with improved ease of deployment.&lt;/p&gt;
+&lt;p&gt;Within Electronic Arts, to provide scheduler-as-a-service and to support hundreds of thousands of execution workflows, each team requires an isolated environment with access to a central data lake containing several petabytes of anonymized player and game metrics. Leveraging Airflow, each team is provided  a private code repository and namespace with which they can deploy their DAGs at their own behest. To support agile development cycles, a private testing sandbox and auto-deployment to an isolated multi-tenant airflow platform has been made available to game studios.&lt;/p&gt;
+&lt;p&gt;In production, a single dockerized airflow deployment on Kubernetes is utilized to ensure highly availability and single-step deployment. Custom SSO-integration and RBAC-based operator and sensor whitelisting allows for secure logical isolation. In addition, providing dynamic DAG instantiation capability helps address varied SLA’s during game launch seasons that are staggered through a financial year.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Teaching an old DAG new tricks</title>
+      <link>https://airflowsummit.org/sessions/teaching-old-dag-new-tricks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/teaching-old-dag-new-tricks/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Scribd is migrating its data pipeline from an in house system to Airflow. It’s a one big giant data pipeline consisting of more than 1,500 tasks. In this talk, I would like to share couple best practices on setting up a cloud native Airflow deployment in AWS. For those who are interested in migrating a non-trivial data pipeline to Airflow, I will also share how Scribd plans and executes the migration.&lt;/p&gt;
+&lt;p&gt;Here are some of the topics that will be covered:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to setup a highly available Airflow cluster in AWS using both ECS and EKS with Terraform.&lt;/li&gt;
+&lt;li&gt;How to manage Airflow DAGs across multiple git repositories.&lt;/li&gt;
+&lt;li&gt;How we manage Airflow variables using a custom Airflow Terraform provider.&lt;/li&gt;
+&lt;li&gt;Best practices on monitoring multiple Airflow clusters with Datadog and Pagerduty.&lt;/li&gt;
+&lt;li&gt;How to Airflow to make it feature parity with Scribd’s in house orchestration system.&lt;/li&gt;
+&lt;li&gt;How to plan and execute non-trivial data pipeline migrations. We transcompiled internal DSL to Airflow DAG to simulate what a real run will look like to surface performance issues early in the process.&lt;/li&gt;
+&lt;li&gt;How we fixed an Airflow performance bottleneck so our giant DAG can be properly rendered in Web UI.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For detailed deep dives on some of topics mentioned above, please check out our blog post series at &lt;a href=&#34;https://tech.scribd.com/tag/airflow-series/&#34;&gt;https://tech.scribd.com/tag/airflow-series/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[Slides] (&lt;a href=&#34;https://docs.google.com/presentation/d/e/2PACX-1vRb-iH5NX2d7m-rQ7WGc6XlRvRCADwXq2hdjRjRuJ5h7e9ybfoUA13ytxpHgx7JG815fIKEE-QKuRUV/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&#34;&gt;https://docs.google.com/presentation/d/e/2PACX-1vRb-iH5NX2d7m-rQ7WGc6XlRvRCADwXq2hdjRjRuJ5h7e9ybfoUA13ytxpHgx7JG815fIKEE-QKuRUV/pub?start=false&amp;amp;loop=false&amp;amp;delayms=3000&lt;/a&gt;)&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Testing Airflow workflows - ensuring your DAGs work before going into production</title>
+      <link>https://airflowsummit.org/sessions/testing-airflow-workflows/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/testing-airflow-workflows/</guid>
+      <description>
+        
+        
+        &lt;p&gt;How do you ensure your workflows work before deploying to production? In this talk I&amp;rsquo;ll go over various ways to assure your code works as intended - both on a task and a DAG level.&lt;/p&gt;
+&lt;p&gt;In this talk I cover:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to test and debug tasks locally&lt;/li&gt;
+&lt;li&gt;How to test with and without task instance context&lt;/li&gt;
+&lt;li&gt;How to test against external systems, e.g. how to test a PostgresOperator?&lt;/li&gt;
+&lt;li&gt;How to test the integration of multiple tasks to ensure they work nicely together&lt;/li&gt;
+&lt;/ul&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Using Airflow to speed up development of data intensive tools</title>
+      <link>https://airflowsummit.org/sessions/using-airflow-speed-development-data-tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/using-airflow-speed-development-data-tools/</guid>
+      <description>
+        
+        
+        &lt;p&gt;In this talk we review how Airflow helped create a tool to detect data anomalies. Leveraging Airflow for process management, database interoperability, and authentication created an easy path forward to achieve scale, decrease the development time and pass security audits. While Airflow is generally looked at as a solution to manage data pipelines, integrating tools with Airflow can also speed up development of those tools.&lt;/p&gt;
+&lt;p&gt;The Data Anomaly Detector was created at One Medical to scan thousands of metrics per day for data anomalies.  It&amp;rsquo;s a complicated tool and much of that complexity was outsourced to Airflow.  Because the data infrastructure at One Medical was already built around Airflow, and Airflow had many desirable features, it made sense to build the tool to integrate closely with Airflow.  The end result was more time could be spend on building features to do statistical analysis, and less effort had to be spent on database authentication, interoperability or process management.  It&amp;rsquo;s an interesting example of how Airflow can be leveraged to build data intensive tools.&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: What open source taught us about business</title>
+      <link>https://airflowsummit.org/sessions/what-open-source-taught-us-about-business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/sessions/what-open-source-taught-us-about-business/</guid>
+      <description>
+        
+        
+        &lt;p&gt;This talk shares Polidea’s journey from mobile app development studio to an OSS oriented business partner. We will tell you our story towards code leadership throughout the years. We are also going to share the challenges and practical insights into managing open source projects in our company. After this talk, you will know how we approached combining open source, business and team management not forgetting about a human aspect.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a sponsored talk, presented by &lt;a href=&#34;https://www.polidea.com&#34;&gt;Polidea&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Workshop: Best Practices for running Airflow on Kubernetes</title>
+      <link>https://airflowsummit.org/workshops/workshop-airflow-kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/workshops/workshop-airflow-kubernetes/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Participation in this workshop requires previous registration and has limited capacity. Get your ticket at &lt;a href=&#34;https://ti.to/airflowsummit/w2&#34;&gt;https://ti.to/airflowsummit/w2&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;With the growing popularity of Kubernetes in the tech industry, many Airflow users have started deploying Airflow on Kubernetes. With this migration, Airflow users have a lot of questions regarding best practices (Do I mount my DAGs via volume or bake them into the image? How do I inject my secrets? etc.).&lt;/p&gt;
+&lt;p&gt;To answer many of these questions, we invite you to join Daniel Imberman (Apache Airflow Committer and creator of the KubernetesExecutor) and Greg Neiheisel (Chief Architect of Astronomer.io) to learn all of the ins-and-outs of running airflow on Kubernetes.&lt;/p&gt;
+&lt;p&gt;Topics covered will include: The official Airflow Helm chart, Local development with KinD (Kubernetes-in-docker), Autoscaling with KEDA, KubernetesExecutor best-practices, and alerting/debugging airflow issues on Kubernetes.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Astronomer.io services over 300 airflow deployments across a wide range of Kubernetes services (including GKE, EKS, AKS, and IKS), and we are excited to bring this experience and expertise to you.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Prerrequisites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The facilitators of the workshop will not provide a Kubernetes cluster for working. So, you need to have your own Kubernetes cluster or a local KinD cluster (and kubectl), as well as a Python environment (3.6 or later).&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Workshop: Contributing to Apache Airflow</title>
+      <link>https://airflowsummit.org/workshops/workshop-contributing-apache-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/workshops/workshop-contributing-apache-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Participation in this workshop requires previous registration and has limited capacity. Get your ticket at &lt;a href=&#34;https://ti.to/airflowsummit/w3&#34;&gt;https://ti.to/airflowsummit/w3&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;By attending this workshop, you will learn how you can become a contributor to the Apache Airflow project. You will learn how to setup a development environment, how to pick your first issue, how to communicate effectively within the community and how to make your first PR - experienced committers of Apache Airflow project will give you step-by-step instructions and will guide you in the process. When you finish the workshop you will be equipped with everything that is needed to make further contributions to the Apache Airflow project.&lt;/p&gt;
+&lt;h2 id=&#34;prerrequisites&#34;&gt;Prerrequisites:&lt;/h2&gt;
+&lt;p&gt;The session is geared towards Mac and Linux users, but Windows users are more than welcome to join. You need to have Python experience.&lt;/p&gt;
+&lt;p&gt;In preparation for the class, please make sure you have set up the following prerequisites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;make a fork of the &lt;a href=&#34;https://github.com/apache/airflow&#34;&gt;https://github.com/apache/airflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;clone the forked repository locally&lt;/li&gt;
+&lt;li&gt;follow the Breeze prerequisites: &lt;a href=&#34;https://github.com/apache/airflow/blob/master/BREEZE.rst#prerequisites&#34;&gt;https://github.com/apache/airflow/blob/master/BREEZE.rst#prerequisites&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;run &lt;code&gt;./breeze --python 3.6&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;create a virtualenv as described in &lt;a href=&#34;https://github.com/apache/airflow/blob/master/LOCAL_VIRTUALENV.rst&#34;&gt;https://github.com/apache/airflow/blob/master/LOCAL_VIRTUALENV.rst&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;part of preparing the virtualenv is initializing it with &lt;code&gt;./breeze initialize-local-virtualenv&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sessions: Workshop: Getting started with Apache Airflow</title>
+      <link>https://airflowsummit.org/workshops/workshop-getting-started-apache-airflow/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/workshops/workshop-getting-started-apache-airflow/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Participation in this workshop requires previous registration and has limited capacity. Get your ticket at &lt;a href=&#34;https://ti.to/airflowsummit/w1&#34;&gt;https://ti.to/airflowsummit/w1&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this workshop we’ll give you a full introduction into Airflow and you will learn how to create your first DAG. We will use Cloud Composer on the Google Cloud, which makes it easy for everyone to get started and have your first DAG up and running.&lt;/p&gt;
+&lt;p&gt;We will go over all the theory behind Airflow, visit the terminology, and start writing our first DAG. After this workshop you should feel comfortable to write, monitor and debug your own DAGs.&lt;/p&gt;
+&lt;p&gt;Prerequisites:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Knowledge: No prior Airflow knowledge is required, but you need to have a basic understanding of the Python programming language.&lt;/li&gt;
+&lt;li&gt;Infrastructure: Since we will be using Cloud Composter, our execution environment will be in the Cloud. The only thing you need to have installed locally is git and your favorite Python IDE.&lt;/li&gt;
+&lt;li&gt;Account/registration: We will be pushing from GitHub to Google Cloud, so you will be needing a GitHub account.&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

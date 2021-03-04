@@ -1,0 +1,15 @@
+<section class="hero">
+    <div class="hero-info">
+        <img class="mb-4" src="{{ .Site.Params.logo | relURL }}" alt="Airflow Summit">
+        <p class="tagline">
+            {{ .Site.Params.hero.text }}
+        </p>
+
+        {{ with .Site.Params.hero.cta }}
+        <a id="hero-button" href="{{ .link }}" target="_blank" class="mr-4">
+            <button id="button-hero" class="btn btn-primary">{{ .text }}</button>
+        </a>
+        {{ end }}
+
+    </div>
+</section>

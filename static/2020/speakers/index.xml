@@ -1,0 +1,735 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airflow Summit 2020 – Speakers</title>
+    <link>https://airflowsummit.org/speakers/</link>
+    <description>Recent content in Speakers on Airflow Summit 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://airflowsummit.org/speakers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Speakers: Ash Berlin-Taylor</title>
+      <link>https://airflowsummit.org/speakers/ash-berlin-taylor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/ash-berlin-taylor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ash is a developer-turned-sysadmin-turned-developer again who has been working on Airflow since 2017 and PMC member since 2018, and now works full-time at astronomer.io making Airflow better for everyone. He/him.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Fokko Driesprong</title>
+      <link>https://airflowsummit.org/speakers/fokko-driesprong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/fokko-driesprong/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Fokko Driesprong is passionate about (open-source) code, which explains the nightly PR&amp;rsquo;s. He&amp;rsquo;s working as a data engineering consultant, helping others to become successful with data, including Apache Airflow. Besides being behind the computer, he loves to automate everything possible in and around his house. Enjoys drinking beer with friends, skiing in the winter, and occasionally plays a game of golf.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Viraj Parekh</title>
+      <link>https://airflowsummit.org/speakers/viraj-parekh/</link>
+      <pubDate>Fri, 03 Jul 2020 18:04:59 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/viraj-parekh/</guid>
+      <description>
+        
+        
+        &lt;p&gt;As a member of the enterprise product team, I focus on helping organizations adopt Apache Airflow on Kubernetes. This includes being the primary sales engineer on pre-sales discussions about the Astronomer platform&amp;rsquo;s capabilities and how it fits into the organizations needs, triaging issues between our roadmap and customer needs with the platform team, and jumping in as Level I or II support. I work with customers across all environments (public clouds and on-prem) and all levels of internal Kubernetes knowledge.&lt;/p&gt;
+&lt;p&gt;Additionally, I&amp;rsquo;m actively involved in designing, delivering, and marketing Spacecamp, our training solution designed to accelerate how teams adapt Apache Airflow. I&amp;rsquo;ve conducted Airflow trainings in both remote and on-site settings for customers including major financial institutions, top healthcare companies, and tech startups.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Ry Walker</title>
+      <link>https://airflowsummit.org/speakers/ry-walker/</link>
+      <pubDate>Fri, 03 Jul 2020 17:44:14 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/ry-walker/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ry is a founder and CTO of Astronomer, which is dedicated to helping enterprises realize the value of Apache Airflow. Prior to Astronomer, he co-founded Differential — a high-growth, venture capital-backed startup studio. He served as Chief Experience Officer of RecruitMilitary and VP/Technology of The Devine Group (both acquired), and in 1995 he established one of the first web interactive agencies in the United States.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: QP Hou</title>
+      <link>https://airflowsummit.org/speakers/qp-hou/</link>
+      <pubDate>Fri, 03 Jul 2020 17:04:45 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/qp-hou/</guid>
+      <description>
+        
+        
+        &lt;p&gt;QP manages batch processing pipeline at Scribd. Prior to that, he worked on Machine Learning and Monitoring Infrastructure at Floyd Labs and Linkedin respectively.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Conor Camp</title>
+      <link>https://airflowsummit.org/speakers/conor-camp/</link>
+      <pubDate>Wed, 01 Jul 2020 10:49:35 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/conor-camp/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Conor is a Sr. Software Engineer in the Data Platform team at Airbnb, where he builds core data pipelines and ETL tooling.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Karolina Rosol</title>
+      <link>https://airflowsummit.org/speakers/karolina-rosol/</link>
+      <pubDate>Mon, 29 Jun 2020 19:08:30 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/karolina-rosol/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Karolina is a Project Manager at Polidea, a product studio in Warsaw. She currently manages cloud OSS projects that use Apache Airflow and Beam. However, for 5 years she has been involved in working with international clients and teams of different sizes to make their ideas and goals happen. She took care of design and development projects for early stage startups as well as big brands. All done using and experimenting with diverse Agile tools and techniques.&lt;/p&gt;
+&lt;p&gt;Karolina is an open-minded individual with a strong will for optimisation, out of the box ideas and deep care for communication. Her love for challenges led her to cloud open source projects. She also works on engaging more people to become open source contributors by organising Apache Airflow / Beam meet-ups in Warsaw.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Cong Zhu</title>
+      <link>https://airflowsummit.org/speakers/cong-zhu/</link>
+      <pubDate>Mon, 29 Jun 2020 18:57:01 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/cong-zhu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I am a software engineer at Airbnb&amp;rsquo;s data platform.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Yingbo Wang</title>
+      <link>https://airflowsummit.org/speakers/yingbo-wang/</link>
+      <pubDate>Mon, 29 Jun 2020 18:52:31 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/yingbo-wang/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Software Engineer at Airbnb, working on Airflow since 2018. Before joining Airbnb, I worked for Foxit Software and GE Digital in Silicon Valley, being responsible for the development of website and back-end Management Information System. Interested in challenges from different tech areas.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Ping Zhang</title>
+      <link>https://airflowsummit.org/speakers/ping-zhang/</link>
+      <pubDate>Sun, 28 Jun 2020 15:37:19 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/ping-zhang/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I have been working on Airflow since I joined in Airbnb in 2018. It is also the time when I came to the data world. Before Airbnb, I worked for Citadel to build risk analysis tools, and in Groupon, I was part of the Users Service Team to manage users lifecycle. I am interested in different tech areas, including SOA, infrastructure, data, DevOps.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Anita Fronczak</title>
+      <link>https://airflowsummit.org/speakers/anita-fronczak/</link>
+      <pubDate>Tue, 23 Jun 2020 14:38:26 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/anita-fronczak/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I am an application developer with 6 years of experience. I enjoy creating elegant software solutions that solve real life problems. I have been creating mostly backend systems but I am also able to create front-end code. I like solving problems that come with scale. I am technology enthusiast recently interested in big data technologies an Scala. I am team player who likes to share her experience and learn from others.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Ace Haidrey</title>
+      <link>https://airflowsummit.org/speakers/ace-haidrey/</link>
+      <pubDate>Tue, 23 Jun 2020 14:32:16 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/ace-haidrey/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I&amp;rsquo;m currently a software engineer on the big data platform team in Pinterest where our focus is on the workflow platform. We are migrating from old systems to this new one, which is built around airflow. Prior to here, I was on the data engineering team at Pandora where I first started exploring workflow systems and brought in a service built around Airflow there.
+Outside of software, I help my family operate two pizza shops so coding and cooking are in my DNA!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Xiaoqin Zhu</title>
+      <link>https://airflowsummit.org/speakers/xiaoqin-zhu/</link>
+      <pubDate>Tue, 23 Jun 2020 14:31:56 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/xiaoqin-zhu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I’m a full stack software engineer under EADP Data &amp;amp; AI at Electronic Arts. I am currently looking at enhancing our data pipeline development process with Airflow.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Yulei Li</title>
+      <link>https://airflowsummit.org/speakers/yulei-li/</link>
+      <pubDate>Mon, 22 Jun 2020 17:01:10 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/yulei-li/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I&amp;rsquo;m a Software Engineer @ Pinterest Workflow Team in the Data Org. I have been working on Airflow for almost a year and the team is in the progress of migrating from the old workflow platform to Airflow. Before joining Pinterest, I received my master degree from Carnegie Mellon University.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Rafal Biegacz</title>
+      <link>https://airflowsummit.org/speakers/rafal-biegacz/</link>
+      <pubDate>Mon, 22 Jun 2020 04:56:42 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/rafal-biegacz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Rafal Biegacz is Senior Engineering Manager working within Google Cloud group where he is responsible for Cloud Composer (managed workflows service based on Apache Airflow).&lt;/p&gt;
+&lt;p&gt;At Google he also lead Cloud Partner Engineering team helping EMEA technological partners to onboard their solutions on GCP and was responsible for Marketplace Click-to-Deploy program within GCP Marketplace.  Prior to joining Google, Rafal worked for many years for Intel where he was focused on delivering cloud solutions in the following domains: Big Data, machine learning and computer security (e.g backend service for SGX) .&lt;/p&gt;
+&lt;p&gt;Rafal holds Master of Science degree in the field of Teleinformatics from Gdansk University of Technology and currently delivers lectures related to Google Cloud Platform and cloud computing to students of University of Warsaw and Technical University of Warsaw.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Alaeddine Maaoui</title>
+      <link>https://airflowsummit.org/speakers/alaeddine-maaoui/</link>
+      <pubDate>Fri, 19 Jun 2020 01:03:57 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/alaeddine-maaoui/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alaeddine is Product Owner for Airflow at Société Générale in Paris, France. Before that, he was a consultant for Sogeti and HP.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Patricio Garza</title>
+      <link>https://airflowsummit.org/speakers/patricio-garza/</link>
+      <pubDate>Thu, 18 Jun 2020 00:04:53 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/patricio-garza/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Patricio has 20 years of experience in software and data engineering, working with organizations like Warner Bros, Sony and Facebook. He is currently a Principal Data Architect at PlayStation.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Michal Dura</title>
+      <link>https://airflowsummit.org/speakers/michal-dura/</link>
+      <pubDate>Wed, 17 Jun 2020 23:18:26 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/michal-dura/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Big Data Engineer @ DXC Technology. 5+ years of experience as data engineer with strong technical background.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Maciej Oczko</title>
+      <link>https://airflowsummit.org/speakers/maciej-oczko/</link>
+      <pubDate>Wed, 17 Jun 2020 23:10:37 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/maciej-oczko/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I’m a CTO at Polidea, a development studio delivering digital products, where I manage and oversee the engineering team. As a big believer in constructive feedback, I foster a culture of growth and learning, and provide leadership in internal projects. I am also involved in the implementation of recruitment and business development strategies that lead to the creation of #UniqueTech.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Josh Benamram</title>
+      <link>https://airflowsummit.org/speakers/josh-benamram/</link>
+      <pubDate>Wed, 17 Jun 2020 23:04:21 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/josh-benamram/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Josh is co-founder &amp;amp; CEO at Databand, where he and his team help data engineers achieve better observability and control over their tech stack.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Evgeny Shulman</title>
+      <link>https://airflowsummit.org/speakers/evgeny-shulman/</link>
+      <pubDate>Wed, 17 Jun 2020 22:52:02 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/evgeny-shulman/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Evgeny is a co-founder &amp;amp; CTO at Databand in Tel Aviv, Israel. Previously he worked as Data Architect and Principal Software Engineer at Crosswise Ltd.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Victor Shafran</title>
+      <link>https://airflowsummit.org/speakers/victor-shafran/</link>
+      <pubDate>Thu, 11 Jun 2020 22:42:26 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/victor-shafran/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Victor Shafran is cofounder of Databand, an APM and observability solution for data engineering teams. Victor brings 20 years of experience in enterprise software and data product development. In his last position as VP R&amp;amp;D at Equalum, a high growth startup in the data pipelining space, he led a team developing big data infrastructure for Fortune 100 companies. Before that, Victor was Director of Research at SAP and NICE Systems, where he led a team of data scientists on machine learning research. Victor holds an MBA from Tel Aviv University and an M.Sc (cum laude) in computer science.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Vicente Rubén Del Pino Ruiz</title>
+      <link>https://airflowsummit.org/speakers/vicente-ruben-del-pino-ruiz/</link>
+      <pubDate>Thu, 11 Jun 2020 22:38:15 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/vicente-ruben-del-pino-ruiz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I&amp;rsquo;m a data professional with more than a decade of experience working on the architecture, design, coding and implementation of Data solutions.&lt;/p&gt;
+&lt;p&gt;In my free time I like to write technical articles, talk in conferences and experiment with new approaches and technologies.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Vanessa Sochat</title>
+      <link>https://airflowsummit.org/speakers/vanessa-sochat/</link>
+      <pubDate>Thu, 11 Jun 2020 22:26:28 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/vanessa-sochat/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Vanessa is a research software engineer for the Stanford Research Computing Center. She received her PhD in Biomedical Informatics in 2016, and stayed at Stanford to focus on open source software development for scientific reproducibility. Her work includes development of container technologies, workflow software, and recipes for continuous integration. She is passionate about programming and system design, and continues to run the Singularity Hub container registry and maintain a large set of open source libraries. When not programming, Vanessa can be found eating avocados, recording podcast episodes or fun videos, making dinosaur noises, and running outside in the snow.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Traey Hatch</title>
+      <link>https://airflowsummit.org/speakers/traey-hatch/</link>
+      <pubDate>Thu, 11 Jun 2020 22:17:32 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/traey-hatch/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Big Data engineer with significant experience in solution architecture on public clouds.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Sergio Fandiño</title>
+      <link>https://airflowsummit.org/speakers/sergio-fandino/</link>
+      <pubDate>Thu, 11 Jun 2020 21:58:45 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/sergio-fandino/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Born in Bogotá Colombia in 1990, studied Systems Engineering and then migrated to Germany in 2012. Worked as a Software Engineer and always loved to work with data. I did my Master of Science in Business Intelligence &amp;amp; Analytics and still continue taking online courses to learn more about Data Science. Currently working as Business Intelligence Architect for Lovoo (a Meet Group Dating App)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Roi Teveth</title>
+      <link>https://airflowsummit.org/speakers/roi-teveth/</link>
+      <pubDate>Thu, 11 Jun 2020 21:53:59 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/roi-teveth/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Roi Teveth is a big data engineer at Nielsen Identity Engine, where he specializes in research and development of solutions for big data infrastructure using cutting-edge technologies such as Spark, Kubernetes and Airflow. Roi has a vast system engineering background and is a CNCF certified Kubernetes administrator.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Rafael Ribaldo</title>
+      <link>https://airflowsummit.org/speakers/rafael-ribaldo/</link>
+      <pubDate>Thu, 11 Jun 2020 21:49:01 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/rafael-ribaldo/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Rafael Ribaldo is a Data Engineering Manager at QuintoAndar, where he leads a high-performance team towards building a data platform that can scale, has high performance and, most of all, is out of this world.&lt;/p&gt;
+&lt;p&gt;Before starting a career in Data Engineering, Ribaldo spent a couple of years as a Software Engineer writing Java code for companies in the payment and beverage businesses. After discovering a passion for Big Data projects, Ribaldo now helps QuintoAndar to continue to be a data driven company by making data available in a whole new level.&lt;/p&gt;
+&lt;p&gt;Ribaldo&amp;rsquo;s available for discussing data architectures and the main goals to achieve data drivenness.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Preethi Ganeshan</title>
+      <link>https://airflowsummit.org/speakers/preethi-ganeshan/</link>
+      <pubDate>Thu, 11 Jun 2020 18:51:31 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/preethi-ganeshan/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Preethi Ganeshan is currently a Software Engineer in the Data Platform team at Electronic Arts. She has made several contributions to the central data platform and ad-hoc analytics at EA which includes leveraging engines such as Hadoop, Hive, and Presto in addition to tools like Airflow and Superset.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Noam Elfanbaum</title>
+      <link>https://airflowsummit.org/speakers/noam-elfanbaum/</link>
+      <pubDate>Thu, 11 Jun 2020 18:47:44 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/noam-elfanbaum/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I live in Tel-Aviv with my wife, baby-daughter and dog. I used to teach Python classes, do freelance work and organize Python community gatherings (PywebIL and Pycon Israel). These days I&amp;rsquo;m working as a data engineering team lead a Bluevine.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Nitish Victor</title>
+      <link>https://airflowsummit.org/speakers/nitish-victor/</link>
+      <pubDate>Thu, 11 Jun 2020 18:39:20 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/nitish-victor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Game Engine/Graphics Programmer, currently working at Electronic Arts. Masters in Game Design and Development at Rochester Institute of Technology.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Nehil Jain</title>
+      <link>https://airflowsummit.org/speakers/nehil-jain/</link>
+      <pubDate>Thu, 11 Jun 2020 18:32:29 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/nehil-jain/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Nehil Jain is a Senior Software Engineer at  &lt;a href=&#34;https://www.snaptravel.com/&#34;&gt;SnapTravel&lt;/a&gt; , a  &lt;a href=&#34;https://www.bloomberg.com/news/articles/2018-12-04/steph-curry-bets-on-toronto-startup-in-search-for-early-winners&#34;&gt;leader in the conversational commerce space&lt;/a&gt;  that allows millions of users around the world to book travel via messaging. SnapTravel has raised over $22M and driven over $150M in hotel bookings, and Nehil is responsible for leading and scaling the team that handles all data and infrastructure.&lt;/p&gt;
+&lt;p&gt;Prior to SnapTravel, Nehil completed his undergraduate and graduate degrees in Engineering, conducted research at McGill University, and was an early-stage member of a genetics startup providing DNA analysis for athletics, injuries and nutrition. In addition to tackling the complex problems in scaling data within a hyper-growth tech startup, Nehil is an avid runner and enjoys pushing himself to new limits through competitive dragon boating.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Naresh Yegireddi</title>
+      <link>https://airflowsummit.org/speakers/naresh-yegireddi/</link>
+      <pubDate>Thu, 11 Jun 2020 18:27:36 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/naresh-yegireddi/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Naresh has about 12+ years of hands-on experience in big data and data warehousing technologies. Currently working as a Lead Data Engineer at PlayStation based of Los Angeles, CA. Prior to that, he had opportunities to work Afor various organizations such as GRUBHUB, Comcast, Dell and AT&amp;amp;T.
+He holds a Bachelors degree in Electrical Engineering and a Masters Degree in Power Electronics.
+Doing DIY home projects on weekends, reading tech blogs, crawling through LinkedIn network are few of his hobbies
+God Of War is his favorite 1st party PlayStation game.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Mohammed MARRAGH</title>
+      <link>https://airflowsummit.org/speakers/mohammed-marragh/</link>
+      <pubDate>Thu, 11 Jun 2020 18:21:09 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/mohammed-marragh/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Geek &amp;amp; DevOps by nature.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Mihail Petkov</title>
+      <link>https://airflowsummit.org/speakers/mihail-petkov/</link>
+      <pubDate>Thu, 11 Jun 2020 18:11:39 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/mihail-petkov/</guid>
+      <description>
+        
+        
+        &lt;p&gt;My name is Mihail Petkov and I have more than 9 years of experience in the software industry. I&amp;rsquo;m currently working as a Big Data Engineer at Financial Times. Being a Big Data Engineer is really exciting. I personally enjoy being challenged and love solving complex problems on a daily basis.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Michael Hewitt</title>
+      <link>https://airflowsummit.org/speakers/michael-hewitt/</link>
+      <pubDate>Thu, 11 Jun 2020 18:03:14 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/michael-hewitt/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I graduated from Virginia Tech in Spring of 2019 as a Computer Science Major. I have been working at Nielsen for about a year as a Software engineer in their Emerging Technologies Program. I work with Nielsen Digitals Site Reliability Engineering team and Collections Platform team. Over the course of my time here I have deep dived into Kubernetes to enable us too more easily create, maintain, and deploy our workflows, while also having much more control of our resources to reduce cloud infrastructure costs. I am passionate about the movement to cloud native services on Kubernetes and am determined to contribute to it. I have actively contributed to Airflows open source stable helm chart and plan on contribute to more open source projects in the future.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Lucas Mendes Mota Da Fonseca</title>
+      <link>https://airflowsummit.org/speakers/lucas-mendes-mota-da-fonseca/</link>
+      <pubDate>Thu, 11 Jun 2020 17:12:39 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/lucas-mendes-mota-da-fonseca/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I am a Data Engineer at QuintoAndar. I graduated in System Analysis and Development and then studied Big Data and Data Management Intelligence at Polytechnic School of the University of Sao Paulo. I started working as a Data Engineer at QuintoAndar, where I discovered Apache Airflow and its vibrant community.&lt;/p&gt;
+&lt;p&gt;Our data team daily works towards making our data platform better to continue supporting QuintoAndar as a data-driven company. I am passionate about learning and sharing ideas, so I will be glad to talk about data architecture or any Airflow related topics.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Leah Cole</title>
+      <link>https://airflowsummit.org/speakers/leah-cole/</link>
+      <pubDate>Thu, 11 Jun 2020 16:56:12 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/leah-cole/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Leah Cole is a developer programs engineer at Google, working on Composer, Google Cloud’s hosted version of Apache Airflow. Previously, she worked at GE for on multiple projects in the industrial IoT space. Leah is a graduate of Carleton College, where she studied computer science and also took enough German to have a semi-accidental minor. Outside of work, Leah likes playing piano, traveling, and crocheting.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Jacob Ferriero</title>
+      <link>https://airflowsummit.org/speakers/jacob-ferriero/</link>
+      <pubDate>Wed, 10 Jun 2020 23:30:20 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/jacob-ferriero/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Jake fell in love with open source process thanks to the inclusiveness and helpfulness of the Airflow Community. He&amp;rsquo;s blessed to be a part of the Google Cloud Professional Services family which enables him in making GCP easier to use by building OSS tooling to help our customers.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Itai Yaffe</title>
+      <link>https://airflowsummit.org/speakers/itai-yaffe/</link>
+      <pubDate>Wed, 10 Jun 2020 23:11:19 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/itai-yaffe/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Itai Yaffe is a big data tech lead at Nielsen Identity Engine, where he deals with big data challenges using tools like Spark, Druid, Kafka, and others. He is also a part of the Israeli chapter&amp;rsquo;s core team of Women in Big Data. Itai is keen about sharing his knowledge and has presented his real-life experience in various forums in the past.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Hendrik Kleine</title>
+      <link>https://airflowsummit.org/speakers/hendrik-kleine/</link>
+      <pubDate>Wed, 10 Jun 2020 23:06:07 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/hendrik-kleine/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Over the past decade, Hendrik has served 15 out of the top 20 US technology firms, helping organizations capitalize on their data assets. Currently, Hendrik is employed as Director of Analytics at Optum, part of Unitedhealth Group. At Optum, Hendrik&amp;rsquo;s team leads research and innovation to identify data solutions that help make the healthcare system work better for everyone.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Gerard Casas Saez</title>
+      <link>https://airflowsummit.org/speakers/gerard-casas-saez/</link>
+      <pubDate>Wed, 10 Jun 2020 23:00:06 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/gerard-casas-saez/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Emil Todorov</title>
+      <link>https://airflowsummit.org/speakers/emil-todorov/</link>
+      <pubDate>Wed, 10 Jun 2020 22:41:31 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/emil-todorov/</guid>
+      <description>
+        
+        
+        &lt;p&gt;My name is Emil Todorov. I am Software Engineer @ Financial Times and I am part of the Data Platform team for almost year and a half. Tackling data at scale became my passion and I believe this is the future.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Blaine Elliot</title>
+      <link>https://airflowsummit.org/speakers/blaine-elliot/</link>
+      <pubDate>Wed, 10 Jun 2020 22:27:16 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/blaine-elliot/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Blaine is Sr Data Engineer at One Medical where he builds solutions for data pipelines and infrastructure.  Blaine has 15+ years of experience within Data Engineering at various companies including MySpace, Chegg, Linkedin, and Microsoft.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Dinghang Yu</title>
+      <link>https://airflowsummit.org/speakers/dinghang-yu/</link>
+      <pubDate>Wed, 10 Jun 2020 22:21:51 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/dinghang-yu/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Software Engineering at Pinterest. Working on workflow systems, including Airflow.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Bas Harenslak</title>
+      <link>https://airflowsummit.org/speakers/bas-harenslak/</link>
+      <pubDate>Wed, 10 Jun 2020 22:00:47 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/bas-harenslak/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Data engineer at GoDataDriven, Airflow trainer and committer, and co-author of the (currently in progress) Manning book Data Pipelines with Apache Airflow.&lt;/p&gt;
+&lt;p&gt;In his daily job he helps companies become more data driven by building data solutions, and wants to combine cool data products with scalable and solid software. In the past years he worked at various companies such as Booking, ING and Unilever.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Angel D&#39;az</title>
+      <link>https://airflowsummit.org/speakers/angel-daz/</link>
+      <pubDate>Tue, 09 Jun 2020 23:56:13 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/angel-daz/</guid>
+      <description>
+        
+        
+        &lt;p&gt;I am a first generation white-collar worker and Salvadoran immigrant. I am currently a Data Engineer working on automating ETL pipelines for Data Analysts/Scientists. My focus is reproducible data infrastructure as code that is easy to stand-up and troubleshoot.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Amr Noureldin</title>
+      <link>https://airflowsummit.org/speakers/amr-noureldin/</link>
+      <pubDate>Tue, 09 Jun 2020 23:51:22 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/amr-noureldin/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Experienced Solutions Architect with a demonstrated history of working in a variety of domains such as High-Performance Computing, Big Data Analytics, Data Engineering, Software Engineering, Platform Integration. 12+ years of multi-national experience with a strong academic background.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Alexander Eliseev</title>
+      <link>https://airflowsummit.org/speakers/alexander-eliseev/</link>
+      <pubDate>Tue, 09 Jun 2020 23:43:50 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/alexander-eliseev/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Alexander has worked in Data Engineering at Wrike since August 2016.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Migrated product data engineering ETLs between Spark clusters&lt;/li&gt;
+&lt;li&gt;Leading the migration from our own hardware to GCP and BigQuery&lt;/li&gt;
+&lt;li&gt;Make data available to engineers across the company&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Speakers: Aishwarya Sankaravadivel</title>
+      <link>https://airflowsummit.org/speakers/aishwarya-sankaravadivel/</link>
+      <pubDate>Tue, 09 Jun 2020 23:39:53 -0500</pubDate>
+      
+      <guid>https://airflowsummit.org/speakers/aishwarya-sankaravadivel/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Aishwarya Sankaravadivel is a senior technologist leading the Scheduling Platform at PayPal having deep expertise in managing Airflow &amp;amp; Elasticsearch for global customers. She is a passionate software engineer having intense hands-on coding experience in Scala/Python and Reactive Programming. She has grabbed several awards like CPI India Champion, Wonder Woman, Star of the month for her exemplary work at PayPal. She has spoken at several conferences in India and Asia Pacific regions and also a Women in Data Science Ambassador who has organized multiple meetups in India. Besides work, she is an avid reader and reviewer of many books and novels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

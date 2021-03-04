@@ -1,0 +1,50 @@
+section.session {
+	padding-top: 2em;
+}
+
+.speakers-vertical {
+	display: grid;
+	grid-template-columns: minmax(150px, 1fr) 4fr;
+	grid-gap: 30px;
+}
+
+.speakers-vertical .speakers {
+grid-column: 1;
+grid-row: 1;
+}
+
+.speakers-vertical .abstract {
+grid-column: 2;
+grid-row: 1;
+}
+
+.speakers-horizontal .speakers {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: flex-start;
+}
+
+.speakers .card {
+  width: 200px;
+}
+
+.speaker-strip {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 60px;
+
+	@include tablet {
+		grid-template-columns: repeat(3, 1fr);
+	}
+
+	@include mobile {
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+}
+
+.speaker-info a {
+	color: #ff6200;
+}
+

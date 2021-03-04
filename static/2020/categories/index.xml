@@ -1,0 +1,17 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airflow Summit 2020 – Categories</title>
+    <link>https://airflowsummit.org/categories/</link>
+    <description>Recent content in Categories on Airflow Summit 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="https://airflowsummit.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

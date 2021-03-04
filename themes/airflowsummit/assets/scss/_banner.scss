@@ -1,0 +1,33 @@
+section.hero {
+  background-image: url(/images/darkhero-2021.jpg);
+  background-size: cover;
+  background-position: center top;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-info {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.hero-info p {
+  color: white;
+  font-family: $heading-font;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+@media (max-width:768px) {
+  .hero-info {
+    width: 60%;
+  }
+
+  .hero-info p {
+    font-size: 20px;
+  }
+
+}

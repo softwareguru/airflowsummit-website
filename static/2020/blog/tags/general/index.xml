@@ -1,0 +1,254 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Airflow Summit 2020 – General</title>
+    <link>https://airflowsummit.org/blog/tags/general/</link>
+    <description>Recent content in General on Airflow Summit 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	  <atom:link href="https://airflowsummit.org/blog/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>News: Making sense of the schedule structure of Airflow Summit</title>
+      <link>https://airflowsummit.org/news/schedule-structure/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/news/schedule-structure/</guid>
+      <description>
+        
+        
+        &lt;p&gt;When the organizing team decided to make the Airflow Summit online, the call was &lt;em&gt;&amp;ldquo;Let’s do it, but let’s make sure that we take advantage of this opportunity to involve those who wouldn’t have been able to attend the onsite event.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The first request was to take advantage of the digital format to be able to space out the sessions over a longer period of time, in order to allow more participants to join live. So, we decided to make the event last a couple of weeks, with blocks of 3 talks every day.&lt;/p&gt;
+&lt;p&gt;The next idea was to involve different Airflow user groups (meetups) from around the world. &lt;em&gt;&amp;ldquo;Hey, wouldn’t it be cool if we involve different meetups so that it would be as if each one is hosting the sessions for that day?&amp;quot;&lt;/em&gt;. We reached out and everybody liked the idea. We got confirmation from 9 different meetups: Bay Area, Seattle, New York City, London, Amsterdam, Warsaw, Bangalore, Tokyo and Melbourne.&lt;/p&gt;
+&lt;p&gt;Now, the challenge was to decide at what time we should schedule the talks. We considered scheduling each block during the morning of each hosting meetup. For example, the block hosted by the London meetup would be during the morning of London time, and then the block hosted by Tokio would be during the morning of Tokio time, and so forth. However, we believe that this would probably make things too complicated and after a few days we would all have our heads spinning around.
+So, we decided to work on just two different schedule times: one that would work for both America and Europe, and another one for Asia.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Schedule A will be from 4-7 pm (UTC), which is 9am-12pm Pacific. This is used on blocks hosted by Bay Area, Seattle, NYC, London, Amsterdam and Warsaw.&lt;/li&gt;
+&lt;li&gt;Schedule B will be 4-7 am (UTC), which is 9pm-12am Pacific (of the previous day). This is used on blocks hosted by Bangalore, Tokyo and Melbourne.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The following table shows the schedule assignment
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th&gt;Block&lt;/th&gt;
+&lt;th&gt;Host meetup&lt;/th&gt;
+&lt;th&gt;Day and time&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+1
+&lt;/td&gt;
+&lt;td&gt;
+London
+&lt;/td&gt;
+&lt;td&gt;
+Monday, July 6 &lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+2
+&lt;/td&gt;
+&lt;td&gt;
+NYC
+&lt;/td&gt;
+&lt;td&gt;
+Tuesday, July 7&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+3
+&lt;/td&gt;
+&lt;td&gt;
+Bangalore
+&lt;/td&gt;
+&lt;td&gt;
+Wednesday, July 8&lt;br&gt;4 to 7 am UTC (July 7 9pm-12am PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+4
+&lt;/td&gt;
+&lt;td&gt;
+Bay area
+&lt;/td&gt;
+&lt;td&gt;
+Wednesday, July 8&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+5
+&lt;/td&gt;
+&lt;td&gt;
+Seattle
+&lt;/td&gt;
+&lt;td&gt;
+Thursday, July 9&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+6
+&lt;/td&gt;
+&lt;td&gt;
+Bangalore
+&lt;/td&gt;
+&lt;td&gt;
+Friday, July 10&lt;br&gt;4 to 7 am UTC (July 9 9pm-12am PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+7
+&lt;/td&gt;
+&lt;td&gt;
+Warsaw
+&lt;/td&gt;
+&lt;td&gt;
+Friday, July 10&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+8
+&lt;/td&gt;
+&lt;td&gt;
+London
+&lt;/td&gt;
+&lt;td&gt;
+Monday, July 13&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+9
+&lt;/td&gt;
+&lt;td&gt;
+Tokyo
+&lt;/td&gt;
+&lt;td&gt;
+Tuesday, July 14&lt;br&gt;4 to 7 am UTC (July 13 9pm-12am PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+10
+&lt;/td&gt;
+&lt;td&gt;
+NYC
+&lt;/td&gt;
+&lt;td&gt;
+Tuesday, July 14&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+11
+&lt;/td&gt;
+&lt;td&gt;
+Amsterdam
+&lt;/td&gt;
+&lt;td&gt;
+Wednesday, July 15&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+12
+&lt;/td&gt;
+&lt;td&gt;
+Melbourne
+&lt;/td&gt;
+&lt;td&gt;
+Thursday, July 16&lt;br&gt;4 to 7 am UTC (July 15 9pm-12am PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+13
+&lt;/td&gt;
+&lt;td&gt;
+Bay area
+&lt;/td&gt;
+&lt;td&gt;
+Thursday, July 16&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;
+14
+&lt;/td&gt;
+&lt;td&gt;
+Warsaw
+&lt;/td&gt;
+&lt;td&gt;
+Friday, July 17&lt;br&gt;4 to 7 pm UTC (9am-12pm PDT)
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/p&gt;
+&lt;p&gt;As you can see, we will have 14 blocks (with 3 talks each) involving 9 meetups across 7 countries. The detailed schedule with the assignment per talk should be published in the event website very soon (probably by the time you read this).&lt;/p&gt;
+&lt;p&gt;All this looks a bit overwhelming and it does involve a lot of work, but this simple image from the &lt;a href=&#34;https://www.crowdcast.io/e/airflowsummit&#34;&gt;participants chat&lt;/a&gt; that we grabbed today makes it so worth it:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://airflowsummit.org/images/misc/airflow-greetings-chat.jpg&#34; alt=&#34;Greetings chat&#34;&gt;&lt;/p&gt;
+&lt;p&gt;It will be quite an adventure, and we are very excited to have all of you on board.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>News: Airflow Summit will be held from July 6th to 17th, 2020</title>
+      <link>https://airflowsummit.org/news/dates/</link>
+      <pubDate>Tue, 12 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/news/dates/</guid>
+      <description>
+        
+        
+        &lt;p&gt;As we had previously explained, in the best interest for the safety of the Apache Airflow community, the Airflow Summit will be completely digital this year. We now have the dates, the Airflow Summit will be held from July 6th to 17th.
+And to make the event accessible to everyone, we are excited to announce that we will be making all core content free of charge.&lt;/p&gt;
+&lt;p&gt;We are very excited by the quality and quantity of talk submissions. We look forward to helping to get this content and experiences of the speakers out into the world, and the discussions that follow. Talks and workshops will be held during 4 hours each day of the summit.&lt;/p&gt;
+&lt;p&gt;We encourage everyone in the Apache Airflow community to attend the event, and we will work with our partners to promote the event.&lt;/p&gt;
+&lt;p&gt;Sponsorship is still available, and we believe that the global scale of the event will bring  interesting benefits to your organization. Please take a look at our &lt;a href=&#34;https://airflowsummit.org/docs/AirflowSummit-Prospectus.pdf&#34;&gt;Prospectus&lt;/a&gt; and contact us if you are interested in supporting this event.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>News: Airflow Summit 2020 Reboots as an Online Conference</title>
+      <link>https://airflowsummit.org/news/online-summit/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://airflowsummit.org/news/online-summit/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The event will now be completely online and the date will be moved to “Summer 2020”. We are working on defining specific format and dates, and will communicate that in the coming weeks.&lt;/p&gt;
+&lt;p&gt;We are thrilled by the number and quality of submissions we got thus far. We have not expected that many great proposals and we also know there are many people who did not manage to make their submissions on time (and asked us to extend the deadline). We really would like to share all this content and experiences of the speakers from all around the world - and we are excited to see those talks and take part in discussions that follow!&lt;/p&gt;
+&lt;p&gt;We know that an online event doesn’t provide the in-person networking benefits of a physical conference, and we’re sad to miss out on that too, but this is an opportunity for our community to do our part to help contain or slow the virus.&lt;/p&gt;
+&lt;p&gt;On the positive side, the speaker content submissions are off the charts exciting, so we want to push through getting this content out to the greater Apache Airflow community.
+Please review the following information depending on your case.&lt;/p&gt;
+&lt;h2 id=&#34;for-attendees&#34;&gt;For attendees&lt;/h2&gt;
+&lt;p&gt;If you have already purchased a ticket to attend, we will reimburse it completely without any fees. You should hear from us about this by March 20th, 2020.
+In case you had already incurred travel expenses, we understand that most airlines and hotels are waiving change fees due to the situation. However, if you are charged an additional fee due to this change please contact us at &lt;a href=&#34;mailto:info@airflowsummit.org&#34;&gt;info@airflowsummit.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We are evaluating if the online only event will have a cost of participation or not. If possible, we would like to make it free but we are reviewing the expenses that we had already incurred and how much support we can get from sponsors for the online event and based on that we will make this decision.&lt;/p&gt;
+&lt;h2 id=&#34;for-speakers&#34;&gt;For speakers&lt;/h2&gt;
+&lt;p&gt;We thank all speakers who have confirmed their participation or sent submissions through the CFP and hope that you can join in the online event. We have amazing content and doing the event online will allow us to make sure that it reaches as many people as possible.&lt;/p&gt;
+&lt;p&gt;Due to the format and date change we have reopened the call for papers. The CFP is available at &lt;a href=&#34;https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp&#34;&gt;https://pretalx.com/apache-airflow-summit-bay-area-2020/cfp&lt;/a&gt; and will be open until Saturday 4th of April.&lt;/p&gt;
+&lt;h2 id=&#34;for-partners&#34;&gt;For partners&lt;/h2&gt;
+&lt;p&gt;We thank partners for their understanding and support in this situation. We are currently working on defining sponsoring opportunities in the new event format. We will be contacting you and hope that you can still participate.&lt;/p&gt;
+&lt;p&gt;Thank you for your understanding. We hope you can join us for Airflow Summit 2020.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

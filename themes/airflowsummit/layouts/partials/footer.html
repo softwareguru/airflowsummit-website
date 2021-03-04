@@ -1,0 +1,59 @@
+{{ $links := .Site.Params.links }}
+<footer>
+    <div class="container-fluid bg-primary">
+        <div class="container py-5">
+            <div class="d-flex justify-content-between">
+                <div class="col-6 col-md-4 col-lg-3">
+                    <div class="mb-3"> <img src="/images/logo-white-2021.svg" class="img-fluid" alt="Airflow Summit 2020"></div>
+                    {{ with $links }}
+                        {{ with index . "media"}}
+                            <ul class="list-inline mb-0">
+                            {{ range . }}
+                            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title aria-label="{{ .name }}" data-original-title="{{ .name }}">
+                                <a class="text-white" target="_blank" href="{{ .url }}">
+                                  <i class="{{ .icon }}"></i>
+                                </a>
+                            </li>    
+                            {{ end }}
+                            </ul>
+                        {{ end }}
+                    {{ end }}
+                </div>    
+                <div class="col-md-6 text-right">
+                    <div class="footer-links">
+                    {{ with $links }}
+                        {{ with index . "footer"}}
+                        <ul>
+                            {{ range . }}
+                            <li><a href="{{ .url }}" {{ with .target }}target="{{ . }}"{{ end }}>
+                                {{ .name }}
+                            </a></li>
+                            {{ end }}
+                        </ul>    
+                        {{ end }}
+                    {{ end }}
+                    </div>
+                </div>
+            </div>
+        </div>    
+    </div>
+    <div class="footer-section footer-section__policies-section bg-dark">
+    <div class="container my-0 footer-section__policies-section--disclaimer">
+        <p>
+            Apache Airflow, Apache, Airflow, the Airflow logo, and the Apache feather logo are either registered trademarks or trademarks of The Apache Software Foundation.
+            All other products or name brands are trademarks of their respective holders, including The Apache Software Foundation.             
+        </p>
+        <p>Photographs used in this website are derived versions from <a href="https://photos.apachecon.com/?/category/1" target="_blank">ApacheCon Photo Gallery</a> licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>
+    </div>    
+    </div>
+</footer>
+
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .link | relURL }}"></script>
+{{ end }}
+
+{{ "<!-- Main Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>
