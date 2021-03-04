@@ -45,7 +45,7 @@ images = ["/images/card.jpg"]
 text = "May 20-28, 2021. Come fly with us."
 
 [params.hero.cta]
-text = "Join our CFP"
+text = "Submit your talk"
 link = "https://sessionize.com/airflow-summit-2021/"
 
 # Navigation button
