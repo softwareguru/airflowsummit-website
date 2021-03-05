@@ -1,7 +1,7 @@
 ---
 title: "Manning Publications"
 level: "community"
-logo: "manning.png"
+logo: "/images/partners/manning.png"
 webUrl: "https://www.manning.com/"
 draft: true
 ---

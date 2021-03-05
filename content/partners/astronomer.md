@@ -1,7 +1,7 @@
 ---
 title: "Astronomer"
 level: "platinum"
-logo: "astronomer.svg"
+logo: "/images/partners/astronomer.svg"
 webUrl: "https://astronomer.io"
 weight: 2
 ---

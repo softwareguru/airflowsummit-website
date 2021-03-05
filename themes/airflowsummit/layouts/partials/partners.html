@@ -1,9 +1,10 @@
 <section id="partners" class="container bg-white text-center my-4">
     <h2 class="principles-header">Partners</h2>
-    <h4 class="mt-1 mb-1">Platinum</h4>
+    <h3 class="mt-1 mb-1">Platinum</h3>
     <div class="partner-list platinum row justify-content-center align-items-center">
         {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum" }}
-        <a class="col-12 col-md-4" href="{{ .Params.webUrl }}" target="_blank"><img src="/images/partners/{{ .Params.logo }}"></a>
+          <a class="col-12 col-md-4" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+              <img alt="{{ .Title }}" src="{{ .Params.logo }}"></a>
         {{ end }}
     </div>
 

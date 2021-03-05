@@ -1,7 +1,7 @@
 ---
 title: "Apache Software Foundation"
 level: "silver"
-logo: "apache.svg"
+logo: "/images/partners/apache.svg"
 webUrl: "https://www.apache.org/"
 
 ---

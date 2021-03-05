@@ -1,15 +1,21 @@
 <section class="hero">
     <div class="hero-info">
-        <img class="mb-4" src="{{ .Site.Params.logo | relURL }}" alt="Airflow Summit">
-        <p class="tagline">
+        <img class="my-4" src="{{ .Site.Params.logo | relURL }}" alt="Airflow Summit">
+        <p class="tagline my-3">
             {{ .Site.Params.hero.text }}
         </p>
 
-        {{ with .Site.Params.hero.cta }}
-        <a id="hero-button" href="{{ .link }}" target="_blank" class="mr-4">
-            <button id="button-hero" class="btn btn-primary">{{ .text }}</button>
-        </a>
-        {{ end }}
-
+        <div class="cta-container my-4">
+            {{ with .Site.Params.hero.cta1 }}
+            <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
+                <button id="button-hero1" class="btn btn-primary my-3">{{ .text }}</button>
+            </a>
+            {{ end }}
+            {{ with .Site.Params.hero.cta2 }}
+            <a id="hero-button2" href="{{ .link }}" target="_blank" class="mx-4">
+                <button id="button-hero2" class="btn btn-secondary my-3">{{ .text }}</button>
+            </a>
+            {{ end }}
+        </div>
     </div>
 </section>

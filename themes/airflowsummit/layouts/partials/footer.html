@@ -10,8 +10,8 @@
                             <ul class="list-inline mb-0">
                             {{ range . }}
                             <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title aria-label="{{ .name }}" data-original-title="{{ .name }}">
-                                <a class="text-white" target="_blank" href="{{ .url }}">
-                                  <i class="{{ .icon }}"></i>
+                                <a class="text-white" title="{{ .name}}" target="_blank" href="{{ .url }}">
+                                  <i class="{{ .icon }}" aria-hidden="true"></i>
                                 </a>
                             </li>    
                             {{ end }}
