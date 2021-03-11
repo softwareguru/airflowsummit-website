@@ -42,7 +42,7 @@ privacy_policy = "/privacy"
 images = ["/images/card.jpg"]
 
 [params.hero]
-text = "May 20-28, 2021. Come fly with us."
+text = "July 8-16, 2021. Come fly with us."
 
 [params.hero.cta1]
 text = "Submit your talk"
@@ -85,7 +85,7 @@ link = "https://www.crowdcast.io/e/airflowsummit2021"
     url = "/privacy"
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/AirflowSummit2021-ProspectUs.pdf"
+    url = "/docs/Airflow-Summit-2021.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Call for papers"
