@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+    {{if eq .File.Dir "sessions/" }}
+    <div class="row">
+        {{ range .Data.Pages }}
+        <div class="col-sm-6">
+            {{ .Render "post" }}
+        </div>
+        {{ end }}
+    </div>
+    {{ else }}
+
+    <table data-toggle="table" data-search="true" data-search-align="left">
+        <thead>
+            <tr>
+                <th data-field="title">Title</th>
+                <th data-field="speaker">Speaker(s)</th>
+                <th data-field="recording">Recording</th>
+                <th data-field="slides">Slides</th>
+            </tr>
+        </thead>
+        <tbody>
+            {{ range sort .Data.Pages ".Params.time_end" }}
+            <tr>
+                <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
+                <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+                <td class="text-center">{{ with .Params.video }}<a
+                        href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
+                            class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
+                <td class="text-center">{{ with .Params.slides }}<a
+                        href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/istiocon-2021/slides/{{ . }}{{ end }}'
+                        target="_blank" download><i class="fa fa-download" aria-hidden="true"
+                            title="Slides"></i></a>{{ end }}</td>
+            </tr>
+            {{ end }}
+        </tbody>
+    </table>
+    {{ end }}
+
+</div>
+
+
+{{ end }}

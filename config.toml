@@ -105,6 +105,8 @@ posts = "/:year/:month/:title/"
 link = "/plugins/bootstrap/css/bootstrap.min.css"
 [[params.plugins.css]]
 link = "/plugins/themefisher-font/themefisher-font.min.css"
+[[params.plugins.css]]
+link = "https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
@@ -113,4 +115,5 @@ link = "/plugins/jquery/jquery.js"
 link = "/plugins/bootstrap/js/bootstrap.min.js"
 [[params.plugins.js]]
 link="https://kit.fontawesome.com/4a6d2efc2e.js"
-
+[[params.plugins.js]]
+link="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"
