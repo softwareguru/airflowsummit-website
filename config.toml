@@ -33,13 +33,15 @@ theme = "airflowsummit"
 # Everything below this are Site Params
 
 [params]
-description = "Airflow summit is the first conference for the worldwide community of developers and users of Apache Airflow."
+description = "Airflow summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 logo = "/images/logo-white-2021.svg"
 home = "Home"
 privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
 images = ["/images/card.jpg"]
+start_date = "2021-07-08T11:00-05:00"
+end_date = "2021-07-16T11:00-05:00"
 
 [params.hero]
 text = "July 8-16, 2021. Come fly with us."
