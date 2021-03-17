@@ -41,7 +41,7 @@ privacy_policy = "/privacy"
 # First one is picked as the Twitter card image if not set on page.
 images = ["/images/card-july.jpg"]
 start_date = "2021-07-08T11:00-05:00"
-end_date = "2021-07-16T11:00-05:00"
+end_date = "2021-07-16T17:00-05:00"
 
 [params.hero]
 text = "July 8-16, 2021. Come fly with us."
