@@ -7,6 +7,26 @@
               <img alt="{{ .Title }}" src="{{ .Params.logo }}"></a>
         {{ end }}
     </div>
-
+    <br>
+    <h3 class="mt-1 mb-1">Gold</h3>
+    <br>
+    <div class="partner-list platinum row justify-content-center align-items-center">
+        {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
+          <a class="col-12 col-md-4" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+              <img alt="{{ .Title }}" src="{{ .Params.logo }}"></a>
+        {{ end }}
+    </div>
+    <br>
+    <br>
+    <h3 class="mt-1 mb-1">Community</h3>
+    <br>
+    <div class="partner-list platinum row justify-content-center align-items-center">
+        {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
+          <a class="col-12 col-md-4" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+              <img alt="{{ .Title }}" src="{{ .Params.logo }}"></a>
+        {{ end }}
+    </div>
+    <br>
+    
 
 </section>

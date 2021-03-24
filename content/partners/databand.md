@@ -1,8 +1,8 @@
 ---
 title: "Databand"
 level: "gold"
-logo: "databand.png"
+logo: "/images/partners/databand.png"
 webUrl: "https://databand.ai"
 weight: 2
-draft: true
+draft: false
 ---

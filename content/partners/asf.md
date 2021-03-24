@@ -1,6 +1,6 @@
 ---
 title: "Apache Software Foundation"
-level: "silver"
+level: "gold"
 logo: "/images/partners/apache.svg"
 webUrl: "https://www.apache.org/"
 
