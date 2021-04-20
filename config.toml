@@ -47,12 +47,12 @@ end_date = "2021-07-16T17:00-05:00"
 text = "July 8-16, 2021. Come fly with us."
 
 [params.hero.cta1]
-text = "Submit your talk"
-link = "https://sessionize.com/airflow-summit-2021/"
-
-[params.hero.cta2]
-text = "Register to attend"
+text = "Register now"
 link = "https://www.crowdcast.io/e/airflowsummit2021"
+ 
+#[params.hero.cta2]
+#text = ""
+#link = ""
 
 # Navigation button
 [params.navigation_button]
