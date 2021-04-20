@@ -83,6 +83,9 @@ link = "https://www.crowdcast.io/e/airflowsummit2021"
     name = "Code of Conduct"
     url = "/coc"
 [[params.links.footer]]
+    name = "Accessibility"
+    url = "/accessibility"
+[[params.links.footer]]
     name = "Privacy Policy"
     url = "/privacy"
 [[params.links.footer]]
