@@ -89,6 +89,9 @@ link = "https://www.crowdcast.io/e/airflowsummit2021"
     name = "Privacy Policy"
     url = "/privacy"
 [[params.links.footer]]
+    name = "Organizers"
+    url = "/team"
+[[params.links.footer]]
     name = "Prospectus"
     url = "/docs/Airflow-Summit-2021.pdf"
     target="_blank"
