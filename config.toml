@@ -15,6 +15,11 @@ theme = "airflowsummit"
     [markup.goldmark.renderer]
       unsafe = true
 
+[taxonomies]
+tag = "tags"
+category = "categories"
+speaker = "speakers"
+
 
 ############################## navigation ###############################
 [menu]
@@ -23,6 +28,11 @@ theme = "airflowsummit"
   name = "About"
   URL = "about"
   weight = 1
+
+  [[menu.main]]
+  name = "Speakers"
+  URL = "speakers"
+  weight = 2
 
   [[menu.main]]
   name = "FAQ"
