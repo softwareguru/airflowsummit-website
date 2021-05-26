@@ -35,6 +35,11 @@ speaker = "speakers"
   weight = 2
 
   [[menu.main]]
+  name = "Sessions"
+  URL = "sessions"
+  weight = 3
+
+  [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 7

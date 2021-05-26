@@ -1,7 +1,7 @@
 ---
 title: "Aizhamal Nurmamat kyzy"
 date: 2021-05-18T14:09:56-05:00
-image : "/images/speakers/aizhamal-nurmamat.jpg"
+image : "/images/team/aizhamal.jpg"
 designation : "PMC & Committer Apache Airflow | Open Source Program Manager at Google"
 country: ""
 twitter: "https://twitter.com/iamaijamal"
