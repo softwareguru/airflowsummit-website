@@ -7,11 +7,8 @@
 
     {{if eq .File.Dir "sessions/" }}
     <div class="row">
-        {{ range .Data.Pages }}
-        <div class="col-sm-6">
-            {{ .Render "post" }}
-        </div>
-        {{ end }}
+        <p class="mb-2">These are the selected sessions so far. The final schedule will be published by June 6th.</p>
+        <script type="text/javascript" src="https://sessionize.com/api/v2/kswr8ncc/view/Sessions"></script>
     </div>
     {{ else }}
 
