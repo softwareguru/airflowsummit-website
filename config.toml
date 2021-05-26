@@ -36,7 +36,7 @@ speaker = "speakers"
 
   [[menu.main]]
   name = "Sessions"
-  URL = "sessions"
+  URL = "session"
   weight = 3
 
   [[menu.main]]

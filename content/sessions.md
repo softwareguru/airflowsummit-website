@@ -1,6 +1,6 @@
 ---
 title: "Sessions"
-url: "/sessions"
+url: "/session"
 noindex: true
 ---
 
