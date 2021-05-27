@@ -1,14 +1,12 @@
 ---
 title: "Kuntal Basu"
-date: 2021-05-06T13:29:42-05:00
-image : "/images/speakers/speaker.jpg"
-designation : "Scribd, Engineer Data Platform"
-country: ""
+designation: "Scribd, Engineer Data Platform"
+image: /images/speakers/kuntal-basu.jpg
+events:
+ - 2021
 twitter: ""
 linkedin: "https://www.linkedin.com/in/kuntalbasu/"
-github: ""
-year: "2021"
+event-2021: true
 ---
 
 Engineer, Core Platform at Scribd
-

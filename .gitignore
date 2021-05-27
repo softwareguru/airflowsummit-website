@@ -7,4 +7,4 @@ site/static/_gen/
 public/
 *Zone.Identifier
 firebase-debug.log
-
+scripts/
