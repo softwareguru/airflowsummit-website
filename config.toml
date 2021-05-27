@@ -30,13 +30,13 @@ speaker = "speakers"
   weight = 1
 
   [[menu.main]]
-  name = "Speakers"
-  URL = "speakers"
+  name = "Schedule"
+  URL = "schedule"
   weight = 2
 
   [[menu.main]]
-  name = "Sessions"
-  URL = "session"
+  name = "Speakers"
+  URL = "speakers"
   weight = 3
 
   [[menu.main]]

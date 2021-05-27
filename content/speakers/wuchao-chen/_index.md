@@ -1,6 +1,6 @@
 ---
-title: "wuchao chen"
-designation: "alibaba, engineer"
+title: "Wuchao Chen"
+designation: "Software engineer at Alibaba"
 image: /images/speakers/wuchao-chen.jpg
 events:
  - 2021
