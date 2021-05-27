@@ -6,6 +6,7 @@ events:
  - 2021
 twitter: ""
 linkedin: ""
+event-2021: true
 ---
 
 Software Engineer @ Electronic Arts

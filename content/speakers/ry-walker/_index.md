@@ -7,6 +7,7 @@ events:
  - 2021
 twitter: "http://twitter.com/rywalker"
 linkedin: "http://linkedin.com/in/rywalker/"
+event-2021: true
 ---
 
 Committer for Apache Airflow + Founder/CTO of Astronomer

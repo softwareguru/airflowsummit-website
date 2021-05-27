@@ -7,6 +7,8 @@ events:
  - 2021
 twitter: ""
 linkedin: ""
+event-2021: true
+
 ---
 
 Airflow committer, Platform engineering tech-lead at Scribd.

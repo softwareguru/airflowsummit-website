@@ -6,6 +6,7 @@ events:
  - 2021
 twitter: ""
 linkedin: ""
+event-2021: true
 ---
 
 10 years in software industry, 10 years of finding bugs in every second line of code I look at. 

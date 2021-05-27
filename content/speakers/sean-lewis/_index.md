@@ -6,6 +6,7 @@ events:
  - 2021
 twitter: ""
 linkedin: ""
+event-2021: true
 ---
 
 A jack of all trades with experience in the full data area pipeline including integration, analysis, and visualization. Also, I love animals and have two cats and a nice puppy dog!

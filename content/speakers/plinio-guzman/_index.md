@@ -6,6 +6,8 @@ events:
  - 2021
 twitter: "https://twitter.com/knmzg"
 linkedin: "https://www.linkedin.com/in/plinioguzman/"
+event-2021: true
+
 ---
 
 Plinio is an Ecosystem Engineer at Astronomer. 

@@ -6,6 +6,7 @@ events:
  - 2021
 twitter: ""
 linkedin: "https://www.linkedin.com/in/xd-deng"
+event-2021: true
 ---
 
 Xiaodong is currently working as software engineer in Apple ACS Data Pipelines team. He is also one of the committers (since March 2019) and PMC members (since December 2020) of Apache Airflow.
