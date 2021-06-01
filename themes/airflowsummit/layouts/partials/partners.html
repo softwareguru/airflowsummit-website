@@ -12,7 +12,7 @@
     <br>
     <div class="partner-list platinum row justify-content-center align-items-center">
         {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
-          <a class="col-12 col-md-4" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+          <a class="col-9 col-md-3" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
               <img alt="{{ .Title }}" src="{{ .Params.logo }}"></a>
         {{ end }}
     </div>
@@ -22,7 +22,7 @@
     <br>
     <div class="partner-list platinum row justify-content-center align-items-center">
         {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
-          <a class="col-12 col-md-4" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+          <a class="col-6 col-md-3" title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
               <img alt="{{ .Title }}" src="{{ .Params.logo }}"></a>
         {{ end }}
     </div>
