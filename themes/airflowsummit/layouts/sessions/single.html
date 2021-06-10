@@ -30,7 +30,7 @@
         <div class="inner-column">
           <div class="text-box">
             <h3>{{ .Title }}</h3>
-            <p class="session-meta" id="date">{{ with .Params.time_start | time }}{{ .Format "Jan-2-2006 15:04" }}{{ end }}</p>
+            <p class="session-meta" id="date"><span id="adjTime"></span> <em>{{ with .Params.time_start | time }}({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }}</em></p>
             {{ with .Params.language }}<p class="session-meta" id="lang">Language: {{ humanize . }}</p>{{ end }}
             <div class="d-lg-none d-xl-none">
               By 
@@ -61,5 +61,19 @@
   </div>
 </section>
 <!--End Speker Detail -->
+
+<script>
+  function adjTime(timeStart, timeEnd) {
+    let dateStart = new Date(Date.parse(timeStart));
+    let dateEnd = new Date(Date.parse(timeEnd));
+    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    let adjString = days[dateStart.getDay()]+", July "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
+    document.getElementById("adjTime").innerHTML = adjString;
+  }
+  {{ $time_start := .Params.time_start | time }}
+  {{ $time_end := .Params.time_end | time }}
+  adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");  
+</script>
+
 
 {{ end }}
