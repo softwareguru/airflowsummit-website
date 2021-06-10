@@ -8,6 +8,7 @@ time_start: 2021-07-15T07:00:00.000Z
 time_end: 2021-07-15T07:25:00.000Z
 block: e
 slot: 7
+format: adoption
 ---
 
 Or how to keep our traditional java application up-to-date on everything big data. 

@@ -1,6 +1,6 @@
 ---
 id: z5
-title: "Building an elastic platform using Airflow uniquely as an orchestrator"
+title: "Building an Elastic Platform Using Airflow Uniquely as an Orchestrator"
 url: /sessions/2021/building-an-elastic-platform-using-airflow-orchestrator
 speakers:
  - Rafael Ribaldo
@@ -9,6 +9,7 @@ time_start: 2021-07-09T18:00:00.000Z
 time_end: 2021-07-09T18:25:00.000Z
 block: Z
 slot: 5
+format: adoption
 ---
 
 At QuintoAndar we seek automation and scalability in our data pipelines and believe that Airflow is the right tool for giving us exactly what we need. However, having all concerns mapped and tooling defined doesn't necessarily mean success.

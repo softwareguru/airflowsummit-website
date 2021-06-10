@@ -7,7 +7,8 @@ speakers:
 time_start: 2021-07-13T18:30:00.000Z
 time_end: 2021-07-13T19:20:00.000Z
 block: c
-slot: 6-
+slot: 6
+format: presentation
 aliases:
  - /sessions/Upgrading-to-Apache-Airflow-2
 ---

@@ -8,6 +8,8 @@ time_start: 2021-07-16T05:30:00.000Z
 time_end: 2021-07-16T05:55:00.000Z
 block: g
 slot: 4
+format: presentation
+
 aliases:
  - /sessions/Drift-Bio
 ---

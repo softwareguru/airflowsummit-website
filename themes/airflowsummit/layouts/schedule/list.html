@@ -5,7 +5,7 @@
 
 <div class="container">
     <div class="content mt-4">
-        {{ .Content }}
+        {{ .Content }} 
     </div>  
     {{ range .Params.blocks }}
     <div class="schedule-block">
@@ -40,16 +40,16 @@
         }  
         document.getElementById(elemId).innerHTML=adjString;
     }
-    function adjBlock(elemId, date1, language) {
+    function adjBlock(elemId, date1, info) {
         let parseDate1 = Date.parse(date1);
         let jsDate1 = new Date(parseDate1);
         var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-        let adjString = days[jsDate1.getDay()]+", February "+jsDate1.getDate()+" ("+language+")";
+        let adjString = days[jsDate1.getDay()]+", July "+jsDate1.getDate()+" ("+info+")";
         document.getElementById(elemId).innerHTML=adjString;
     }
         {{ range .Params.blocks }}
       {{ $block_start := .time_start | time  }}
-      adjBlock("date-{{ .id }}", "{{ $block_start.Format "02 Jan 2006 15:04:05 MST" }}", "{{ humanize .language }}");
+      adjBlock("date-{{ .id }}", "{{ $block_start.Format "02 Jan 2006 15:04:05 MST" }}", "{{ .info }}");
       {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.block" .id ) ".Params.time_start" }}
         {{ $time_start := .Params.time_start | time  }}
         {{ $time_end := .Params.time_end | time  }}

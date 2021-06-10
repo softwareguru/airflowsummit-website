@@ -8,6 +8,8 @@ time_start: 2021-07-13T06:30:00.000Z
 time_end: 2021-07-13T06:55:00.000Z
 block: b
 slot: 6
+format: presentation
+
 ---
 
 In this talk, we present Viewflow, an open-source Airflow-based framework that allows data scientists to create materialized views in SQL, R, and Python without writing Airflow code. 

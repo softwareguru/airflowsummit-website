@@ -8,6 +8,7 @@ time_start: 2021-07-13T17:30:00.000Z
 time_end: 2021-07-13T17:55:00.000Z
 block: c
 slot: 4
+format: adoption
 aliases:
  - /sessions/Apache-Airflow-at-Wise
 ---

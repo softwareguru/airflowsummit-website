@@ -8,6 +8,7 @@ time_start: 2021-07-09T17:00:00.000Z
 time_end: 2021-07-09T17:25:00.000Z
 block: Z
 slot: 3
+format: adoption
 ---
 
 Digital transformation, application modernization, and data platform migration to the cloud are key initiatives in most enterprises today. These initiatives are stressing the scheduling and automation tools in these enterprises to the point that many users are looking for better solutions. A survey revealed that 88% of users believe that their business will benefit from an improved automation strategy across technology and business. Airflow has an excellent opportunity to capture mindshare and emerge as the leading solution here. At Unravel, we are seeing the trend where many of our enterprise customers are at various stages of migrating to Airflow from their enterprise schedulers or ETL/ELT orchestration tools like Autosys, Informatica, Oozie, Pentaho, and Tidal. 

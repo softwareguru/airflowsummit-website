@@ -8,6 +8,8 @@ time_start: 2021-07-13T06:00:00.000Z
 time_end: 2021-07-13T06:25:00.000Z
 block: b
 slot: 5
+format: presentation
+
 ---
 
 Cloudflare's network keeps growing, and that growth doesn't just come from building new data centers in new cities. We're also upgrading the capacity of existing data centers by adding newer generations of servers — a process that makes our network safer, faster, and more reliable for our users.

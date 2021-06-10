@@ -8,6 +8,7 @@ time_start: 2021-07-13T04:00:00.000Z
 time_end: 2021-07-13T04:25:00.000Z
 block: b
 slot: 1
+format: presentation
 aliases:
  - /sessions/Dataclasses-as-Pipeline-Definitions-in-Airflow
 ---

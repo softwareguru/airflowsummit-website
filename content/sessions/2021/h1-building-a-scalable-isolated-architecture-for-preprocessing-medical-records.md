@@ -9,6 +9,8 @@ time_start: 2021-07-16T16:00:00.000Z
 time_end: 2021-07-16T16:25:00.000Z
 block: h
 slot: 1
+format: presentation
+
 aliases:
  - /sessions/Building-a-Scalable-&-Isolated-Architecture-for-Preprocessing-Medical-Records
 ---

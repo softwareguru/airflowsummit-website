@@ -8,6 +8,8 @@ time_start: 2021-07-16T06:00:00.000Z
 time_end: 2021-07-16T06:50:00.000Z
 block: g
 slot: 5-
+format: presentation
+
 ---
 
 The two most common user questions at Pinterest are: 1) why is my workflow running so long? 2) why did my workflow fail - is it my issue, or a platform issue?

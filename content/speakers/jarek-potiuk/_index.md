@@ -7,10 +7,12 @@ country: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/jarekpotiuk/"
 github: ""
-year: "2020"
+year: "2021"
 event-2021: true
 ---
 
-Jarek is an enthusiastic and pragmatic Engineer, Technology Evangelist, Software Gardener and gadget lover. Intelligent, good in problem investigation and solving, with high integrity. Passionate, enthusing others. Has strong personality, but also is a team player - loves working and spending time with great, inspiring people.
+Independent Open-Source Contributor and Advisor, Committer and PMC member of Apache Airflow, Member of the Apache Software Foundation
 
-Focused on cloud, mobile and everything in-between. Also experienced in robotics, with good understanding of AI context.
+Jarek is an Engineer with a broad experience in many subjects - Open-Source, Cloud, Mobile, Robotics, AI, Backend, Developer Experience, but he also had a lot of non-engineering experience - running a company, being CTO, organizing big, international community events, technical sales support, pr and marketing advisory but also looking at legal aspect of licensing and building open-source communities are all under his belt.
+
+With the experience in very small and very big companies and everything in-between, Jarek found his place in Open-Source world, where his internal individual-contributor drive can be used to the uttermost of the potential.

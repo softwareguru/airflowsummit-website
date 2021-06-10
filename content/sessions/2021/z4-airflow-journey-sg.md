@@ -9,6 +9,7 @@ time_start: 2021-07-09T17:30:00.000Z
 time_end: 2021-07-09T17:55:00.000Z
 block: Z
 slot: 4
+format: adoption
 ---
 
 This talk will cover the adoption journey (Technical Challenges & Team Organization) of Apache Airflow (1.8 to 2.0) at Societe Generale.

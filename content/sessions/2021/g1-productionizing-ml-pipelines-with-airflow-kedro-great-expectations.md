@@ -8,6 +8,7 @@ time_start: 2021-07-16T04:00:00.000Z
 time_end: 2021-07-16T04:25:00.000Z
 block: g
 slot: 1
+format: presentation
 aliases: 
  - /sessions/Productionizing-ML-Pipelines-with-Airflow,Kedro,and-Great-Expectations
 ---

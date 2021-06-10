@@ -8,6 +8,7 @@ time_start: 2021-07-14T18:00:00.000Z
 time_end: 2021-07-14T18:25:00.000Z
 block: d
 slot: 5
+format: presentation
 aliases:
  - /sessions/Writing-Dry-Code-in-Airflow
 ---

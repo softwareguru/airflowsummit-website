@@ -8,6 +8,7 @@ time_start: 2021-07-08T16:00:00.000Z
 time_end: 2021-07-08T16:50:00.000Z
 block: Y
 slot: 1
+format: keynote
 ---
 
 From not knowing Python (let alone Airflow), and from submitting the first PR that fixes typo to becoming Airflow Committer, PMC Member, Release Manager, and #1 Committer this year, this talk walks through Kaxil's journey in the Airflow World.

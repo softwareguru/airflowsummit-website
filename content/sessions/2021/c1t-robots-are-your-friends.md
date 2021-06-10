@@ -5,9 +5,11 @@ url: /sessions/2021/robots-are-your-friends
 speakers:
  - Leah Cole
 time_start: 2021-07-13T16:00:00.000Z
-time_end: 2021-07-13T16:10:00.000Z
+time_end: 2021-07-13T16:30:00.000Z
 block: c
 slot: 1t
+format: lightning
+
 ---
 
 As part of my role at Google, maintaining samples for Cloud Composer, hosted managed Airflow, is crucial. It's not feasible for me to try out every sample every day to check that it's working. So, how do I do it?

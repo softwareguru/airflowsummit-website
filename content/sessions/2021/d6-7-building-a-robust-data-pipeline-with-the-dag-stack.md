@@ -8,6 +8,7 @@ time_start: 2021-07-14T18:30:00.000Z
 time_end: 2021-07-14T19:20:00.000Z
 block: d
 slot: 6
+format: presentation
 aliases:
  - /sessions/Building-a-robust-data-pipeline-with-the-dAG-stack
 ---

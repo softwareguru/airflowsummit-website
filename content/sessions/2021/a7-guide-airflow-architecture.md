@@ -8,6 +8,7 @@ time_start: 2021-07-12T18:30:00.000Z
 time_end: 2021-07-12T18:55:00.000Z
 block: a
 slot: 7
+format: presentation
 aliases:
  - /sessions/The-Newcomer's-Guide-to-Airflow's-Architecture
 ---

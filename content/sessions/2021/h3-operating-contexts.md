@@ -8,6 +8,8 @@ time_start: 2021-07-16T17:00:00.000Z
 time_end: 2021-07-16T17:25:00.000Z
 block: h
 slot: 3
+format: presentation
+
 ---
 
 As people define and publish a DAG, it can be really useful to make it clear how this DAG should behave under different "operating contexts". Common operating contexts may match your different environments (dev / staging / prod) and/or match your operating needs (quick run, full backfill, test run, ...). 

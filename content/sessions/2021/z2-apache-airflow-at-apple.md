@@ -9,6 +9,7 @@ time_start: 2021-07-09T16:50:00.000Z
 time_end: 2021-07-09T17:00:00.000Z
 block: Z
 slot: 2
+format: lightning
 ---
 
 Running a platform where different business units at Apple can run their workloads in isolation and share operators.

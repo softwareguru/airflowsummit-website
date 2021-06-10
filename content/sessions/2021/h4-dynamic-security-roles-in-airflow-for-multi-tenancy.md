@@ -9,6 +9,8 @@ time_start: 2021-07-16T17:30:00.000Z
 time_end: 2021-07-16T17:55:00.000Z
 block: h
 slot: 4
+format: presentation
+
 aliases:
  - /sessions/Dynamic-Security-Roles-in-Airflow-for-Multi-Tenancy
 ---

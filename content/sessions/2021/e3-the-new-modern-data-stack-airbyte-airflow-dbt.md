@@ -8,6 +8,8 @@ time_start: 2021-07-15T05:00:00.000Z
 time_end: 2021-07-15T05:25:00.000Z
 block: e
 slot: 3
+format: presentation
+
 aliases:
  - /sessions/The-new-modern-data-stack-Airbyte,-Airflow,-DBT
 ---

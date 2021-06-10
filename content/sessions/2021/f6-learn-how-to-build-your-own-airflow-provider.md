@@ -8,6 +8,7 @@ time_start: 2021-07-15T18:30:00.000Z
 time_end: 2021-07-15T18:55:00.000Z
 block: f
 slot: 6
+format: presentation
 ---
 
 Help your team standardize workflows and build DAGs quicker. 

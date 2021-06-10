@@ -11,8 +11,8 @@ time_start: 2021-07-15T06:00:00.000Z
 time_end: 2021-07-15T06:50:00.000Z
 block: e
 slot: 5
-aliases:
- - /sessions/Modernize-a-decade-old-pipeline-with-Airlfow-2.0
+format: adoption
+
 ---
 
 As a follow up for https://airflowsummit.org/sessions/teaching-old-dag-new-tricks/, in this talk, we would like to share a happy ending story on how Scribd fully migrated its data platform to the cloud and Airflow 2.0.

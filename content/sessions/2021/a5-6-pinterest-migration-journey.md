@@ -6,6 +6,7 @@ speakers:
  - Ace Haidrey
 time_start: 2021-07-12T17:30:00.000Z
 time_end: 2021-07-12T18:20:00.000Z
+format: adoption
 block: a
 slot: 5
 aliases:

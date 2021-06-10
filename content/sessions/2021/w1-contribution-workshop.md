@@ -1,21 +1,21 @@
 ---
 title: "Workshop: Contributing to Apache Airflow"
-url: /workshops/workshop-contributing-apache-airflow
+url: /sessions/2021/workshop-contributing-apache-airflow
 speakers:
   - Jarek Potiuk
   - Tomasz Urbaszek
 
-block: 11
-time_start: 2020-07-15T16:00:00.000Z
-time_end: 2020-07-15T19:00:00.000Z
+block: Z
+time_start: 2021-07-09T16:00:00.000Z
+time_end: 2021-07-09T19:00:00.000Z
+format: workshop
 workshop: true
 summary: "Learn how to become a code contributor to the Apache Airflow project."
-ticket: https://ti.to/airflowsummit/w3
-id: w3
-draft: true
+ticket: https://ti.to/airflowsummit/2021-contributor
+id: w1
 ---
 
-<strong>Participation in this workshop requires previous registration and has limited capacity. Get your ticket at https://ti.to/airflowsummit/w3</strong>
+<strong>Participation in this workshop requires previous registration and has limited capacity. Get your ticket at https://ti.to/airflowsummit/2021-contributor</strong>
 
 By attending this workshop, you will learn how you can become a contributor to the Apache Airflow project. You will learn how to setup a development environment, how to pick your first issue, how to communicate effectively within the community and how to make your first PR - experienced committers of Apache Airflow project will give you step-by-step instructions and will guide you in the process. When you finish the workshop you will be equipped with everything that is needed to make further contributions to the Apache Airflow project.
 

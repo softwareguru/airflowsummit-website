@@ -8,6 +8,7 @@ time_start: 2021-07-13T04:30:00.000Z
 time_end: 2021-07-13T04:55:00.000Z
 block: b
 slot: 2
+format: presentation
 ---
 
 This presentation will detail how Elyra creates Jupyter Notebook, Python and R script- based pipelines without having to leave your web browser. 

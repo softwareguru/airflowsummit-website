@@ -9,6 +9,8 @@ time_start: 2021-07-16T04:30:00.000Z
 time_end: 2021-07-16T05:20:00.000Z
 block: g
 slot: 2-
+format: presentation
+
 ---
 
 If you manage a lot of data, and you're attending this summit, you likely rely on Apache Airflow to do a lot of the heavy lifting. Like any powerful tool, Apache Airflow allows you to accomplish what you couldn't before… but also creates new challenges. As DAGs pile up, complexity layers on top of complexity and it becomes hard to grasp how a failed or delayed DAG will affect everything downstream.
