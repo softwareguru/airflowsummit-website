@@ -56,7 +56,7 @@ blocks:
 
 ---
 
-
+<h4>Times should show up in your local timezone</h4>
 Color Codes:
 
 <div class="color-code-list">
@@ -68,4 +68,3 @@ Color Codes:
   <div class="color-code-item" style="background-color: #f0f0b0;">Workshop</div>
 </div>
 <p>&nbsp;</p>	
-<p>Times should show up in your local timezone.</p>
