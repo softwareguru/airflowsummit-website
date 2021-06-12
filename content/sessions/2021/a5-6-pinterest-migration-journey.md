@@ -4,8 +4,8 @@ title: "Pinterest’s Migration Journey"
 url: /sessions/2021/pinterest-migration-journey
 speakers:
  - Ace Haidrey
-time_start: 2021-07-12T17:30:00.000Z
-time_end: 2021-07-12T18:20:00.000Z
+time_start: 2021-07-12T18:00:00.000Z
+time_end: 2021-07-12T18:50:00.000Z
 format: adoption
 block: a
 slot: 5

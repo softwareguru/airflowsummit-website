@@ -13,8 +13,20 @@
         <div class="session-list">
             {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.block" .id ) ".Params.time_end" }}
             <div class="session-item {{ with .Params.format }}{{ . }}{{end}}">
+                <div class="text-center">
                 <div id="time-{{.Params.id}}" class="session-time">
                 </div>
+                <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                    <img src="/images/icons/calendar.svg" alt="Add to your calendar" title="Add to your calendar" style="width:18px;" />
+                    <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                    <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                    <span class="timezone">UTC</span>
+                    <span class="title">Airflow Summit: {{ .Title | truncate 40 }}</span>
+                    <span class="description">{{ .Content }}</span>
+                    <span class="location">https://airflowsummit.org/live</span>
+                  </div>
+    
+               </div>
                 <div class="session-info">
                     <h4><a class="session-title" data-toggle="collapse" href="#abs-{{.Params.id}}">{{ .Params.title }}</a>{{ with .Params.language }}{{ if eq . "chinese" }} (Chinese){{ end }}{{ end }}</h4>
                     {{ with .Params.speakers }}<p class="speakers-list">by {{ delimit . ", " " & " }}</p>{{ end }}

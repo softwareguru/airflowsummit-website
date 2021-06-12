@@ -30,7 +30,19 @@
         <div class="inner-column">
           <div class="text-box">
             <h3>{{ .Title }}</h3>
-            <p class="session-meta" id="date"><span id="adjTime"></span> <em>{{ with .Params.time_start | time }}({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }}</em></p>
+            <div class="session-meta" id="date">
+              <span id="adjTime"></span>
+              <em>{{ with .Params.time_start | time }} ({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }} - </em>
+              <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                Add to Calendar
+                <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                <span class="timezone">UTC</span>
+                <span class="title">Airflow Summit: {{ .Title | truncate 40 }}</span>
+                <span class="description">{{ .Content }}</span>
+                <span class="location">https://airflowsummit.org/live</span>
+              </div>
+            </div>
             {{ with .Params.language }}<p class="session-meta" id="lang">Language: {{ humanize . }}</p>{{ end }}
             <div class="d-lg-none d-xl-none">
               By 

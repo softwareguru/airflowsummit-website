@@ -20,7 +20,10 @@ id: w1
 By attending this workshop, you will learn how you can become a contributor to the Apache Airflow project. You will learn how to setup a development environment, how to pick your first issue, how to communicate effectively within the community and how to make your first PR - experienced committers of Apache Airflow project will give you step-by-step instructions and will guide you in the process. When you finish the workshop you will be equipped with everything that is needed to make further contributions to the Apache Airflow project.
 
 ## Prerequisites:
-The session is geared towards Mac and Linux users, but Windows users are more than welcome to join. You need to have Python experience. 
+
+* **You need to have Python experience**. 
+* Previous experience in Airflow is nice-to-have. 
+* The session is geared towards Mac and Linux users. If you are a Windows user, it is best if you install Windows Subsystem for Linux (WSL).
 
 In preparation for the class, please make sure you have set up the following prerequisites:
 * make a fork of the https://github.com/apache/airflow 

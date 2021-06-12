@@ -4,8 +4,8 @@ title: "The Newcomer's Guide to Airflow's Architecture"
 url: /sessions/2021/guide-airflow-architecture
 speakers:
  - Andrew Godwin
-time_start: 2021-07-12T18:30:00.000Z
-time_end: 2021-07-12T18:55:00.000Z
+time_start: 2021-07-12T19:00:00.000Z
+time_end: 2021-07-12T19:25:00.000Z
 block: a
 slot: 7
 format: presentation
