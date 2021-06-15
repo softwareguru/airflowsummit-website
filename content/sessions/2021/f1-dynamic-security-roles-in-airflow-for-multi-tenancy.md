@@ -1,14 +1,14 @@
 ---
-id: h4
+id: f1
 title: "Dynamic Security Roles in Airflow for Multi-Tenancy"
 url: /sessions/2021/dynamic-security-roles-in-airflow-for-multi-tenancy
 speakers:
  - Mark Merling
  - Sean Lewis
-time_start: 2021-07-16T17:30:00.000Z
-time_end: 2021-07-16T17:55:00.000Z
-block: h
-slot: 4
+time_start: 2021-07-15T16:00:00.000Z
+time_end: 2021-07-15T16:25:00.000Z
+block: f
+slot: 1
 format: presentation
 
 aliases:

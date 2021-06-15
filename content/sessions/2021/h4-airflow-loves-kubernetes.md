@@ -1,14 +1,14 @@
 ---
-id: f1
+id: h4
 title: "Airflow loves Kubernetes"
 url: /sessions/2021/airflow-loves-kubernetes
 speakers:
  - Jarek Potiuk
  - Kaxil Naik
-time_start: 2021-07-15T16:00:00.000Z
-time_end: 2021-07-15T16:25:00.000Z
-block: f
-slot: 1
+time_start: 2021-07-16T17:30:00.000Z
+time_end: 2021-07-16T17:55:00.000Z
+block: h
+slot: 4
 format: presentation
 ---
 
