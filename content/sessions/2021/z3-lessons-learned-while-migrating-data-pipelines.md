@@ -4,6 +4,7 @@ title: "Lessons Learned while Migrating Data Pipelines from Enterprise Scheduler
 url: /sessions/2021/lessons-learned-while-migrating-data-pipelines
 speakers:
  - Shivnath Babu
+ - Hari Nair
 time_start: 2021-07-09T17:00:00.000Z
 time_end: 2021-07-09T17:25:00.000Z
 block: Z

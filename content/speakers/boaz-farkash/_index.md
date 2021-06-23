@@ -2,6 +2,9 @@
 title: "Boaz Farkash"
 designation: "Chief Product Officer at Firebolt"
 image: /images/speakers/boaz-farkash.jpg
+images: 
+ - /images/speakers/boaz-farkash.jpg
+description: "Boaz Farkash is a seasoned product leader with vast experience in data engineering and real-time analytics."
 events:
  - 2021
 twitter: ""

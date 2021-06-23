@@ -1,14 +1,14 @@
 ---
-id: y3
+id: y5
 title: "You don’t have to wait for someone to fix it for you"
 url: /sessions/2021/dont-have-to-wait
 speakers:
  - Rachael Deacon-Smith
  - Leah Cole
-time_start: 2021-07-08T16:50:00.000Z
-time_end: 2021-07-08T17:00:00.000Z
+time_start: 2021-07-08T18:20:00.000Z
+time_end: 2021-07-08T18:30:00.000Z
 block: Y
-slot: 3
+slot: 5
 format: community
 ---
 
