@@ -20,4 +20,6 @@ Also, you might have read recently about security researcher who made USD 13,000
 
 If any of this rings a bell, then this session is for you.
 
-In this session Dolev (security expert and researchers who submitted security issues recently to Airflow), Ash and Jarek  (Airflow PMC members) will discuss the state of security and best practices for keeping your Airflow secure and why it is important.
+In this session Dolev (security expert and researchers who submitted security issues recently to Airflow), Ash and Jarek  (Airflow PMC members) will discuss the state of security and best practices for keeping your Airflow secure and why it is important. The discussion will be moderated by Tomasz Urbaszek, Airflow PMC member.
+
+You can get a glimpse of what they will talk about [through this blog post](https://blogs.apache.org/foundation/entry/success-at-apache-security-in).
