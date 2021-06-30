@@ -4,6 +4,10 @@ title: "Usability Improvements: Debugging & Inspection Tooling"
 url: /sessions/2021/usability-improvements-debugging-inspection-tooling
 speakers:
  - Ace Haidrey
+ - Euccas Chen
+ - Yulei Li
+ - Dinghang Yu
+ - Ashim Shrestha
 time_start: 2021-07-16T06:00:00.000Z
 time_end: 2021-07-16T06:50:00.000Z
 block: g

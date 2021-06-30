@@ -1,6 +1,6 @@
 ---
 title: "Ace Haidrey"
-designation: "Senior Big Data Engineer - Pinterest"
+designation: "Senior Big Data Engineer @ Pinterest"
 image: /images/speakers/ace-haidrey.jpg
 images: 
  - /images/speakers/ace-haidrey.jpg

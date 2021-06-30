@@ -4,6 +4,10 @@ title: "Pinterest’s Migration Journey"
 url: /sessions/2021/pinterest-migration-journey
 speakers:
  - Ace Haidrey
+ - Euccas Chen
+ - Yulei Li
+ - Dinghang Yu
+ - Ashim Shrestha
 time_start: 2021-07-12T18:00:00.000Z
 time_end: 2021-07-12T18:50:00.000Z
 format: adoption
