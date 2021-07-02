@@ -55,3 +55,62 @@
 .bg-gray {
 	background: #eee;
 }
+
+section.sponsors {
+	background-color: white;
+}
+
+.sponsor-strip.platinum {
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	.sponsor-item {
+		width: 280px;
+		margin: 0px 50px 25px 50px;
+	}
+
+}
+
+.sponsor-strip.gold {
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	.sponsor-item {
+		width: 240px;
+		margin: 0px 40px 25px 40px;
+	}
+
+}
+
+.sponsor-strip.silver {
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	.sponsor-item {
+		width: 200px;
+		margin: 0px 40px 25px 40px;
+	}
+}
+
+.sponsor-strip.community {
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	.sponsor-item {
+		width: 160px;
+		margin: 0px 25px 20px 25px;
+	}
+
+}
