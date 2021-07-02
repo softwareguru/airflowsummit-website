@@ -24,10 +24,10 @@ speaker = "speakers"
 ############################## navigation ###############################
 [menu]
 
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 1
+  #[menu.main]]
+  #name = "About"
+  #URL = "about"
+  #weight = 1
 
   [[menu.main]]
   name = "Schedule"
@@ -39,10 +39,10 @@ speaker = "speakers"
   URL = "speakers"
   weight = 3
 
-  [[menu.main]]
-  name = "Workshops"
-  URL = "workshops"
-  weight = 4
+  #[[menu.main]]
+  #name = "Workshops"
+  #URL = "workshops"
+  #weight = 4
 
   [[menu.main]]
   name = "Jobs"
@@ -105,12 +105,15 @@ link = "https://www.crowdcast.io/e/airflowsummit2021"
     icon = "fab fa-youtube"
 
 [[params.links.footer]]
+    name = "About"
+    url = "about"
+[[params.links.footer]]
     name = "Code of Conduct"
     url = "/coc"
 [[params.links.footer]]
     name = "Accessibility"
     url = "/accessibility"
-[[params.links.footer]]
+[[params.links.footer]] 
     name = "Privacy Policy"
     url = "/privacy"
 [[params.links.footer]]
