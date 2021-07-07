@@ -1,15 +1,26 @@
-<article class="swag border mb-4" >
-    <div class="content py-3 px-5">
-        <h4 class="my-2">{{ .Title | markdownify }}</h4>
-        <div class="py-3 px-3">
-            <img class="img-fluid" src="{{ .Params.Image }}">
-        
-        </div>
-        <div class="text-right">
-            <a href="{{ .Params.form_link }}" class="h5">
-                Check it out! <i class="fas fa-arrow-right mr-4"></i>
-            </a>
-            
-        </div>
-    </div>
-</article>
+
+<section class="section">
+  
+        <div class="card h-100">
+          
+            <a href="{{ .Params.Link }}" target="blank"><img src="{{ .Params.Image | relURL }}" class="card-img-top" alt="..."></a>
+            <div class="card-body">
+              <h5 class="card-title"><a href="{{ .Params.Link }}" target="blank">{{ .Title }}</a></h5>
+              <p class="card-text">{{ .Content }}</p>
+              
+            </div>
+            <center>
+                <a href="{{ .Params.Link }}" target="_blank">
+                  <button type="button" style="align-items: center;" class="btn btn-info col-md-10 px-3">{{ .Params.Button}}</button>
+               </a>
+            </center>
+          <br>
+          </div>
+    
+</section>
+
+
+
+
+
+
