@@ -82,8 +82,8 @@ end_date = "2021-07-16T17:00-05:00"
 text = "July 8-16, 2021. Come fly with us."
 
 [params.hero.cta1]
-text = "Register now"
-link = "https://www.crowdcast.io/e/airflowsummit2021"
+text = "Watch now"
+link = "https://airflowsummit.org/live"
  
 #[params.hero.cta2]
 #text = ""
@@ -92,8 +92,8 @@ link = "https://www.crowdcast.io/e/airflowsummit2021"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Register"
-link = "https://www.crowdcast.io/e/airflowsummit2021"
+label = "Watch now"
+link = "https://airflowsummit.org/live"
 
 
 [params.links]
