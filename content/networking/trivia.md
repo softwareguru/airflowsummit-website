@@ -8,7 +8,7 @@ draft: false
 weight: 2
 ---
 
-Show your knowledge about Airflow, data, and geek culture. By participating you will be able to win a 100k Amazon gift card, or a Google Open Source swag box.
+Show your knowledge about Airflow, data, and geek culture. By participating you will be able to win a 100usd Amazon gift card, or a Google Open Source swag box.
 Join the Apache Airflow slack and get prepared for winning!
 
 

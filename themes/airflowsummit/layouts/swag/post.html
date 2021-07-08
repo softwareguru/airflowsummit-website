@@ -1,10 +1,14 @@
 <article class="swag box-shadow mb-4">
     <div class="content py-3 px-3">
-        <h4 class="my-3">{{ .Title | markdownify }}</h4>
-        <div class="swag-info">
+        <h4 class="my-3" style="text-align: center;">{{ .Title | markdownify }}</h4>
+
+        <p class="mb-4">{{ .Content }}</p>
+        <br>
+        <div class="swag-info" >
             <img class="img-fluid" src="{{ .Params.Image }}">
-            <p class="mb-4">{{ .Summary }}</p>
+          
         </div>
+        <br>
         <div class="text-right">
             <a href="{{ .Params.form_link }}" class="h5">
                 Check it out! <i class="fas fa-arrow-right mr-4"></i>
