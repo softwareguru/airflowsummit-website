@@ -11,12 +11,13 @@ slot: 4
 format: presentation
 aliases:
  - /sessions/Clearing-Airflow-obstructions
+crowdcast_id: 40
 ---
 
 Apache Airflow aims to speed the development of workflows, but developers are always ready to add bugs here and there.
- 
+
  This talk illustrates a few pitfalls faced while developing workflows at the BBC to build machine learning models. The objective is to share some lessons learned and, hopefully, save others time.
- 
+
  Some of the topics covered, with code examples:
  * Tasks unsuitable to be run from within Airflow executors
  * Plugins misusage

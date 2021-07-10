@@ -2,7 +2,7 @@
 id: z6
 title: "Data Pipeline HealthCheck for Correctness, Performance, and Cost Efficiency"
 url: /sessions/2021/pipeline-healthcheck
-alias: 
+alias:
  - /sessions/2021/get-to-know-an-unravel-customer-testimonial-about-airflow-implementation
 speakers:
  - Shivnath Babu
@@ -11,6 +11,7 @@ time_end: 2021-07-09T18:45:00.000Z
 block: Z
 slot: 6
 format: presentation
+crowdcast_id: 10
 ---
 
 We are witnessing a rapid growth in the number of mission-critical data pipelines that leaders of data products are responsible for. "Are your data pipelines healthy?" This question was posed to more than 200 leaders of data products from various industries. The answers ranged from "unfortunately, no" to "they are mostly fine, but I am always afraid that something or the other will cause a pipeline to break".

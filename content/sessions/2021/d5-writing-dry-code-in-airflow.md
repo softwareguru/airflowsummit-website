@@ -11,6 +11,7 @@ slot: 5
 format: presentation
 aliases:
  - /sessions/Writing-Dry-Code-in-Airflow
+crowdcast_id: 30
 ---
 
 Engineering teams leverage the factory coding pattern to write easy-to-read and repeatable code. In this talk, we’ll outline how data engineering teams can do the same with Airflow by separating DAG declarations from business logic, abstracting task declarations from task dependencies, and creating a code architecture that is simple to understand for new team members. This approach will set analytics teams up for success as team and Airflow DAG sizes grow exponentially.

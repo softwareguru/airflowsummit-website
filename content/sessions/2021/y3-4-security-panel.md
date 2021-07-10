@@ -12,9 +12,10 @@ time_end: 2021-07-08T18:20:00.000Z
 block: Y
 slot: 3-4
 format: community
+crowdcast_id: 3
 ---
 
-You might have heard some recent news about ransomware attacks for many companies. Quite recently the U. S. Department of Justice has elevated the priority of investigations of ransomware attacks to the same level as terrorism. Certainly security aspects of running software and so called "supply-chain attacks" have made a press recently. 
+You might have heard some recent news about ransomware attacks for many companies. Quite recently the U. S. Department of Justice has elevated the priority of investigations of ransomware attacks to the same level as terrorism. Certainly security aspects of running software and so called "supply-chain attacks" have made a press recently.
 
 Also, you might have read recently about security researcher who made USD 13,000 via bounties by finding and contacting companies that had old, un-patched versions of Airflow - even if the ASF security process was great and PMC of Airflow has fixed those long time ago.
 

@@ -9,6 +9,7 @@ time_end: 2021-07-08T17:25:00.000Z
 block: Y
 slot: 2
 format: community
+crowdcast_id: 2
 ---
 
 Learn to contribute to the Apache Airflow ecosystem both with and without code. Post an article to the Airflow blog, improve documentation, or dive head-first into into Airflow's free and open source software community.

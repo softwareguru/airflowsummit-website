@@ -10,6 +10,7 @@ time_end: 2021-07-08T18:30:00.000Z
 block: Y
 slot: 5
 format: community
+crowdcast_id: 4
 ---
 
 Rachael, a new Airflow contributor, and Leah, an experienced Airflow contributor, share the story of Rachael’s first contribution, highlighting the importance of contributions from new users and the positive impact that non-code contributions have in an open source community.

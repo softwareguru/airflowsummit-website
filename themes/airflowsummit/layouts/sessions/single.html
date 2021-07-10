@@ -15,7 +15,7 @@
                   <div class="img-container">
                     <img class="img-fluid rounded-circle" src="{{ .Params.image | relURL}}" alt="">
                   </div>
-                  <h5 class="name" style="color: #016acc;">{{ .Title }}</h5> 
+                  <h5 class="name" style="color: #016acc;">{{ .Title }}</h5>
                 </a>
               </figure>
                {{ end }}
@@ -43,12 +43,17 @@
                 <span class="location">https://airflowsummit.org/live</span>
               </div>
             </div>
+            {{ if .Params.crowdcast_id }}
+            <div class="content mt-0">
+              <a href="https://www.crowdcast.io/e/airflowsummit2021/{{.Params.crowdcast_id}}">Watch it here</a>
+            </div>
+            {{ end }}
             {{ with .Params.language }}<p class="session-meta" id="lang">Language: {{ humanize . }}</p>{{ end }}
             <div class="d-lg-none d-xl-none">
-              By 
+              By
               {{ range (.GetTerms "speakers") }}
               <a class="speaker-inline-item" href="{{ .Permalink }}">{{ .Title }}</a>
-              {{ end }}  
+              {{ end }}
             </div>
 
             {{ with .Params.slides }}
@@ -84,7 +89,7 @@
   }
   {{ $time_start := .Params.time_start | time }}
   {{ $time_end := .Params.time_end | time }}
-  adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");  
+  adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");
 </script>
 
 

@@ -10,7 +10,7 @@ time_end: 2021-07-16T07:50:00.000Z
 block: g
 slot: 7
 format: presentation
-
+crowdcast_id: 47
 ---
 
 Autoscaling in Airflow - what we learnt based on Cloud Composer case.

@@ -9,8 +9,9 @@ time_end: 2021-07-14T17:20:00.000Z
 block: d
 slot: 2-
 format: presentation
+crowdcast_id: 28
 ---
 
 The scheduler is the core of Airflow, and it's a complex beast.
- 
+
  In this session we will go through the scheduler in some detail; how it works; what the communication paths are and what processing is done where.
