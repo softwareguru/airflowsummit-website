@@ -10,12 +10,13 @@ block: Y
 slot: 1
 format: keynote
 calendar_id: oS6970454
+crowdcast_id: 1
 ---
 
 From not knowing Python (let alone Airflow), and from submitting the first PR that fixes typo to becoming Airflow Committer, PMC Member, Release Manager, and #1 Committer this year, this talk walks through Kaxil's journey in the Airflow World.
- 
+
  The second part of this talk explains:
- - how you can also start your OSS journey by contributing to Airflow 
+ - how you can also start your OSS journey by contributing to Airflow
  - Expanding familiarity with a different part of the Airflow codebase
  - Continue committing regularly & steadily to become Airflow Committer. (including talking about current Guidelines of becoming a Committer)
  - Different mediums of communication (Dev list, users list, Slack channel, Github Discussions etc)

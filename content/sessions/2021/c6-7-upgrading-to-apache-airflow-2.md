@@ -11,12 +11,13 @@ slot: 6
 format: presentation
 aliases:
  - /sessions/Upgrading-to-Apache-Airflow-2
+crowdcast_id: 26
 ---
 
-Airflow 2.0 was a big milestone for the Airflow community. However, companies and enterprises are still facing difficulties in upgrading to 2.0. 
- 
- In this talk, I would like to focus and highlight the ideal upgrade path and talk about 
- 
+Airflow 2.0 was a big milestone for the Airflow community. However, companies and enterprises are still facing difficulties in upgrading to 2.0.
+
+ In this talk, I would like to focus and highlight the ideal upgrade path and talk about
+
  - upgrade_check CLI tool
  - separation of providers
  - registering connections types

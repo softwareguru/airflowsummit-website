@@ -9,7 +9,7 @@ time_end: 2021-07-13T07:25:00.000Z
 block: b
 slot: 7
 format: presentation
-
+crowdcast_id: 21
 ---
 
 This talk aims to share how Airflow's secrets backend works, and how users can create their custom secret backends for their specific use cases & technology stack.

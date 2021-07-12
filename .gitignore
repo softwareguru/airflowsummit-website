@@ -8,3 +8,5 @@ public/
 *Zone.Identifier
 firebase-debug.log
 scripts/
+.idea
+*.iml

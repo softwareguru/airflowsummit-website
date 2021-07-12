@@ -10,7 +10,7 @@ time_end: 2021-07-16T19:25:00.000Z
 block: h
 slot: 7
 format: presentation
-
+crowdcast_id: 53
 ---
 
 An informal and fun chat about the journey that we took and the decisions that we made in building Amazon Managed Workflows for Apache Airflow.

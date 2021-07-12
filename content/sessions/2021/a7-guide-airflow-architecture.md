@@ -11,8 +11,9 @@ slot: 7
 format: presentation
 aliases:
  - /sessions/The-Newcomer's-Guide-to-Airflow's-Architecture
+crowdcast_id: 14
 ---
 
 Airflow has a lot of moving parts, and it can be a little overwhelming as a new user - as I was not too long ago.
- 
+
  Join me as we go though Airflow's architecture at a high level, explore how DAGs work and run, and look at some of the good, the bad, and the unexpected things lurking inside.
