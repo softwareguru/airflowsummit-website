@@ -9,10 +9,12 @@
           
         </div>
         <br>
+        {{ with .Params.form_link }}
         <div class="text-right">
-            <a href="{{ .Params.form_link }}" class="h5">
+            <a href="{{ . }}" class="h5">
                 Check it out! <i class="fas fa-arrow-right mr-4"></i>
             </a>
         </div>
+        {{ end }}
     </div>
 </article>
