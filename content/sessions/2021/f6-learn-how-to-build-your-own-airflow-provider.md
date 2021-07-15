@@ -1,6 +1,6 @@
 ---
 id: f6
-title: "Learn how to build your own Airflow provider"
+title: "Building DAGs in the Airflow Ecosystem"
 url: /sessions/2021/learn-how-to-build-your-own-airflow-provider
 speakers:
  - Plinio Guzman
@@ -12,6 +12,4 @@ format: presentation
 crowdcast_id: 41
 ---
 
-Help your team standardize workflows and build DAGs quicker.
-
- In this session, you'll find a walkthrough and sample code to build and share an Airflow provider package. This will help you create repeatable patterns that interface your preferred 3rd party services with Airflow.
+Learn how to use Airflow’s robust ecosystem of providers to construct secure, high-quality DAGs.
