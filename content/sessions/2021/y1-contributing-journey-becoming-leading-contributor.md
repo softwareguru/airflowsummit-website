@@ -11,6 +11,7 @@ slot: 1
 format: keynote
 calendar_id: oS6970454
 crowdcast_id: 1
+slides: 2021/y1-Contributing to Apache Airflow _ Journey to becoming Airflow's leading contributor.pdf
 ---
 
 From not knowing Python (let alone Airflow), and from submitting the first PR that fixes typo to becoming Airflow Committer, PMC Member, Release Manager, and #1 Committer this year, this talk walks through Kaxil's journey in the Airflow World.

@@ -13,6 +13,7 @@ block: Y
 slot: 3-4
 format: community
 crowdcast_id: 3
+slides: https://blogs.apache.org/foundation/entry/success-at-apache-security-in
 ---
 
 You might have heard some recent news about ransomware attacks for many companies. Quite recently the U. S. Department of Justice has elevated the priority of investigations of ransomware attacks to the same level as terrorism. Certainly security aspects of running software and so called "supply-chain attacks" have made a press recently.

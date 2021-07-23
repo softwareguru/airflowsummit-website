@@ -12,6 +12,7 @@ format: presentation
 aliases:
  - /sessions/The-Newcomer's-Guide-to-Airflow's-Architecture
 crowdcast_id: 14
+slides: 2021/a7-NewcomersGuide-Andrew.pdf
 ---
 
 Airflow has a lot of moving parts, and it can be a little overwhelming as a new user - as I was not too long ago.

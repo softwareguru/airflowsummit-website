@@ -13,6 +13,7 @@ block: e
 slot: 5
 format: adoption
 crowdcast_id: 36
+slides: 2021/e5_6-ModernizeAirflow-Scribd.pdf
 ---
 
 As a follow up for https://airflowsummit.org/sessions/teaching-old-dag-new-tricks/, in this talk, we would like to share a happy ending story on how Scribd fully migrated its data platform to the cloud and Airflow 2.0.

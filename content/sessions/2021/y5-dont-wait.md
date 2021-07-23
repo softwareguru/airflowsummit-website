@@ -11,6 +11,7 @@ block: Y
 slot: 5
 format: community
 crowdcast_id: 4
+slides: 2021/y6-You_dont_have_to_wait-LeahRachel.pdf
 ---
 
 Rachael, a new Airflow contributor, and Leah, an experienced Airflow contributor, share the story of Rachael’s first contribution, highlighting the importance of contributions from new users and the positive impact that non-code contributions have in an open source community.

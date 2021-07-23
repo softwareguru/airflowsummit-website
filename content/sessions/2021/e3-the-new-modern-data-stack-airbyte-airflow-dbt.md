@@ -13,6 +13,7 @@ format: presentation
 aliases:
  - /sessions/The-new-modern-data-stack-Airbyte,-Airflow,-DBT
 crowdcast_id: 34
+slides: 2021/e3-Airbyte-MichelTricot.pdf
 ---
 
 In this talk, I’ll describe how you can leverage 3 open-source standards - workflow management with Airflow, EL with Airbyte, transformation with DBT - to build your next modern data stack. I’ll explain how to configure your Airflow DAG to trigger Airbyte’s data replication jobs and DBT’s transformation one with a concrete use case.

@@ -11,6 +11,7 @@ block: h
 slot: 5-
 format: presentation
 crowdcast_id: 52
+slides: 2021/h5_6-CustomizingXcom.pdf
 ---
 
 In Apache Airflow, Xcom is the default mechanism for passing data between tasks in a DAG. In practice, this has been restricted to small data elements, since the Xcom data is persisted in the Airflow metadatabase and is constrained by database and performance limitations.
