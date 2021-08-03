@@ -11,6 +11,7 @@ block: c
 slot: 2-3
 format: adoption
 crowdcast_id: 23
+video: https://youtu.be/Shn_ejTBLJI
 ---
 
 Astronomer founders Ry Walker and Greg Neiheisel will preview the upcoming next-gen Astronomer Cloud product offering.

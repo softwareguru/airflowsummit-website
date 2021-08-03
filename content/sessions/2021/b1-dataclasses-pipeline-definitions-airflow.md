@@ -12,7 +12,8 @@ format: presentation
 aliases:
  - /sessions/Dataclasses-as-Pipeline-Definitions-in-Airflow
 crowdcast_id: 15
-slides: 2021/b1-Dataclasses-Madison.pptx
+slides: 2021/b1-Dataclasses-Madison.pdf
+video: https://youtu.be/ja2siGyklq0
 ---
 
 We will describe how we were able to build a system in Airflow for MySQL to Redshift ETL pipelines defined in pure Python using dataclasses. These dataclasses are then used to dynamically generate DAGs depending on pipeline type. This setup allows us to implement robust testing, validation, alerts, and documentation for our pipelines. We will also describe the performance improvements we achieved by upgrading to Airflow 2.0.

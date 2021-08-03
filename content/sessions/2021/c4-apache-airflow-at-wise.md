@@ -12,6 +12,8 @@ format: adoption
 aliases:
  - /sessions/Apache-Airflow-at-Wise
 crowdcast_id: 24
+slides: 2021/c4-AirflowWise.pdf
+video: https://youtu.be/MNQsehu9vac
 ---
 
 Wise (previously TransferWise) is a London-based fin-tech company. We build a better way of sending money internationally.

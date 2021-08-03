@@ -10,6 +10,8 @@ block: b
 slot: 2
 format: presentation
 crowdcast_id: 16
+slides: 2021/b2-Elyra.pdf
+video: https://youtu.be/dRuwbgDV8d4
 ---
 
 This presentation will detail how Elyra creates Jupyter Notebook, Python and R script- based pipelines without having to leave your web browser.

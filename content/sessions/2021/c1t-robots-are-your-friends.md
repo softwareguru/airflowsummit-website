@@ -10,6 +10,8 @@ block: c
 slot: 1t
 format: lightning
 crowdcast_id: 22
+video: https://youtu.be/nlsN2BMrvBY
+slides: 2021/c1b-RobotsFriends.pdf
 ---
 
 As part of my role at Google, maintaining samples for Cloud Composer, hosted managed Airflow, is crucial. It's not feasible for me to try out every sample every day to check that it's working. So, how do I do it?

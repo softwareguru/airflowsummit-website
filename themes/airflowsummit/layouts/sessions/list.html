@@ -5,13 +5,6 @@
         {{ .Content }}
     </p>
 
-    {{if eq .File.Dir "sessions/" }}
-    <div class="row">
-        <p class="mb-2">These are the selected sessions so far. Hello.</p>
-        <script type="text/javascript" src="https://sessionize.com/api/v2/kswr8ncc/view/Sessions"></script>
-    </div>
-    {{ else }}
-
     <table data-toggle="table" data-search="true" data-search-align="left">
         <thead>
             <tr>
@@ -37,7 +30,6 @@
             {{ end }}
         </tbody>
     </table>
-    {{ end }}
 
 </div>
 
