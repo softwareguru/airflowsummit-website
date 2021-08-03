@@ -3,4 +3,4 @@ title: Airflow Summit 2020 sessions
 
 ---
 
-These sessions were presented on Airflow Summit 2020.
+These are the sessions that were presented at Airflow Summit 2020. For other editions check the [archive](/sessions).

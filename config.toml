@@ -24,10 +24,10 @@ speaker = "speakers"
 ############################## navigation ###############################
 [menu]
 
-  #[menu.main]]
-  #name = "About"
-  #URL = "about"
-  #weight = 1
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight = 1
 
   [[menu.main]]
   name = "Sessions"
@@ -39,20 +39,6 @@ speaker = "speakers"
   URL = "speakers"
   weight = 3
 
-  #[[menu.main]]
-  #name = "Workshops"
-  #URL = "workshops"
-  #weight = 4
-
-  [[menu.main]]
-  name = "Swag bag"
-  URL = "swag"
-  weight = 4
-
-  [[menu.main]]
-  name = "Networking"
-  URL = "networking"
-  weight = 5
 
   [[menu.main]]
   name = "Jobs"
@@ -82,8 +68,8 @@ end_date = "2021-07-16T17:00-05:00"
 text = "July 8-16, 2021. Come fly with us."
 
 [params.hero.cta1]
-text = "Watch now"
-link = "https://airflowsummit.org/live"
+text = "Watch the sessions"
+link = "/sessions/2021"
  
 #[params.hero.cta2]
 #text = ""
