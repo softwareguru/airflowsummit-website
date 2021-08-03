@@ -10,6 +10,8 @@ block: h
 slot: 3
 format: presentation
 crowdcast_id: 50
+video: https://youtu.be/flxbn4hO5pk
+
 ---
 
 As people define and publish a DAG, it can be really useful to make it clear how this DAG should behave under different "operating contexts". Common operating contexts may match your different environments (dev / staging / prod) and/or match your operating needs (quick run, full backfill, test run, ...).

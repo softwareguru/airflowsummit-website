@@ -11,6 +11,7 @@ slot: 2
 format: community
 crowdcast_id: 2
 slides: 2021/y3-Contributing_Ryan.pdf
+video: https://youtu.be/9Vzn1hG5HBQ
 ---
 
 Learn to contribute to the Apache Airflow ecosystem both with and without code. Post an article to the Airflow blog, improve documentation, or dive head-first into into Airflow's free and open source software community.

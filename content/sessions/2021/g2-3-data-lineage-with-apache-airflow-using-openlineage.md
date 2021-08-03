@@ -11,6 +11,8 @@ block: g
 slot: 2-
 format: presentation
 crowdcast_id: 44
+slides: 2021/OpenLineage.pdf
+video: https://youtu.be/qQAdpbNhxl8
 ---
 
 If you manage a lot of data, and you're attending this summit, you likely rely on Apache Airflow to do a lot of the heavy lifting. Like any powerful tool, Apache Airflow allows you to accomplish what you couldn't before… but also creates new challenges. As DAGs pile up, complexity layers on top of complexity and it becomes hard to grasp how a failed or delayed DAG will affect everything downstream.

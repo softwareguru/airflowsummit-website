@@ -14,6 +14,7 @@ block: g
 slot: 5-
 format: presentation
 crowdcast_id: 46
+video: https://youtu.be/hoCdW-8lyyo
 ---
 
 The two most common user questions at Pinterest are: 1) why is my workflow running so long? 2) why did my workflow fail - is it my issue, or a platform issue?

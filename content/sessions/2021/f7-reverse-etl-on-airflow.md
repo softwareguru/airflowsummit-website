@@ -10,6 +10,8 @@ block: f
 slot: 7
 format: presentation
 crowdcast_id: 42
+slides: 2021/ReverseETL.pdf
+video: https://youtu.be/NGkh8Ql3m5I
 ---
 
 At Snowflake you can imagine we do a lot of data pipelines and tables curating metrics metrics for all parts of the business. These are the lifeline of Snowflake’s business decisions. We also have a lot of source systems that display and make these metrics accessible to end users. So

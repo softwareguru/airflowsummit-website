@@ -10,6 +10,8 @@ block: d
 slot: 2-
 format: presentation
 crowdcast_id: 28
+video: https://youtu.be/DYC4-xElccE
+slides: 2021/d2-Scheduler.pdf
 ---
 
 The scheduler is the core of Airflow, and it's a complex beast.

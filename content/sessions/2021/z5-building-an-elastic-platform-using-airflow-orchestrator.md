@@ -12,6 +12,7 @@ slot: 5
 format: adoption
 crowdcast_id: 9
 slides: https://prezi.com/view/qA1vXplJqiydE6bqoJg3/
+video: https://youtu.be/R6Wa4RsMyG0
 ---
 
 At QuintoAndar we seek automation and scalability in our data pipelines and believe that Airflow is the right tool for giving us exactly what we need. However, having all concerns mapped and tooling defined doesn't necessarily mean success.

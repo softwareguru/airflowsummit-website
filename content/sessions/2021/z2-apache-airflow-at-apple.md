@@ -11,6 +11,7 @@ block: Z
 slot: 2
 format: lightning
 crowdcast_id: 6
+video: https://youtu.be/uunkcFFEnqs
 ---
 
 Running a platform where different business units at Apple can run their workloads in isolation and share operators.

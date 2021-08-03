@@ -12,6 +12,7 @@ slot: 4
 format: adoption
 crowdcast_id: 8
 slides: 2021/z5-SG-Alaedinne.ppsx
+video: https://youtu.be/FrHp3MVe1fM
 ---
 
 This talk will cover the adoption journey (Technical Challenges & Team Organization) of Apache Airflow (1.8 to 2.0) at Societe Generale.

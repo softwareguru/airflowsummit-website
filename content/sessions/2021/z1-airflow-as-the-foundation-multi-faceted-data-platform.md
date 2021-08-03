@@ -11,6 +11,7 @@ block: Z
 slot: 1
 format: keynote
 crowdcast_id: 5
+video: https://youtu.be/693npGDaRgU
 ---
 
 A discussion with Jay Sen, Data Platform Architect at Paypal, and Ry Walker, Founder/CTO of Astronomer about the central role Airflow plays within Paypal's data platform, and the opportunity to build stronger integrations between Airflow and other tools that surround it.

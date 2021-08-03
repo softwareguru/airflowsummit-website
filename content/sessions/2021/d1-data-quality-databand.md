@@ -11,6 +11,7 @@ block: d
 slot: 1
 format: presentation
 crowdcast_id: 27
+video: https://youtu.be/aQIZ_Wdy0lA
 ---
 
 We’ve all heard the phrase “data is the new oil.” But really imagine a world where this analogy is more real, where problems in the flow of data - delays, low quality, high volatility - could bring down whole economies? When data is the new oil with people and businesses similarly reliant on it, how do you avoid the fires, spills, and crises?

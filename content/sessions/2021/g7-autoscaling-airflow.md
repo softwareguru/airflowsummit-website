@@ -11,6 +11,7 @@ block: g
 slot: 7
 format: presentation
 crowdcast_id: 47
+video: https://youtu.be/CVeGPn8QCAA
 ---
 
 Autoscaling in Airflow - what we learnt based on Cloud Composer case.

@@ -14,6 +14,8 @@ format: presentation
 aliases:
  - /sessions/Dynamic-Security-Roles-in-Airflow-for-Multi-Tenancy
 crowdcast_id: 38
+slides: 2021/f1-DynamicSecurityRoles.pdf
+video: https://youtu.be/Bv8gqA_rdhE
 ---
 
 Multi-tenant Airflow instances can help save costs for an organization. This talk will walk through how we dynamically assigned roles to users based on groups in Active Directory so that teams would have access to DAGs they created in the UI on our multi-tenant Airflow instance. We created our own custom AirflowSecurityManager class in order to achieve this that ultimately ties LDAP and RBAC together.

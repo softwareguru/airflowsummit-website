@@ -12,6 +12,8 @@ block: f
 slot: 2-3
 format: presentation
 crowdcast_id: 39
+slides: 2021/f2-MWAA.pdf
+video: https://youtu.be/79IyGdIU7FA
 ---
 
 In this session we will discuss Amazon Managed Workflows for Apache Airflow (MWAA), how Apache Airflow (and specifically version 2.0) is implemented in the service, best practices for deployment and operations, and the Amazon MWAA team’s commitment to open source usage and contributions.

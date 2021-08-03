@@ -10,6 +10,8 @@ block: e
 slot: 7
 format: adoption
 crowdcast_id: 37
+video: https://youtu.be/qFNzL957VO0
+slides: 2021/e7-AirflowEventStream.pdf
 ---
 
 Or how to keep our traditional java application up-to-date on everything big data.
