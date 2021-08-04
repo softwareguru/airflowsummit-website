@@ -13,6 +13,7 @@ aliases:
  - /sessions/Upgrading-to-Apache-Airflow-2
 crowdcast_id: 26
 video: https://youtu.be/dM7sVjKrQw8
+slides: 2021/UpgradingAirflow2.pdf
 ---
 
 Airflow 2.0 was a big milestone for the Airflow community. However, companies and enterprises are still facing difficulties in upgrading to 2.0.

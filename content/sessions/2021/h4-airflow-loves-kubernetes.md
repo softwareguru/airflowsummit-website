@@ -12,6 +12,7 @@ slot: 4
 format: presentation
 crowdcast_id: 51
 video: https://youtu.be/Xub3mJVtYpc
+slides: 2021/AirflowKubernetes.pdf
 ---
 
 In this talk Jarek and Kaxil will talk about official, community support for running Airflow in the Kubernetes environment.

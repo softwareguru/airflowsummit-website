@@ -9,6 +9,7 @@ time_end: 2021-07-09T20:25:00.000Z
 block: Z
 slot: 7
 format: community
+draft: true
 ---
 
 [Link to Gather.town](https://gather.town/app/s1NeBVeKoEWzJUam/airflowsummit)
