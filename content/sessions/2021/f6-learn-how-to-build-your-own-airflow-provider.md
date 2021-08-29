@@ -10,7 +10,7 @@ block: f
 slot: 6
 format: presentation
 crowdcast_id: 41
-slides: 2021/BuildingProviders.pdf
+slides: 2021/f6-BuildingProviders.pdf
 video: https://youtu.be/cFPXVMg_nRY
 ---
 

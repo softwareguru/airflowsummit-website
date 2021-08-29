@@ -13,7 +13,7 @@ aliases:
  - /sessions/Clearing-Airflow-obstructions
 crowdcast_id: 40
 video: https://youtu.be/5zAv_GTUEZw
-
+slides: 2021/f4-ClearingObstructions.pdf
 ---
 
 Apache Airflow aims to speed the development of workflows, but developers are always ready to add bugs here and there.

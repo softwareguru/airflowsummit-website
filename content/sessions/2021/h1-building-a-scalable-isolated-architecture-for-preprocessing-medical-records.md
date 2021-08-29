@@ -14,7 +14,7 @@ aliases:
  - /sessions/Building-a-Scalable-&-Isolated-Architecture-for-Preprocessing-Medical-Records
 crowdcast_id: 48
 video: https://youtu.be/1d9-X0UxqAM
-slides: 2021/Rootstrap.pdf
+slides: 2021/h1-Rootstrap.pdf
 ---
 
 After performing several experiments with Airflow, we reached the best architectural design for processing text medical records in scale. Our hybrid solution uses Kubernetes, Apache Airflow, Apache Livy, and Apache cTAKES. Using Kubernetes’ containers has the benefit of having a consistent, portable, and isolated environment for each component of the pipeline.

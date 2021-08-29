@@ -12,7 +12,7 @@ format: presentation
 aliases:
  - /sessions/Productionizing-ML-Pipelines-with-Airflow,Kedro,and-Great-Expectations
 crowdcast_id: 43
-slides: 2021/ProductionizingPipelines.pdf
+slides: 2021/g1-ProductionizingPipelines.pdf
 video: https://youtu.be/hPxMZ6_lRhg
 ---
 

@@ -11,7 +11,7 @@ block: g
 slot: 2-
 format: presentation
 crowdcast_id: 44
-slides: 2021/OpenLineage.pdf
+slides: 2021/g2-OpenLineage.pdf
 video: https://youtu.be/qQAdpbNhxl8
 ---
 

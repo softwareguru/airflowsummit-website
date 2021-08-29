@@ -10,7 +10,7 @@ block: f
 slot: 7
 format: presentation
 crowdcast_id: 42
-slides: 2021/ReverseETL.pdf
+slides: 2021/f7-ReverseETL.pdf
 video: https://youtu.be/NGkh8Ql3m5I
 ---
 

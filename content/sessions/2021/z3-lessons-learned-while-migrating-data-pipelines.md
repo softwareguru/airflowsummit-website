@@ -11,7 +11,7 @@ block: Z
 slot: 3
 format: adoption
 crowdcast_id: 7
-slides: 2021/LessonsLearned.pdf
+slides: 2021/z3-LessonsLearned.pdf
 video: https://youtu.be/zM2ing7mnSw
 ---
 

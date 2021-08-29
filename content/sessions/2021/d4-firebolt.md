@@ -11,6 +11,8 @@ slot: 4
 format: presentation
 crowdcast_id: 29
 video: https://youtu.be/bGqngCoYCyg
+slides: 2021/d4-Firebolt.pdf
+
 ---
 
 In this talk we’ll see some real world examples from Firebolt customers demonstrating how Airflow is used to orchestrate operational data analytics applications with large data volumes, while keeping query latency low.

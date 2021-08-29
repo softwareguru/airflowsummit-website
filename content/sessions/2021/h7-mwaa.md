@@ -12,7 +12,7 @@ slot: 7
 format: presentation
 crowdcast_id: 53
 video: https://youtu.be/mtXOlusf4Yo
-slides: 2021/MWAAJourney.pdf
+slides: 2021/h7-MWAAJourney.pdf
 ---
 
 An informal and fun chat about the journey that we took and the decisions that we made in building Amazon Managed Workflows for Apache Airflow.

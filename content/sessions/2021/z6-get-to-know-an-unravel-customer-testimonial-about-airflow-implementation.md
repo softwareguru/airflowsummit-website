@@ -13,7 +13,7 @@ slot: 6
 format: presentation
 crowdcast_id: 10
 video: https://youtu.be/rvl-9cldMiU
-slides: 2021/PipelineHealthcheck.pdf
+slides: 2021/z6-PipelineHealthcheck.pdf
 ---
 
 We are witnessing a rapid growth in the number of mission-critical data pipelines that leaders of data products are responsible for. "Are your data pipelines healthy?" This question was posed to more than 200 leaders of data products from various industries. The answers ranged from "unfortunately, no" to "they are mostly fine, but I am always afraid that something or the other will cause a pipeline to break".

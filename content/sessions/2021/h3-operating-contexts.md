@@ -11,6 +11,7 @@ slot: 3
 format: presentation
 crowdcast_id: 50
 video: https://youtu.be/flxbn4hO5pk
+slides: 2021/h3-OperatingContexts.pdf
 
 ---
 
