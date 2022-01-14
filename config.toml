@@ -45,7 +45,7 @@ home = "Home"
 privacy_policy = "/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card-2022.png"]
+images = ["/images/card.jpg"]
 start_date = "2022-05-23T11:00-05:00"
 end_date = "2022-05-27T17:00-05:00"
 
