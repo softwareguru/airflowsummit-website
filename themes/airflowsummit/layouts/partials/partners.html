@@ -1,40 +1,47 @@
 <section id="partners" class="container bg-white text-center my-4">
     <h2 class="principles-header">Partners</h2>
-    <h3 class="mt-2 mb-2">Platinum</h3>
-    <div class="sponsor-strip platinum">
-        {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum" }}
+
+    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum" }}
+      {{ if eq $index 0 }}
+      <h3 class="mt-2 mb-2">Platinum</h3>
+      <div class="sponsor-strip platinum">
+      {{ end }}
         <div class="sponsor-item">
             <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
                 <img src="{{ .Params.logo }}" alt="{{ .Title }}">
             </a>
-        </div>    
-        {{ end }}
         </div>
+    {{ end }}
     </div>
+
     <br>
-    <h3 class="mt-2">Gold</h3>
+    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
+      {{ if eq $index 0 }}
+      <h3 class="mt-2">Gold</h3>
+      <div class="sponsor-strip gold">
+      {{ end }} 
+        <div class="sponsor-item">
+          <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+            <img src="{{ .Params.logo }}" alt="{{ .Title }}">
+          </a>
+        </div>    
+        {{ end }}
+    </div>
+
     <br>
-    <div class="sponsor-strip gold">
-        {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
+    <br>
+    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
+      {{ if eq $index 0 }}
+        <h3 class="mt-2 mb-2">Community</h3>
+        <div class="sponsor-strip community">
+      {{ end }} 
+
         <div class="sponsor-item">
             <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
                 <img src="{{ .Params.logo }}" alt="{{ .Title }}">
             </a>
         </div>    
-        {{ end }}
-    </div>
-    <br>
-    <br>
-    <h3 class="mt-2 mb-2">Community</h3>
-    <br>
-    <div class="sponsor-strip community">
-        {{range where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
-        <div class="sponsor-item">
-            <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
-                <img src="{{ .Params.logo }}" alt="{{ .Title }}">
-            </a>
-        </div>    
-        {{ end }}
+    {{ end }}
     </div>
     <br>
     

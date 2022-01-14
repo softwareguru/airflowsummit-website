@@ -10,10 +10,12 @@ subtitle: "Airflow Summit is an online conference for the worldwide community of
 
 ---
 
-Airflow Summit 2021 is now over.
 
-With more than 30 talks from companies and speakers from all over the world and more than 10,000 participants, Airflow Summit 2021 was a huge success.
+The 2022 edition of Airflow Summit is planned for May 23 to May 27, 2022. It will be a free and online event with blocks of sessions at different times of the day in order to provide live content to attendees in different parts of the world. We will also be promoting and supporting local "watch parties" so that members of the Apache Airflow community can meet and network locally.
 
-You can access recordings and slides at our [sessions page](/sessions/2021).
+### Previous editions
+Previous editions of Airflow Summit have been a great success and we are looking forward to build on them for this edition. If you are looking for sessions and recordings from previous editions, you can find them here:
 
-We expect to see you at the next edition of Airflow Summit, which should happen on Summer 2022. Stay tuned!
+* [Airflow Summit 2021 sessions](/sessions/2021).
+* [Airflow Summit 2020 sessions](/sessions/2020).
+
