@@ -2,6 +2,7 @@
 title: "Submission tips based on previous editions of Airflow Summit"
 date: 2022-01-14T13:20:14-06:00
 draft: false
+summary: "If you are interested in submitting to our CFP, please read this guide with tips based on what was worked at previous editions."
 ---
 
 As we started setting up the [Call for Papers for Airflow Summit 2022](https://sessionize.com/airflow-summit-2022/), one of the organizers had a great idea: Why don’t we share insights from sessions from previous years (what kind of sessions we have had, what has been received best)? So, here it goes!
