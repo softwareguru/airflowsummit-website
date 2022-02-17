@@ -10,3 +10,5 @@ firebase-debug.log
 scripts/
 .idea
 *.iml
+.hugo_build.lock
+.DS_Store

@@ -29,6 +29,10 @@ speaker = "speakers"
   URL = "about"
   weight = 1
 
+  [[menu.main]]
+  name = "Local events"
+  URL = "/in-person-events"
+  weight = 2
 
   [[menu.main]]
   name = "FAQ"
@@ -62,9 +66,9 @@ link = "https://sessionize.com/airflow-summit-2022/"
 
 # Navigation button
 [params.navigation_button]
-enable = false
+enable = true
 label = "Register"
-link = "https://airflowsummit.org/live"
+link = "https://www.crowdcast.io/e/airflowsummit2022"
 
 
 [params.links]
