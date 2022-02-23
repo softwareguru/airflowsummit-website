@@ -106,7 +106,7 @@ link = "https://www.crowdcast.io/e/airflowsummit2022"
     url = "/team"
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/Airflow Summit 2022 - Prospectus.pdf"
+    url = "/docs/AirflowSummit2022-Prospectus.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Call for papers"

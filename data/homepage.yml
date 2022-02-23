@@ -1,0 +1,19 @@
+############################## Event ##############################
+event_info:
+  enable : true
+  title : "Beam Summit 2022 is your opportunity to learn and contribute to Apache Beam!"
+  description : "The Beam Summit brings together experts and community to share the exciting ways they are using, changing, and advancing Apache Beam and the world of data and stream processing."
+  cta_text: "Submit to our CFP!"
+  cta_link: "https://sessionize.com/beam-summit-2022"
+  features: 
+    - number : "3"
+      label : "Days"
+      
+    - number : "30+"
+      label : "Sessions"
+
+    - number : "Hybrid"
+      label : "Attend in person or online"
+
+    - number : "Everybody"
+      label : "is welcome"
