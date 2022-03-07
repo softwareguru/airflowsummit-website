@@ -1,6 +1,7 @@
 
 body {
   scroll-behavior: smooth;
+  background-color: #000;
 }
 
 .section {
@@ -65,7 +66,7 @@ body {
 }
 
 #nav-button {
-  background-color: $primary-color;
+  background-color: $red;
   color: $white !important;
   line-height:25px !important;
 

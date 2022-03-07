@@ -1,5 +1,5 @@
 .header-bar, nav.bg-dark {
-  background-color: #51504f !important;
+  background-color: #000000 !important;
 }
 
 // Navigation Styles
@@ -17,15 +17,12 @@
   }
 }
 
-.navbar-brand {
-/*
-  margin: 10px 40px 10px 0px;
-  */
-}
+
 
 .main-nav {
   padding: 10px 15vh;
   transition: all .7s linear;
+  text-transform: uppercase;
 
   .nav-link {
     font-size: 17px;
@@ -110,7 +107,7 @@
   }
 
   .divider {
-    width: 100px;
+    width: 250px;
     height: 4px;
   }
 }

@@ -1,5 +1,6 @@
+/*
 section.hero {
-  background-image: url(/images/darkhero-2021.jpg);
+  background-image: url(/images/back-2022.jpg);
   background-size: cover;
   background-position: center top;
   height: 100vh;
@@ -30,4 +31,58 @@ section.hero {
     font-size: 20px;
   }
 
+}
+*/
+
+section.hero {
+  background-color: #000000;
+  background-size: cover;
+  background-position: center center;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 60px 1fr 233px;
+  grid-template-rows: 1fr repeat(2, 150px);
+  grid-column-gap: 150px;
+  grid-row-gap: 0px;
+}
+
+.hero-meta {
+  color: white;
+  font-family: Termina;
+  font-size: 36px;
+}
+
+.hero-title {
+  color: white;
+  font-family: Termina;
+  font-size: 140px;
+  font-weight: bold;
+  width: 200px;
+  line-height: 90%;
+  text-transform: uppercase;
+
+}
+  
+.hero-middle { 
+  grid-area: 1 / 2 / 4 / 3; 
+  align-self: center;
+  background-image: url(/images/back-world.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 100% center;
+}
+
+.hero-left { 
+  grid-area: 2 / 1 / 4 / 2; 
+  background-image: url(/images/2left.png);
+  background-repeat: no-repeat;
+  background-position: 0px;
+  height: 300px;  
+}
+.hero-right { 
+  grid-area: 2 / 3 / 4 / 4; 
+  background-image: url(/images/2right.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 300px;
 }

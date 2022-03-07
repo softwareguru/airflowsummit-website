@@ -54,7 +54,7 @@ start_date = "2022-05-23T11:00-05:00"
 end_date = "2022-05-27T17:00-05:00"
 
 [params.hero]
-text = "May 23-27, 2022. Come fly with us."
+text = "May 23-27, 2022"
 
 [params.hero.cta1]
 text = "Join our CFP!"
