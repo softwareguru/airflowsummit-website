@@ -4,7 +4,7 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
 
-<section class="speaker-2 section bg-gray">
+<section class="speaker-2 section">
   <div class="container">
     
     <h2 class="mb-5 mt-3" style="text-align: center;">Organizer and Program Committee</h2>
@@ -19,7 +19,7 @@
           </div>
           <div class="speaker text-center">
            
-            <h4 class="mb-0 mt-3" style="color:#016acc;">{{ .Title }}</h4>
+            <h4 class="mb-0 mt-3 text-primary">{{ .Title }}</h4>
           
             <h5 class="mb-0 mt-3">{{ .Params.Committee }}</h5>
           
@@ -53,7 +53,7 @@
           </div>
           <div class="speaker text-center">
            
-            <h4 class="mb-0 mt-3" style="color:#016acc;">{{ .Title }}</h4>
+            <h4 class="mb-0 mt-3 text-primary">{{ .Title }}</h4>
           
             <h5 class="mb-0 mt-3">{{ .Params.Committee }}</h5>
           
