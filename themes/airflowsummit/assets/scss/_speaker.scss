@@ -49,14 +49,8 @@
 	margin: 0.5em auto;
 }
 
-.speaker-info a {
-	color: $primary-color;
-}
-
-
-.speaker-detail {
-	position: relative;
-	padding: 120px 0 70px;
+.speaker-info a, .speaker-detail a {
+	color: $secondary-color;
 }
 
 .speaker-detail .image-column{
@@ -105,7 +99,7 @@
 	line-height: 1em;
 	font-weight: 600;
 	margin-bottom: 20px;
-	color: #101130;
+	color: white;
 }
 
 .speaker-detail .info-column h4{
@@ -115,7 +109,7 @@
 	line-height: 1em;
 	font-weight: 500;
 	margin-bottom: 20px;
-	color: #222222;
+	color: white;
 }
 
 .speaker-detail .info-column h5{
@@ -125,7 +119,7 @@
 	line-height: 1em;
 	font-weight: 500;
 	margin-bottom: 10px;
-	color: rgba(68,16,102,1);
+	color: #a0a0a0;
 }
 
 .speaker-detail .info-column .text-box{
@@ -181,7 +175,7 @@
 
 .social-icon-two li a:hover .fab{
 	color: #ffffff;
-	background-color: #d24c59;
+	background-color: $primary-color;
 }
 
 p.designation {

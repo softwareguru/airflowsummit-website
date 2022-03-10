@@ -9,7 +9,7 @@
     
     <h2 class="mb-5 mt-3" style="text-align: center;">Organizer and Program Committee</h2>
     <div class="speaker-strip">
-      {{ range where .Data.Pages "Params.group" "committee" }}
+      {{ range where .Data.Pages.ByTitle "Params.group" "committee" }}
       <div class="speaker-item">
         <div class="speaker-block"> 
           <div class="headshot-box">
@@ -43,7 +43,7 @@
 
     <h2 class="mb-5 mt-3" style="text-align: center;">Producer Team</h2>
     <div class="speaker-strip">
-      {{ range where .Data.Pages "Params.group" "sg" }}
+      {{ range where .Data.Pages.ByTitle "Params.group" "sg" }}
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">

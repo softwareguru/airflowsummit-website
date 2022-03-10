@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- Speaker Detail -->
-<section class="speaker-detail" style="margin-top: -70px;">
+<section class="speaker-detail">
   <div class="container">
     <div class="row mt-4">
       <div class="image-column col-lg-3 d-none d-lg-block">
@@ -58,7 +58,7 @@
 
             {{ with .Params.slides }}
             <br>
-            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slide</a></div>
+            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
             {{ end }}
 
             <div class="content mt-4">{{ .Content }}</div>
