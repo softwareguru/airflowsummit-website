@@ -66,12 +66,12 @@ body {
 }
 
 #nav-button {
-  background-color: $red;
+  background-color: $primary-color;
   color: $white !important;
   line-height:25px !important;
 
   &:hover {
-    background-color: $primary-color;
+    background-color: $secondary-color;
   }
 }
 

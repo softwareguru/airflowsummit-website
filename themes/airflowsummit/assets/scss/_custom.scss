@@ -192,7 +192,7 @@ section.event-info {
 	display: block;
 	height: 2px;
 	width: 64px;
-	background-color: $red;
+	background-color: $primary-color;
 	margin-top: 20px;
 }
 
@@ -201,10 +201,10 @@ section.event-info {
 }
 
 .event-info a {
-	color: $red;
+	color: $primary-color;
 	text-transform: uppercase;
 	&:hover {
-		color: $yellow;
+		color: $secondary-color;
 	}
 }
 
@@ -262,8 +262,7 @@ article.swag {
 	border-color: #a0a0a0;
 }
 .btn-primary:hover {
-	background-color: $red;
-	border-color: #000;
+	background-color: $secondary-color;
 }
 
 #at-a-glance {

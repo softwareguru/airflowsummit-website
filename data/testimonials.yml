@@ -1,0 +1,55 @@
+title : "What our participants say"
+testimonials:
+  - name: Maxime Beauchemin
+    jobtitle: Creator of Apache Airflow
+    img: /images/speakers/maxime.jpg
+    text: >
+      I always get so amazed to learn about how people use Airflow in new creative ways and take it to all sorts of new levels!
+
+  - name: Leah Cole
+    jobtitle: Developer Programs Engineer at Google 
+    img: /images/speakers/leah-cole.jpg
+    text: > 
+      One thing I love about the Airflow Summit is hearing from people  
+      all over the world. It's so cool when a presenter located thousands 
+      of miles away from me shares something that I find useful and we're able to then connect 
+      afterwards on the Airflow community Slack and to learn from each other.
+
+  - name: Alaeddine Maaoui 
+    jobtitle: Product Owner at Société Générale
+    img: /images/speakers/alaeddine-maaoui.jpg
+    text: >
+      Proud to be a part of an amazing community, Airflow Summit 2021 had plenty of good vibes in hard times. 
+      I'm very excited for the 2022 edition!   
+
+  - name: Rafael Ribaldo
+    jobtitle: Data Engineering Manager at QuintoAndar
+    img: /images/speakers/rafael-ribaldo.jpg
+    text: > 
+      It's amazing to see the engagement and the constant growing maturity of the content presented. 
+      Not only do we have a greater proximity to the community, but we also have a super organization for that.
+
+  - name: Kengo Seki
+    jobtitle: Apache Airflow Committer
+    img: /images/speakers/kengo-seki.jpg
+    text: >
+      I really enjoyed the last two editions of the Airflow Summit— there were many interesting use cases and 
+      a lot of practical Airflow knowledge presented by the worldwide community.
+
+
+  - name: Ephraim Anierobi
+    jobtitle: Airflow developer at Astronomer
+    text: >
+      The Airflow Summit is simply amazing! You see how different companies use Airflow, 
+      how they modify it and what new features they add. It's super interesting for developers like me.
+    img: /images/speakers/ephraim-anierobi.jpg
+
+  - name: Sumit Maheshwari
+    jobtitle: Engineering Leader at Astronomer India
+    img: /images/speakers/sumit.jpg
+    text: >   
+      I was amazed to see that so many of the world's biggest & tech-savvy companies are heavily invested 
+      in Apache Airflow. Seeing how Airflow seamlessly integrated with their infrastructure & playing a crucial 
+      role in their mission-critical ETL/DS/ML pipelines was mind-blowing.
+
+

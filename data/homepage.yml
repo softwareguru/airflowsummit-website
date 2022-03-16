@@ -4,8 +4,8 @@ event_info:
   title : "Get ready for Airflow Summit 2022!"
   description : "After the success of Airflow Summit 2021, we are getting ready for Airflow Summit 2022. It will be an online event, but wherever possible we will have local 
         watch parties where members of the Airflow community can meet and network."
-  cta_text: "Submit to our CFP!"
-  cta_link: "https://sessionize.com/airflow-summit-2022/"
+  cta_text: "Register now!"
+  cta_link: "https://www.crowdcast.io/e/airflowsummit2022"
   features: 
     - number : "5"
       label : "Days"
