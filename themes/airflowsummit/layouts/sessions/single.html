@@ -23,8 +23,6 @@
 
           </div>
         </div>
-
-
       </div>
       <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
         <div class="inner-column">
@@ -32,9 +30,13 @@
             <h3>{{ .Title }}</h3>
             <div class="session-meta" id="date">
               <span id="adjTime"></span>
-              <em>{{ with .Params.time_start | time }} ({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }} - </em>
+              {{ $time_start := .Params.time_start | time }}
+              {{ $time_end := .Params.time_end | time }}            
+              {{ if lt now $time_start }}
+
+              <em>{{ with .Params.time_start | time }}({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }}</em>
               <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                Add to Calendar
+                - Add to Calendar
                 <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                 <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                 <span class="timezone">UTC</span>
@@ -42,6 +44,9 @@
                 <span class="description">{{ .Content }}</span>
                 <span class="location">https://airflowsummit.org/live</span>
               </div>
+              {{ else }}
+              <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
+              {{ end }}
             </div>
             {{ if .Params.crowdcast_id_EDITED  }}
             <div class="content mt-0">
@@ -87,9 +92,9 @@
     let adjString = days[dateStart.getDay()]+", July "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
     document.getElementById("adjTime").innerHTML = adjString;
   }
-  {{ $time_start := .Params.time_start | time }}
-  {{ $time_end := .Params.time_end | time }}
-  adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");
+  {{ if lt now $time_start }}
+    adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");
+  {{ end }}  
 </script>
 
 
