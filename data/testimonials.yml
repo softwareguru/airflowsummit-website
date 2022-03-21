@@ -52,4 +52,12 @@ testimonials:
       in Apache Airflow. Seeing how Airflow seamlessly integrated with their infrastructure & playing a crucial 
       role in their mission-critical ETL/DS/ML pipelines was mind-blowing.
 
+  - name: Brian Lavery
+    jobtitle: Staff Software Engineer at The New York Times
+    img: /images/speakers/brian-lavery.jpg
+    text: >
+      It can be hard to keep up with all the great things going on in the Airflow community. 
+      For me the Airflow Summit is my chance to focus and learn the practices and technology that allow us to push 
+      our Airflow installations to meet their full potential.    
+
 
