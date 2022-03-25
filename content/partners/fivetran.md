@@ -3,6 +3,6 @@ title: "Fivetran"
 level: "gold"
 logo: "/images/partners/fivetran-logo.png"
 webUrl: "https://fivetran.com/"
-weight: 9
-draft: true
+weight: 15
+draft: false
 ---
