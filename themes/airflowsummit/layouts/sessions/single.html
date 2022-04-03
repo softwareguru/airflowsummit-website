@@ -45,7 +45,9 @@
                 <span class="location">https://airflowsummit.org/live</span>
               </div>
               {{ else }}
+                {{ if ne $time_start.Year 2022 }}
               <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
+              {{ end }}
               {{ end }}
             </div>
             {{ if .Params.crowdcast_id_EDITED  }}

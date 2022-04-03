@@ -90,8 +90,8 @@ link = "https://www.crowdcast.io/e/airflowsummit2022"
     icon = "fab fa-youtube"
 
 [[params.links.footer]]
-    name = "About"
-    url = "about"
+    name = "Session archive"
+    url = "/sessions"
 [[params.links.footer]]
     name = "Code of Conduct"
     url = "/coc"
@@ -110,10 +110,6 @@ link = "https://www.crowdcast.io/e/airflowsummit2022"
 [[params.links.footer]]
     name = "Prospectus"
     url = "/docs/AirflowSummit2022-Prospectus.pdf"
-    target="_blank"
-[[params.links.footer]]
-    name = "Call for papers"
-    url = "https://sessionize.com/airflow-summit-2022/"
     target="_blank"
 
 

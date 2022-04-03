@@ -5,20 +5,29 @@
         {{ .Content }}
     </p>
 
-    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left">
-        <thead>
-            <tr>
-                <th data-field="title">Title</th>
-                <th data-field="speaker">Speaker(s)</th>
-                <th data-field="recording">Recording</th>
-                <th data-field="slides">Slides</th>
-            </tr>
-        </thead>
+{{ $is_2022 := eq .RelPermalink "/sessions/2022/" }}
+
+    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+      <thead>
+        <tr>
+          <th data-field="title" data-sortable="true">Title</th>
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>
+          {{ if not $is_2022 }}
+          <th data-field="recording">Recording</th>
+          <th data-field="slides">Slides</th>
+          {{ end }}
+          {{ if $is_2022 }}
+          <th data-field="track" data-sortable="true">Track</th>
+          {{ end }}
+
+        </tr>
+      </thead>
         <tbody>
             {{ range sort .Data.Pages ".Params.time_end" }}
             <tr>
                 <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
                 <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+                {{ if not $is_2022 }}
                 <td class="text-center">{{ with .Params.video }}<a
                         href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
                             class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
@@ -26,6 +35,10 @@
                         href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}'
                         target="_blank" download><i class="fa fa-download" aria-hidden="true"
                             title="Slides"></i></a>{{ end }}</td>
+                {{ end }}            
+                {{ if $is_2022 }}
+                <td >{{ .Params.track }}</td>
+                {{ end }}
             </tr>
             {{ end }}
         </tbody>

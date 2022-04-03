@@ -5,10 +5,10 @@ image: /images/speakers/alaeddine-maaoui.jpg
 events:
  - 2020
  - 2021
-event-2021: true
+ - 2022
 
 twitter: ""
 linkedin: "https://www.linkedin.com/in/maaoui/"
 ---
 
-https://www.linkedin.com/in/maaoui
+Alaeddine is a product owner and service manager for the Airflow feature team at Société Générale.
