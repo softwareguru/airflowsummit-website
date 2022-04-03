@@ -25,7 +25,14 @@
         <tbody>
             {{ range sort .Data.Pages ".Params.time_end" }}
             <tr>
-                <td><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></td>
+                <td><h4>
+                    <a class="session-title" data-toggle="collapse" href="#abs-{{.File.TranslationBaseName}}">{{ .Params.title }}</a>
+                    </h4>
+                    <div class="collapse card-abstract" id="abs-{{.File.TranslationBaseName}}">
+                        {{ .Summary }}
+                          <div><a href="{{.Permalink}}">Check details ...</a></div>
+                      </div>
+                </td>
                 <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
                 {{ if not $is_2022 }}
                 <td class="text-center">{{ with .Params.video }}<a
