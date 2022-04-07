@@ -56,15 +56,4 @@ blocks:
 
 ---
 
-<h4>Times should show up in your local timezone</h4>
-Color Codes:
-
-<div class="color-code-list">
-  <div class="color-code-item" style="background-color: #b0b0f0;">Keynote</div>
-  <div class="color-code-item" style="background-color: #d0d0d0;">Technical</div>
-  <div class="color-code-item" style="background-color: #d0f0d6;">Use case / adoption journey</div>
-  <div class="color-code-item" style="background-color: #f7b8f7;">Community</div>
-  <div class="color-code-item" style="background-color: #80c9fa;">Lightning talk</div>
-  <div class="color-code-item" style="background-color: #f0f0b0;">Workshop</div>
-</div>
-<p>&nbsp;</p>	
+<h4>We will soon publish the schedule for Airflow Summit 2022.</h4>

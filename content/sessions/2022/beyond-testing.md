@@ -3,7 +3,7 @@ id:
 title: "Beyond Testing: How to Build Circuit Breakers with Airflow"
 url: /sessions/2022/beyond-testing
 speakers:
- - Barr Moses
+ - Prateek Chawla
 block: 
 slot: 
 track: Airflow internals

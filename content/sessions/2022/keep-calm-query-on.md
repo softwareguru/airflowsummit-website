@@ -3,7 +3,7 @@ id:
 title: "Keep Calm & Query On: Debugging Broken Data Pipelines with Airflow"
 url: /sessions/2022/keep-calm-query-on
 speakers:
- - Barr Moses
+ - Lior Gavish
 block: 
 slot: 
 track: Data governance
