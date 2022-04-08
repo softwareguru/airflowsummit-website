@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+    <p>The following cities/communities are planning to host an in-person event.</p>
+
+    <ul>
+    {{ range .Data.Pages }}
+        <li>{{ .Params.title }}.  
+            {{ with .Params.time_start | time }}{{ .Format "January 2 15:04-" }}{{ end }}{{ with .Params.time_end | time }}{{ .Format "15:04 MST" }}.{{ end }}
+        </li>
+    {{ end }}    
+    </ul>
+
+    <h3>Other watch-parties</h3>
+    The events mentioned above are the "official" in-person events that we will be supporting from the central organization of Airflow Summit. 
+    Besides those, we are aware of these other watch-parties that you can also attend:
+    <ul>
+    <li>Skopje, Macedonia (Varshavska 9A, 1000 Skopje).</li>
+    </ul>
+    If you would like to organize a watch-party, you are welcome to do so and let us know at <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a> so that we can add it to this list.
+    
+</div>
+
+
+{{ end }}

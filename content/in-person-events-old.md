@@ -10,8 +10,8 @@ While all of the content from Airflow Summit will be live streamed, we will also
 The following cities/communities are planning to host an in-person event.
 1. Amsterdam, Netherlands.
 2. Bengaluru, India.
-3. Lagos, Nigeria.
-4. London, UK.
+3. Lagos, Nigeria (May 24, 14:30 - 18:30 hrs UTC).
+4. London, UK (May 23, 14:30 - 18:30 hrs UTC).
 5. Melbourne, Australia.
 6. New York City, USA.
 7. Paris, France.

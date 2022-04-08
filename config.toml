@@ -41,7 +41,7 @@ speaker = "speakers"
 
   [[menu.main]]
   name = "Local events"
-  URL = "/in-person-events"
+  URL = "/local-events"
   weight = 4
 
   [[menu.main]]
