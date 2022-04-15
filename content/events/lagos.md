@@ -5,10 +5,15 @@ time_end:   2022-05-24 19:30:00 +0100 WAT
 weight: 3
 speakers:
 partners:
-info_link: 
+rsvp_link: 
 venue_name: Co-creation Hub (CcHUB) Nigeria
 venue_address: 294 Herbert Macaulay Way, Yaba 101212, Lagos
 
 ---
 
+The Nigeria Apache Airflow meetup joins the Airflow Summit to present in person talks and networking for its local community. 
 
+This event is made possible by [Axiom](https://axiom.co).
+
+#### Talks:
+ * To be confirmed ...

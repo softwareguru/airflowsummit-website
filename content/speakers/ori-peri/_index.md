@@ -1,7 +1,7 @@
 ---
 title: "Ori Peri"
 designation: "ML Engineer, Riskified"
-image: /images/speakers/ori-peri.jpg
+image: /images/speakers/ori-peri2.jpg
 events:
  - 2022
 twitter: ""

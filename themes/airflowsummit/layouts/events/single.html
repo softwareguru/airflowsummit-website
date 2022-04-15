@@ -1,103 +1,33 @@
 {{ define "main" }}
 
-<!-- Speaker Detail -->
-<section class="speaker-detail">
+<section class="page-header">
   <div class="container">
-    <div class="row mt-4">
-      <div class="image-column col-lg-3 d-none d-lg-block">
-        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
-          <div class="sec-title text-center">
-            <span class="title">Speaker(s):</span>
-            <div class="speaker-info" style="margin-bottom: 20px;">
-              {{ range (.GetTerms "speakers") }}
-              <figure class="thumb my-3">
-                <a href="{{ .Permalink }}">
-                  <div class="img-container">
-                    <img class="img-fluid rounded-circle" src="{{ .Params.image | relURL}}" alt="">
-                  </div>
-                  <h5 class="name" style="color: #016acc;">{{ .Title }}</h5>
-                </a>
-              </figure>
-               {{ end }}
-            </div>
-
-          </div>
-        </div>
-      </div>
-      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
-        <div class="inner-column">
-          <div class="text-box">
-            <h3>{{ .Title }}</h3>
-            <div class="session-meta" id="date">
-              <span id="adjTime"></span>
-              {{ $time_start := .Params.time_start | time }}
-              {{ $time_end := .Params.time_end | time }}            
-              {{ if lt now $time_start }}
-
-              <em>{{ with .Params.time_start | time }}({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }}</em>
-              <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                - Add to Calendar
-                <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
-                <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
-                <span class="timezone">UTC</span>
-                <span class="title">Airflow Summit: {{ .Title | truncate 40 }}</span>
-                <span class="description">{{ .Content }}</span>
-                <span class="location">https://airflowsummit.org/live</span>
-              </div>
-              {{ else }}
-                {{ if ne $time_start.Year 2022 }}
-              <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
-              {{ end }}
-              {{ end }}
-            </div>
-            {{ if .Params.crowdcast_id_EDITED  }}
-            <div class="content mt-0">
-              <a href="https://www.crowdcast.io/e/airflowsummit2021/{{.Params.crowdcast_id}}">Watch it here</a>
-            </div>
-            {{ end }}
-            {{ with .Params.language }}<p class="session-meta" id="lang">Language: {{ humanize . }}</p>{{ end }}
-            <div class="d-lg-none d-xl-none">
-              By
-              {{ range (.GetTerms "speakers") }}
-              <a class="speaker-inline-item" href="{{ .Permalink }}">{{ .Title }}</a>
-              {{ end }}
-            </div>
-
-            {{ with .Params.slides }}
-            <br>
-            <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blanck" download><i class="fa fa-download" aria-hidden="true"></i>&nbsp; Download slides</a></div>
-            {{ end }}
-
-            <div class="content mt-4">{{ .Content }}</div>
-          </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <div class="content text-center">
+          <h3 class="mb-3 text-white text-capitalize letter-spacing">Airflow Summit 2022 @ {{ .Title }}</h3>
+          <div class="divider mx-auto mb-4 bg-primary"></div>
         </div>
       </div>
     </div>
-    {{ with .Params.video }}
-    <div class="mb-3">
-      <iframe id="video-iframe" width="100%" height="600" frameborder="0" marginheight="0" marginwidth="0"
-        allowtransparency="true" src='{{ replace . "https://youtu.be" "https://www.youtube.com/embed"}}'
-        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="true"
-        webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-    </div>
-    {{ end }}
-  </div>
   </div>
 </section>
-<!--End Speker Detail -->
 
-<script>
-  function adjTime(timeStart, timeEnd) {
-    let dateStart = new Date(Date.parse(timeStart));
-    let dateEnd = new Date(Date.parse(timeEnd));
-    var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-    let adjString = days[dateStart.getDay()]+", July "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
-    document.getElementById("adjTime").innerHTML = adjString;
-  }
-  {{ if lt now $time_start }}
-    adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");
-  {{ end }}  
-</script>
+
+<!-- Event Detail -->
+<section class="event-detail">
+  <div class="container">
+    <div class="event-title"><h3>{{ .Title }}</h3></div>
+    <div class="event-when mb-1">
+      <i class="far fa-calendar mr-2"></i>{{ with .Params.time_start | time }}{{ .Format "Monday, January 2 3:04 pm" }} to {{ end }}{{ with .Params.time_end | time }}{{
+      .Format "3:04 pm MST" }}.{{ end }}
+    </div>
+    <div class="event-where"><i class="fas fa-map-marker-alt mr-2"></i>{{ with .Params.venue_name }}{{ . }}. {{ end }}{{ .Params.venue_address }}</div>
+    {{ with .Params.rsvp_link }}<div class="event-link">RSVP at <a href="{{ .}}">{{.}}</a></div>{{ end }}
+    <div class="content my-4">{{ .Content }}</div>
+  </div>
+</section>
+<!--End Event Detail -->
 
 
 {{ end }}

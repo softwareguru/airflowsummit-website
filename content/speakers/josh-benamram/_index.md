@@ -5,9 +5,9 @@ image: /images/speakers/josh-benamram.jpg
 events:
  - 2020
  - 2021
+ - 2022
 twitter: "https://twitter.com/joshbenam"
 linkedin: "https://www.linkedin.com/in/josh-benamram/"
-event-2021: true
 
 ---
 

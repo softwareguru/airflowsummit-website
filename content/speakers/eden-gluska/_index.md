@@ -1,6 +1,6 @@
 ---
 title: "Eden Gluska"
-designation: "fyber"
+designation: "Big Data Developer at Digital Turbaine"
 image: /images/speakers/eden-gluska.jpg
 events:
  - 2022

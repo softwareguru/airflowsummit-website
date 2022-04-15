@@ -40,6 +40,7 @@
   <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
   <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
 
+  {{ if .IsHome }}    
   <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -74,8 +75,9 @@
       }
     }
   </script>
+{{ end }}
 
-  <!-- AddEvent script -->
+<!-- AddEvent script -->
 <script type="text/javascript" src="https://addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
 
 <script type="text/javascript">
