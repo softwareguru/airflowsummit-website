@@ -1,7 +1,6 @@
 ---
 title: "Schedule"
 date: 2021-06-04T09:37:06-05:00
-draft: flase
 
 blocks: 
   - id: Y
