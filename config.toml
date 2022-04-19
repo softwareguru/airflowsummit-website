@@ -57,6 +57,7 @@ description = "Airflow summit is the premier conference for the worldwide commun
 logo = "/images/logo-white.svg"
 home = "Home"
 privacy_policy = "/privacy"
+google_analytics_4 = "G-DQ3SEJY0LP"
 
 # First one is picked as the Twitter card image if not set on page.
 images = ["/images/card-2022a.png"]
