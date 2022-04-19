@@ -21,4 +21,4 @@ But Airflow becomes more of a platform now and the needs for multi-tenancy as a 
  
 In 2022 we've started to add mutli-tenant features and we are aiming to make Airflow Multi-Tenant in the near* future. 
  
-This talk is about the state of the multi-tenancy now and the future plans we have for Airlfow becoming full multi-tennant platform.
+This talk is about the state of the multi-tenancy now and the future plans we have for Airlfow becoming full multi-tenant platform.
