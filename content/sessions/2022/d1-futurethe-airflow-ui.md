@@ -1,0 +1,30 @@
+---
+id: d1
+title: "Future of the Airflow UI"
+url: /sessions/2022/futurethe-airflow-ui
+speakers:
+ - Brent Bovenzi
+time_start: 2022-05-24T01:00:00.000Z
+time_end: 2022-05-24T01:20:00.000Z
+format: "Presentation"
+hosted_by: "NYC"
+presence: "onsite"
+block: d
+slot: 1
+---
+
+Sneak peek at the future of the Airflow UI. In Airflow 2.3 with the Tree -> Grid view changes, we began to swap out parts of the Flask app with React. This was one step towards AIP-38, to build a fully modern UI for Airflow. Come check out what is in store after Grid view in the current UI.
+ 
+ 
+ 
+ Discuss the possibilities to rethink Airflow with a brand new UI down the line. Such as:
+ 
+ - Integrating all DAG visualizations into each other and remove constant page reloads
+ 
+ - More live data
+ 
+ - Greater cross-DAG visualizations (ie: DAG Dependencies view from 2.1)
+ 
+ - Improved user settings: (dark mode, color blind support, language, date format)
+ 
+ - And more!
