@@ -1,7 +1,7 @@
 ---
 id: w2
 title: "Workshop: Contributing to Apache Airflow"
-url: /sessions/2022/workshop:-contributing-to-apache-airflow
+url: /sessions/2022/workshop-contributing-to-apache-airflow
 speakers:
  - Jarek Potiuk
  - Elad Kalif
