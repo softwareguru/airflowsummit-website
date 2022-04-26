@@ -16,4 +16,8 @@ The Austrialia Apache Airflow meetup joins the Airflow Summit to present in pers
 This event is hosted and sponsored by [Mantel Group](https://mantelgroup.com.au/).
 
 #### Talks:
- * To be confirmed ...
+ * [Introducing Astro Flow: The next generation of DAG authoring](https://airflowsummit.org/sessions/2022/introducing-astro-flow-the-next-generationdag-authoring/) (online)
+ * [Keep Calm & Query On: Debugging Broken Data Pipelines with Airflow](https://airflowsummit.org/sessions/2022/keep-calm-query-on/) (online)
+ * [Airflow & Zeppelin: Better together](https://airflowsummit.org/sessions/2022/airflow-zeppelin/) (online)
+ * [Airflow / Kubernetes: Running on and using k8s](https://airflowsummit.org/sessions/2022/airflow-k8s/) (online)
+ * [Skip tasks to make your debugging easy](https://airflowsummit.org/sessions/2022/skip-tasks-to-make-your-debugging-easy/)
