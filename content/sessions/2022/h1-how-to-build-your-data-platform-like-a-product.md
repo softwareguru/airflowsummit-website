@@ -4,8 +4,8 @@ title: "How to Build Your Data Platform Like a Product"
 url: /sessions/2022/how-to-build-your-data-platform-like-a-product
 speakers:
  - Barr Moses
-time_start: 2022-05-25T06:00:00.000Z
-time_end: 2022-05-25T06:20:00.000Z
+time_start: 2022-05-25T20:00:00.000Z
+time_end: 2022-05-25T20:20:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

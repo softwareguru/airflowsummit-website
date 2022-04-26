@@ -5,8 +5,8 @@ url: /sessions/2022/tfx-on-airflow-with-delegationprocessing-to-third-party-serv
 speakers:
  - Israel Herraiz
  - Paul Balm
-time_start: 2022-05-27T01:30:00.000Z
-time_end: 2022-05-27T04:00:00.000Z
+time_start: 2022-05-27T15:30:00.000Z
+time_end: 2022-05-27T18:00:00.000Z
 format: "Workshop"
 hosted_by: "Workshop 3"
 presence: "remote"

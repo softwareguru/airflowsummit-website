@@ -5,8 +5,8 @@ url: /sessions/2022/airflow-at-high-scale-for-autonomous-driving
 speakers:
  - Philipp Lang
  - Anton Ivanov
-time_start: 2022-05-23T15:00:00.000Z
-time_end: 2022-05-23T15:40:00.000Z
+time_start: 2022-05-23T05:00:00.000Z
+time_end: 2022-05-23T05:40:00.000Z
 format: "Presentation"
 hosted_by: "Tokyo"
 presence: "remote"

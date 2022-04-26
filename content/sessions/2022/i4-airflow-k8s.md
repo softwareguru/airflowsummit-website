@@ -4,8 +4,8 @@ title: "Airflow / Kubernetes: Running on and using k8s"
 url: /sessions/2022/airflow-k8s
 speakers:
  - Jed Cunningham
-time_start: 2022-05-25T15:30:00.000Z
-time_end: 2022-05-25T15:40:00.000Z
+time_start: 2022-05-26T05:30:00.000Z
+time_end: 2022-05-26T05:40:00.000Z
 format: "Presentation"
 hosted_by: "Melbourne"
 presence: "remote"

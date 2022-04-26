@@ -5,8 +5,8 @@ url: /sessions/2022/openlineage
 speakers:
  - Maciej Obuchowski
  - Pawel Leszczynski
-time_start: 2022-05-25T02:00:00.000Z
-time_end: 2022-05-25T02:20:00.000Z
+time_start: 2022-05-25T16:00:00.000Z
+time_end: 2022-05-25T16:20:00.000Z
 format: "Presentation"
 hosted_by: "Warsaw"
 presence: "onsite"

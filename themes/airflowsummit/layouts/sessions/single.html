@@ -91,7 +91,7 @@
     let dateStart = new Date(Date.parse(timeStart));
     let dateEnd = new Date(Date.parse(timeEnd));
     var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
-    let adjString = days[dateStart.getDay()]+", July "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
+    let adjString = days[dateStart.getDay()]+", May "+dateStart.getDate()+". "+dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
     document.getElementById("adjTime").innerHTML = adjString;
   }
   {{ if lt now $time_start }}

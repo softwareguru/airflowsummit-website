@@ -4,8 +4,8 @@ title: "Airflow extensions for governing a self-serviced data mesh"
 url: /sessions/2022/airflow-extensions-governance
 speakers:
  - Jorrick Sleijster
-time_start: 2022-05-26T07:00:00.000Z
-time_end: 2022-05-26T07:20:00.000Z
+time_start: 2022-05-26T21:00:00.000Z
+time_end: 2022-05-26T21:20:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

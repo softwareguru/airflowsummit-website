@@ -4,8 +4,8 @@ title: "Ingesting Game Telemetry in near Real-time dynamically into Redshift wit
 url: /sessions/2022/ingesting-game-telemetry
 speakers:
  - Karthik Kadiyam
-time_start: 2022-05-24T02:00:00.000Z
-time_end: 2022-05-24T02:40:00.000Z
+time_start: 2022-05-24T16:00:00.000Z
+time_end: 2022-05-24T16:40:00.000Z
 format: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"

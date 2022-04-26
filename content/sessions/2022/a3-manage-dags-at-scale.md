@@ -4,8 +4,8 @@ title: "Manage Dags at scale (Dags versioning & package management)"
 url: /sessions/2022/manage-dags-at-scale
 speakers:
  - anum sheraz
-time_start: 2022-05-23T03:00:00.000Z
-time_end: 2022-05-23T03:20:00.000Z
+time_start: 2022-05-23T17:00:00.000Z
+time_end: 2022-05-23T17:20:00.000Z
 format: "Presentation"
 hosted_by: "London"
 presence: "onsite"

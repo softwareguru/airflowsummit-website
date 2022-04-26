@@ -4,8 +4,8 @@ title: "Automating Airflow Backfills with Marquez"
 url: /sessions/2022/automating-airflow-backfills-with-marquez
 speakers:
  - Willy Lulciuc
-time_start: 2022-05-27T03:00:00.000Z
-time_end: 2022-05-27T03:40:00.000Z
+time_start: 2022-05-27T17:00:00.000Z
+time_end: 2022-05-27T17:40:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

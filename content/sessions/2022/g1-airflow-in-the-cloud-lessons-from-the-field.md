@@ -5,8 +5,8 @@ url: /sessions/2022/airflow-in-the-cloud-lessons-from-the-field
 speakers:
  - Rafal Biegacz
  - Filip Knapik
-time_start: 2022-05-25T01:00:00.000Z
-time_end: 2022-05-25T01:40:00.000Z
+time_start: 2022-05-25T15:00:00.000Z
+time_end: 2022-05-25T15:40:00.000Z
 format: "Presentation"
 hosted_by: "Warsaw"
 presence: "onsite"

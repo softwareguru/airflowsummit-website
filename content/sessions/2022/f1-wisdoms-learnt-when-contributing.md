@@ -4,8 +4,8 @@ title: "Wisdoms learnt when contributing to Apache Airflow"
 url: /sessions/2022/wisdoms-learnt-when-contributing
 speakers:
  - Bowrna Prabhakaran
-time_start: 2022-05-24T14:00:00.000Z
-time_end: 2022-05-24T14:20:00.000Z
+time_start: 2022-05-25T04:00:00.000Z
+time_end: 2022-05-25T04:20:00.000Z
 format: "Presentation"
 hosted_by: "Bangalore"
 presence: "onsite"

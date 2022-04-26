@@ -4,8 +4,8 @@ title: "Keep Calm & Query On: Debugging Broken Data Pipelines with Airflow"
 url: /sessions/2022/keep-calm-query-on
 speakers:
  - Lior Gavish
-time_start: 2022-05-25T14:00:00.000Z
-time_end: 2022-05-25T14:40:00.000Z
+time_start: 2022-05-26T04:00:00.000Z
+time_end: 2022-05-26T04:40:00.000Z
 format: "Presentation"
 hosted_by: "Melbourne"
 presence: "remote"

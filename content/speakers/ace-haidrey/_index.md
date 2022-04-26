@@ -5,7 +5,9 @@ image: /images/speakers/ace-haidrey.jpg
 images: 
  - /images/speakers/ace-haidrey.jpg
 description: "Ace Haidrey is a Senior Software Engineer at Pinterest who is working on workflow systems, including Airflow."
-event-2021: true
+events:
+ - 2021
+ - 2022
 twitter: ""
 linkedin: "https://www.linkedin.com/in/acehaidrey"
 ---

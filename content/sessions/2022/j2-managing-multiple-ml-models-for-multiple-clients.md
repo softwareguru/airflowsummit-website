@@ -4,8 +4,8 @@ title: "Managing Multiple ML Models For Multiple Clients : Steps For Scaling Up"
 url: /sessions/2022/managing-multiple-ml-models-for-multiple-clients
 speakers:
  - Ori Peri
-time_start: 2022-05-26T01:30:00.000Z
-time_end: 2022-05-26T01:50:00.000Z
+time_start: 2022-05-26T15:30:00.000Z
+time_end: 2022-05-26T15:50:00.000Z
 format: "Presentation"
 hosted_by: "Tel Aviv"
 presence: "onsite"

@@ -5,8 +5,8 @@ url: /sessions/2022/git-push-your-data-stack-with-airbyte-airflow-and-dbt
 speakers:
  - Evan Tahler
  - Marcos Marx
-time_start: 2022-05-24T06:30:00.000Z
-time_end: 2022-05-24T06:50:00.000Z
+time_start: 2022-05-24T20:30:00.000Z
+time_end: 2022-05-24T20:50:00.000Z
 format: "Technical deep dive / tutorial"
 hosted_by: "Online"
 presence: "remote"

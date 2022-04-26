@@ -4,8 +4,8 @@ title: "Managing Apache Airflow at Scale"
 url: /sessions/2022/managing-apache-airflow-at-scale
 speakers:
  - John Jackson
-time_start: 2022-05-24T07:00:00.000Z
-time_end: 2022-05-24T07:40:00.000Z
+time_start: 2022-05-24T21:00:00.000Z
+time_end: 2022-05-24T21:40:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

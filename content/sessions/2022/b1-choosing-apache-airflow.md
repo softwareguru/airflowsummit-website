@@ -4,8 +4,8 @@ title: "Choosing Apache Airflow over other Proprietary Tools for your Orchestrat
 url: /sessions/2022/choosing-apache-airflow
 speakers:
  - Parnab Basak
-time_start: 2022-05-23T06:00:00.000Z
-time_end: 2022-05-23T06:40:00.000Z
+time_start: 2022-05-23T20:00:00.000Z
+time_end: 2022-05-23T20:40:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

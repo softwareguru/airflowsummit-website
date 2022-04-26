@@ -4,8 +4,8 @@ title: "How to Achieve Reliable Data in your Airflow Pipelines with Databand"
 url: /sessions/2022/how-to-achieve-reliable-data-in-your-airflow-pipelines-with-databand
 speakers:
  - Josh Benamram
-time_start: 2022-05-24T01:30:00.000Z
-time_end: 2022-05-24T01:50:00.000Z
+time_start: 2022-05-24T15:30:00.000Z
+time_end: 2022-05-24T15:50:00.000Z
 format: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"

@@ -4,8 +4,8 @@ title: "Hey maintainer (and user), exercise your empathy!"
 url: /sessions/2022/hey-maintainer-exercise-your-empathy
 speakers:
  - Jarek Potiuk
-time_start: 2022-05-24T06:00:00.000Z
-time_end: 2022-05-24T06:20:00.000Z
+time_start: 2022-05-24T20:00:00.000Z
+time_end: 2022-05-24T20:20:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

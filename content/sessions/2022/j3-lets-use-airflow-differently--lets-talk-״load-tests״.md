@@ -4,8 +4,8 @@ title: "Lets use Airflow differently- let's talk ״load tests״"
 url: /sessions/2022/lets-use-airflow-differently--lets-talk-״load-tests״
 speakers:
  - Doron Cohen
-time_start: 2022-05-26T02:00:00.000Z
-time_end: 2022-05-26T02:40:00.000Z
+time_start: 2022-05-26T16:00:00.000Z
+time_end: 2022-05-26T16:40:00.000Z
 format: "Presentation"
 hosted_by: "Tel Aviv"
 presence: "onsite"

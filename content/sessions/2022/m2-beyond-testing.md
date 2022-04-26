@@ -4,8 +4,8 @@ title: "Beyond Testing: How to Build Circuit Breakers with Airflow"
 url: /sessions/2022/beyond-testing:-how-to-build-circuit-breakers-with-airflow
 speakers:
  - Prateek Chawla
-time_start: 2022-05-27T02:00:00.000Z
-time_end: 2022-05-27T02:40:00.000Z
+time_start: 2022-05-27T16:00:00.000Z
+time_end: 2022-05-27T16:45:00.000Z
 format: "Technical deep dive / tutorial"
 hosted_by: "Online"
 presence: "remote"

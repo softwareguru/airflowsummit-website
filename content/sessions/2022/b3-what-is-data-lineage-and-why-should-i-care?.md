@@ -4,8 +4,8 @@ title: "What is data lineage and why should I care?"
 url: /sessions/2022/what-is-data-lineage-and-why-should-i-care
 speakers:
  - Ross Turk
-time_start: 2022-05-23T07:30:00.000Z
-time_end: 2022-05-23T07:50:00.000Z
+time_start: 2022-05-23T21:30:00.000Z
+time_end: 2022-05-23T21:50:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

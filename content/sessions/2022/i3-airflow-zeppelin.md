@@ -4,8 +4,8 @@ title: "Airflow & Zeppelin: Better together"
 url: /sessions/2022/airflow-zeppelin
 speakers:
  - Jeff Zhang
-time_start: 2022-05-25T15:00:00.000Z
-time_end: 2022-05-25T15:20:00.000Z
+time_start: 2022-05-26T05:00:00.000Z
+time_end: 2022-05-26T05:20:00.000Z
 format: "Presentation"
 hosted_by: "Melbourne"
 presence: "remote"

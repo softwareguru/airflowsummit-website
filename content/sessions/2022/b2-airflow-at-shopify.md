@@ -5,8 +5,8 @@ url: /sessions/2022/airflow-at-shopify
 speakers:
  - Sam Wheating
  - Megan Parker
-time_start: 2022-05-23T07:00:00.000Z
-time_end: 2022-05-23T07:20:00.000Z
+time_start: 2022-05-23T21:00:00.000Z
+time_end: 2022-05-23T21:20:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

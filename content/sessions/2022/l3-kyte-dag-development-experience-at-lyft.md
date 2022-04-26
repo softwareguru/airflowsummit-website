@@ -5,8 +5,8 @@ url: /sessions/2022/kyte-dag-development-experience-at-lyft
 speakers:
  - Max Payton
  - Paul Dittamo
-time_start: 2022-05-26T11:30:00.000Z
-time_end: 2022-05-26T11:50:00.000Z
+time_start: 2022-05-27T01:30:00.000Z
+time_end: 2022-05-27T01:50:00.000Z
 format: "Presentation"
 hosted_by: "Seattle"
 presence: "onsite"

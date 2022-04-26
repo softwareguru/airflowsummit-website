@@ -5,8 +5,8 @@ url: /sessions/2022/multitenancy-is-coming
 speakers:
  - Jarek Potiuk
  - Mateusz Henc
-time_start: 2022-05-24T16:00:00.000Z
-time_end: 2022-05-24T16:40:00.000Z
+time_start: 2022-05-25T06:00:00.000Z
+time_end: 2022-05-25T06:40:00.000Z
 format: "Technical deep dive / tutorial"
 hosted_by: "Bangalore"
 presence: "remote"

@@ -4,8 +4,8 @@ title: "Introducing Astro Flow: The next generation of DAG authoring"
 url: /sessions/2022/introducing-astro-flow:-the-next-generationdag-authoring
 speakers:
  - Daniel Imberman
-time_start: 2022-05-25T13:00:00.000Z
-time_end: 2022-05-25T13:40:00.000Z
+time_start: 2022-05-26T03:00:00.000Z
+time_end: 2022-05-26T03:40:00.000Z
 format: "Presentation"
 hosted_by: "Melbourne"
 presence: "remote"

@@ -1,11 +1,11 @@
 ---
 id: d1
 title: "Future of the Airflow UI"
-url: /sessions/2022/futurethe-airflow-ui
+url: /sessions/2022/future-airflow-ui
 speakers:
  - Brent Bovenzi
-time_start: 2022-05-24T01:00:00.000Z
-time_end: 2022-05-24T01:20:00.000Z
+time_start: 2022-05-24T15:00:00.000Z
+time_end: 2022-05-24T15:20:00.000Z
 format: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"

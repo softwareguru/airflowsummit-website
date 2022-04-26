@@ -4,8 +4,8 @@ title: "Data Lineage with Apache Airflow and Apache Spark"
 url: /sessions/2022/data-lineage-with-apache-airflow-and-apache-spark
 speakers:
  - Michael Collado
-time_start: 2022-05-26T12:00:00.000Z
-time_end: 2022-05-26T12:20:00.000Z
+time_start: 2022-05-27T02:00:00.000Z
+time_end: 2022-05-27T02:20:00.000Z
 format: "Presentation"
 hosted_by: "Seattle"
 presence: "onsite"

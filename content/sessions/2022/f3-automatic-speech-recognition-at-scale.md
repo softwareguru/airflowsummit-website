@@ -4,8 +4,8 @@ title: "Automatic Speech Recognition at Scale Using Tensorflow, Kubernetes and A
 url: /sessions/2022/automatic-speech-recognition-at-scale
 speakers:
  - Rafael Pierre
-time_start: 2022-05-24T15:30:00.000Z
-time_end: 2022-05-24T15:50:00.000Z
+time_start: 2022-05-25T05:30:00.000Z
+time_end: 2022-05-25T05:50:00.000Z
 format: "Presentation"
 hosted_by: "Bangalore"
 presence: "remote"

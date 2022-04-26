@@ -4,8 +4,8 @@ title: "Vega: Unifying Machine Learning Workflows at Credit Karma using Apache A
 url: /sessions/2022/vega-unifying-ml-workflows-credit-karma
 speakers:
  - Debasish Das
-time_start: 2022-05-23T13:00:00.000Z
-time_end: 2022-05-23T13:40:00.000Z
+time_start: 2022-05-24T03:00:00.000Z
+time_end: 2022-05-24T03:40:00.000Z
 format: "Presentation"
 hosted_by: "Tokyo"
 presence: "remote"

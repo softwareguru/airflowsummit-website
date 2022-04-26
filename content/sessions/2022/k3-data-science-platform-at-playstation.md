@@ -5,8 +5,8 @@ url: /sessions/2022/data-science-platform-at-playstation
 speakers:
  - Hamed Saljooghinejad
  - Siraj Malik
-time_start: 2022-05-26T07:30:00.000Z
-time_end: 2022-05-26T08:10:00.000Z
+time_start: 2022-05-26T21:30:00.000Z
+time_end: 2022-05-26T22:10:00.000Z
 format: "Presentation"
 hosted_by: "Online"
 presence: "remote"

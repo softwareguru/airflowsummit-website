@@ -4,8 +4,8 @@ title: "Implementing Event-Based DAGs with Airflow"
 url: /sessions/2022/implementing-event-based-dags-with-airflow
 speakers:
  - Kenten Danas
-time_start: 2022-05-26T11:00:00.000Z
-time_end: 2022-05-26T11:20:00.000Z
+time_start: 2022-05-27T01:00:00.000Z
+time_end: 2022-05-27T01:20:00.000Z
 format: "Technical deep dive / tutorial"
 hosted_by: "Seattle"
 presence: "onsite"

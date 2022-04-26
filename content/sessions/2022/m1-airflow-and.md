@@ -4,8 +4,8 @@ title: "Airflow AND _______: A discussion around utilizing Airflow with competin
 url: /sessions/2022/airflow-and___
 speakers:
  - R. Brad Kirn
-time_start: 2022-05-27T01:00:00.000Z
-time_end: 2022-05-27T01:40:00.000Z
+time_start: 2022-05-27T15:00:00.000Z
+time_end: 2022-05-27T15:50:00.000Z
 format: "Discussion panel"
 hosted_by: "Online"
 presence: "remote"

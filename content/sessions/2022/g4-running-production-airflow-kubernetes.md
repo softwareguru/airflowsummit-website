@@ -5,8 +5,8 @@ url: /sessions/2022/running-production-airflow-kubernetes
 speakers:
  - Alaeddine Maaoui
  - Prekshi Vyas
-time_start: 2022-05-25T03:00:00.000Z
-time_end: 2022-05-25T03:40:00.000Z
+time_start: 2022-05-25T17:00:00.000Z
+time_end: 2022-05-25T17:40:00.000Z
 format: "Presentation"
 hosted_by: "Paris"
 presence: "onsite"

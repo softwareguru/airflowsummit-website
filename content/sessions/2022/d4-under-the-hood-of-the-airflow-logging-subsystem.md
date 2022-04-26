@@ -4,8 +4,8 @@ title: "A look under the hood of the Airflow logging subsystem"
 url: /sessions/2022/under-the-hood-of-the-airflow-logging-subsystem
 speakers:
  - Philippe Gagnon
-time_start: 2022-05-24T03:00:00.000Z
-time_end: 2022-05-24T03:20:00.000Z
+time_start: 2022-05-24T17:00:00.000Z
+time_end: 2022-05-24T17:20:00.000Z
 format: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"

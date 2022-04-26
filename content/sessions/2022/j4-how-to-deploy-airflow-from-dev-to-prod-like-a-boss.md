@@ -4,8 +4,8 @@ title: "How to Deploy Airflow From Dev to Prod Like A BOSS"
 url: /sessions/2022/how-to-deploy-airflow-from-dev-to-prod-like-a-boss
 speakers:
  - Evgeny Shulman
-time_start: 2022-05-26T03:00:00.000Z
-time_end: 2022-05-26T03:20:00.000Z
+time_start: 2022-05-26T17:00:00.000Z
+time_end: 2022-05-26T17:20:00.000Z
 format: "Presentation"
 hosted_by: "Tel Aviv"
 presence: "onsite"

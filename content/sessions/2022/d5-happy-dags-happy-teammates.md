@@ -4,8 +4,8 @@ title: "Happy DAGs + Happy Teammates: How a little CI/CD can go a long way"
 url: /sessions/2022/happy-dags-happy-teammates
 speakers:
  - Leah Cole
-time_start: 2022-05-24T03:30:00.000Z
-time_end: 2022-05-24T03:50:00.000Z
+time_start: 2022-05-24T17:30:00.000Z
+time_end: 2022-05-24T17:50:00.000Z
 format: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"
