@@ -1,7 +1,7 @@
 ---
 id: j3
-title: "Lets use Airflow differently- let's talk ״load tests״"
-url: /sessions/2022/lets-use-airflow-differently--lets-talk-״load-tests״
+title: "Lets use Airflow differently: let's talk load tests"
+url: /sessions/2022/lets-use-airflow-differently-load-tests
 speakers:
  - Doron Cohen
 time_start: 2022-05-26T16:00:00.000Z

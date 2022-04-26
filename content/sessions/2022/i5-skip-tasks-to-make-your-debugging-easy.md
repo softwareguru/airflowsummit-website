@@ -1,7 +1,7 @@
 ---
 id: i5
 title: "Skip tasks to make your debugging easy [Apple Presentation]"
-url: /sessions/2022/skip-tasks-to-make-your-debugging-easy-[apple-presentation]
+url: /sessions/2022/skip-tasks-to-make-your-debugging-easy
 speakers:
  - Howie Wang
 time_start: 2022-05-26T05:40:00.000Z

@@ -17,7 +17,7 @@ The Bangalore Apache Airflow meetup joins the Airflow Summit to present in perso
 
 
 #### Talks
- * [Wisdoms learnt when contributing to Apache Airflow by Bowrna Prabhakaran](https://airflowsummit.org/sessions/2022/#abs-f1-wisdoms-learnt-when-contributing) (in person)
- * [Love for writing deferrable operators. Why and how to defer?](https://airflowsummit.org/sessions/2022/#abs-f2-love-for-writing-deferrable-operators) (online)
- * [Automatic Speech Recognition at Scale Using Tensorflow, Kubernetes and Airflow](https://airflowsummit.org/sessions/2022/#abs-f3-automatic-speech-recognition-at-scale) (online)
- * [Multitenancy is coming](https://airflowsummit.org/sessions/2022/#abs-f4-multitenancy-is-coming) (online)
+ * [Wisdoms learnt when contributing to Apache Airflow by Bowrna Prabhakaran](https://airflowsummit.org/sessions/2022/wisdoms-learnt-when-contributing) (in person)
+ * [Love for writing deferrable operators. Why and how to defer?](https://airflowsummit.org/sessions/2022/love-for-writing-deferrable-operators) (online)
+ * [Automatic Speech Recognition at Scale Using Tensorflow, Kubernetes and Airflow](https://airflowsummit.org/sessions/2022/automatic-speech-recognition-at-scale) (online)
+ * [Multitenancy is coming](https://airflowsummit.org/sessions/2022/multitenancy-is-coming) (online)

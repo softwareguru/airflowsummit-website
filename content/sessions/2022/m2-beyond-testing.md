@@ -1,7 +1,7 @@
 ---
 id: m2
 title: "Beyond Testing: How to Build Circuit Breakers with Airflow"
-url: /sessions/2022/beyond-testing:-how-to-build-circuit-breakers-with-airflow
+url: /sessions/2022/beyond-testing-how-to-build-circuit-breakers-with-airflow
 speakers:
  - Prateek Chawla
 time_start: 2022-05-27T16:00:00.000Z
