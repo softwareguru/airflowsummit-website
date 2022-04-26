@@ -101,6 +101,20 @@ section.sponsors {
 	}
 }
 
+.sponsor-strip.local {
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	.sponsor-item {
+		width: 200px;
+		margin: 0px 40px 25px 40px;
+	}
+}
+
+
 .sponsor-strip.community {
 	display: flex;
 	justify-content: center;

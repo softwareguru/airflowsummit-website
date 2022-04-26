@@ -17,13 +17,13 @@
           <th data-field="slides">Slides</th>
           {{ end }}
           {{ if $is_2022 }}
-          <th data-field="track" data-sortable="true">Track</th>
+          <th data-field="track" data-sortable="true">Starts at (UTC)</th>
           {{ end }}
 
         </tr>
       </thead>
         <tbody>
-            {{ range sort .Data.Pages ".Params.time_end" }}
+            {{ range .Data.Pages.ByParam "time_start" }}
             <tr>
                 <td><h4>
                     <a class="session-title" data-toggle="collapse" href="#abs-{{.File.TranslationBaseName}}">{{ .Params.title }}</a>
@@ -44,7 +44,7 @@
                             title="Slides"></i></a>{{ end }}</td>
                 {{ end }}            
                 {{ if $is_2022 }}
-                <td >{{ .Params.track }}</td>
+                <td>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}</td>
                 {{ end }}
             </tr>
             {{ end }}
