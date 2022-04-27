@@ -13,7 +13,7 @@ venue_address: 1st Cross Road, 3rd Block, Koramangala · Bengaluru
 
 The Bangalore Apache Airflow meetup joins the Airflow Summit to present in person talks and networking. 
 
-<p class="my-2">This event is made possible by <a class="p-3 bg-white" href="https://sahaj.ai" target="_blank"><img src="/images/partners/sahaj.svg" style="width:140px;" alt="Sahaj" description="Sahaj"></a>
+<p class="my-2">This event is made possible by <a class="p-3" href="https://sahaj.ai" target="_blank"><img src="/images/partners/sahaj2.svg" style="width:140px;" alt="Sahaj" description="Sahaj"></a>
 
 
 #### Talks
