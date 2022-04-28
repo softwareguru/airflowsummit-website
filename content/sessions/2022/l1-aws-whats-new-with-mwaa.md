@@ -1,6 +1,6 @@
 ---
 id: l1
-title: "AWS Sponsored Session: What's New with MWAA"
+title: "What's New with Amazon Managed Workflows for Apache Airflow (MWAA)"
 url: /sessions/2022/whats-new-with-mwaa
 speakers:
  - John Jackson
