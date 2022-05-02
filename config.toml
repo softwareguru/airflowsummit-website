@@ -45,6 +45,16 @@ speaker = "speakers"
   weight = 4
 
   [[menu.main]]
+  name = "Swag Bag"
+  URL = "/swag"
+  weight = 5
+
+  [[menu.main]]
+  name = "Jobs"
+  URL = "/jobs"
+  weight = 6
+
+  [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 7
