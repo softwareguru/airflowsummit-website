@@ -13,6 +13,7 @@ venue_address: 888 Brannan St. 1st floor (Eatrium). San Francisco, CA 94103
 
 The San Francisco Bay Airflow meetup joins the Airflow Summit to present in person talks and networking. 
 
+**A covid vaccine card (physical or digital) and an ID are needed to join the event.**
 
 #### Talks
  * [How to eliminate data downtime & start trusting your data](https://airflowsummit.org/sessions/2022/how-to-eliminate-data-downtime/) (in person)
