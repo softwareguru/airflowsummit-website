@@ -5,7 +5,7 @@ time_end:   2022-05-24 15:30:00 +0900 JST
 weight: 2
 speakers:
 partners:
-rsvp_link: 
+rsvp_link: https://airflowsummit2022-tokyo.eventbrite.com
 venue_name: Shinagawa Industrial Platform 1st meeting room
 venue_address: Osaki Bright Core 4th floor. 5-5-15 Kitashinagawa, Shinagawa City, Tokyo 141-0001
 ---
