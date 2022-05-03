@@ -23,3 +23,8 @@ Welcome to Tel Aviv's official Airflow Summit 2022 watch-party event, hosted by 
  * Parking is available under the building (70-100 ILS).
  * All participants must bring ID to enter the building.
  
+ #### Talks
+  * [The SLAyer your Data Pipeline Needs](https://airflowsummit.org/sessions/2022/the-slayer-your-data-pipeline-needs/) (in person)
+  * [Managing Multiple ML Models For Multiple Clients : Steps For Scaling Up](https://airflowsummit.org/sessions/2022/managing-multiple-ml-models-for-multiple-clients/) (in person)
+  * [Lets use Airflow differently: let's talk load tests](https://airflowsummit.org/sessions/2022/lets-use-airflow-differently-load-tests/) (in person)
+  * [How to Deploy Airflow From Dev to Prod Like A BOSS](https://airflowsummit.org/sessions/2022/how-to-deploy-airflow-from-dev-to-prod-like-a-boss/) (in person)

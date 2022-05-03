@@ -5,7 +5,7 @@ time_start: 2022-05-23 15:30:00 +0100 BST
 time_end:   2022-05-23 19:30:00 +0100 BST
 speakers:
 partners:
-rsvp_link: https://www.meetup.com/London-Apache-Airflow-Meetup/events/285168100/
+rsvp_link: https://airflowsummit2022-london.eventbrite.com
 venue_name: Google BEL Office
 venue_address: Belgrave House, 76 Buckingham Palace Rd, London SW1W 9TQ, United Kingdom
 

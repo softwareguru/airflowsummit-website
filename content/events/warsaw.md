@@ -5,7 +5,7 @@ time_end:   2022-05-25 20:30:00 +0200 CEST
 weight: 5
 speakers:
 partners:
-rsvp_link: https://www.meetup.com/Warsaw-Airflow-Meetup/events/285267608/
+rsvp_link: https://airflowsummit2022-warsaw.eventbrite.com
 venue_name: Google Warsaw @ WFC
 venue_address: Emilii Plater 53, 00-113 Warszawa.
 ---

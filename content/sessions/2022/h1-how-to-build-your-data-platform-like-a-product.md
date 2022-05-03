@@ -1,16 +1,16 @@
 ---
 id: h1
-title: "How to Build Your Data Platform Like a Product"
-url: /sessions/2022/how-to-build-your-data-platform-like-a-product
+title: How to eliminate Data Downtime & start trusting your data
+url: /sessions/2022/how-to-eliminate-data-downtime
 speakers:
  - Barr Moses
 time_start: 2022-05-25T20:00:00.000Z
 time_end: 2022-05-25T20:20:00.000Z
 format: "Presentation"
-hosted_by: "Online"
-presence: "remote"
+hosted_by: bay
+presence: onsite
 block: h
 slot: 1
 ---
 
-Your team just migrated to a data mesh (or so they think). Your CTO is all in on this “modern data stack,” or as she calls it: “The Enterprise Data Discovery.” To satisfy your company’s insatiable appetite for data, you may even be building a complex, multi-layered data ecosystem: in other words, a data platform. Still, it’s one thing to build a data platform, but how do you ensure it actually drives value for your business? In this fireside chat, Barr Moses, CEO & co-founder of Monte Carlo, will walk through why best in class data teams are treating their data platforms like product software and how to get started with reliability and scale in mind.
+Broken data is costly, time-consuming, and nowadays, an all-too-common reality for even the most advanced data teams. In this talk, I’ll introduce this problem, called “data downtime” — periods of time when data is partial, erroneous, missing or otherwise inaccurate — and discuss how to eliminate it in your data ecosystem with end-to-end data observability. Drawing corollaries to application observability in software engineering, data observability is a critical component of the modern DataOps workflow and the key to ensuring data trust at scale. I’ll share why data observability matters when it comes to building a better data quality strategy and highlight tactics you can use to address it today.
