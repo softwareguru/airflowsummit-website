@@ -5,13 +5,13 @@ time_end: 2022-05-26 18:30:00 +1000 AEST
 weight: 6
 speakers:
 partners:
-rsvp_link: 
+rsvp_link: https://www.eventbrite.com.au/e/airflow-summit-2022-melbourne-in-person-registration-331816761867
 venue_name: Mantel Group offices
 venue_address: Level 2, 452 Flinders St. Melbourne VIC 3000
 
 ---
 
-The Austrialia Apache Airflow meetup joins the Airflow Summit to present in person talks and networking for its local community in Melbourne.
+The Australia Apache Airflow meetup joins the Airflow Summit to present in person talks and networking for its local community in Melbourne.
 
 This event is hosted and sponsored by [Mantel Group](https://mantelgroup.com.au/).
 
