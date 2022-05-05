@@ -5,7 +5,7 @@ time_end:   2022-05-25 13:00:00 +0530 IST
 weight: 4
 speakers:
 partners:
-rsvp_link: https://www.meetup.com/Bangalore-Apache-Airflow-Meetup/events/285145305/
+rsvp_link: https://airflowsummit2022-bangalore.eventbrite.com
 venue_name: Sahaj Software Pvt Ltd
 venue_address: 1st Cross Road, 3rd Block, Koramangala · Bengaluru
 
