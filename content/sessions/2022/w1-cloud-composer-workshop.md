@@ -6,8 +6,8 @@ speakers:
  - Rafal Biegacz
  - Leah Cole
  - Bartosz Jankiewicz
-time_start: 2022-05-27T13:00:00.000Z
-time_end: 2022-05-27T15:30:00.000Z
+time_start: 2022-05-27T14:30:00.000Z
+time_end: 2022-05-27T17:00:00.000Z
 session_type: "Workshop"
 hosted_by: "Workshop 1"
 presence: "remote"
