@@ -1,6 +1,6 @@
 ---
 id: m1
-title: "Airflow AND _______: A discussion around utilizing Airflow with competing tools"
+title: "Airflow and _____: A discussion around utilizing Airflow with competing tools"
 url: /sessions/2022/airflow-and___
 speakers:
  - Brad Kirn
