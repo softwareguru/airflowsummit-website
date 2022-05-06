@@ -6,7 +6,7 @@ speakers:
  - Ace Haidrey
 time_start: 2022-05-25T20:30:00.000Z
 time_end: 2022-05-25T20:50:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Online"
 presence: "remote"
 block: h

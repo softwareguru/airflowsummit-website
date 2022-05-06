@@ -6,7 +6,7 @@ speakers:
  - Ankit Chaurasia
 time_start: 2022-05-25T04:30:00.000Z
 time_end: 2022-05-25T05:10:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Bangalore"
 presence: "remote"
 block: f

@@ -6,7 +6,7 @@ speakers:
  - Andrew Godwin
 time_start: 2022-05-27T02:30:00.000Z
 time_end: 2022-05-27T02:50:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Seattle"
 presence: "remote"
 block: l

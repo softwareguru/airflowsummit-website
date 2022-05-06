@@ -6,7 +6,7 @@ speakers:
  - Debasish Das
 time_start: 2022-05-24T03:00:00.000Z
 time_end: 2022-05-24T03:40:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Tokyo"
 presence: "remote"
 block: c

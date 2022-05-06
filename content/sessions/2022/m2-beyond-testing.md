@@ -6,7 +6,7 @@ speakers:
  - Prateek Chawla
 time_start: 2022-05-27T16:00:00.000Z
 time_end: 2022-05-27T16:45:00.000Z
-format: "Technical deep dive / tutorial"
+session_type: "Technical deep dive / tutorial"
 hosted_by: "Online"
 presence: "remote"
 block: m

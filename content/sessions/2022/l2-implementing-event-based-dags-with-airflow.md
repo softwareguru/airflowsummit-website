@@ -6,7 +6,7 @@ speakers:
  - Kenten Danas
 time_start: 2022-05-27T01:00:00.000Z
 time_end: 2022-05-27T01:20:00.000Z
-format: "Technical deep dive / tutorial"
+session_type: "Technical deep dive / tutorial"
 hosted_by: "Seattle"
 presence: "onsite"
 block: l

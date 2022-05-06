@@ -6,7 +6,7 @@ speakers:
  - Leah Cole
 time_start: 2022-05-24T17:30:00.000Z
 time_end: 2022-05-24T17:50:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"
 block: d

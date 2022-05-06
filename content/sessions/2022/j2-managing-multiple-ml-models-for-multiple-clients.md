@@ -6,7 +6,7 @@ speakers:
  - Ori Peri
 time_start: 2022-05-26T15:30:00.000Z
 time_end: 2022-05-26T15:50:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Tel Aviv"
 presence: "onsite"
 block: j

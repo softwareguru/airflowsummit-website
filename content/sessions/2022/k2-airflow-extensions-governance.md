@@ -6,7 +6,7 @@ speakers:
  - Jorrick Sleijster
 time_start: 2022-05-26T21:00:00.000Z
 time_end: 2022-05-26T21:20:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Online"
 presence: "remote"
 block: k

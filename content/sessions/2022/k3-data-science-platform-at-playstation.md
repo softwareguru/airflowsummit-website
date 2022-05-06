@@ -7,7 +7,7 @@ speakers:
  - Siraj Malik
 time_start: 2022-05-26T21:30:00.000Z
 time_end: 2022-05-26T22:10:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Online"
 presence: "remote"
 block: k

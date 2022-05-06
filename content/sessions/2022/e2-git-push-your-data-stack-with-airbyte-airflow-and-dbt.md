@@ -7,7 +7,7 @@ speakers:
  - Marcos Marx
 time_start: 2022-05-24T20:30:00.000Z
 time_end: 2022-05-24T20:50:00.000Z
-format: "Technical deep dive / tutorial"
+session_type: "Technical deep dive / tutorial"
 hosted_by: "Online"
 presence: "remote"
 block: e

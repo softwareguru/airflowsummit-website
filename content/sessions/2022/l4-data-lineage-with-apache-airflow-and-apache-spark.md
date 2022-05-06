@@ -6,7 +6,7 @@ speakers:
  - Michael Collado
 time_start: 2022-05-27T02:00:00.000Z
 time_end: 2022-05-27T02:20:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Seattle"
 presence: "onsite"
 block: l

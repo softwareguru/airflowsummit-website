@@ -6,7 +6,7 @@ speakers:
  - Jeff Zhang
 time_start: 2022-05-26T05:00:00.000Z
 time_end: 2022-05-26T05:20:00.000Z
-format: "Presentation"
+session_type: "Presentation"
 hosted_by: "Melbourne"
 presence: "remote"
 block: i
