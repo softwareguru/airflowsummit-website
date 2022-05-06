@@ -17,6 +17,9 @@ summary: "Hands on workshop showing how easy it is to deploy Airflow in a public
 
 ---
 
+<a class="theme-btn btn-style-one text-white px-3 mb-2" target="_blank" href="https://us06web.zoom.us/webinar/register/WN_tMQsOjK8QySA8FVGvU-kxw">Register for this workshop</a>
+
+
 Hands on workshop showing how easy it is to deploy Airflow in a public Cloud. 
 
 Workshop consists of 3 parts: 
