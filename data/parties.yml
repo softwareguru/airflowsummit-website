@@ -1,7 +1,3 @@
-- city: Skopje, Macedonia
-  address: Varshavska 9A, 1000 Skopje
-  hosts: IBORN.NET
-  link:
 
 - city: Pune, India
   address: Nyati Tech Park 
@@ -12,4 +8,18 @@
   address:
   hosts: Sahaj Software Solutions
   link: https://www.meetup.com/devday_chennai/events/285385719
- 
+
+- city: Lisbon, Portugal (Monday)
+  address: R. Castilho, 1250-096 Lisboa
+  hosts: Unbabel
+  link: https://www.meetup.com/lisbon-mlops-community/events/285649319/
+
+- city: Lisbon, Portugal (Tuesday)
+  address: R. Castilho, 1250-096 Lisboa
+  hosts: Unbabel
+  link: https://www.meetup.com/lisbon-mlops-community/events/285669581/
+
+- city: Skopje, Macedonia
+  address: Varshavska 9A, 1000 Skopje
+  hosts: IBORN.NET
+  link:
