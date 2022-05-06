@@ -1,6 +1,6 @@
 ---
 title: "Siraj Malik"
-designation: "PlayStation - Engineering Manger"
+designation: "PlayStation - Engineering Manager"
 image: /images/speakers/siraj-malik.jpg
 events:
  - 2022
