@@ -5,9 +5,9 @@ time_end: 2022-05-26 20:30:00 -0600 PDT
 weight: 8
 speakers:
 partners:
-rsvp_link: 
-venue_name: 
-venue_address: To be confirmed
+rsvp_link: https://airflowsummit2022-seattle.eventbrite.com
+venue_name: Amazon Nitro South Event Venue
+venue_address: 2205 8th Ave. Seattle, WA 98121
 ---
 
 The Seattle Apache Airflow meetup joins the Airflow Summit to present in person talks and networking for its local community in Sydney.
