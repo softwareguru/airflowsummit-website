@@ -17,8 +17,7 @@ summary: "Hands on workshop showing how easy it is to deploy Airflow in a public
 
 ---
 
-<a class="btn btn-primary text-white px-3 mb-2" target="_blank" href="https://us06web.zoom.us/webinar/register/WN_tMQsOjK8QySA8FVGvU-kxw">Register for this workshop</a>
-
+<a class="btn btn-primary text-white px-3 mb-2" target="_blank" href="https://ti.to/airflowsummit/2022-workshops">Get your ticket for this workshop</a>
 
 Hands on workshop showing how easy it is to deploy Airflow in a public Cloud. 
 
