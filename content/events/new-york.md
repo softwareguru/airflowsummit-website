@@ -12,6 +12,9 @@ venue_address: 620 8th Avenue. New York, NY 10018
 
 The New York Apache Airflow Meetup joins the Airflow Summit 2022 to host in person talks that will be simultaneously broadcasted to the global audience of Airflow Summit. Join us to watch talks and meet fellow users and developers of Apache Airflow. Lunch will be provided.
 
+This event is hosted and sponsored by [The New York Times](https://open.nytimes.com).
+
+
 **NOTE: To enter, all attendees must present a valid id and proof of vaccination**
 
 #### Talks:

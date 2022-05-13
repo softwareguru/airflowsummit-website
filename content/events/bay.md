@@ -13,6 +13,8 @@ venue_address: 888 Brannan St. 1st floor (Eatrium). San Francisco, CA 94103
 
 The San Francisco Bay Airflow meetup joins the Airflow Summit to present in person talks and networking. 
 
+This event is hosted and sponsored by [Airbnb Engineering & Data Science](https://airbnb.io).
+
 **A covid vaccine card (physical or digital) and an ID are needed to join the event.**
 
 #### Talks
