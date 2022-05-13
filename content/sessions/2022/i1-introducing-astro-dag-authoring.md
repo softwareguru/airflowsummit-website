@@ -1,7 +1,9 @@
 ---
 id: i1
-title: "Introducing Astro Flow: The next generation of DAG authoring"
-url: /sessions/2022/introducing-astro-flow-the-next-generationdag-authoring
+title: "Introducing Astro Python SDK: The next generation of DAG authoring"
+url: /sessions/2022/introducing-astro-dag-authoring
+aliases:
+ - /sessions/2022/introducing-astro-flow-the-next-generationdag-authoring
 speakers:
  - Daniel Imberman
 time_start: 2022-05-26T03:00:00.000Z
