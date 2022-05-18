@@ -1,6 +1,6 @@
 ---
 title: "Eden Gluska"
-designation: "Big Data Developer at Digital Turbaine"
+designation: "Big Data Developer at Digital Turbine"
 image: /images/speakers/eden-gluska.jpg
 events:
  - 2022
