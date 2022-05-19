@@ -5,7 +5,7 @@ url: /sessions/2022/dynamic-dags-new-horizon
 speakers:
  - Ash Berlin-Taylor
 time_start: 2022-05-23T15:30:00.000Z
-time_end: 2022-05-23T16:10:00.000Z
+time_end: 2022-05-23T16:15:00.000Z
 session_type: "Presentation"
 hosted_by: "London"
 presence: "onsite"

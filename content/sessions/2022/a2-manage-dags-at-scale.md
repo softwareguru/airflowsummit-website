@@ -1,5 +1,5 @@
 ---
-id: a3
+id: a2
 title: "Manage Dags at scale (Dags versioning & package management)"
 url: /sessions/2022/manage-dags-at-scale
 speakers:
@@ -10,7 +10,7 @@ session_type: "Presentation"
 hosted_by: "London"
 presence: "onsite"
 block: a
-slot: 3
+slot: 2
 ---
 
 This talk is all about how we at Jagex manage DAGs at scale. Focusing of following challenges faced and how we resolved them; 

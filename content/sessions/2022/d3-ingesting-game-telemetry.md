@@ -5,7 +5,7 @@ url: /sessions/2022/ingesting-game-telemetry
 speakers:
  - Karthik Kadiyam
 time_start: 2022-05-24T16:00:00.000Z
-time_end: 2022-05-24T16:40:00.000Z
+time_end: 2022-05-24T16:45:00.000Z
 session_type: "Presentation"
 hosted_by: "NYC"
 presence: "onsite"
