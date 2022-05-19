@@ -8,4 +8,4 @@ twitter: ""
 linkedin: "https://il.linkedin.com/in/eden-gluska-389aa417a"
 ---
 
-Eden is BigData Engineer in the Fyber Israel RnD Hub. She started her career as a student Engineer 2 years ago.
+Eden is a Data Engineer at Fyber, part of Digital Turbine’s independent Mobile Growth Platform. 
