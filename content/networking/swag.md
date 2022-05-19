@@ -1,7 +1,7 @@
 ---
 title: "Virtual Swag"
 date: 2021-07-05T19:11:59-05:00
-image: /images/networking/Swag-bag.png
+image: /images/networking/4.png
 button: Go to Swag Bag
 link: /swag/
 weight: 3

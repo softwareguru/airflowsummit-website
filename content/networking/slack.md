@@ -1,14 +1,14 @@
 ---
-title: "Join the conversation."
+title: "Slack"
 date: 2021-07-05T19:11:59-05:00
-image: /images/networking/Event-chat-slack.png
+image: /images/networking/1.png
 button: Join to Slack
-link: https://apache-airflow-slack.herokuapp.com
+link: http://airflowsummit.slack.com/
 draft: false
 weight: 1
 ---
 
-**Join the conversation.**
+Join the conversation.
 
 Join the Airflow slack, the event chat will happen at the #airflow-summit-attendees channel.
 

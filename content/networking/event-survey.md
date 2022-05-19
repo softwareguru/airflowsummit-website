@@ -1,10 +1,10 @@
 ---
 title: "Event survey"
 date: 2021-07-05T19:11:59-05:00
-image: /images/networking/Evaluation.png
+image: /images/networking/2.png
 button: check it out!
 link: 
-draft: false
+draft: true
 weight: 4
 ---
 
