@@ -1,6 +1,6 @@
 ---
 id: w1
-title: "Cloud Composer Workshop"
+title: "Workshop: Running Airflow within Cloud Composer"
 url: /sessions/2022/cloud-composer-workshop
 speakers:
  - Rafal Biegacz

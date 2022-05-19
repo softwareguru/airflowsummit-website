@@ -10,9 +10,12 @@ venue_name: Société Générale @ Dune technology hub
 venue_address: 6 Allée des Sablons. 94120 Fontenay-sous-Bois.
 ---
 
-The Paris Apache Airflow meetup joins the Airflow Summit to present in person talks and networking for its local community. 
+The Paris Apache Airflow meetup joins the Airflow Summit to host a workshop as well as present talks for its local community. 
 
 This event is sponsored and hosted by [Société Générale](https://www.societegenerale.com).
+
+#### Before the talks, Société Générale is also hosting a workshop from 2 to 4 pm ET. [See details here](https://www.meetup.com/fr-FR/Paris-Apache-Airflow-Meetup/events/285521925/).
+
 
 #### Talks:
  * [Airflow in the Cloud: Lessons from the Field](https://airflowsummit.org/sessions/2022/#abs-g1-airflow-in-the-cloud-lessons-from-the-field) (online)
