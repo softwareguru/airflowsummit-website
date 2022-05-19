@@ -4,7 +4,7 @@ date: 2021-07-05T19:11:59-05:00
 image: /images/networking/Networking-event.png
 button: check it out!
 link: https://gather.town/app/s1NeBVeKoEWzJUam/airflowsummit
-draft: false
+draft: true
 weight: 6
 ---
 

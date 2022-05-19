@@ -4,7 +4,7 @@ date: 2021-07-05T19:11:59-05:00
 image: /images/networking/Final-Raffle.png
 button: check it out!
 link: https://www.crowdcast.io/e/airflowsummit2021
-draft: false
+draft: true
 weight: 3
 ---
 

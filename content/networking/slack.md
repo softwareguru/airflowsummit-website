@@ -8,6 +8,8 @@ draft: false
 weight: 1
 ---
 
-Join the Apache Airflow slack, the event chat will happen at the #airflow-summit channels. You will get the last news, contact other participants, speakers, and contact with the sponsors, who will have a lot of surprises for you!
+**Join the conversation.**
 
+Join the Airflow slack, the event chat will happen at the #airflow-summit-attendees channel.
 
+You will get the last news, contact other participants, speakers, and contact with the sponsors, who will have a lot of surprises for you!
