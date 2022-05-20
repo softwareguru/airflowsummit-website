@@ -4,8 +4,8 @@ title: "Airflow at Pinterest"
 url: /sessions/2022/airflow-at-pinterest
 speakers:
  - Ace Haidrey
-time_start: 2022-05-25T20:30:00.000Z
-time_end: 2022-05-25T20:50:00.000Z
+time_start: 2022-05-25T21:00:00.000Z
+time_end: 2022-05-25T21:25:00.000Z
 session_type: "Presentation"
 hosted_by: "Online"
 presence: "remote"

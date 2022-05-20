@@ -1,6 +1,6 @@
 ---
 title: Spencer Weeks
-designation: Data Engineer @Recharge Apps
+designation: Data Engineer, Recharge
 image: /images/speakers/spencer-weeks.jpg
 images: 
  - /images/speakers/spencer-weeks.jpg
