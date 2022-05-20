@@ -1,16 +1,16 @@
 ---
-id: a2
+id: a3
 title: "Manage Dags at scale (Dags versioning & package management)"
 url: /sessions/2022/manage-dags-at-scale
 speakers:
- - anum sheraz
-time_start: 2022-05-23T17:30:00.000Z
-time_end: 2022-05-23T18:10:00.000Z
+ - Anum Sheraz
+time_start: 2022-05-23T16:30:00.000Z
+time_end: 2022-05-23T17:20:00.000Z
 session_type: "Presentation"
 hosted_by: "London"
 presence: "onsite"
 block: a
-slot: 2
+slot: 3
 ---
 
 This talk is all about how we at Jagex manage DAGs at scale. Focusing of following challenges faced and how we resolved them; 
