@@ -1,18 +1,18 @@
 ---
-id: h1
-title: Using the Fivetran Airflow Provider
-url: /sessions/2022/using-fivetran-provider
+id: h4
+title: The tale of a startup's data journey and its growing need for orchestration
+url: /sessions/2022/startup-data-journey
 speakers:
- - Annie Kaufman
- - Spencer Weeks
-time_start: 2022-05-25T21:30:00.000Z
-time_end: 2022-05-25T22:00:00.000Z
+ - Maxime Beauchemin
+time_start: 2022-05-25T22:00:00.000Z
+time_end: 2022-05-25T22:30:00.000Z
 session_type: "Presentation"
 hosted_by: "Online"
 presence: "remote"
 block: h
-slot: 1
+slot: 4
+
 ---
 
-Fivetran’s Airflow provider allows Recharge to manage our connector syncs alongside our other DAGs orchestrating related components of our core data pipelines. The provider has enabled increased flexibility on sync schedules, custom alerting, and quicker response times to failures.
+This talk tells the story of how we have approached data and analytics as a startup at Preset and how the need for a data orchestrator grew over time. Our stack is [loosely] Fivetran/Segment/dbt/BigQuery/Hightouch, and we finally got to a place where we suffer quite a bit from *not* having an orchestrator and are bringing in Airflow to address our orchestration needs. This talk is about how startups approach solving data challenges, the shifting role of the orchestrator in the modern data stack, and the growing need for an orchestrator as your data platform becomes more complex.
 
