@@ -1,6 +1,6 @@
 ---
 title: "Kaxil Naik"
-designation: "Airflow PMC member & Committer | Manager - Airflow Engineering @ Astronomer.io"
+designation: "Airflow PMC member & Committer | Director - Airflow Engineering @ Astronomer.io"
 image: /images/speakers/kaxil-naik.jpg
 events:
  - 2020
@@ -11,9 +11,8 @@ linkedin: "https://www.linkedin.com/in/kaxil/"
 event-2021: true
 ---
 
-Kaxil is currently working as a Manager of Airflow Engineering Team @ Astronomer. Currently, he is the #1 committer of the Airflow Project based on the number of commits. He is one of the current release managers of Airflow.
-
-Most prominent works include co-authoring DAG Serialization, Scheduler HA, Secrets Backend.
+Kaxil is a committer and PMC member of the Apache Airflow Project and until recently was the release manager of the project. He is currently the Director of Airflow Engineering Team @ Astronomer. Currently, he is one of the top three committers of the Airflow Project based on the number of commits.
+He was instrumental in adding DAG Serialization, support for Scheduler HA, Secrets Backend to Airflow and releasing Airflow 2.0.
 
 He did his Masters in Data Science & Analytics from Royal Holloway, University of London.
 Started as a Data Scientist and then gained experience in Data Engineering, BigData and DevOps space. He began working on Airflow in 2017 while working at Data Reply as a BigData consultant
