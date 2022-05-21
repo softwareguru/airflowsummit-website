@@ -7,7 +7,7 @@ aliases:
 speakers:
  - Daniel Imberman
 time_start: 2022-05-26T03:00:00.000Z
-time_end: 2022-05-26T03:40:00.000Z
+time_end: 2022-05-26T03:45:00.000Z
 session_type: "Presentation"
 hosted_by: "Melbourne"
 presence: "remote"

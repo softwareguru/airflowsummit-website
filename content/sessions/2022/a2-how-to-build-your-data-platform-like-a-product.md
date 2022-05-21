@@ -7,8 +7,8 @@ speakers:
 time_start: 2022-05-23T16:00:00.000Z
 time_end: 2022-05-23T16:25:00.000Z
 session_type: "Presentation"
-hosted_by: bay
-presence: onsite
+hosted_by: London
+presence: remote
 block: a
 slot: 2
 ---

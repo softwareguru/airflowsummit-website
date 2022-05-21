@@ -18,6 +18,7 @@ This event is hosted and sponsored by [Airbnb Engineering & Data Science](https:
 **A covid vaccine card (physical or digital) and an ID are needed to join the event.**
 
 #### Talks
- * [How to eliminate data downtime & start trusting your data](https://airflowsummit.org/sessions/2022/how-to-eliminate-data-downtime/) (in person)
- * [Airflow at Pinterest](https://airflowsummit.org/sessions/2022/airflow-at-pinterest/) (in person)
  * [On-Demand DAG through the REST API](https://airflowsummit.org/sessions/2022/on-demand-dag/) (in person)
+ * [Airflow at Pinterest](https://airflowsummit.org/sessions/2022/airflow-at-pinterest/) (in person)
+ * [Using the Fivetran Airflow Provider](http://localhost:1313/sessions/2022/using-fivetran-provider/)
+ * [The tale of a startup's data journey and its growing need for orchestration](http://localhost:1313/sessions/2022/startup-data-journey/)
