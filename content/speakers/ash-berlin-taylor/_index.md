@@ -1,6 +1,6 @@
 ---
 title: "Ash Berlin-Taylor"
-designation: "Airflow PMC member & Director Airflow Engineering @ Astromomer.io"
+designation: "Airflow PMC member & Director Airflow Engineering @ Astronomer.io"
 image: /images/speakers/ash-berlin-taylor.jpg
 events:
  - 2020
