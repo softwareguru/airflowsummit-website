@@ -5,6 +5,7 @@ image: /images/speakers/kaxil-naik.jpg
 events:
  - 2020
  - 2021
+ - 2022
 twitter: "https://twitter.com/kaxil/"
 linkedin: "https://www.linkedin.com/in/kaxil/"
 event-2021: true
