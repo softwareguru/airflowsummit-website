@@ -15,10 +15,6 @@ slot: 4
 
 Apache Airflow and Kubernetes work well together. Not only does Airflow have native support for running tasks on Kubernetes, there is also an official helm chart that makes it easy to run Airflow itself on Kubernetes!
  
+Confused on the differences between KubernetesExecutor and KubernetesPodOperator? What about CeleryKubernetesExecutor? Or the new LocalKubernetesExecutor? After this talk you will understand how they all fit in the ecosystem.
  
- 
- Confused on the differences between KubernetesExecutor and KubernetesPodOperator? What about CeleryKubernetesExecutor? Or the new LocalKubernetesExecutor? After this talk you will understand how they all fit in the ecosystem.
- 
- 
- 
- We will talk about the ways you can run Airflow on Kubernetes, run tasks on Kubernetes, or do both. We will also cover things you may want to consider doing to have a reliable Airflow instance.
+We will talk about the ways you can run Airflow on Kubernetes, run tasks on Kubernetes, or do both. We will also cover things you may want to consider doing to have a reliable Airflow instance.

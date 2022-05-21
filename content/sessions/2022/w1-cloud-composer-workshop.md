@@ -19,7 +19,7 @@ summary: "Hands on workshop showing how easy it is to deploy Airflow in a public
 
 ---
 
-<a class="btn btn-primary text-white px-3 mb-2" target="_blank" href="https://ti.to/airflowsummit/2022-workshops">Get your ticket for this workshop</a>
+<div class="btn btn-danger text-white px-3 mb-2">This workshop is sold out</div>
 
 Hands on workshop showing how easy it is to deploy Airflow in a public Cloud. 
 

@@ -6,7 +6,7 @@ speakers:
  - Max Payton
  - Paul Dittamo
 time_start: 2022-05-27T01:30:00.000Z
-time_end: 2022-05-27T01:50:00.000Z
+time_end: 2022-05-27T01:55:00.000Z
 session_type: "Presentation"
 hosted_by: "Seattle"
 presence: "onsite"

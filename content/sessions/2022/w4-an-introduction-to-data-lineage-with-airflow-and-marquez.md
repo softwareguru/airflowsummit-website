@@ -15,7 +15,7 @@ slot: 4
 summary: "Learn how to collect and visualize lineage from a basic Airflow pipeline using Marquez. You will need to understand the basics of Airflow, but no experience with lineage is required."
 ---
 
-<a class="btn btn-primary text-white px-3 mb-2" target="_blank" href="https://ti.to/airflowsummit/2022-workshops">Get your ticket for this workshop</a>
+<div class="btn btn-danger text-white px-3 mb-2">This workshop is sold out</div>
 
 Data lineage might seem like a complicated and unapproachable topic, but that’s only because data pipelines are complicated. The core concept is straightforward: trace and record the journey of datasets as they travel through a data pipeline.
  

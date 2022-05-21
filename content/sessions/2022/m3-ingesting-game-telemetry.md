@@ -14,19 +14,12 @@ slot: 3
 ---
 
 We the Data Engineering Team here at WB Games implemented an internal Redshift Loader DAG(s) on Airflow that allow us to ingest data in near real-time at scale into Redshift, taking into account variable load on the DB and been able to quickly catch up data loads in case of various DB outages or high usage scenarios.
- 
- 
- 
- Highlights:
- 
-  - Handle any type of Redshift outages and system delays dynamically between multiple sources(S3) to sinks(Redshift).
- 
-  - Auto tuning data copies for faster data backfill in case of delay without overwhelming commit queue.
- 
-  - Supports schema evolution on Game data dynamically.
- 
-  - Maintain data quality to ensure we do not create data gaps or dupes.
- 
-  - Provide embedded custom metrics for deeper insights and anomaly detection.
- 
-  - Airflow config based Declarative Dag implementation.
+  
+Highlights:
+  * Handle any type of Redshift outages and system delays dynamically between multiple sources(S3) to sinks(Redshift).
+  * Auto tuning data copies for faster data backfill in case of delay without overwhelming commit queue.
+  * Supports schema evolution on Game data dynamically.
+  * Maintain data quality to ensure we do not create data gaps or dupes.
+  * Provide embedded custom metrics for deeper insights and anomaly detection.
+  * Airflow config based Declarative Dag implementation.
+
