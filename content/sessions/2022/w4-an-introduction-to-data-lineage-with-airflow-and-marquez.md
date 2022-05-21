@@ -8,7 +8,7 @@ speakers:
 time_start: 2022-05-27T17:30:00.000Z
 time_end: 2022-05-27T20:00:00.000Z
 session_type: "Workshop"
-hosted_by: "Workshop 4"
+hosted_by: Online
 presence: "remote"
 block: w
 slot: 4
