@@ -18,6 +18,7 @@
           {{ end }}
           {{ if $is_2022 }}
           <th data-field="track" data-sortable="true">Starts at (UTC)</th>
+          <th data-field="hosted_by" data-sortable="true">Hosted by</th>
           {{ end }}
 
         </tr>
@@ -45,6 +46,7 @@
                 {{ end }}            
                 {{ if $is_2022 }}
                 <td>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}</td>
+                <td>{{ with .Params.hosted_by }}{{ . }}{{ end }}</td>
                 {{ end }}
             </tr>
             {{ end }}

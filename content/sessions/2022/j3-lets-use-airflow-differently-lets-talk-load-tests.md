@@ -5,7 +5,7 @@ url: /sessions/2022/lets-use-airflow-differently-load-tests
 speakers:
  - Doron Cohen
 time_start: 2022-05-26T16:00:00.000Z
-time_end: 2022-05-26T16:40:00.000Z
+time_end: 2022-05-26T16:50:00.000Z
 session_type: "Presentation"
 hosted_by: "Tel Aviv"
 presence: "onsite"

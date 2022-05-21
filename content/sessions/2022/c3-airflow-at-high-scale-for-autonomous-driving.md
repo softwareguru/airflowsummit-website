@@ -6,7 +6,7 @@ speakers:
  - Philipp Lang
  - Anton Ivanov
 time_start: 2022-05-24T05:00:00.000Z
-time_end: 2022-05-24T05:40:00.000Z
+time_end: 2022-05-24T05:50:00.000Z
 session_type: "Presentation"
 hosted_by: "Tokyo"
 presence: "remote"

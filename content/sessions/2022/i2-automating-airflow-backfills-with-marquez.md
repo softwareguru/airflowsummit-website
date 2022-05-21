@@ -7,7 +7,7 @@ speakers:
 time_start: 2022-05-26T04:00:00.000Z
 time_end: 2022-05-26T04:45:00.000Z
 session_type: "Presentation"
-hosted_by: "Online"
+hosted_by: Melbourne
 presence: "remote"
 block: i
 slot: 2

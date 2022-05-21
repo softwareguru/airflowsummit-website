@@ -1,16 +1,16 @@
 ---
-id: e1
+id: m4
 title: "Hey maintainer (and user), exercise your empathy!"
 url: /sessions/2022/hey-maintainer-exercise-your-empathy
 speakers:
  - Jarek Potiuk
-time_start: 2022-05-24T20:00:00.000Z
-time_end: 2022-05-24T20:20:00.000Z
+time_start: 2022-05-27T18:00:00.000Z
+time_end: 2022-05-27T18:25:00.000Z
 session_type: "Presentation"
 hosted_by: "Online"
 presence: "remote"
-block: e
-slot: 1
+block: m
+slot: 4
 ---
 
 This talk is a walk through throug a number of ways maintainers of open-source projects (for example Airflow) can improve the communication with their users by exercising empathy.

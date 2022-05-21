@@ -5,7 +5,7 @@ url: /sessions/2022/the-slayer-your-data-pipeline-needs
 speakers:
  - Eden Gluska
 time_start: 2022-05-26T15:00:00.000Z
-time_end: 2022-05-26T15:20:00.000Z
+time_end: 2022-05-26T15:25:00.000Z
 session_type: "Presentation"
 hosted_by: "Tel Aviv"
 presence: "onsite"

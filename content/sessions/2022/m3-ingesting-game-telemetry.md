@@ -1,5 +1,5 @@
 ---
-id: d3
+id: m3
 title: "Ingesting Game Telemetry in near Real-time dynamically into Redshift with Airflow (WB Games)"
 url: /sessions/2022/ingesting-game-telemetry
 speakers:
@@ -7,9 +7,9 @@ speakers:
 time_start: 2022-05-27T17:00:00.000Z
 time_end: 2022-05-27T17:50:00.000Z
 session_type: "Presentation"
-hosted_by: "NYC"
-presence: "onsite"
-block: d
+hosted_by: Online
+presence: remote
+block: m
 slot: 3
 ---
 

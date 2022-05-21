@@ -7,8 +7,8 @@ speakers:
 time_start: 2022-05-25T21:00:00.000Z
 time_end: 2022-05-25T21:25:00.000Z
 session_type: "Presentation"
-hosted_by: "Online"
-presence: "remote"
+hosted_by: bay
+presence: onsite
 block: h
 slot: 2
 ---
