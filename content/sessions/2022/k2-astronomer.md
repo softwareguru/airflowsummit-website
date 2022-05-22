@@ -1,6 +1,6 @@
 ---
 id: k2
-title: Why Astronomer built the platform that we have created and what problems it solves for businesses
+title: Modern Data Orchestration managed by Astronomer
 url: /sessions/2022/astronomer
 speakers:
  - Navid Aghdaie
@@ -13,4 +13,4 @@ block: k
 slot: 2
 ---
 
-Session presented by Astronomer.
+At Astronomer we have been longtime supporters and contributors to open source Apache Airflow.  In this session we will present Astronomer's latest journey, Astro, our cloud-native managed service that simplifies data orchestration and reduces operational overhead.  We will also discuss the increasing importance of data orchestration in modern enterprise data platforms, industry trends, and practical problems that arise in the ever expanding heterogeneous environments.
