@@ -1,9 +1,9 @@
 ---
 title: Navid Aghdaie
 designation: Vice President of Engineering at Astronomer
-image: /images/speakers/navid-aghdaie.jpg
+image: /images/speakers/navid-aghdaie2.jpg
 images: 
- - /images/speakers/navid-aghdaie.jpg
+ - /images/speakers/navid-aghdaie2.jpg
 description: 
 events:
  - 2022
