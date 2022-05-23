@@ -84,12 +84,8 @@ end_date = "2022-05-27T17:00-05:00"
 text = "May 23-27, 2022"
 
 [params.hero.cta1]
-text = "Register now"
-link = "https://www.crowdcast.io/e/airflowsummit2022"
- 
-#[params.hero.cta2]
-#text = ""
-#link = ""
+text = "Watch now!"
+link = "/live"
 
 # Navigation button
 [params.navigation_button]
