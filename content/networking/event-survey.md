@@ -14,3 +14,4 @@ Your opinion is very important for us.
 
 Please fill out the event evaluation, it will be very helpful for future events organization.
 
+All survey participants join in the raffle for a $100 Amazon gift card
