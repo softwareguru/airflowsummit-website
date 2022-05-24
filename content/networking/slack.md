@@ -3,7 +3,7 @@ title: "Slack"
 date: 2021-07-05T19:11:59-05:00
 image: /images/networking/1.png
 button: Join to Slack
-link: http://airflowsummit.slack.com/
+link: https://s.apache.org/airflow-slack
 draft: false
 weight: 1
 ---
