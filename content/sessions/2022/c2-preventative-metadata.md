@@ -13,7 +13,7 @@ presence: "remote"
 block: c
 slot: 2
 video: https://youtu.be/c7t_d3jj5t4
-slides: 
+slides: 2022/c2-PreventativeMetadata-JohnTamas.pdf
 ---
 
 Recently there has been much discussion around data monitoring, particularly in regards to reducing time to mitigate data quality problems once they've been detected. The problem with reactive or periodic monitoring as the de-facto standard for maintaining data quality is that it's expensive. By the time a data problem has been identified, it's effects may have been amplified across a myriad of downstream consumers, leaving you (a data engineer) with a big mess to clean-up. 

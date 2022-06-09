@@ -17,7 +17,7 @@ block: w
 slot: 1
 summary: "Hands on workshop showing how easy it is to deploy Airflow in a public Cloud. This workshop is mostly targeted at Airflow newbies and users who would like to learn more about Cloud Composer."
 video: 
-slides:
+slides: 2022/w1-CloudComposer.pdf
 ---
 
 <div class="btn btn-danger text-white px-3 mb-2">This workshop is sold out</div>

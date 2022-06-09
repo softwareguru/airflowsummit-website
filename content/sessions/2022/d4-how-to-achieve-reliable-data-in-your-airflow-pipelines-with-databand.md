@@ -12,6 +12,7 @@ presence: remote
 block: d
 slot: 4
 video: https://youtu.be/89eckK9xL10
+slides: 2022/d4-Databand.pdf
 
 ---
 

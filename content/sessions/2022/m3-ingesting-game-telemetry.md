@@ -12,7 +12,7 @@ presence: remote
 block: m
 slot: 3
 video: https://youtu.be/l5lX_Qvav6k
-slides: 2022/m3-IngestingGameTelemetry-Karthik.pdf
+slides: 2022/m3-GameTelemetry-Karthik.pdf
 ---
 
 We the Data Engineering Team here at WB Games implemented an internal Redshift Loader DAG(s) on Airflow that allow us to ingest data in near real-time at scale into Redshift, taking into account variable load on the DB and been able to quickly catch up data loads in case of various DB outages or high usage scenarios.

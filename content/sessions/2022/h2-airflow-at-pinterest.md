@@ -12,7 +12,7 @@ presence: onsite
 block: h
 slot: 2
 video: https://youtu.be/Rs3TN-qFbDo
-slides: 
+slides: 2022/h2-Pinterest.pdf
 ---
 
 Pinterest has been part of the Airflow community for two years and has worked on many custom solutions to address usability, scalability, and efficiency constraints. This session is to discuss how Pinterest has further expanded on those previous solutions. We will discuss how we work to further reduce system latencies, improve user development through added search features, support for cross cluster operations, and improved debuggability tooling, and system level efficiency improvements to auto retry failed tasks that meet certain criteria.
