@@ -12,6 +12,8 @@ hosted_by: "Bangalore"
 presence: "remote"
 block: f
 slot: 4
+video: https://youtu.be/nBNbVhz7rhE
+slides: 2022/f4-Multitenancy-JarekMateusz.pdf
 ---
 
 This session is about the state and future plans of the multi-tenancy feature of Airflow.

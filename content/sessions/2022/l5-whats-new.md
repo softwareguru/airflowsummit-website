@@ -11,6 +11,8 @@ hosted_by: "Seattle"
 presence: remote
 block: l
 slot: 5
+video: https://youtu.be/ceL2hU_Iu8U
+slides: 2022/l5-Airflow2_3-Kaxil.pdf
 ---
 
 This session will talk about the awesome new features the community has built that would be part of Airflow 2.3.

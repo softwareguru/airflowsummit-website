@@ -11,6 +11,8 @@ hosted_by: "Lagos"
 presence: "onsite"
 block: d
 slot: 6
+video: https://youtu.be/k5IRFA66GOE
+slides: 2022/d6-OSPersonalDev-Ephraim.pdf
 ---
 
 Have you ever wondered what is next after learning the basics of software development, how you can improve your programming skills and gain more experience?

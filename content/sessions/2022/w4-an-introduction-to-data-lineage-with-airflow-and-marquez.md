@@ -13,6 +13,8 @@ presence: "remote"
 block: w
 slot: 4
 summary: "Learn how to collect and visualize lineage from a basic Airflow pipeline using Marquez. You will need to understand the basics of Airflow, but no experience with lineage is required."
+video: 
+slides: 
 ---
 
 <div class="btn btn-danger text-white px-3 mb-2">This workshop is sold out</div>

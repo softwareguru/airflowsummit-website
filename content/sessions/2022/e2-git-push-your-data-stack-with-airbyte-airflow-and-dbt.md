@@ -12,6 +12,8 @@ hosted_by: "Online"
 presence: "remote"
 block: e
 slot: 2
+video: https://youtu.be/_pLDo04sv2U
+slides: 2022/e2-Airbyte.pdf
 ---
 
 The use of version control and continuous deployment in a data pipeline is one of the biggest features unlocked by the modern data stack. In this talk, I'll demonstrate how to use Airbyte to pull data into your data warehouse, dbt to generate insights from your data, and Airflow to orchestrate every step of the pipeline. The complete project will be managed by version control and continuously deployed by Github. This talk will share how to achieve a more secure, scalable, and manageable workflow for your data projects.

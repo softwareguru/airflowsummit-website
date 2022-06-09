@@ -11,6 +11,8 @@ hosted_by: London
 presence: remote
 block: a
 slot: 2
+video: https://youtu.be/vNYuRYdTqI0
+slides: 
 ---
 
 Broken data is costly, time-consuming, and nowadays, an all-too-common reality for even the most advanced data teams. In this talk, I’ll introduce this problem, called “data downtime” — periods of time when data is partial, erroneous, missing or otherwise inaccurate — and discuss how to eliminate it in your data ecosystem with end-to-end data observability. Drawing corollaries to application observability in software engineering, data observability is a critical component of the modern DataOps workflow and the key to ensuring data trust at scale. I’ll share why data observability matters when it comes to building a better data quality strategy and highlight tactics you can use to address it today.

@@ -11,6 +11,8 @@ hosted_by: "Online"
 presence: "remote"
 block: k
 slot: 1
+video: https://youtu.be/rBq7lW9Q4Uo
+slides: 
 ---
 
 Resilient systems have the capability to recover when stressed by load, bugs in the workflow, and failure of any task. Reliability of the infrastructure or platform is not sufficient to run workflows reliably. It is critical to bring in resiliency practices during the design and build phase of the workflow to improve reliability, performance and operational aspects of the workflow.

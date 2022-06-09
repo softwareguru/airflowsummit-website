@@ -13,7 +13,8 @@ presence: "remote"
 block: w
 slot: 2
 summary: "Learn how to setup a development environment, how to pick your first issue, how to communicate effectively within the community and how to make your first PR."
-
+video: 
+slides: 
 ---
 
 <div class="btn btn-danger text-white px-3 mb-2">This workshop is sold out</div>

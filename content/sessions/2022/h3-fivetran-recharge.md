@@ -12,6 +12,8 @@ hosted_by: bay
 presence: "remote"
 block: h
 slot: 3
+video: https://youtu.be/bNK1neHhGhs
+slides: 
 ---
 
 Fivetran’s Airflow provider allows Recharge to manage our connector syncs alongside our other DAGs orchestrating related components of our core data pipelines. The provider has enabled increased flexibility on sync schedules, custom alerting, and quicker response times to failures.

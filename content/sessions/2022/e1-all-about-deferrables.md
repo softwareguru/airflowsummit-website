@@ -11,6 +11,8 @@ hosted_by: Online
 presence: "remote"
 block: e
 slot: 1
+video: https://youtu.be/PYTu3PWVR60
+slides: 2022/e1-Deferrables-Andrew.pdf
 ---
 
 Airflow 2.2 introduced Deferrable Tasks (sometimes called "async operators"), a new mechanism to efficiently run tasks that depend on external activity. 

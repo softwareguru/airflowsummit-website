@@ -11,6 +11,8 @@ hosted_by: "Online"
 presence: "remote"
 block: m
 slot: 4
+video: https://youtu.be/G6VjYvKr2wQ
+slides: 2022/m4-HeyMantainer-Jarek.pdf
 ---
 
 This talk is a walk through throug a number of ways maintainers of open-source projects (for example Airflow) can improve the communication with their users by exercising empathy.

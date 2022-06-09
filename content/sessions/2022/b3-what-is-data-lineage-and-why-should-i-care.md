@@ -11,6 +11,8 @@ hosted_by: "Online"
 presence: "remote"
 block: b
 slot: 3
+video: https://youtu.be/YZaP5e071aQ
+slides: 2022/b3-DataLineage-Ross.pdf
 ---
 
 If a job fails, how can you learn about downstream datasets that have become out-of-date? Can you be confident that jobs are consuming fresh, high-quality data from their upstream sources? How might you predict the impact of a planned change on distant corners of the pipeline?

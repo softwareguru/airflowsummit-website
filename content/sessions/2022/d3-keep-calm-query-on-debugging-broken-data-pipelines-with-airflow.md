@@ -11,6 +11,8 @@ hosted_by: NYC
 presence: "remote"
 block: d
 slot: 3
+video: https://youtu.be/XKsh8D0QEbo
+slides:
 ---
 
 “Why is my data missing?” “Why didn’t my Airflow job run?” “What happened to this report?” 

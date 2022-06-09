@@ -11,6 +11,8 @@ hosted_by: "NYC"
 presence: "onsite"
 block: d
 slot: 2
+video: https://youtu.be/5y55hBr2eXY
+slides: 2022/d2-Logging-Philippe.pdf
 ---
 
 The task logging subsystem is one of most flexible, yet complex and misunderstood components of Airflow.

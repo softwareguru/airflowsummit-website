@@ -11,6 +11,7 @@ hosted_by: Melbourne
 presence: "remote"
 block: i
 slot: 2
+video: https://youtu.be/boZqIsY8EBo
 ---
 
 As a data engineer, backfilling data is an important part of your day-to-day work. But, backfilling interdependent DAGs is time-consuming and often associated with an unpleasant experience. For example, let's say you were tasked with backfilling a few months worth of data. You’re given the start and end date for the backfill that will be used to run an ad-hoc backfilling script that you have painstakingly crafted locally on your machine. As you sip your morning coffee, you kick off the backfilling script, hoping it’ll work, and think to yourself, there must be a better way. Yes, there is, and collecting DAG lineage metadata would be a great start!

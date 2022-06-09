@@ -11,6 +11,8 @@ hosted_by: "NYC"
 presence: remote
 block: d
 slot: 4
+video: https://youtu.be/89eckK9xL10
+
 ---
 
 Have data quality issues? 

@@ -11,6 +11,8 @@ hosted_by: "Bangalore"
 presence: "remote"
 block: f
 slot: 3
+video: https://youtu.be/JsYEOdRBgRE
+slides:
 ---
 
 Automatic Speech Recognition is quite a compute intensive task, which depends on complex Deep Learning models. To do this at scale, we leveraged the power of Tensorflow, Kubernetes and Airflow.

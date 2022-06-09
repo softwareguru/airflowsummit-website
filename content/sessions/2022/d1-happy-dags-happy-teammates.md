@@ -11,6 +11,8 @@ hosted_by: "NYC"
 presence: "onsite"
 block: d
 slot: 1
+video: https://www.youtube.com/watch?v=Wf5VNH9su9I
+slides: 2022/d1-HappyDags-Leah.pdf
 ---
 
 With a small amount of Cloud Build automation and the use of GitHub version control, your Airflow DAGs will always be tested and in sync no matter who is working on them. Leah will walk you through a sample CICD workflow for keeping your Airflow DAGs tested and in sync between environments and teammates.

@@ -13,6 +13,8 @@ hosted_by: "Melbourne"
 presence: "remote"
 block: i
 slot: 1
+video: https://youtu.be/2bhinOfU990
+slides: 
 ---
 
 Imagine if you could chain together SQL models using nothing but python, write functions that treat Snowflake tables like dataframes and dataframes like SQL tables. Imagine if you could write a SQL airflow DAG using only python or without using any python at all. 

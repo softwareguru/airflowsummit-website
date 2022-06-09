@@ -12,6 +12,8 @@ hosted_by: "Online"
 presence: "remote"
 block: b
 slot: 2
+video: https://youtu.be/dydB91PDp9Y
+slides: 2022/b2-Shopify-SamMegan.pdf
 ---
 
 Two years after starting our Airflow adoption, we’re running over 10,000 DAGs in production. On this journey we’ve learned a lot about Airflow management and stewardship and developed some unique tools to help us scale. 

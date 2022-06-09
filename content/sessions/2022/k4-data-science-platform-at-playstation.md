@@ -12,6 +12,8 @@ hosted_by: "Online"
 presence: "remote"
 block: k
 slot: 4
+video: https://youtu.be/hdgwXdrdlco
+slides: 2022/k4-PlayStation-HamedSiraj.pdf
 ---
 
 In this talk, we explain how Apache Airflow is at the center of our Kubernetes-based Data Science Platform at PlayStation. We talk about how we built a flexible development environment for Data Scientists to interact with Apache Airflow and explain the tools and processes we built to help Data Scientists promote their dags from development to production. 

@@ -12,6 +12,8 @@ hosted_by: "Warsaw"
 presence: "onsite"
 block: g
 slot: 1
+video: https://youtu.be/1i2c-bhYkU0
+slides: 2022/g1-LessonsField-Google.pdf
 ---
 
 Airflow users love to run Airflow in public clouds and on distributed infrastructures like Kubernetes. Running Airflow environments is easier than ever - community offers Helm-based installation for self-managed Airflow and there are many offerings of Airflow-based managed services. 

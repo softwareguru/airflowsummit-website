@@ -13,6 +13,8 @@ hosted_by: "Tokyo"
 presence: "remote"
 block: c
 slot: 1
+video: https://youtu.be/SyXpGtIW3-Q
+
 ---
 
 At Credit Karma, we enable financial progress for more than 100 million of our members by recommending them personalized financial products when they interact with our application. In this talk we are introducing our machine learning platform to build interactive and production model-building workflows to serve relevant financial products to Credit Karma users.

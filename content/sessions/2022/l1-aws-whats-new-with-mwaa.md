@@ -11,6 +11,8 @@ hosted_by: "Seattle"
 presence: "onsite"
 block: l
 slot: 1
+video: https://youtu.be/ab2_OfCK130
+slides: 2022/l1-MWAA-John.pdf
 ---
 
 In this session we will discuss the latest features of Amazon Managed Workflows for Apache Airflow (MWAA) as well as some tips and tricks to get the most out of the service. We'll also discuss the AWS commitment to the Apache Airflow project and what we're doing to stay connected and contribute to the community.

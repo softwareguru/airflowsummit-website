@@ -11,6 +11,8 @@ hosted_by: "Online"
 presence: "remote"
 block: k
 slot: 3
+video: https://youtu.be/Dv7fDtAqgOc
+slides: 
 ---
 
 While many companies set up isolated data teams, Adyen is a strong believer of the data mesh approach, with all our data living in a central place. While our tooling teams provide and operate the on-premise cluster, the product teams are able to take full ownership of their data pipelines. 

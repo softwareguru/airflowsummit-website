@@ -11,6 +11,8 @@ hosted_by: "Melbourne"
 presence: "remote"
 block: i
 slot: 4
+video: https://youtu.be/H8JjhiVGOlg
+slides: 
 ---
 
 Apache Airflow and Kubernetes work well together. Not only does Airflow have native support for running tasks on Kubernetes, there is also an official helm chart that makes it easy to run Airflow itself on Kubernetes!

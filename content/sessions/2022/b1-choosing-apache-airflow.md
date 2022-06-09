@@ -11,6 +11,8 @@ hosted_by: "Online"
 presence: "remote"
 block: b
 slot: 1
+video: https://youtu.be/RwcnD4bEuOc
+slides: 2022/b1-choosing-airflow-v2.pdf
 ---
 
 Organizations need to effectively manage large volumes of complex, business-critical workloads across multiple applications and platforms. Choosing the right workflow orchestration tool is important as it can help teams effectively automate the configuration, coordination, integration, and data management processes on several applications and systems. Currently there are a lot of tools (both open sourced and proprietary) available for orchestrating tasks and data workflows with automation features. Each of them claim to focus on ensuring a centralized, repeatable, reproducible, and efficient workflows coordination. Choosing one among them is an arduous task as it requires an in-depth understanding of the capabilities that these tools have to offer that translate to your specific engineering needs.

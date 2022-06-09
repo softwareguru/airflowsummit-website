@@ -14,6 +14,8 @@ hosted_by: "Online"
 presence: "remote"
 block: m
 slot: 1
+video: https://youtu.be/uKJQQW654Ok
+slides: 
 ---
 
 Come hang with Airflow practitioners from around the world using Airflow AND other data tools to power their data practice. From Databricks to Glue to Azure Data Factory, smart businesses make the right decision to standardize on Airflow for what it’s best at while using the other systems for what they are best at.

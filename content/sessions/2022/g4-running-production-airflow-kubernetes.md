@@ -12,6 +12,8 @@ hosted_by: "Paris"
 presence: "onsite"
 block: g
 slot: 4
+video: https://youtu.be/sPOLGMlL6mo
+slides: 
 ---
 
 This talk will cover the challenges we can face managing a large number of Airflow instances on private environment.

@@ -12,14 +12,14 @@
         <tr>
           <th data-field="title" data-sortable="true">Title</th>
           <th data-field="speaker" data-sortable="true">Speaker(s)</th>
-          {{ if not $is_2022 }}
+         
           <th data-field="recording">Recording</th>
           <th data-field="slides">Slides</th>
-          {{ end }}
-          {{ if $is_2022 }}
+        
+          <!--{{ if $is_2022 }}
           <th data-field="track" data-sortable="true">Starts at (UTC)</th>
           <th data-field="hosted_by" data-sortable="true">Hosted by</th>
-          {{ end }}
+          {{ end }}-->
 
         </tr>
       </thead>
@@ -35,7 +35,7 @@
                       </div>
                 </td>
                 <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-                {{ if not $is_2022 }}
+              
                 <td class="text-center">{{ with .Params.video }}<a
                         href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
                             class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
@@ -43,11 +43,11 @@
                         href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}'
                         target="_blank" download><i class="fa fa-download" aria-hidden="true"
                             title="Slides"></i></a>{{ end }}</td>
-                {{ end }}            
-                {{ if $is_2022 }}
+                          
+                <!--{{ if $is_2022 }}
                 <td>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}</td>
                 <td>{{ with .Params.hosted_by }}{{ . }}{{ end }}</td>
-                {{ end }}
+                {{ end }}-->
             </tr>
             {{ end }}
         </tbody>

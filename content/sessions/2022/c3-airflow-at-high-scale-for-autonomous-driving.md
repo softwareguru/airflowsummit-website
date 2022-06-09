@@ -12,6 +12,8 @@ hosted_by: "Tokyo"
 presence: "remote"
 block: c
 slot: 3
+video: https://youtu.be/VaLYYZt0OPk
+slides: 2022/c3-AutonomousDriving-AntonPhilipp.pdf
 ---
 
 This talk highlights a large-scale use case of Airflow to orchestrate workflows for an Autonomous Driving project based in Germany.

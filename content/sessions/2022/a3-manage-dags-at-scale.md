@@ -11,6 +11,8 @@ hosted_by: "London"
 presence: "onsite"
 block: a
 slot: 3
+video: https://youtu.be/uA-8Lj1RNgw
+slides: 2022/a3-ManagingScale-Anum.pdf
 ---
 
 This talk is all about how we at Jagex manage DAGs at scale. Focusing of following challenges faced and how we resolved them; 

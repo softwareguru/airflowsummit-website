@@ -11,6 +11,8 @@ hosted_by: "Online"
 presence: "remote"
 block: e
 slot: 3
+video: https://youtu.be/JsV04lsH8_U
+slides: 2022/e3-AirflowAtScale-John.pdf
 ---
 
 In this session we'll be discussing the considerations and challenges when running Apache Airflow at scale. 

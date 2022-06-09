@@ -13,6 +13,8 @@ presence: "remote"
 block: w
 slot: 3
 summary: "Learn how to externalize any TFX heavyweight computing outside Airflow, while maintaining Airflow as the orchestrator for your machine learning pipelines."
+video: 
+slides: 
 ---
 
 <a class="btn btn-primary text-white px-3 mb-2" target="_blank" href="https://ti.to/airflowsummit/2022-workshops">Get your ticket for this workshop</a>

@@ -11,6 +11,8 @@ hosted_by: "Seattle"
 presence: remote
 block: l
 slot: 4
+video: https://youtu.be/MMj4IO309xQ
+slides:
 ---
 
 Data within today’s organizations has become increasingly distributed and heterogeneous. It can’t be contained within a single brain, a single team, or a single platform…but it still needs to be comprehensible, especially when something unexpected happens. Data lineage can help by tracing the relationships between datasets and providing a cohesive graph that places them in context.

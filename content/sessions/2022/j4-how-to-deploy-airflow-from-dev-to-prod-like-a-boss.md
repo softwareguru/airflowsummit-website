@@ -11,6 +11,8 @@ hosted_by: "Tel Aviv"
 presence: "onsite"
 block: j
 slot: 4
+video: https://youtu.be/kvsAwLLA9P4
+slides: 2022/j4-DeployBoss-Evgeny.pdf
 ---
 
 Managing Airflow in large-scale environments is tough. You know this, and I know this. 

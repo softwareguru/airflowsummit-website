@@ -11,6 +11,8 @@ hosted_by: "NYC"
 presence: "onsite"
 block: d
 slot: 5
+video: https://youtu.be/md4F6SarTww
+
 ---
 
 Sneak peek at the future of the Airflow UI. In Airflow 2.3 with the Tree -> Grid view changes, we began to swap out parts of the Flask app with React. This was one step towards AIP-38, to build a fully modern UI for Airflow. Come check out what is in store after Grid view in the current UI.

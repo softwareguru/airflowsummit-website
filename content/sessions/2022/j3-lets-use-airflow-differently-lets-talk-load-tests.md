@@ -11,6 +11,8 @@ hosted_by: "Tel Aviv"
 presence: "onsite"
 block: j
 slot: 3
+video: https://youtu.be/Bf1VOFvQPSc
+slides: 
 ---
 
 Numeric results with bulletproof confidence: this is what companies actually sell when promoting their machine learning product. Yet this seems out of reach when the product is both generic and complex, with much of the inner calculations hidden from the end user.

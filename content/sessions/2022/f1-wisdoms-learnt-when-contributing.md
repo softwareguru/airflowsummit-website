@@ -11,6 +11,8 @@ hosted_by: "Bangalore"
 presence: "onsite"
 block: f
 slot: 1
+video: https://youtu.be/JE3Tmvjyk20
+slides: 2022/f1-WisdomsLearnt-Bowrna.pdf
 ---
 
 In this talk, I am going to share things that I learned while contributing to Apache Airflow. I am an Outreachy Intern for Apache Airflow. I made my first contribution to Open Source in the Apache Airflow project. I will also add a short description about myself and my experience working in Software Engineering and how i needed help in contributing to open source and ended up as an Intern for Outreachy. I also like to share about my first contribution towards Apache Airflow in its doc and how much confidence it gave me to continue contributing to it.

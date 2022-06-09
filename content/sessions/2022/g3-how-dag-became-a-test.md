@@ -13,6 +13,8 @@ hosted_by: "Warsaw"
 presence: "onsite"
 block: g
 slot: 3
+video: https://youtu.be/H4ysGWtqlWI
+slides: 2022/g3-DagTest.pdf
 ---
 
 Nothing is perfect, but it doesn’t mean we shouldn’t seek perfection. After some time spent with Airflow system tests, we have recognized numerous places in which we can make significant improvements. We decided to rediscover them. The new design started with the establishment of goals.

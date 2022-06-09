@@ -12,6 +12,8 @@ hosted_by: "Seattle"
 presence: "onsite"
 block: l
 slot: 3
+video: https://youtu.be/atBCFZpBJiY
+slides: 2022/l3-Kyte-Max_Paul.pdf
 ---
 
 Developer velocity starts to become an issue as your user base grows and becomes more varied. This is compounded by the fact that it's not easy to end-to-end test data pipelines as part of continuous integration. In this talk, we'll go over what we've done at Lyft to make an effective development and testing environment, serving over 1000 users who have made over 5000 dags, at a rate of about 50 developer per week.
