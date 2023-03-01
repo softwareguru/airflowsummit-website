@@ -41,7 +41,7 @@ speaker = "speakers"
 
 [params]
 description = "Airflow summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
-logo = "/images/logo-white.svg"
+logo = "/images/logo-white-2023.svg"
 home = "Home"
 privacy_policy = "/privacy"
 google_analytics_4 = "G-DQ3SEJY0LP"
