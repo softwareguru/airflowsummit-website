@@ -1,7 +1,7 @@
 ---
 title: "Submission tips based on previous editions of Airflow Summit"
 date: 2022-01-14T13:20:14-06:00
-draft: false
+draft: true
 summary: "If you are interested in submitting to our CFP, please read this guide with tips based on what was worked at previous editions."
 ---
 

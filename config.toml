@@ -25,45 +25,11 @@ speaker = "speakers"
 [menu]
 
 
-  #[[menu.main]]
-  #name = "Program"
-  #URL = "/program"
-  #weight = 2
-
   [[menu.main]]
-  name = "Sessions"
-  URL = "/sessions/2022"
+  name = "About"
+  URL = "about"
   weight = 2
 
-  [[menu.main]]
-  name = "Speakers"
-  URL = "/speakers"
-  weight = 3
-
-  #[[menu.main]]
-  #name = "Workshops"
-  #URL = "/workshops"
-  #weight = 3
-
-  [[menu.main]]
-  name = "Local events"
-  URL = "/local-events"
-  weight = 4
-
-  #[[menu.main]]
-  #name = "Networking"
-  #URL = "/networking"
-  #weight = 4
-
-  #[[menu.main]]
-  #name = "Swag Bag"
-  #URL = "/swag"
-  #weight = 5
-
-  [[menu.main]]
-  name = "Jobs"
-  URL = "/jobs"
-  weight = 6
 
   [[menu.main]]
   name = "FAQ"
@@ -81,22 +47,22 @@ privacy_policy = "/privacy"
 google_analytics_4 = "G-DQ3SEJY0LP"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card-2022a.png"]
-start_date = "2022-05-23T11:00-05:00"
-end_date = "2022-05-27T17:00-05:00"
+images = ["/images/card2023tmp.jpg"]
+start_date = "2023-09-19T09:00-05:00"
+end_date = "2023-09-21T17:00-05:00"
 
 [params.hero]
-text = "May 23-27, 2022"
+text = "Sep 19-21, 2023. Toronto, Canada."
 
 [params.hero.cta1]
-text = "Watch now!"
-link = "/live"
+text = "Call for papers"
+link = "https://sessionize.com/airflow-summit-2023/"
 
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Register"
-link = "https://www.crowdcast.io/e/airflowsummit2022"
+label = "On Demand"
+link = "https://www.youtube.com/playlist?list=PLGudixcDaxY2LxjeHpZRtzq7miykjjFOn"
 
 
 [params.links]

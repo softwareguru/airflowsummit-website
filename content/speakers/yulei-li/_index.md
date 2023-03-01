@@ -9,8 +9,10 @@ country: ""
 twitter: ""
 linkedin: "https://www.linkedin.com/in/yulei-li-albert314/"
 github: ""
-year: "2020"
-event-2021: true
+events:
+ - 2020
+ - 2021
+ - 2022
 ---
 
 I'm a software engineer at Pinterest working in the workflow team, where we build and maintain our internal workflow system on top of Airflow.

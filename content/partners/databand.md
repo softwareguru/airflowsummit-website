@@ -4,5 +4,5 @@ level: "gold"
 logo: "/images/partners/databand.png"
 webUrl: "https://databand.ai"
 weight: 2
-draft: false
+draft: true
 ---

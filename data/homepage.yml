@@ -1,20 +1,19 @@
 ############################## Event ##############################
 event_info:
   enable : true
-  title : "Get ready for Airflow Summit 2022!"
-  description : "After the success of Airflow Summit 2021, we are getting ready for Airflow Summit 2022. It will be an online event, but wherever possible we will have local 
-        watch parties where members of the Airflow community can meet and network."
+  title : "Get ready for Airflow Summit 2023!"
+  description : "After the success of our online editions, we are getting ready to meet in person for 2023. We will meet from September 19th to 21st, 2023 in beautiful Toronto, Canada."
   cta_text: "Register now!"
   cta_link: "https://www.crowdcast.io/e/airflowsummit2022"
   features: 
-    - number : "5"
+    - number : "3"
       label : "Days"
       
     - number : "30+"
       label : "Sessions"
 
-    - number : "Hybrid"
-      label : "Attend in person or online"
+    - number : "In person"
+      label : "Make the most of this in person event"
 
-    - number : "10,000+"
+    - number : "500"
       label : "participants"
