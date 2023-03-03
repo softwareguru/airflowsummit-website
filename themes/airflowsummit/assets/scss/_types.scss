@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300&family=Rubik:wght@400;600&display=swap');
-@import url("https://use.typekit.net/wkp5sxs.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,600&display=swap');
 
 body{
   font-family: $base-font;
@@ -9,24 +8,15 @@ body{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -ms-text-size-adjust: 100%;
-  color: white;
+  color: $black;
 }
 
 a {
   color: $primary-color;
   transition: .3s all;
   &:hover{
-    color: $primary-color;
+    color: $black-lighter;
   }
-}
-
-a,
-a:hover,
-button,
-button:focus {
-  transition: all .3s;
-  text-decoration: none;
-  outline: 0;
 }
 
 h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
@@ -34,14 +24,14 @@ h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
 }
 
 h1, .h1 {
-  font-size: 48px;
+  font-size: 42px;
+  font-weight: 800;
 }
 
 h2, .h2 {
   font-family: $heading-font;
-  font-weight: 400;
-  font-size: 48px;
-  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 36px;
 }
 
 

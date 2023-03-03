@@ -4,31 +4,24 @@ linkTitle: "FAQ"
 
 ---
 
-## General information
-
-### Is attendance free?
-Participation in the event is free, although workshops may require a small fee.
+### Where is Airflow Summit?
+Airflow Summit 2023 will be at the Marriott Downtown at Eaton Centre in Toronto, Canada.
 
 ### Is there a code of conduct?
 Yes. Airflow Summit aims to provide a harrasment-free experience to all participants. Please review our [Code of Conduct](/coc).
 
-### Will talks be recorded?
-Yes. All talks will be recorded and available immediately in Crowdcast. In order to watch the recordings in Crowdcast, you need to go to the upper left of the Crowdcast window and click on the SCHEDULE text (see image below). This will open the list of sessions in Crowdcast and if you select a previous one, you can see the recording.
+### How/when can I get a ticket, how much will they cost?
+We plan to open registration/tickets in the second half of March on this website. We expect ticket prices to be between $300 and $450 dollars depending on early bird discount as well as if you will attend for two or three days.
 
-![alt text](/images/misc/crowdcast-screenshot.png "How to access past sessions in Crowdcast")
-
+### Will there be live streaming?
+We will not have live streaming. We will, however record sessions and make them available later. We are currently evaluating if we simply publish then on the Airflow YouTube or if we host an online event for synced watching of the recordings with live chatting/interaction with speakers and other participants.
 
 ### Can I join as sponsor?
-Yes! Please review our [Prospectus](/docs/AirflowSummit2022-Prospectus.pdf) or contact us at info@airflowsummit.org
+Yes! Please review our [Prospectus](/docs/AirflowSummit2023-Prospectus.pdf) or contact us at info@airflowsummit.org
 
-## Accessibility
-The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability Participants requiring special accommodations should provide details in their registration and/or by emailing us at <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a>. This information will kept private and only be shared with individuals who need to know to secure these accommodations.
+### Accessibility
+The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a>. This information will kept private and only be shared with individuals who need to know to secure these accommodations.
 
-### Will you be captioning the talks?
-Yes. During the live events, the talks will have open captions. This means the subtitles are part of the video and cannot be turned off. And the final/edited version of the recordings in YouTube will have close caption which you can turn on or off.
+### What happened to the archive of past sessions?
+Don't worry, it is still [available here](/sessions).
 
-### What software will you be using to stream the talks?
-We will be using <a href="https://www.crowdcast.io/">Crowdcast</a>. Crowdcast is currently working on their next version (which should be released before Airflow Summit) that will provide several improvements on accesibility and navigability through screen readers.
-
-### Can you make special accommodations for speakers who need it?
-Yes! We want to make sure that any speaker can participate, regardless of ability. Please reach out at info@airflowsummit.org 

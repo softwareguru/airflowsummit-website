@@ -8,7 +8,6 @@
 
 .speaker {
 	text-align: center;
-	cursor: pointer;
 }
 
 .speaker-strip {
@@ -26,19 +25,6 @@
 
 }
 
-.speaker-item {
-	img {
-		filter: gray; /* IE6-9 */
-		-webkit-filter: grayscale(1); /* Google Chrome, Safari 6+ & Opera 15+ */
-		filter: grayscale(1); /* Microsoft Edge and Firefox 35+ */
-	  }
-	  
-	  /* Disable grayscale on hover */
-	  img:hover {
-		-webkit-filter: grayscale(0);
-		filter: none;
-	  }
-}
 
 .speaker-info .thumb {
     text-align: center;

@@ -5,7 +5,6 @@ image : /images/team/kaxil-naik.jpg
 designation : Manager of Airflow Engineering at Astronomer | Apache Airflow PMC Member & Core Committer
 twitter:
 linkedin: https://www.linkedin.com/in/kaxil
-committee: Program Committee
 group: committee
 draft: false
 ---

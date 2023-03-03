@@ -1,35 +1,24 @@
 
 section.hero {
-  background-color: #000000;
+  background-image: url(/images/as2023-back.jpg);
   background-size: cover;
   background-position: center center;
   height: 100vh;
   display: grid;
-  grid-template-columns: 60px 1fr 233px;
-  grid-template-rows: 1fr repeat(2, 150px);
-  grid-column-gap: 150px;
-  grid-row-gap: 0px;
+  grid-template-columns: 1fr 50% 1fr;
+  grid-template-rows: 1fr;
 
-  @media (max-width:992px) {
-    grid-template-columns: 50px 1fr 195px;
-    grid-template-rows: 1fr repeat(2, 125px);
-    grid-column-gap: 50px;
-    grid-row-gap: 0px;    
-  }
-
-  @media (max-width:576px) {
-    grid-template-columns: 30px 1fr 116px;
-    grid-template-rows: 1fr repeat(2, 75px);
-    grid-column-gap: 10px;
-    grid-row-gap: 0px;    
+  @media (max-width:768px) {
+    background-image: url(/images/as2023-back-v.jpg);
+    grid-template-columns: 1fr 80% 1fr;
+    grid-template-rows: 1fr;
   }
   
 }
 
 .hero-meta {
-  color: white;
-  font-family: Termina;
   font-size: 36px;
+  color: #404040;
 
   @media (max-width:992px) {
     font-size: 30px;
@@ -62,10 +51,10 @@ section.hero {
 .hero-middle { 
   grid-area: 1 / 2 / 4 / 3; 
   align-self: center;
-  background-image: url(/images/back-world.png);
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: 100% center;
+//  background-image: url(/images/back-world.png);
+//  background-size: contain;
+//  background-repeat: no-repeat;
+//  background-position: 100% center;
 }
 
 .hero-left { 

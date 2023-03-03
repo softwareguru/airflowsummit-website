@@ -6,7 +6,6 @@ footer {
 		display: flex;
 		flex-wrap: wrap;
 		justify-content: space-between;
-		background-color: #51504f !important;
 
 
 		&__media-section {
@@ -59,12 +58,12 @@ footer {
 	margin-bottom: 4px;
 }
 
-.footer-links li a {
-	color: white;
+footer a {
+	color: $black-lighter;
 }
 
-.footer-links li a:hover {
-	color: gainsboro;
+footer a:hover {
+	color: $orange;
 }
 
 a.footer-section__media-section--link i {

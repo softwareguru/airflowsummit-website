@@ -73,7 +73,7 @@ section.swag p {
 }
 
 .logo-b {
-	height: 40px;
+	height: 30px;
 }
 
 .info-buttons {
@@ -148,8 +148,9 @@ section.faq {
 }
 
 section.event-info {
-	color: white;
-	background-color: #000;
+	border-top: solid 2px $cyan;
+	border-bottom: solid 2px $cyan;
+
 }
 
 .event-info .content {
@@ -192,7 +193,7 @@ section.event-info {
 	display: block;
 	height: 2px;
 	width: 64px;
-	background-color: $primary-color;
+	background-color: $secondary-color;
 	margin-top: 20px;
 }
 
@@ -201,10 +202,10 @@ section.event-info {
 }
 
 .event-info a {
-	color: $primary-color;
+	color: $secondary-color;
 	text-transform: uppercase;
 	&:hover {
-		color: $secondary-color;
+		color: $black-lighter;
 	}
 }
 
@@ -436,14 +437,6 @@ article.swag {
 }
 .addeventatc_dropdown .drop_markup {
 	background-color: #f4f4f4;
-}
-
-#sessions-table {
-	color: white;
-}
-
-#sessions-table tr:hover {
-	color: #c0c0c0;
 }
 
 .card {

@@ -5,7 +5,6 @@ image : /images/team/rafal-biegacz.jpg
 designation : Senior Engineering Manager at Google | Cloud Composer
 twitter:
 linkedin: https://www.linkedin.com/in/rbiegacz/
-committee: Program Committee
 group: committee
 draft: false
 ---

@@ -3,8 +3,8 @@ event_info:
   enable : true
   title : "Get ready for Airflow Summit 2023!"
   description : "After the success of our online editions, we are getting ready to meet in person for 2023. We will meet from September 19th to 21st, 2023 in beautiful Toronto, Canada."
-  cta_text: "Register now!"
-  cta_link: "https://www.crowdcast.io/e/airflowsummit2022"
+  cta_text: "Tickets available soon"
+  cta_link: "#"
   features: 
     - number : "3"
       label : "Days"

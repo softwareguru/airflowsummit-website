@@ -5,7 +5,6 @@ image : /images/team/leah-cole.jpg
 designation : Developer Programs Engineer at Google
 twitter:
 linkedin: https://www.linkedin.com/in/leahecole/
-committee: Organizer Committee
 group: committee
 draft: false
 ---

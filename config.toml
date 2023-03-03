@@ -41,18 +41,18 @@ speaker = "speakers"
 
 [params]
 description = "Airflow summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
-logo = "/images/logo-white-2023.svg"
+logo = "/images/logo-h.svg"
 home = "Home"
 privacy_policy = "/privacy"
 google_analytics_4 = "G-DQ3SEJY0LP"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card2023tmp.jpg"]
+images = ["/images/as2023-card.jpg"]
 start_date = "2023-09-19T09:00-05:00"
 end_date = "2023-09-21T17:00-05:00"
 
 [params.hero]
-text = "Sep 19-21, 2023. Toronto, Canada."
+text = "September 19-21, 2023. Toronto, Canada."
 
 [params.hero.cta1]
 text = "Call for papers"
@@ -60,7 +60,7 @@ link = "https://sessionize.com/airflow-summit-2023/"
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "On Demand"
 link = "https://www.youtube.com/playlist?list=PLGudixcDaxY2LxjeHpZRtzq7miykjjFOn"
 
@@ -90,6 +90,10 @@ link = "https://www.youtube.com/playlist?list=PLGudixcDaxY2LxjeHpZRtzq7miykjjFOn
     name = "Code of Conduct"
     url = "/coc"
 [[params.links.footer]]
+    name = "Prospectus"
+    url = "/docs/AirflowSummit2023-Prospectus.pdf"
+    target="_blank"
+[[params.links.footer]]
     name = "Accessibility"
     url = "/accessibility"
 [[params.links.footer]] 
@@ -101,10 +105,6 @@ link = "https://www.youtube.com/playlist?list=PLGudixcDaxY2LxjeHpZRtzq7miykjjFOn
 [[params.links.footer]]
     name = "Organizers"
     url = "/team"
-[[params.links.footer]]
-    name = "Prospectus"
-    url = "/docs/AirflowSummit2022-Prospectus.pdf"
-    target="_blank"
 
 
 [permalinks]
@@ -114,18 +114,20 @@ posts = "/:year/:month/:title/"
 ############################# Plugins ##############################
 # CSS Plugins
 [[params.plugins.css]]
-link = "/plugins/bootstrap/css/bootstrap.min.css"
-[[params.plugins.css]]
-link = "/plugins/themefisher-font/themefisher-font.min.css"
+link = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
+
 [[params.plugins.css]]
 link = "https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css"
 
 # JS Plugins
 [[params.plugins.js]]
-link = "/plugins/jquery/jquery.js"
+link = "https://code.jquery.com/jquery-3.5.1.slim.min.js" 
+
 [[params.plugins.js]]
-link = "/plugins/bootstrap/js/bootstrap.min.js"
+link="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+
 [[params.plugins.js]]
 link="https://kit.fontawesome.com/4a6d2efc2e.js"
+
 [[params.plugins.js]]
 link="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"

@@ -2,17 +2,16 @@
 
 <section class="speaker-2 section">
   <div class="container">
-    <div class="lead">
+    <div class="mb-4">
       {{ .Content }}
     </div>
     <div class="speaker-strip">
       {{ range .Data.Pages.ByTitle }}
-        {{ if in .Params.events "2022" }}
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">
             <a href="{{.Permalink}}">
-              <img src="{{ .Params.Image | relURL }}" alt="{{ .Title }}" class="img-fluid rounded-circle shadow">
+              <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid rounded-circle shadow">
             </a>
           </div>
           <div class="speaker-info text-center">
@@ -21,7 +20,6 @@
           </div>
         </div>
       </div>
-      {{ end }}
       {{ end }}
     </div>
   </div>

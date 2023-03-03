@@ -5,7 +5,6 @@ image : /images/team/bolke.jpg
 designation : VP Enterprise Data Services at Astronomer | Apache Airflow PMC Member & Committer
 twitter:
 linkedin: https://www.linkedin.com/in/bolke/
-committee: Organizer Committee
 group: committee
 ---
 

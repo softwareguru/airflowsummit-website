@@ -1,13 +1,14 @@
 <section class="hero">
     <div class="hero-middle">
-        <p class="hero-meta">Sep 19-21, 2023</p>
-        <p class="hero-meta">Toronto, Canada</p>
-        <p class="my-4 hero-title">Airflow Summit</p>
+        <img src="/images/logo-h.svg" class="img-fluid mb-4 d-none d-lg-block">
+        <img src="/images/logo-v.svg" class="ïmg-fluid mb-4 d-lg-none d-xl-none">
+        <h4 class="hero-meta text-center">September 19-21, 2023</h4>
+        <h4 class="hero-meta text-center">Toronto, Canada</h4>
 
-        <div class="cta-container my-4">
+        <div class="cta-container my-4 text-center">
             {{ with .Site.Params.hero.cta1 }}
             <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
-                <button id="button-hero1" class="btn btn-primary my-3 btn-rounded">{{ .text }}</button>
+                <button id="button-hero1" class="btn btn-orange text-white my-3 btn-rounded">{{ .text }}</button>
             </a>
             {{ end }}
             {{ with .Site.Params.hero.cta2 }}
@@ -17,6 +18,4 @@
             {{ end }}
         </div>
     </div>
-    <div class="hero-left"></div>
-    <div class="hero-right"></div>
 </section>

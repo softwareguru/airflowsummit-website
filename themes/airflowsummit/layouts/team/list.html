@@ -3,11 +3,11 @@
 
 {{ $data := index .Site.Data .Site.Language.Lang }}
 
-
-<section class="speaker-2 section">
   <div class="container">
+    <h4>{{.Content}}</h4>
+    <section class="speaker-2 section">
     
-    <h2 class="mb-5 mt-3" style="text-align: center;">Organizer and Program Committee</h2>
+    <h2 class="mb-5 mt-3 text-center">Apache Airflow community representatives</h2>
     <div class="speaker-strip">
       {{ range where .Data.Pages.ByTitle "Params.group" "committee" }}
       <div class="speaker-item">
@@ -20,28 +20,16 @@
           <div class="speaker text-center">
            
             <h4 class="mb-0 mt-3 text-primary">{{ .Title }}</h4>
-          
-            <h5 class="mb-0 mt-3">{{ .Params.Committee }}</h5>
-          
-            <p class="mb-0 mt-3">{{ .Params.Designation }}</p>
+                    
+            <p class="mb-0 mt-2">{{ .Params.Designation }}</p>
 
-            <div class="info">
-              <ul class="list-inline">
-                {{ with .Params.twitter }}
-                <li class="list-inline-item"><a href="{{ . }}"><i class="tf-ion-social-twitter"></i></a></li>
-                {{ end }}
-                {{ with .Params.linkedin }}
-                <li class="list-inline-item"><a href="{{ . }}"><i class="tf-ion-social-linkedin"></i></a></li>
-                {{ end }}
-              </ul>
-            </div>
           </div>
         </div>
       </div>
       {{ end }}
     </div>
 
-    <h2 class="mb-5 mt-3" style="text-align: center;">Producer Team</h2>
+    <h2 class="my-5 text-center">Produced by Software Guru</h2>
     <div class="speaker-strip">
       {{ range where .Data.Pages.ByTitle "Params.group" "sg" }}
       <div class="speaker-item">
@@ -77,8 +65,8 @@
 
 
 
-  </div>
 </section>
+</div>
 
 {{ end }}
 

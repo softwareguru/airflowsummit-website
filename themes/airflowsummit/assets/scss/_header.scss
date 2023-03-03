@@ -1,5 +1,5 @@
-.header-bar, nav.bg-dark {
-  background-color: #000000 !important;
+.navbar {
+  background-color: #fffcfb;
 }
 
 // Navigation Styles
@@ -22,17 +22,17 @@
 .main-nav {
   padding: 1em;
   transition: all .7s linear;
-  text-transform: uppercase;
+  border-bottom: solid 2px $cyan;
 
   .nav-link {
-    font-size: 16px;
+    font-size: 26px;
     padding: 0 !important;
     margin: 0 20px;
-    font-family: $heading-font;
-    color: $white;
+    color: $cyan;
+    font-weight: 800;
 
     &:hover {
-      color: $gray;
+      color: $black-lighter;
     }
   
   }
@@ -94,16 +94,9 @@
   visibility: visible;
 }
 
-// page-header
-// 
 .page-header {
   ul li {
-    color: $white;
     font-size: 18px;
-
-    a {
-      color: $white;
-    }
   }
 
   .divider {

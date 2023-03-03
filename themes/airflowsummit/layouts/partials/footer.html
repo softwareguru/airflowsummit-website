@@ -1,16 +1,16 @@
 {{ $links := .Site.Params.links }}
 <footer>
-    <div class="container-fluid bg-black">
+    <div class="container-fluid">
         <div class="container py-5">
             <div class="d-flex justify-content-between">
                 <div class="col-6 col-md-4 col-lg-3">
-                    <div class="mb-3"> <img src="/images/logo-white-2023.svg" class="img-fluid" alt="Airflow Summit"></div>
+                    <div class="mb-3"> <img src="/images/logo-h.svg" class="img-fluid" alt="Airflow Summit"></div>
                     {{ with $links }}
                         {{ with index . "media"}}
                             <ul class="list-inline mb-0">
                             {{ range . }}
                             <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title aria-label="{{ .name }}" data-original-title="{{ .name }}">
-                                <a class="text-white" title="{{ .name}}" target="_blank" href="{{ .url }}">
+                                <a title="{{ .name}}" target="_blank" href="{{ .url }}">
                                   <i class="{{ .icon }}" aria-hidden="true"></i>
                                 </a>
                             </li>    

@@ -3,7 +3,7 @@ id: z4
 title: "Airflow Journey @SG"
 url: /sessions/2021/airflow-journey-sg
 speakers:
- - Ahmed Chakir Alaoui
+ - Ahmed Chakir
  - Alaeddine Maaoui
 time_start: 2021-07-09T17:30:00.000Z
 time_end: 2021-07-09T17:55:00.000Z
