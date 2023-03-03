@@ -4,4 +4,4 @@ title: Speakers
 ---
 
 
-### Meet our archive of speakers from all editions of Airflow Summit.
+### Meet our speakers for this edition of Airflow Summit

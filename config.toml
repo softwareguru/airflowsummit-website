@@ -87,6 +87,9 @@ link = "https://www.youtube.com/playlist?list=PLGudixcDaxY2LxjeHpZRtzq7miykjjFOn
     name = "Session archive"
     url = "/sessions"
 [[params.links.footer]]
+    name = "Speaker archive"
+    url = "/speakers/archive/"
+[[params.links.footer]]
     name = "Code of Conduct"
     url = "/coc"
 [[params.links.footer]]
