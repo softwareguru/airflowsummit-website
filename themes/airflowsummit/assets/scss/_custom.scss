@@ -174,7 +174,7 @@ section.event-info {
 .statistics-block {
 	display: grid;
 	width: 100%;
-	grid-gap: 32px 16px;
+	grid-gap: 24px 12px;
 	grid-template-columns: repeat(2, 1fr);
 	@media (min-width: 640px) {
 		grid-gap: 36px;
@@ -182,9 +182,10 @@ section.event-info {
 }
 
 .statistics-block .numbers {
-	font-size: 52px;
+	font-size: 40px;
 	@media (min-width: 640px) {
 		grid-gap: 56px;
+		font-size: 52px;
 	}
 }
 

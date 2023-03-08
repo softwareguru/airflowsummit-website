@@ -13,7 +13,7 @@ event_info:
       label : "Sessions"
 
     - number : "In person"
-      label : "Make the most of this in person event"
+      label : "It's time to finally meet!"
 
     - number : "500"
       label : "participants"
