@@ -23,7 +23,7 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-    gtag('config', '{{ . }}');
+    gtag('config', '{{ . }}', { 'debug_mode':true });
   </script>
   {{ end }}
 
