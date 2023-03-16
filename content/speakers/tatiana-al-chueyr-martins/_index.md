@@ -6,7 +6,7 @@ events:
  - 2021
 twitter: "https://twitter.com/tati_alchueyr"
 linkedin: "https://uk.linkedin.com/tatialchueyr"
-event-2021: true
+
 ---
 
 Tatiana uses open-source and machine learning technology to create scalable and high-performance systems for the BBC.

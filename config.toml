@@ -5,7 +5,6 @@ description = "Airflow summit is the first conference for the worldwide communit
 enableRobotsTXT = true
 RemovePathAccents = true
 DefaultContentLanguage = "en"
-googleAnalytics = "UA-158553455-1"
 
 # Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = "airflowsummit"
@@ -29,6 +28,11 @@ speaker = "speakers"
   name = "About"
   URL = "about"
   weight = 2
+
+  [[menu.main]]
+  name = "Venue"
+  URL = "venue"
+  weight = 3
 
 
   [[menu.main]]

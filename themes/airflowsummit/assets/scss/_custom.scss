@@ -74,6 +74,9 @@ section.swag p {
 
 .logo-b {
 	height: 30px;
+	@media (max-width: 640px) {
+		height: 20px;
+	}
 }
 
 .info-buttons {
@@ -452,4 +455,10 @@ article.swag {
 
 .fixed-top {
 	z-index: 10;
+}
+
+.credit {
+	font-style: italic;
+	font-size: 0.9em;
+	color: #808080;
 }

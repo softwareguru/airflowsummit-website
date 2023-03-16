@@ -5,7 +5,11 @@ linkTitle: "FAQ"
 ---
 
 ### Where is Airflow Summit?
-Airflow Summit 2023 will be at the Marriott Downtown at Eaton Centre in Toronto, Canada.
+Airflow Summit 2023 will be at the Marriott Downtown at Eaton Centre in Toronto, Canada. You can find more information about the venue [here](/venue).
+
+### Do I need a visa to travel to Canada?
+Many countries don’t need a visa to travel to Canada. Citizens from certain countries (like the USA) just need a valid identity document (like their passport), while citizens from many other countries just require an Electronic Travel Authorization (eTA), which can be obtained online in minutes and only costs $7 CAD. [Find out if you need a visa to travel to Canada](https://ircc.canada.ca/english/visit/visas.asp)
+
 
 ### Is there a code of conduct?
 Yes. Airflow Summit aims to provide a harrasment-free experience to all participants. Please review our [Code of Conduct](/coc).
