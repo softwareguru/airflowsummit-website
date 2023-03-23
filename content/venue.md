@@ -1,5 +1,5 @@
 ---
-title: "Venue"
+title: "Venue" 
 
 ---
 
@@ -11,7 +11,8 @@ title: "Venue"
 Toronto is now the third-largest tech hub in North America. It is home to more tech workers than Chicago, Los Angeles, Seattle, and Washington, D.C., according to CBRE, a real estate company that tracks tech hiring.
 
 ### The Venue
-[Marriott Downtown at Eaton Centre](https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0) is located in the midst of some of the city's most popular attractions and prominent destinations. Located next to world-class shopping, dining, and entertainment at CF Toronto Eaton Centre and within walking distance of various attractions while the hotel's Bay Street address in downtown Toronto beckons guests to relax, rejuvenate and explore the city.
+
+[Marriott Downtown at Eaton Centre]() is located in the midst of some of the city’s most popular attractions and prominent destinations. Located next to world-class shopping, dining, and entertainment at CF Toronto Eaton Centre and within walking distance of various attractions while the hotel’s Bay Street address in downtown Toronto beckons guests to relax, rejuvenate and explore the city. [Book your room here](https://www.marriott.com/events/start.mi?id=1677692262364&key=GRP)
 
 <a name="canada"></a>
 ### Permission to travel to Canada
