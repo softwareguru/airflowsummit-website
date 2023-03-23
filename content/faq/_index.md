@@ -4,28 +4,46 @@ linkTitle: "FAQ"
 
 ---
 
-### Where is Airflow Summit?
+### Where is Airflow Summit? 
 Airflow Summit 2023 will be at the Marriott Downtown at Eaton Centre in Toronto, Canada. You can find more information about the venue [here](/venue).
 
 ### Do I need a visa to travel to Canada?
-Many countries don’t need a visa to travel to Canada. Citizens from certain countries (like the USA) just need a valid identity document (like their passport), while citizens from many other countries just require an Electronic Travel Authorization (eTA), which can be obtained online in minutes and only costs $7 CAD. [Find out if you need a visa to travel to Canada](https://ircc.canada.ca/english/visit/visas.asp)
+
+Canada is not only an amazing place for leisure it’s also an awesome place for the tech industry. Besides, it makes reuniting the community way easier since a lot of countries don’t need a visa to travel to Canada, instead you can apply for an eTA.
+Take a look at the detailed info [here.](https://docs.google.com/document/d/14xciq5j0i2O_Sx9KAah6u5IV2brSHCst8jyppdBgLfQ/edit#)
 
 
 ### Is there a code of conduct?
-Yes. Airflow Summit aims to provide a harrasment-free experience to all participants. Please review our [Code of Conduct](/coc).
+
+Yes. Airflow Summit aims to provide a harassment-free experience to all participants. Please review our [Code of Conduct.](/coc)
 
 ### How/when can I get a ticket, how much will they cost?
-We plan to open registration/tickets in the second half of March on this website. We expect ticket prices to be between $300 and $450 dollars depending on early bird discount as well as if you will attend for two or three days.
+
+Prices are: 
+
+Early Bird Tickets  (ending on May 31st)
+
+ * $300 for 2 days of conferences
+ * $375 for 2 days of conferences 
+
+Regular Tickets (starting on June 1st)
+
+ * $400 from the date  for 2 days of conferences 
+ * $500 from date to date for 2 days of conferences + 1 more day of workshops
+
 
 ### Will there be live streaming?
-We will not have live streaming. We will, however record sessions and make them available later. We are currently evaluating if we simply publish then on the Airflow YouTube or if we host an online event for synced watching of the recordings with live chatting/interaction with speakers and other participants.
+
+We will not have live streaming. We will, however, record sessions and make them available later. We are currently evaluating if we publish them on [Airflow’s YouTube Channel](https://www.youtube.com/@ApacheAirflow/featured) or if we host an online event for synced watching of the recordings with live chatting/interaction with speakers and other participants.
 
 ### Can I join as sponsor?
 Yes! Please review our [Prospectus](/docs/AirflowSummit2023-Prospectus.pdf) or contact us at info@airflowsummit.org
 
 ### Accessibility
-The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a>. This information will kept private and only be shared with individuals who need to know to secure these accommodations.
+
+The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at info@airflowsummit.org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
 
 ### What happened to the archive of past sessions?
-Don't worry, it is still [available here](/sessions).
+
+Don’t worry, it is still [available here.](/sessions)
 
