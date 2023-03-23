@@ -60,21 +60,29 @@
       "name": "{{ .Site.Title }}",
       "startDate": "{{ .Site.Params.start_date }}",
       "endDate": "{{ .Site.Params.end_date }}",
-    "eventStatus": "https://schema.org/EventScheduled",
-      "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "location": {
-        "@type": "VirtualLocation",
-        "url": {{ .Site.BaseURL }}
-      },
-      "image": [ {{ index .Site.Params.images 0 | absURL }} ],
+        "@type": "Place",
+        "name": "Marriott Downtown at Eaton Centre",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "525 Bay St.",
+          "addressLocality": "Toronto",
+          "postalCode": "M5G 2L2",
+          "addressRegion": "Ontario",
+          "addressCountry": "Canada"
+        }
+      }, 
+    "image": [ {{ index .Site.Params.images 0 | absURL }} ],
       "description": "{{ .Site.Params.description }}",
       "offers": {
         "@type": "Offer",
         "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
-        "price": "0",
+        "price": "300",
         "priceCurrency": "USD",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2022-01-12T12:00"
+        "validFrom": "2023-03-01T12:00"
       },
       "performer": {
         "@type": "PerformingGroup",

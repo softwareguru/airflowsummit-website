@@ -66,13 +66,9 @@ body {
 }
 
 #nav-button {
-  background-color: $primary-color;
-  color: $white !important;
   line-height:25px !important;
-
-  &:hover {
-    background-color: $secondary-color;
-  }
+  font-size: 1.2em;
+  font-weight: 700;
 }
 
 .btn-gray {

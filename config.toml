@@ -64,9 +64,9 @@ link = "https://sessionize.com/airflow-summit-2023/"
 
 # Navigation button
 [params.navigation_button]
-enable = false
-label = "On Demand"
-link = "https://www.youtube.com/playlist?list=PLGudixcDaxY2LxjeHpZRtzq7miykjjFOn"
+enable = true
+label = "Tickets"
+link = "/tickets"
 
 
 [params.links]
