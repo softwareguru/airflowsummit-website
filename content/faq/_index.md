@@ -11,7 +11,7 @@ Airflow Summit 2023 will be at the Marriott Downtown at Eaton Centre in Toronto,
 
 Canada is not only an amazing place for leisure it’s also an awesome place for the tech industry. Besides, it makes reuniting the community way easier since a lot of countries don’t need a visa to travel to Canada, instead you can apply for an eTA (Electronic Travel Authorization). 
 
-Take a look at the detailed info [here.](https://docs.google.com/document/d/14xciq5j0i2O_Sx9KAah6u5IV2brSHCst8jyppdBgLfQ/edit#)
+Take a look at the detailed info [here.](/canada-visa-process)
 
 
 ### Is there a code of conduct?
