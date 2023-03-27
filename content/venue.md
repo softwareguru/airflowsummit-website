@@ -17,7 +17,6 @@ Toronto is now the third-largest tech hub in North America. It is home to more t
 ### Hotel Information
 We have secured a block of rooms at the Marriott Downtown at Eaton Centre, you can <a href="https://www.marriott.com/events/start.mi?id=1677692262364&key=GRP" target="_blank">use this link</a> to make your reservation.
 
-We are currently working on getting discounted rates at other hotels in order to provide more variety. We will publish those here as soon as we have them.
 
 <a name="canada"></a>
 ### Permission to travel to Canada
