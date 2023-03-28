@@ -16,6 +16,15 @@ section.hero {
   
 }
 
+.hero-tagline {
+    font-size: 60px;
+    color: #017cee;
+
+    @media (max-width:992px) {
+      font-size: 40px;
+    }
+}
+
 .hero-meta {
   font-size: 36px;
   color: #404040;
