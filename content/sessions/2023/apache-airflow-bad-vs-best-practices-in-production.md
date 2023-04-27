@@ -7,6 +7,7 @@ time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 summary: "Bhavan Ravi will go through a series of factors that data teams need to watch for while setting up Airflow in Production. Factors covered include:  
 infrastructure, teams & responsibilities, development best practices, pipeline best practices, monitoring & observability, fail-proof and recoverable systems."
+draft: true
 ---
 
 Apache Airflow - The open-ended nature of this orchestration tool gives room for a variety of customization.
