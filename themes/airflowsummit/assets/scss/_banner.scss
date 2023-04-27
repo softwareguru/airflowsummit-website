@@ -11,6 +11,10 @@ section.hero {
     grid-template-columns: 10% 1fr 10%;
     grid-template-rows: 1fr 20% 60% 1fr;  
   }  
+
+  @media (max-height:500px) {
+    height: auto;
+  }
 }
 
 .hero-sailboat {
