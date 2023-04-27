@@ -4,11 +4,8 @@
 <section class="speaker-detail">
   <div class="container">
       <div class="row">
-          <div class="image-column col-md-4 col-sm-12">
-              <div class="image-box">
-                  <figure class="image">
-                    <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid shadow">
-                  </figure>
+          <div class="image-column col-md-4 col-lg-3 col-sm-12">
+                  <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
                   <ul class="social-icon-two social-icon-colored text-center">
                       {{ with .Params.twitter }}
                       {{ if ne . "" }}
@@ -34,7 +31,6 @@
                       {{ end }}
                       {{ end }}
                   </ul>
-              </div>
           </div>
 
           <div class="info-column col-md-8 col-sm-12">

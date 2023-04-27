@@ -1,14 +1,12 @@
 ---
 title: "Kenten Danas"
-designation: "Field Engineer at Astronomer"
-image: /images/speakers/kenten-danas.jpg
+designation: "Lead Developer Advocate at Astronomer"
+images:
+ - /images/speakers/kenten-danas.jpg
+twitter: 
+linkedin: https://www.linkedin.com/in/kentendanas/
 events:
- - 2021
- - 2022
-twitter: ""
-linkedin: "https://www.linkedin.com/in/kentendanas/"
-
+ - 2023
 ---
 
-
-Kenten is a Field Engineer at Astronomer with a background in data engineering, data science, and consulting. She has first-hand experience adopting and running Airflow as a consultant, and is passionate about helping other data engineers scale and get the most out of their Airflow experience. When she isn't working with data she's typically outside trail running, skiing, or advocating for climate action.
+Kenten is a Lead Developer Advocate at Astronomer with a background in field engineering, data engineering, and consulting. She has first-hand experience adopting and running Airflow as a consultant, and is passionate about helping other data engineers scale and get the most out of their Airflow experience. When she isn't working with data she's typically outside trail running, hiking, or skiing.

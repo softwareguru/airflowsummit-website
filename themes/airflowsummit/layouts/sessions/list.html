@@ -5,37 +5,33 @@
         {{ .Content }}
     </p>
 
-{{ $is_2022 := eq .RelPermalink "/sessions/2022/" }}
+{{ $is_active := eq .RelPermalink "/sessions/2023/" }}
 
     <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
           <th data-field="title" data-sortable="true">Title</th>
-          <th data-field="speaker" data-sortable="true">Speaker(s)</th>
-         
+          {{ if not $is_active }}
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>         
           <th data-field="recording">Recording</th>
           <th data-field="slides">Slides</th>
+          {{ end }}
         
-          <!--{{ if $is_2022 }}
-          <th data-field="track" data-sortable="true">Starts at (UTC)</th>
-          <th data-field="hosted_by" data-sortable="true">Hosted by</th>
-          {{ end }}-->
 
         </tr>
       </thead>
         <tbody>
-            {{ range .Data.Pages.ByParam "time_start" }}
+              {{ range .Data.Pages.ByParam "time_start" }}
             <tr>
                 <td><h4>
-                    <a class="session-title" data-toggle="collapse" href="#abs-{{.File.TranslationBaseName}}">{{ .Params.title }}</a>
+                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
                     </h4>
-                    <div class="collapse card-abstract" id="abs-{{.File.TranslationBaseName}}">
+                    <div class="card-abstract" id="abs-{{.File.TranslationBaseName}}">
                         {{ .Summary }}
-                          <div><a href="{{.Permalink}}">Check details ...</a></div>
-                      </div>
+                    </div>
                 </td>
+                {{ if not $is_active }}
                 <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-              
                 <td class="text-center">{{ with .Params.video }}<a
                         href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
                             class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
@@ -43,11 +39,7 @@
                         href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}'
                         target="_blank" download><i class="fa fa-download" aria-hidden="true"
                             title="Slides"></i></a>{{ end }}</td>
-                          
-                <!--{{ if $is_2022 }}
-                <td>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}</td>
-                <td>{{ with .Params.hosted_by }}{{ . }}{{ end }}</td>
-                {{ end }}-->
+              {{ end }}  
             </tr>
             {{ end }}
         </tbody>

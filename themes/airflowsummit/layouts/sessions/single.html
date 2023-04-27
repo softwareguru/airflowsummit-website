@@ -13,7 +13,7 @@
               <figure class="thumb my-3">
                 <a href="{{ .Permalink }}">
                   <div class="img-container">
-                    <img class="img-fluid rounded-circle" src="{{ .Params.image | relURL}}" alt="">
+                    <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
                   </div>
                   <h5 class="name">{{ .Title }}</h5>
                 </a> 
@@ -28,23 +28,15 @@
         <div class="inner-column">
           <div class="text-box">
             <div class="session-meta" id="date">
-              <span id="adjTime"></span>
+              <span style="display: none;" id="adjTime"></span>
               {{ $time_start := .Params.time_start | time }}
               {{ $time_end := .Params.time_end | time }}            
               {{ if lt now $time_start }}
-
+              <div style="display:none;">
               <em>{{ with .Params.time_start | time }}({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }}</em>
-              <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                - Add to Calendar
-                <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
-                <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
-                <span class="timezone">UTC</span>
-                <span class="title">Airflow Summit: {{ .Title | truncate 40 }}</span>
-                <span class="description">{{ .Content }}</span>
-                <span class="location">https://airflowsummit.org/live</span>
               </div>
               {{ else }}
-                {{ if ne $time_start.Year 2022 }}
+                {{ if ne $time_start.Year 2023 }}
               <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
               {{ end }}
               {{ end }}

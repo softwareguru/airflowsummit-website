@@ -1,11 +1,12 @@
 ---
 title: "Maciej Obuchowski"
-designation: "GetInData"
-image: /images/speakers/maciej-obuchowski.jpg
+designation: "Software Engineer at GetInData, OpenLineage committer"
+images:
+ - /images/speakers/maciej-obuchowski.jpg
+twitter: 
+linkedin: 
 events:
- - 2022
-twitter: ""
-linkedin: ""
+ - 2023
 ---
 
-Maciej is a software engineer at GetInData and OpenLineage commiter. He loves working contributing to open source data projects and playing with cats.
+Maciej is a software engineer at GetInData and OpenLineage commiter. He loves cats and contributing to open source data projects.
