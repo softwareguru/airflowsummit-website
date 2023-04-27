@@ -4,4 +4,4 @@ title: Speakers
 ---
 
 
-### Meet our speakers for this edition of Airflow Summit
+### Meet our confirmed speakers so far. Note that the Call for Papers is still open and we will continue confirming speakers.

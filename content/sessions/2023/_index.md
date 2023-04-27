@@ -4,6 +4,6 @@ time_start: 2023-09-19T09:00:00.000Z
 
 ---
 
-These are the sessions confirmed so far Airflow Summit 2023. We will be doing multiple rounds of confirmations and continually adding sessions to the program.
+### This is a small sample of the sessions that we will have at Airflow Summit 2023. Note that the Call for Papers is still open and we will continue adding new sessions as they are confirmed.
 
 
