@@ -1,11 +1,10 @@
-.navbar {
-  background-color: #fffcfb;
+.header-bar {
+  margin-bottom: 100px;
 }
-
-// Navigation Styles
 
 .navbar {
   align-items: flex-end;
+  background-color: #fffcfb;
 }
 
 @media (min-width: 768px) { 
