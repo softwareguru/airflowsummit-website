@@ -13,6 +13,15 @@ Canada is not only an amazing place for leisure it’s also an awesome place for
 
 Take a look at the detailed info [here.](/canada-visa-process)
 
+### I need to apply for a Canadian visa. Can Airflow Summit issue me a letter confirming my attendance?
+
+Yes, once you have bought your ticket, please request a letter to carolina@sg.com.mx. Please include your passport number and date of birth. You will receive your letter by email to the email address associated with your ticket.
+
+
+### Can I get a refund for my ticket if I don't get my visa approved?
+
+Yes, If that happens just send us the info about your visa being rejected and we will issue you a complete refund for your ticket.
+
 
 ### Is there a code of conduct?
 
