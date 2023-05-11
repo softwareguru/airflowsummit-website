@@ -4,7 +4,7 @@ designation: Distinguished Engineer at Google
 images: 
  - /images/speakers/clayton-coleman.jpg
 events:
- - 2023
+ - "2023"
 twitter: 
 linkedin: https://www.linkedin.com/in/claytoncoleman/
 speaker_type: keynote

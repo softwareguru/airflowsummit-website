@@ -6,9 +6,10 @@ events:
  - 2020
  - 2021
  - 2022
+ - "2023"
 twitter: "https://twitter.com/kaxil/"
 linkedin: "https://www.linkedin.com/in/kaxil/"
-event-2021: true
+
 ---
 
 Kaxil is a committer and PMC member of the Apache Airflow Project and until recently was the release manager of the project. He is currently the Director of Airflow Engineering Team @ Astronomer. Currently, he is one of the top three committers of the Airflow Project based on the number of commits.

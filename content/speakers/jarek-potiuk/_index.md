@@ -11,6 +11,9 @@ events:
  - 2020
  - 2021
  - 2022
+ - "2023"
+speaker_type: keynote
+
 ---
 
 Independent Open-Source Contributor and Advisor, Committer and PMC member of Apache Airflow, Member of the Apache Software Foundation 

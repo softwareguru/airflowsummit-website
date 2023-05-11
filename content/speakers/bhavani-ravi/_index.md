@@ -6,7 +6,7 @@ images:
 twitter: https://twitter.com/BhavaniRavi_
 linkedin: https://www.linkedin.com/in/bhavanicodes/
 events:
- - 2023
+ - "2023"
 draft: true
 ---
 

@@ -6,7 +6,7 @@ images:
 twitter: 
 linkedin: 
 events:
- - 2023
+ - "2023"
 ---
 
 Maciej is a software engineer at GetInData and OpenLineage commiter. He loves cats and contributing to open source data projects.

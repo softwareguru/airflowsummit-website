@@ -6,7 +6,7 @@ images:
 twitter: 
 linkedin: https://ca.linkedin.com/in/jos%C3%A9-jonathan-puertos-tavares-b492b015
 events:
- - 2023
+ - "2023"
 ---
 
 Jose has always been an enthusiasts of IT since an early age as his parents would bring to their workplace where he discovered not only computers but the “magic” of how to program and design systems that run on top of them. Inspired by that he pursuit an education on IT Computer Science and got passionate about Enterprise and System Architecture. 
