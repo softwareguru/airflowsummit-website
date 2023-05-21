@@ -23,3 +23,120 @@ We have secured a block of rooms at the Marriott Downtown at Eaton Centre, you c
 Canada is not only an amazing place for leisure, it’s also an awesome place for the tech industry. Besides, it makes reuniting the community way easier since a lot of countries don’t need a visa to travel to Canada. Citizens from certain countries (like the USA) just need a valid identity document (like their passport), while citizens from most other countries just require an Electronic Travel Authorization (eTA), which can be obtained online in minutes and only costs $7 CAD. 
 
 <a href="https://ircc.canada.ca/english/visit/visas.asp" target="_black">Find out if you need a visa to travel to Canada</a>
+
+
+### Where to Stay
+
+
+<table class="table">
+  <thead class="thead-dark">
+    <tr>
+      <th scope="col">Hotel</th>
+      <th scope="col">Walking distance (min)</th>
+      <th scope="col">CAD estimate per night</th>
+    </tr>
+  </thead>
+    <thead class="bg-info text-white">
+    <tr>
+      <th colspan="8">Airport area</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row"><a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" style="color: #00c7d4;">Sheraton Gateway Hotel</a></th>
+      <td></td>
+      <td>$349.00</td>
+    </tr>
+
+  <thead class="bg-success text-white">
+    <tr>
+      <th colspan="8">Downtown</th>
+    </tr>
+  </thead>
+    <tr>
+      <th scope="row"><a href="https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" style="color: #00c7d4;">Marriot Downtown at CF Toronto </a></th>
+      <td>0</td>
+      <td>$873.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.pantageshotel.com/" style="color: #00c7d4;">Pantages Hotel Downtown Toronto</a></th>
+      <td>8</td>
+      <td>$500.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.chelseatoronto.com/en/?utm_campaign=CSTOR&utm_medium=ppc&utm_source=google&utm_content=na&utm_id=PPC%7CGOO%7CCSTOR%7CRG%7CBRAND_CAN_EN&gclid=CjwKCAiA0cyfBhBREiwAAtStHJsqPSSK3bdApEF_iDID4b57n7Hz8VeLZD7K3iEi5d50z10B8fChNhoC0YwQAvD_BwE&gclsrc=aw.ds" style="color: #00c7d4;">Chelsea Hotel</a></th>
+      <td>7</td>
+      <td>$509.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.hilton.com/en/hotels/ytocsdt-doubletree-toronto-downtown/?SEO_id=GMB-AMER-DH-YTOCSDT&y_source=1_MjIwNjAzMS03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" style="color: #00c7d4;">DoubleTree Toronto Downtown Hotels</a></th>
+      <td>4</td>
+      <td>$635.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.yongesuites.com/" style="color: #00c7d4;">Young Suites</a></th>
+      <td>5</td>
+      <td>$383.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.therex.ca/hotel" style="color: #00c7d4;">The Rex Hotel Jazz and Blues Bar</a></th>
+      <td>11</td>
+      <td>$255.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.marriott.com/en-us/hotels/yyztc-sheraton-centre-toronto-hotel/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" style="color: #00c7d4;">Sheraton Centre Toronto Hotel</a></th>
+      <td>7</td>
+      <td>$770.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.saintlawrenceresidences.com/" style="color: #00c7d4;">Saint Lawrence Residences and Suites</a></th>
+      <td>14</td>
+      <td>$190.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.cambridgesuitestoronto.com/?utm_source=google%20my%20business&utm_medium=listing&utm_campaign=visit%20website" style="color: #00c7d4;">Cambridge Suites Toronto</a></th>
+      <td>8</td>
+      <td>$757.87</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.google.com/aclk?sa=l&ai=Cq41pEd9CZKmtNYfx1OkPnYaDsAWgq5niaZuTn-jeD9yK-MH9LwgKEAEgACgEYOUDggEfZ29vZ2xlbW9kZXMtZGVza3RvcC1tYXBzLWhvdGVsc6AB5YzV3wOoAwWqBEVP0EVlNuCikikSg9GWb7fX1Hl14aLieE0jHUSH-gXk6XaMCz4MFAeyacuIB14xF4qUUvBC1tGR_LF3VRW_4pGzayZVTz7ABJXKjZr2A4gF8fi2yT7ABZIBoAZliAcBkAcBqAfYprEC0ggIEAIyAQA6AQDICawBogp5CgoyMDIzLTA5LTE4EAEaAk1YKZMLqTGy6pUdMgZoaWx0b244AEgBUglLMV9fU09fXzJdH8U3RGVmZhFDcgNDQUSCAQsKBUsxSlJDMgIIArABAbgBAcgBsYLaL-ABAegBAfABAfgBAKACAOACAOoCA01YTvACAYoDAOgKApALA5gLAdALG6oMAggBuAwBmg0BG9AVAYAXAQ&sig=AOD64_3yyyXPsBs7TV_4vZWZzCfQAP-QNA&adurl=https://linkcenterus.derbysoftca.com/dplatform-linkcenter/booking.htm?hotelCode%3DHILTON-TORHI%26providerHotelCode%3DTORHI%26checkInDate%3D2023-09-18%26checkOutDate%3D2023-09-19%26identifier%3Dgoogle-hilton%26price%3D880.48%26roomTypeCode%3DK1JRC%26ratePlanCode%3DSO%26currency%3DCAD%26language%3Den%26userCountry%3DMX%26dateType%3Dselected%26testClick%3Dfalse%26sitetype%3Dmapresults%26occupancy%3D2%26partnerId%3Dhilton%26campaignid%3D16796990577%26rateRuleId%3D%26userlistid%3D%26ifDefaultDate%3Dselected%26isPromoted%3Dfalse%26isRuleIdsClosed%3Dfalse%26s_is_ad%3Dtrue%26adType%3D1%26adults%3D2%26children%3D0" style="color: #00c7d4;">Hilton Toronto</a></th>
+      <td>10</td>
+      <td>$881.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.shangri-la.com/toronto/shangrila/" style="color: #00c7d4;">Shangri-La Toronto</a></th>
+      <td>13</td>
+      <td>$1,334.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.marriott.com/en-us/hotels/yyzxr-the-st-regis-toronto/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" style="color: #00c7d4;">The St. Regis Toronto</a></th>
+      <td>8</td>
+      <td>$1,095.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.omnihotels.com/hotels/toronto-king-edward?utm_source=gmblisting&utm_medium=organic" style="color: #00c7d4;">The Omni King Edward</a></th>
+      <td>13</td>
+      <td>$451.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.ihg.com/holidayinnexpress/hotels/us/en/toronto/yyzls/hoteldetail?cm_mmc=GoogleMaps-_-EX-_-CA-_-YYZLS" style="color: #00c7d4;">Holiday Inn Express Toronto Downtown</a></th>
+      <td>16</td>
+      <td>$529.00</td>
+    </tr>
+    <tr>
+      <th scope="row"><a href="https://www.cosmotoronto.com/" style="color: #00c7d4;">Executive Hotel Cosmopolitan Toronto</a></th>
+      <td>13</td>
+      <td>$694.00</td>
+    </tr>
+  <thead class="bg-warning ">
+    <tr>
+      <th colspan="8">North York</th>
+    </tr>
+  </thead>
+  <tr>
+      <th scope="row"><a href="https://all.accor.com/hotel/0910/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps" style="color: #00c7d4;">Novotel Toronto North York</a></th>
+      <td>30 min public transport</td>
+      <td>$282.42</td>
+  </tr>
+  </tbody>
+</table>
