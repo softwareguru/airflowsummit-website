@@ -4,7 +4,7 @@ designation: PMC Chair of Apache Karaf | Principal Software Engineer at Dremio
 images: 
  - /images/speakers/jb-onofre.jpg
 events:
- - "2023"
+ - 2023
 twitter: https://twitter.com/jbonofre
 linkedin: https://www.linkedin.com/in/jb-onofr%C3%A9-a0739317/
 speaker_type: keynote

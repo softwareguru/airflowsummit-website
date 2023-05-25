@@ -21,12 +21,16 @@
         </tr>
       </thead>
         <tbody>
-              {{ range .Data.Pages.ByParam "time_start" }}
+              {{ range .Data.Pages.ByTitle }}
             <tr>
-                <td><h4>
+                <td><h4 class="mb-0">
                     <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
                     </h4>
-                    <div class="card-abstract" id="abs-{{.File.TranslationBaseName}}">
+                    {{ if $is_active }}
+                    <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
+                    {{ end }}
+
+                    <div class="card-abstract mt-2" id="abs-{{.File.TranslationBaseName}}">
                         {{ .Summary }}
                     </div>
                 </td>

@@ -6,7 +6,7 @@ events:
  - 2020
  - 2021
  - 2022
- - "2023"
+ - 2023
 twitter: "https://twitter.com/ashberlin"
 linkedin: https://www.linkedin.com/in/ashberlin-taylor/
 

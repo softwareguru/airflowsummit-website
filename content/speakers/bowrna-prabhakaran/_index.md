@@ -1,11 +1,12 @@
 ---
 title: "Bowrna Prabhakaran"
-designation: "Outreachy Intern for Apache Airflow"
-image: /images/speakers/bowrna-prabhakaran.jpg
+designation: "Software Engineer Unravel Data,  Former Outreachy Intern for Apache Airflow"
+images:
+ - /images/speakers/bowrna-prabhakaran.jpg
+twitter: 
+linkedin: 
 events:
- - 2022
-twitter: "https://twitter.com/BowrnaPrabhu"
-linkedin: "https://www.linkedin.com/in/bowrna-prabhakaran/"
+ - 2023
 ---
 
-Bowrna is a self-taught programmer who started building software after a non-CS degree. With the experience of about 7 years, She thinks she has learned only a drop in ocean and wants to explore more.
+Bowrna is a self-taught programmer who started building software after a non-CS degree. With the experience of about 9 years, She thinks she has learned only a drop in ocean and wants to explore more. She is an active open-source contributor to the Apache Airflow project and works on solutions to monitor pipelines in her day job.

@@ -1,13 +1,12 @@
 ---
 title: "Jed Cunningham"
-designation: "Staff Software Engineer on Astronomers OSS Airflow Engineering Team"
-image: /images/speakers/jed-cunningham.jpg
-images: 
+designation: "Airflow PMC member | Staff Software Engineer - Airflow Engineering @ Astronomer.io"
+images:
  - /images/speakers/jed-cunningham.jpg
+twitter: 
+linkedin: 
 events:
- - 2022
-twitter: ""
-linkedin: "https://www.linkedin.com/in/jedidiah-cunningham/"
+ - 2023
 ---
 
-Jed has been on the Airflow / Kubernetes train since KubernetesExecutor was added in Airflow 1.10.0 back in 2018.
+Jed started contributing to Airflow in 2020 and has been active ever since, becoming a committer and PMC member in 2021. He has been very involved with Kubernetes support in Airflow and is currently the release manager for the Helm Chart.

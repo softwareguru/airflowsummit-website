@@ -4,7 +4,7 @@ designation: Director at Python Software Foundation | Staff Software Engineer at
 images: 
  - /images/speakers/dustin-ingram.jpg
 events:
- - "2023"
+ - 2023
 twitter: https://twitter.com/di_codes 
 linkedin: https://www.linkedin.com/in/dustingram/
 github: https://github.com/di

@@ -4,7 +4,7 @@ designation: Director at Apache Software Foundation | Open Source Strategist at 
 images: 
  - /images/speakers/rich-bowen.jpg
 events:
- - "2023"
+ - 2023
 twitter: https://twitter.com/rbowen
 linkedin: https://www.linkedin.com/in/rcbowen/
 speaker_type: keynote

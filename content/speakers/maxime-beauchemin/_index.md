@@ -1,12 +1,13 @@
 ---
 title: "Maxime Beauchemin"
-designation: "Founder & CEO at Preset | Original creator of Apache Airflow"
+designation: "Creator of Superset and Airflow, Founder and CEO at Preset"
 images:
  - /images/speakers/maxime-beauchemin.jpg
-twitter: https://twitter.com/mistercrunch
-linkedin: https://www.linkedin.com/in/maximebeauchemin/
+twitter: 
+linkedin: 
 events:
- - "2023"
+ - 2023
 ---
 
 Founder & CEO Preset. Original creator of Apache Superset and Apache Airflow.
+

@@ -6,7 +6,7 @@ images:
 twitter: 
 linkedin: 
 events:
- - "2023"
+ - 2023
 ---
 
-Works as a solution architect in American Express with around 19 years of experience in Data Engineering … responsible for solution airflow/cloud composer for entire organisation
+Works as a solution architect in American Express with around 19 years of experience in Data Engineering … responsible for solution airflow/cloud composer for entire organisation 
