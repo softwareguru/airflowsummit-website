@@ -42,6 +42,10 @@ Yes! Please review our [Prospectus](/docs/AirflowSummit2023-Prospectus.pdf) or c
 
 The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at info@airflowsummit.org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
 
+### What can I expect from the workshops on Sept 21st?
+On September 21 we will have workshops. These will be 2-3 hour workshops and each participant would be able to take one in the morning and one in the afternoon.
+Tickets for this day will cost an extra $100 and these tickets will be available starting June 11. We are currently working on the definition of the workshops and expect to have this up on the website on mid-June
+
 ### What happened to the archive of past sessions?
 
 Don’t worry, it is still [available here.](/sessions)
