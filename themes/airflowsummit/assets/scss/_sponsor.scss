@@ -128,3 +128,17 @@ section.sponsors {
 	}
 
 }
+
+.sponsor-strip.diversity {
+	display: flex;
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	flex-wrap: wrap;
+
+	.sponsor-item {
+		width: 160px;
+		margin: 0px 25px 20px 25px;
+	}
+
+}

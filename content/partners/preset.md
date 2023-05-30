@@ -1,8 +1,8 @@
 ---
 title: "Preset"
-level: "gold"
+level: "diversity"
 logo: "/images/partners/preset.svg"
 webUrl: "https://preset.io"
 weight: 2
-draft: true
+draft: false
 ---

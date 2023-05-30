@@ -29,10 +29,11 @@
         {{ end }}
     </div>
 
-    <br>
-    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "local" }}
+
+    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "silver" }}
       {{ if eq $index 0 }}
-      <h3 class="my-3">Local</h3>
+      <h3 class="my-3">Silver</h3>
+      <br>
       <div class="sponsor-strip silver">
       {{ end }} 
         <div class="sponsor-item">
@@ -43,9 +44,7 @@
         {{ end }}
     </div>
 
-    <br>
 
-    <br>
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
       {{ if eq $index 0 }}
         <h3 class="my-3">Community</h3>
@@ -59,6 +58,20 @@
         </div>    
     {{ end }}
     </div>
+
+    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "diversity" }}
+      {{ if eq $index 0 }}
+      <h3 class="my-3">Diversity & Inclusion</h3>
+      <div class="sponsor-strip diversity">
+      {{ end }} 
+        <div class="sponsor-item">
+          <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+            <img src="{{ .Params.logo }}" alt="{{ .Title }}">
+          </a>
+        </div>    
+        {{ end }}
+    </div>
+
     <br>
     
   </div>
