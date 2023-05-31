@@ -1,12 +1,11 @@
 
 baseURL = "https://airflowsummit.org/"
 title = "Airflow Summit"
-description = "Airflow summit is the first conference for the worldwide community of developers and users of Apache Airflow."
+description = "Airflow summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 enableRobotsTXT = true
 RemovePathAccents = true
 DefaultContentLanguage = "en"
 
-# Hugo allows theme composition (and inheritance). The precedence is from left to right.
 theme = "airflowsummit"
 
 [markup]
