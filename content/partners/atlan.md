@@ -1,8 +1,8 @@
 ---
-title: "Atlan"
-level: "community"
-logo: "/images/partners/atlan.png"
-webUrl: "https://atlan.com/"
+title: "IBM"
+level: "platinum"
+logo: "/images/partners/IBM.png"
+webUrl: "https://www.ibm.com/us-en"
 weight: 5
-draft: true
+draft: false
 ---
