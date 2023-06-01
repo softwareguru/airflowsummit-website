@@ -1,6 +1,6 @@
 ---
 title: "Rajesh Gundugollu"
-designation: "Solving and simplifying petabyte scale problems!"
+designation: Principal Architect Data Products @ Asurion
 images:
  - /images/speakers/rajesh-gundugollu.jpg
 twitter: 
