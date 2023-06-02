@@ -28,7 +28,7 @@ Yes, If that happens just send us the info about your visa being rejected and we
 Yes. Airflow Summit aims to provide a harassment-free experience to all participants. Please review our [Code of Conduct.](/coc)
 
 ### How/when can I get a ticket, how much will they cost?
-Tickets are now available on the [tickets page](/tickets)
+Tickets are now available on the [tickets page](/tickets).
 
 
 ### Will there be live streaming?

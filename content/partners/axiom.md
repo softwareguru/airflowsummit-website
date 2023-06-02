@@ -1,9 +1,8 @@
 ---
-title: "Axiom"
-level: "local"
-logo: "/images/partners/axiom.svg"
-webUrl: "https://axiom.co"
+title: "BMC"
+level: "silver"
+logo: "/images/partners/bmc.jpg"
+webUrl: "https://www.bmc.com/"
 weight: 5
-draft: true
-
+draft: false
 ---
