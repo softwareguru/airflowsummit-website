@@ -107,7 +107,7 @@ link = "/tickets"
     url = "/coc"
 #[[params.links.footer]]
 #    name = "Prospectus"
-#    url = "/docs/AirflowSummit2023-Prospectus.pdf"
+#    url = "/docs/Airflow-Summit-2023-Prospectus.pdf"
 #    target="_blank"
 [[params.links.footer]]
     name = "Accessibility"
