@@ -25,6 +25,36 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 ### Where to Stay
 
 
+We've negotiated a preferred rate for the Airflow Summit attendees:
+
+**In the airport area (about 45 min away)**
+
+* <a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_black" style="color: #00c7d4;">Sheraton Gateway Hotel</a> with a rate of $325.00 CAD per night. You can book <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1686052387870&key=GRP&app=resvlink" style="color: #00c7d4;">through this link</a>
+* <a href="https://www.hilton.com/en/hotels/yyzeses-embassy-suites-toronto-airport/?SEO_id=GMB-AMER-ES-YYZESES&y_source=1_ODc0MTk5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" style="color: #00c7d4;">Embassy Suites by Hilton Toronto Airport</a> with a rate of $229.00 CAD per night. You can book <a href="https://group.embassysuites.com/injrva" style="color: #00c7d4;">through this link</a> 
+
+
+<p style="color: #8D8D8D">Directions to the event:</p>
+
+<a href="https://www.upexpress.com/Home/Index"><p style="color: #8D8D8D !important; margin-top: -20px;">Up Express</p></a>
+
+<p style="color: #8D8D8D; margin-top: -20px;"> - Tickets can be purchased online or at Pearson/Union Station</p>
+<p style="color: #8D8D8D; margin-top: -20px;"> - Station located within the hotel</p>
+
+<p style="color: #8D8D8D; margin-top: -20px;"> - From Union Station, it is an 18min walk to Marriott Downtown at CF</p> 
+
+
+**In North York area (30 mins away)**
+
+<a href="https://all.accor.com/hotel/0910/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps" style="color: #00c7d4;">Novotel Toronto North York</a> with a rate of $259.00 CAD per night. You can reserve before August 4th, 2023 by:
+- Calling directly at +1 416-733-2929 extension 1, mentioning the group name **“Airflow Summit 2023”** or Block ID# 1708861
+- By email: reservations@novotelnorthyork.com.
+
+<p style="color: #8D8D8D">Directions to the event:</p>
+
+<p style="color: #8D8D8D; margin-top: -20px;">- Walk to TTC subway station (line 1) North York Centre</p>
+<p style="color: #8D8D8D; margin-top: -20px;">- Take the southbound train to Dundas Station</p>
+<p style="color: #8D8D8D; margin-top: -20px;">- 4 min walk to Marriot Downtown at CF</p>
+<br>
 <table class="table">
   <thead class="thead-dark">
     <tr>
