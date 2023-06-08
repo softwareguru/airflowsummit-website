@@ -22,18 +22,21 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 <a href="https://ircc.canada.ca/english/visit/visas.asp" target="_black">Find out if you need a visa to travel to Canada</a>
 
 
-### Where to Stay
+<h2 class="text-center">Where to Stay</h2>
 
 
-We've negotiated a preferred rate for the Airflow Summit attendees:
+We've negotiated a **preferred rate for the Airflow Summit attendees:**
 
-**In the airport area (about 45 min away)**
-
-* <a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_black" style="color: #00c7d4;">Sheraton Gateway Hotel</a> with a rate of $325.00 CAD per night. You can book <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1686052387870&key=GRP&app=resvlink" style="color: #00c7d4;">through this link</a>
-* <a href="https://www.hilton.com/en/hotels/yyzeses-embassy-suites-toronto-airport/?SEO_id=GMB-AMER-ES-YYZESES&y_source=1_ODc0MTk5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" style="color: #00c7d4;">Embassy Suites by Hilton Toronto Airport</a> with a rate of $229.00 CAD per night. You can book <a href="https://group.embassysuites.com/injrva" style="color: #00c7d4;">through this link</a> 
-
-
-<p style="color: #8D8D8D">Directions to the event:</p>
+<div class="row row-cols-1 row-cols-md-2">
+  <div class="col mb-4">
+    <div class="card h-100 shadow" style="background-color: #FDFDFD; border-radius: 40px;">
+      <div class="card-body">
+        <h5 class="card-title">In the airport area (about 45 min away)</h5>
+        <p class="card-text">
+        <li><a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_black" style="color: #00c7d4;">Sheraton Gateway Hotel</a> with a rate of $325.00 CAD per night. You can book <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1686052387870&key=GRP&app=resvlink" style="color: #00c7d4;">through this link</a></li>
+        <li><a href="https://www.hilton.com/en/hotels/yyzeses-embassy-suites-toronto-airport/?SEO_id=GMB-AMER-ES-YYZESES&y_source=1_ODc0MTk5OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D" style="color: #00c7d4;">Embassy Suites by Hilton Toronto Airport</a> with a rate of $229.00 CAD per night. You can book <a href="https://group.embassysuites.com/injrva" style="color: #00c7d4;">through this link</a></li>
+        <br>
+        <p style="color: #8D8D8D">Directions to the event:</p>
 
 <a href="https://www.upexpress.com/Home/Index"><p style="color: #8D8D8D !important; margin-top: -20px;">Up Express</p></a>
 
@@ -41,20 +44,29 @@ We've negotiated a preferred rate for the Airflow Summit attendees:
 <p style="color: #8D8D8D; margin-top: -20px;"> - Station located within the hotel</p>
 
 <p style="color: #8D8D8D; margin-top: -20px;"> - From Union Station, it is an 18min walk to Marriott Downtown at CF</p> 
-
-
-**In North York area (30 mins away)**
-
-<a href="https://all.accor.com/hotel/0910/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps" style="color: #00c7d4;">Novotel Toronto North York</a> with a rate of $259.00 CAD per night. You can reserve before August 4th, 2023 by:
-- Calling directly at +1 416-733-2929 extension 1, mentioning the group name **“Airflow Summit 2023”** or Block ID# 1708861
-- By email: reservations@novotelnorthyork.com.
-
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card h-100 shadow" style="background-color: #FDFDFD; border-radius: 40px;">
+      <div class="card-body">
+        <h5 class="card-title">In North York area (30 mins away)</h5>
+        <p class="card-text"><a href="https://all.accor.com/hotel/0910/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps" style="color: #00c7d4;">Novotel Toronto North York</a> with a rate of $259.00 CAD per night. You can reserve before August 4th, 2023 by:
+        <li>Calling directly at +1 416-733-2929 extension 1, mentioning the group name **“Airflow Summit 2023”** or Block ID# 1708861</li>
+        <li>By email: reservations@novotelnorthyork.com.</li>
+<br>
 <p style="color: #8D8D8D">Directions to the event:</p>
 
 <p style="color: #8D8D8D; margin-top: -20px;">- Walk to TTC subway station (line 1) North York Centre</p>
 <p style="color: #8D8D8D; margin-top: -20px;">- Take the southbound train to Dundas Station</p>
 <p style="color: #8D8D8D; margin-top: -20px;">- 4 min walk to Marriot Downtown at CF</p>
-<br>
+<br></p>
+      </div>
+    </div>
+  </div>
+</div>
+
 <table class="table">
   <thead class="thead-dark">
     <tr>
