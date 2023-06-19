@@ -70,22 +70,14 @@ We've negotiated a **preferred rate for the Airflow Summit attendees:**
 <table class="table">
   <thead class="thead-dark">
     <tr>
-      <th scope="col">Hotel</th>
+      <th scope="col">More hotels</th>
       <th scope="col">Walking distance (min)</th>
       <th scope="col">CAD estimate per night</th>
     </tr>
   </thead>
-    <thead class="bg-info text-white">
-    <tr>
-      <th colspan="8">Airport area</th>
-    </tr>
-  </thead>
+
   <tbody>
-    <tr>
-      <th scope="row"><a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" style="color: #00c7d4;">Sheraton Gateway Hotel</a></th>
-      <td></td>
-      <td>$349.00</td>
-    </tr>
+   
 
   <thead class="bg-success text-white">
     <tr>
@@ -167,15 +159,5 @@ We've negotiated a **preferred rate for the Airflow Summit attendees:**
       <td>13</td>
       <td>$694.00</td>
     </tr>
-  <thead class="bg-warning ">
-    <tr>
-      <th colspan="8">North York</th>
-    </tr>
-  </thead>
-  <tr>
-      <th scope="row"><a href="https://all.accor.com/hotel/0910/index.en.shtml?utm_campaign=seo+maps&utm_medium=seo+maps&utm_source=google+Maps" style="color: #00c7d4;">Novotel Toronto North York</a></th>
-      <td>30 min public transport</td>
-      <td>$282.42</td>
-  </tr>
   </tbody>
 </table>
