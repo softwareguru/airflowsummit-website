@@ -1,5 +1,5 @@
 ---
-title: "Venue" 
+title: "Venue + Travel" 
 
 ---
 

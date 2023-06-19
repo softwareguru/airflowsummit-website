@@ -9,11 +9,13 @@
         <h4 class="hero-meta text-center">Toronto, Canada</h4>
 
         <div class="cta-container my-4 text-center">
+
             {{ with .Site.Params.hero.cta1 }}
             <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
-                <button id="button-hero1" class="btn btn-orange text-white my-2 btn-rounded">{{ .text }}</button>
+                <button id="button-hero1" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#fd7e62;">{{ .text }}</button>
             </a>
             {{ end }}
+
             {{ with .Site.Params.hero.cta2 }}
               {{ if eq .enable true }}
               <a id="hero-button2" href="{{ .link }}" target="_blank" class="mx-4">
@@ -21,6 +23,7 @@
               </a>
               {{ end }}
             {{ end }}
+            
             <button data-tf-popup="TxCJx3Vp" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Airflow Summit 2023 - Interested" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=,utm_medium=,utm_campaign=" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#017CEE;">Sign up for updates</button><script src="//embed.typeform.com/next/embed.js"></script>
         </div>
     </div>

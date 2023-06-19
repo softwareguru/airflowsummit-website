@@ -39,7 +39,7 @@ speaker = "speakers"
   weight = 3
 
   [[menu.main]]
-  name = "Venue"
+  name = "Venue + Travel"
   URL = "venue"
   weight = 4
 
