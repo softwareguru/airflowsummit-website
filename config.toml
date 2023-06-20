@@ -28,10 +28,29 @@ speaker = "speakers"
   URL = "about"
   weight = 1
 
+
   [[menu.main]]
-  name = "Sessions"
-  URL = "/sessions/2023/"
-  weight = 2
+    identifier = "category"
+    name = "Sessions"
+    url = "/sessions/2023/"
+    weight = 1
+  [[menu.main]]
+    identifier = "category1"
+    name = "Sessions"
+    url = "/sessions/2023/"
+    parent = "category"
+    weight = 1
+  [[menu.main]]
+    identifier = "category2"
+    name = "Panels"
+    url = "/sessions/2023/panels"
+    parent = "category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category3"
+    name = "Workshops"
+    url = "/sessions/2023/workshops"
+    parent = "category"
 
   [[menu.main]]
   name = "Speakers"
