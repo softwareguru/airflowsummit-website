@@ -2,6 +2,7 @@
 title: Featured Workshops
 time_start: 2023-09-19T09:00:00.000Z
 layout: list-active
+description: On September 21st we will be offering hands-on workshops so you can get practical experience with Airflow tools and managed offerings.
 ---
 
 ### On September 21st we will be offering hands-on workshops so you can get practical experience with Airflow tools and managed offerings.
