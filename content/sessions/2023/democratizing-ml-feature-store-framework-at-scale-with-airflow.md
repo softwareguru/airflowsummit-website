@@ -6,6 +6,8 @@ speakers:
  - Victoria Varney
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 Data science and machine learning are at the heart of Faire’s industry-celebrated marketplace (a16z top-ranked marketplace) and drive powerful search, navigation, and risk functions which are powered by ML models that are trained on 3000+ features defined by our data scientists. 

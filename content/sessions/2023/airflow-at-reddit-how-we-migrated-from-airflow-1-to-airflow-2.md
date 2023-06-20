@@ -6,6 +6,8 @@ speakers:
  - Branden West
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 We would love to speak about our experience upgrading our old airflow 1 infrastructure to airflow 2 on kubernetes and how we orchestrated the migration of approximately 1000 DAGs that were owned by multiple teams in our organization. We had some interesting challenges along the way and can speak about our solutions.

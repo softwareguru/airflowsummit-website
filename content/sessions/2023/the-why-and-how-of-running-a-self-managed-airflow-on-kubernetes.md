@@ -5,6 +5,7 @@ speakers:
  - Parnab Basak
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
 ---
 
 Today, all major cloud service providers and 3rd party providers include Apache Airflow as a managed service offering in their portfolios. While these cloud based solutions help with the undifferentiated heavy lifting of environment management, some data teams are also looking to operate self-managed Airflow instances to satisfy specific differentiated capabilities. In this session, we would talk about:

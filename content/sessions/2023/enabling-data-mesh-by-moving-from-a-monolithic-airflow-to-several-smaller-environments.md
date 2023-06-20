@@ -7,6 +7,8 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: Operationalizing Airflow
+session_type: breakout
+
 ---
 
 Kiwi.com started using Airflow in June 2016 as an orchestrator for several people in the company. The need for the tool grew and the monolithic instance was used by 30+ teams having 500+ DAGs active resulting in 3.5 million tasks/month successfully finished.

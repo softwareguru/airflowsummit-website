@@ -6,6 +6,7 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: Use cases
+session_type: breakout
 ---
 
 With millions of orders per day, Gojek needs a data processing solution that can handle a high volume of data. Airflow is a scalable tool that can handle large volumes of data and complex workflows, making it an ideal solution for Gojek's needs.

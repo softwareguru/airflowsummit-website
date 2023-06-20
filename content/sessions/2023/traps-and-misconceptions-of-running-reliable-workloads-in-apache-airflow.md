@@ -6,6 +6,7 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: Use cases
+session_type: breakout
 ---
 
 Reliability is a complex and important topic. I will focus on both reliability definition and best practices.

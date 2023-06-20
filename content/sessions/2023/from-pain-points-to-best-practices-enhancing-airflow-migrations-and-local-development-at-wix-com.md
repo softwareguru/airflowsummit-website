@@ -5,6 +5,8 @@ speakers:
  - Roy Noyman
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 Are you tired of spending hours on Airflow migrations and wondering how to make them more accessible? Would you like to be able to test your code on different Airflow versions? or are you struggling to set up a reliable local development environment?

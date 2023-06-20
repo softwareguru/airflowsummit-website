@@ -6,6 +6,8 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 summary: "Maxime Beauchemin, creator of Apache Airflow, will share best practices for change management in data teams. Among the topics he will cover is how to do it across different environments, how CI/CD can help, and what is the adequate level of rigor."
+session_type: breakout
+
 ---
 
 Change management in data teams can be challenging to say the least. Not only you have to evolve your data pipelines, data structures, and datasets themselves across environments, you also have to keep data exploration and visualizations tools in sync.

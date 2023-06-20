@@ -5,6 +5,8 @@ speakers:
  - Shubham Mehta
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 Apache Airflow is a popular workflow platform, but it often faces critiques that may not paint the whole picture. In this talk, we will unpack the critiques of Apache Airflow and provide a balanced analysis. We will highlight the areas where these critiques correctly point out Airflow's weaknesses, debunk common myths, and showcase where competitors like Dagster and Prefect are excelling.

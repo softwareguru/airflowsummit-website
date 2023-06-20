@@ -6,6 +6,8 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: New features/roadmap
+session_type: breakout
+
 ---
 
 As big Airflow users grow their usage to hundreds of DAGs, parsing them can become a performance bottleneck in the scheduler.

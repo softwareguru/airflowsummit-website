@@ -9,6 +9,7 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: Operationalizing Airflow
+session_type: breakout
 ---
 
 We will cover how Snap (parent company of Snapchat) has been using Airflow since 2016. 

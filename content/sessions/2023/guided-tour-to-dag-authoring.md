@@ -5,6 +5,8 @@ speakers:
  - Jed Cunningham
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 New to Airflow or haven’t followed any of the recent DAG authoring enhancements? This talk is for you!

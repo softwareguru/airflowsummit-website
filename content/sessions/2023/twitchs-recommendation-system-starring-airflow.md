@@ -5,6 +5,7 @@ speakers:
  - Ritika Jain
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
 ---
 
 Twitch, the world's leading live streaming platform, has a massive user base of over 140 million active users and an incredibly complex recommendation system to deliver a personalized and engaging experience to its users. 

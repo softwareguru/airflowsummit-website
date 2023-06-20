@@ -5,6 +5,7 @@ speakers:
  - Jianlong Zhong
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
 ---
 
 At Coinbase, Airflow is adopted by a wide range of applications, and used by nearly all the engineering and data science teams. In this session, we will share our journey in improving the productivity of Airflow users at Coinbase. The presentation will focus on three main topics:

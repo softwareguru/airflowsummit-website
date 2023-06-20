@@ -6,7 +6,7 @@
       {{ .Content }}
     </div>
     <div class="row workshop-strip">
-      {{range sort (where (where .Site.RegularPages "Section" "sessions") ".Params.session_type" "Workshop" )
+      {{range sort (where (where .Site.RegularPages "Section" "sessions") ".Params.session_type" "workshop-2023" )
       ".Params.time_start" }}
       <div class="col-12 col-md-6 px-3 mb-3">
         <div class="card">

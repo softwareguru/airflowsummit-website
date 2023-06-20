@@ -6,6 +6,8 @@ speakers:
  - Mateus Oliveira
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 ETL data pipelines are the bread and butter of data teams that must design, develop, and author DAGs to accommodate the various business requirements.

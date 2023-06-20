@@ -5,6 +5,7 @@ speakers:
  - Niko Oliveira
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
 ---
 
 Executors are a core concept in Apache Airflow and are an essential piece to the execution of DAGs. They have seen a lot of investment over the year and there are many exciting advancements that will benefit both users and contributors.

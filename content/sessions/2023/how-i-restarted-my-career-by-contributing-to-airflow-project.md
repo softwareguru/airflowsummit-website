@@ -6,7 +6,9 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: Community
+session_type: breakout
 draft: true
+
 ---
 
 This talk is about how I filled a gap in my career by contributing to Apache Airflow and how it helped for the next step ahead in my career.

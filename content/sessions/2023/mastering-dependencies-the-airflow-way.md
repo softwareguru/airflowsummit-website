@@ -5,6 +5,8 @@ speakers:
  - Jarek Potiuk
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 Apache Airflow has over 650 Python dependencies. In case you did not know already, dependencies in Python are  difficult subject. And Airflow has its own, custom ways of managing the dependencies.  

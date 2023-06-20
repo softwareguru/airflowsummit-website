@@ -6,6 +6,8 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: New features/roadmap
+session_type: breakout
+
 ---
 
 Have you ever added a DAG file and had no clue what happened to it? You're not alone! With default settings, Airflow can wait up to 5 minutes before processing new DAG files.

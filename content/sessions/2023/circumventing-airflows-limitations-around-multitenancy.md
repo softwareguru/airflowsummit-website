@@ -6,6 +6,8 @@ speakers:
  - Akshay Battaje
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 A steady rise in users and business critical workflows poses challenges to development and production workflows. The solution: enable multi-tenancy on our single Airflow instance. We needed to enable teams to manage their python requirements, and ensure DAGs were insulated from each other. To achieve this we divided our monolithic setup into three parts: Infrastructure (with common code packaging), Workspace Creation, and CI/CD to manage deployments.

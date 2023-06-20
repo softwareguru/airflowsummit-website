@@ -5,6 +5,8 @@ speakers:
  - Rajesh Gundugollu
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
+
 ---
 
 Workload Orchestration is at the heart of a successful Data lakehouse implementation. Especially for the "house" part which represents the Datawarehouse workloads which often are complex because of the very nature of warehouse data, which have dependency orchestration problems.

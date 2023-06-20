@@ -1,0 +1,23 @@
+---
+title: "Workshop: Data lineage and observability with Cloud Composer"
+slug: cloud-composer-workshop
+speakers:
+ - Filip Knapik
+ - Michal Modras
+ - Rafal Biegacz
+ - Bartosz Jankiewicz
+ - Leah Cole
+time_start: 2023-09-19T09:00:00-05:00
+time_end: 2023-09-19T10:00:00-05:00
+session_type: workshop-2023
+summary: Hands on workshop for medium/advanced Airflow users who would like to know more about Airflow and Composer and use features like data lineage to enhance observability and disaster recovery procedures.
+---
+
+Hands on workshop showing how easy it is to use Airflow in a public cloud (based on Cloud Composer).
+
+Workshop consists of 3 parts:
+- Best practices for Airflow DAG development for Airflow
+- Emitting data lineage information for Airflow
+- Disaster Recovery routines for Airflow
+
+This workshop is mostly targeted at medium and advanced Airflow users who would like to learn more about Airflow and Cloud Composer and how to use the features like data lineage to enhance data observability and disaster recovery procedures to have a response in case of disaster recovery events.

@@ -7,6 +7,7 @@ speakers:
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 track: Airflow & ...
+session_type: breakout
 ---
 
 High-scale orchestration of genomic algorithms using Airflow workflows, AWS elastic container service (ECS), and docker.

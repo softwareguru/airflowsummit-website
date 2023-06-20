@@ -5,6 +5,7 @@ speakers:
  - Marc Lamberti
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
+session_type: breakout
 ---
 
 Airflow is a powerful tool for orchestrating complex data workflows, which have undergone significant changes over the past two years.
