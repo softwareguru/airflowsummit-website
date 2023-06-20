@@ -17,16 +17,15 @@ title: "Tickets"
 
 You can take advantage of the different discounts available. We will approve the discount based on the information you provide in the registration:
 
-**Individual:** If you are paying for your ticket (not your company), take advantage of the ticket Individual that includes a 22% discount.
+**Individual:** If you are paying for your ticket (not your company), take advantage of the ticket Individual that includes a 20% discount.
 
-**Group:** If you are buying 5 or more tickets, select the ticket called Group. This ticket provides a 22% discount, and it will allow you to buy tickets for 5 or more participants.
+**Group:** If you are buying 5 or more tickets, select the ticket called Group. This ticket provides a 25% discount, and it will allow you to buy tickets for 5 or more participants.
 
-We also have special discounts for students or academy members, and for participants identified as women or non-binary:
+We also have special 20% discount for students or academy members, and for participants identified as women or non-binary:
 
-**Student or Academy member:** When registering apply the code 22DISC_SCHOLARSHIP
+**Student or Academy** member: When registering apply the code DISC_STUDENT
 
-Participant identified as **women or non-binary:** When registering apply the code 22DISC_WOMENNB
-
+Participant identified as **women or non-binary:** When registering apply the code DISC_WOMENNB
 
 <br>
 
