@@ -22,6 +22,7 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 <a href="https://ircc.canada.ca/english/visit/visas.asp" target="_black">Find out if you need a visa to travel to Canada</a>
 
 
+<a name="lodging"></a>
 <h2 class="text-center">Where to Stay</h2>
 
 
