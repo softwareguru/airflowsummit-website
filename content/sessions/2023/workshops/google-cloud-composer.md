@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Data lineage and observability with Cloud Composer"
+title: "Workshop: Lineage and Disaster Recovery procedures for Airflow based on Cloud Composer & Google Cloud Platform"
 slug: cloud-composer-workshop
 speakers:
  - Filip Knapik
