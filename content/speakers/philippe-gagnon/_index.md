@@ -1,11 +1,12 @@
 ---
 title: "Philippe Gagnon"
-designation: "Astronomer, Solutions Architect"
-image: /images/speakers/philippe-gagnon.jpg
+designation: "Solutions Architect @ Astronomer, Inc."
+images:
+ - /images/speakers/philippe-gagnon.jpg
+twitter: https://twitter.com/pgag_
+linkedin: https://www.linkedin.com/in/pfgagnon
 events:
- - 2022
-twitter: "https://twitter.com/pgag_"
-linkedin: ""
+ - 2023
 ---
 
-Philippe is an architect with the solutions engineering team at Astronomer, where he helps organisations leverage Airflow for their various data processing needs.
+Philippe is an architect with the solutions engineering team at Astronomer, where he helps companies leverage Airflow for their various data processing needs.
