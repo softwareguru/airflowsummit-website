@@ -15,8 +15,14 @@ Take a look at the detailed info [here.](/canada-visa-process)
 
 ### I need to apply for a Canadian visa. Can Airflow Summit issue me a letter confirming my attendance?
 
-Yes, once you have bought your ticket, please request a letter to carolina@sg.com.mx. Please include your passport number and date of birth. You will receive your letter by email to the email address associated with your ticket.
+Yes, once you have bought your ticket, please request a letter to carolina@sg.com.mx. Please include the following info:
+- Full Name
+- Passport Number
+- Passport Issuing Country
+- Role 
+- Company
 
+You will receive your letter by email to the email address associated with your ticket.
 
 ### Can I get a refund for my ticket if I don't get my visa approved?
 
