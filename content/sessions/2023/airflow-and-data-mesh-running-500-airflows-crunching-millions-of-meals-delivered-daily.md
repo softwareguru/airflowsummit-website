@@ -2,7 +2,7 @@
 title: "Airflow and Data Mesh - Running ~500 airflows crunching millions of meals delivered daily"
 slug: airflow-and-data-mesh-running-500-airflows-crunching-millions-of-meals-delivered-daily
 speakers:
- - M. Waqas Shahid
+ - M Waqas Shahid
 time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 session_type: breakout

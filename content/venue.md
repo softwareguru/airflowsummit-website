@@ -12,7 +12,8 @@ Toronto is now the third-largest tech hub in North America. It is home to more t
 
 ### The Venue
 
-[Marriott Downtown at Eaton Centre](https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview) is located in the midst of some of the city’s most popular attractions and prominent destinations. Located next to world-class shopping, dining, and entertainment at CF Toronto Eaton Centre and within walking distance of various attractions while the hotel’s Bay Street address in downtown Toronto beckons guests to relax, rejuvenate and explore the city.
+
+<a href="https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview" target="_blank">Marriott Downtown at Eaton Centre</a> is located in the midst of some of the city’s most popular attractions and prominent destinations. Located next to world-class shopping, dining, and entertainment at CF Toronto Eaton Centre and within walking distance of various attractions while the hotel’s Bay Street address in downtown Toronto beckons guests to relax, rejuvenate and explore the city.
 
 
 <a name="canada"></a>
@@ -27,6 +28,14 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 
 
 We've negotiated a **preferred rate for the Airflow Summit attendees:**
+
+If you still haven’t booked your room for your stay in Toronto, you’re running out of time! 
+We still have a few available rooms at the <a href="https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview" target="_black">Marriott Downtown at Eaton Centre Hotel</a>, which is the event’s venue (please book before August 20th). 
+
+They are for single or double occupancy for CAD 565.00 per night (normally ranging from $780.00 to $840.00). 
+
+<a href="https://www.marriott.com/events/start.mi?id=1677692262364&key=GRP" target="_black">Book your room at Marriott</a>
+
 
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
