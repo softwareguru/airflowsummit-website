@@ -13,8 +13,6 @@ subtitle: "Airflow Summit is the annual conference for the worldwide community o
 
 Airflow Summit is the annual conference for the worldwide community of Apache Airflow users and contributors. The 2023 edition will take place on September 19th to 21st at the Marriott Downtown hotel in Toronto, Canada. 
 
-The Call for Papers is currently open and [available here](https://sessionize.com/airflow-summit-2023/). 
-
 ### Previous editions
 Previous editions of Airflow Summit have been a great success and we are looking forward to build on them for this edition. If you are looking for sessions and recordings from previous editions, you can find them here:
 

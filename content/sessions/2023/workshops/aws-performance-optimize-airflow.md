@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Performance optimize your Apache Airflow environment"
+title: "Performance optimize your Apache Airflow environment"
 slug: performance-optimize-airflow-workshop
 speakers:
  - Aneel Murari

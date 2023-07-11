@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Contributing to Apache Airflow"
+title: "Contributing to Apache Airflow"
 slug: contribution-workshop
 speakers:
  - Jarek Potiuk
