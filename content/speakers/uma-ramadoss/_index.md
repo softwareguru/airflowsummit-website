@@ -1,11 +1,12 @@
 ---
 title: "Uma Ramadoss"
-designation: "Solutions Architect"
-image: /images/speakers/uma-ramadoss.jpg
+designation: "Solutions Architect on Serverless at AWS"
+images: 
+ - /images/speakers/uma-ramadoss.jpg
 events:
- - 2022
+ - 2023
 twitter: ""
 linkedin: ""
 ---
 
-As a solutions architect, Uma works with customers on orchestration and eventing workloads using AWS services like Amazon Managed Workflows for Apache Airflow (MWAA), AWS Step Functions, and Amazon EventBridge
+Uma Ramadoss is a Specialist Solutions Architect on Serverless with AWS. She is a software developer and architect for more than 15 years focussed on event-driven microservice architectures. At AWS, She helps customers build well-architected software solutions on serverless technologies.
