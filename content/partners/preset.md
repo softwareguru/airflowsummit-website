@@ -1,7 +1,7 @@
 ---
 title: "Preset"
 level: "diversity"
-logo: "/images/partners/preset.svg"
+logo: "/images/partners/preset.png"
 webUrl: "https://preset.io"
 weight: 2
 draft: false

@@ -1,8 +1,8 @@
 ---
-title: "Mantel Group"
-level: "local"
-logo: "/images/partners/mantel.svg"
-webUrl: https://mantelgroup.com.au/
+title: "Unravel"
+level: "diversity"
+logo: "/images/partners/unravel.png"
+webUrl: "https://www.unraveldata.com/"
 weight: 5
-draft: true
+draft: false
 ---
