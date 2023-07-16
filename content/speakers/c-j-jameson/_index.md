@@ -2,7 +2,7 @@
 title: "C.J. Jameson"
 designation: "Engineering Manager at Monte Carlo Data"
 images:
- - /images/speakers/c-j-jameson.jpg
+ - /images/speakers/cj-jameson.jpg
 twitter: https://www.twitter.com/cjcjameson
 linkedin: https://www.linkedin.com/in/cjcjameson/
 events:
