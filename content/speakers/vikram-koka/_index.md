@@ -3,8 +3,8 @@ title: "Vikram Koka"
 designation: "Senior Vice-President of Engineering at Astronomer.io"
 images:
  - /images/speakers/vikram-koka.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/vikramvkoka
+linkedin: https://www.linkedin.com/in/vikramkoka/
 events:
  - 2023
 ---

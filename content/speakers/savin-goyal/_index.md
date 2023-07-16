@@ -3,8 +3,8 @@ title: "Savin Goyal"
 designation: "Co-founder & CTO at Outerbounds"
 images:
  - /images/speakers/savin-goyal.jpg
-twitter: 
-linkedin: 
+twitter: http://twitter.com/savingoyal
+linkedin: https://www.linkedin.com/in/savingoyal/
 events:
  - 2023
 ---

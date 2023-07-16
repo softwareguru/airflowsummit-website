@@ -4,7 +4,7 @@ designation: "Data Engineer at ZoomInfo"
 images:
  - /images/speakers/andy-weiss.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/douglasweiss
 events:
  - 2023
 ---

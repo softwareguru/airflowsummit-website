@@ -4,7 +4,7 @@ designation: "Airflow PMC, Engineer at Astronomer, Lover of all things Airflow"
 images:
  - /images/speakers/daniel-imberman.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/danielimberman/
 events:
  - 2023
 ---

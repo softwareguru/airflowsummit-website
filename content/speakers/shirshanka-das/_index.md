@@ -3,7 +3,7 @@ title: "Shirshanka Das"
 designation: "CEO, Acryl Data"
 images:
  - /images/speakers/shirshanka-das.jpg
-twitter: 
+twitter: https://twitter.com/AcrylData
 linkedin: 
 events:
  - 2023

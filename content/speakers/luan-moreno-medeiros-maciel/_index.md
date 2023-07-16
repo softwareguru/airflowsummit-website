@@ -3,8 +3,8 @@ title: "Luan Moreno Medeiros Maciel"
 designation: "Apache Kafka & Apache Spark"
 images:
  - /images/speakers/luan-moreno-medeiros-maciel.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/luansql
+linkedin: https://www.linkedin.com/in/luanmoreno/
 events:
  - 2023
 ---

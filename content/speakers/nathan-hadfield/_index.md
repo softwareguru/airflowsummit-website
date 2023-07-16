@@ -1,10 +1,10 @@
 ---
 title: "Nathan Hadfield"
-designation: "Principal Data Engineer @ King.com"
+designation: "Principal Data Engineer @ King"
 images:
  - /images/speakers/nathan-hadfield.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/nathanhadfield/
 events:
  - 2023
 ---

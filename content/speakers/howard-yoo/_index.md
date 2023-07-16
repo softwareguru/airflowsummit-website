@@ -4,7 +4,7 @@ designation: "Ex Product Manager"
 images:
  - /images/speakers/howard-yoo.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/howardyoo/
 events:
  - 2023
 ---

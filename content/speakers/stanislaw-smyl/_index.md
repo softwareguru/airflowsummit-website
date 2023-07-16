@@ -4,7 +4,7 @@ designation: "New York Mets"
 images:
  - /images/speakers/stanislaw-smyl.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/stanis%C5%82aw-smyl-a81074155/
 events:
  - 2023
 ---

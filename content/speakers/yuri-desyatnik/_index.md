@@ -4,7 +4,7 @@ designation: "Senior Security Technical Program Manager, Snap, Inc."
 images:
  - /images/speakers/yuri-desyatnik.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/yuri-desyatnik-6837a12/
 events:
  - 2023
 ---

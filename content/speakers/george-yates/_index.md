@@ -1,14 +1,12 @@
 ---
 title: "George Yates"
-date: 2023-07-05T12:42:56-06:00
-images: 
- - /images/speakers/george-yates.jpeg
-designation : Head Developer Advocate
+designation: "Head Developer Advocate"
+images:
+ - /images/speakers/george-yates.jpg
 twitter: 
-linkedin: 
-github: 
+linkedin: https://www.linkedin.com/in/george-yates/
 events:
  - 2023
 ---
 
-Former Sales Engineer with a passion for helping to make Data Engineer's lives easier!
+Former Sales Engineer with a passion for helping making Data Engineer's lives easier! 

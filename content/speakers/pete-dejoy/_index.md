@@ -3,8 +3,8 @@ title: "Pete DeJoy"
 designation: "Founding Team, Astronomer"
 images:
  - /images/speakers/pete-dejoy.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/petedejoy
+linkedin: https://www.linkedin.com/in/pdejoy58/
 events:
  - 2023
 ---

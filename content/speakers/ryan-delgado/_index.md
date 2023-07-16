@@ -4,7 +4,7 @@ designation: "Staff Software Engineer, Ramp"
 images:
  - /images/speakers/ryan-delgado.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/ryan-delgado-69544568/
 events:
  - 2023
 ---

@@ -4,7 +4,7 @@ designation: "Bloomberg, Software Engineer, Data Pipelines, Data Platform"
 images:
  - /images/speakers/ivan-sayapin.jpg
 twitter: 
-linkedin: 
+linkedin: https://uk.linkedin.com/in/ivan-sayapin-575647127
 events:
  - 2023
 ---

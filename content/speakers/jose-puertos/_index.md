@@ -4,7 +4,7 @@ designation: "Jose Puertos. Lead Architect at The Home Depot"
 images:
  - /images/speakers/jose-puertos.jpg
 twitter: 
-linkedin: 
+linkedin: https://ca.linkedin.com/in/jos%C3%A9-jonathan-puertos-tavares-b492b015
 events:
  - 2023
 ---

@@ -4,7 +4,7 @@ designation: "Software Engineer at Bloomberg"
 images:
  - /images/speakers/sung-yun.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/sung-yun-33451688/
 events:
  - 2023
 ---

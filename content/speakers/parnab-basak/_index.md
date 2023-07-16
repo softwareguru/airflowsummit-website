@@ -3,8 +3,8 @@ title: "Parnab Basak"
 designation: "Solutions Architect @Amazon Web Services"
 images:
  - /images/speakers/parnab-basak.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/ParnabBasak
+linkedin: https://www.linkedin.com/in/parnab-basak/
 events:
  - 2023
 ---

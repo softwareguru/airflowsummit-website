@@ -3,8 +3,8 @@ title: "Bartosz Jankiewicz"
 designation: "Engineering Manager (Cloud Composer, Google)"
 images:
  - /images/speakers/bartosz-jankiewicz.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/oborygen
+linkedin: https://www.linkedin.com/in/bjankiewicz/
 events:
  - 2023
 ---

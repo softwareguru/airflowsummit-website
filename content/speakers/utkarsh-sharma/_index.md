@@ -4,7 +4,7 @@ designation: "Astronomer, Senior Software Engineer"
 images:
  - /images/speakers/utkarsh-sharma.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/utkarsh-sharma-5791ab8a/
 events:
  - 2023
 ---

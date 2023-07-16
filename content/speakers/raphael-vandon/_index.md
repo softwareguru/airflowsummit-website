@@ -4,7 +4,7 @@ designation: "Software Developer - AWS"
 images:
  - /images/speakers/raphael-vandon.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/vandonr/
 events:
  - 2023
 ---

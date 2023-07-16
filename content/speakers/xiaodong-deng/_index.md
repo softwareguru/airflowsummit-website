@@ -1,6 +1,6 @@
 ---
 title: "Xiaodong Deng"
-designation: "Apache Airflow PMC member & Committer; Software Engineer @ Apple ACS Data Pipelines Team;"
+designation: "Apache Airflow PMC member & Committer; Software Engineer @ Apple ASE Data Pipelines Team;"
 images:
  - /images/speakers/xiaodong-deng.jpg
 twitter: https://twitter.com/xiaodongdeng1
@@ -9,7 +9,7 @@ events:
  - 2023
 ---
 
-Xiaodong is currently working as software engineer in Apple ACS Data Pipelines team. He is also one of the committers (since March 2019) and PMC members (since December 2020) of Apache Airflow.
+Xiaodong is currently working as software engineer in Apple ASE Data Pipelines team. He is also one of the committers (since March 2019) and PMC members (since December 2020) of Apache Airflow.
 
 
 

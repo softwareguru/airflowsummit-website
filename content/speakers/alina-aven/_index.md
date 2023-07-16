@@ -4,7 +4,7 @@ designation: "Senior Data engineer in C2i-genomics"
 images:
  - /images/speakers/alina-aven.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/alina-aven-733238103
 events:
  - 2023
 ---

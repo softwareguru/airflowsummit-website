@@ -4,7 +4,7 @@ designation: "Google, Senior Software Engineer"
 images:
  - /images/speakers/mateusz-henc.jpg
 twitter: 
-linkedin: 
+linkedin: http://linkedin.com/in/mateusz-henc-a19b9169
 events:
  - 2023
 ---

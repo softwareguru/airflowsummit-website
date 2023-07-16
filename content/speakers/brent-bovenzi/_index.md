@@ -3,8 +3,8 @@ title: "Brent Bovenzi"
 designation: "Frontend Engineer - Astronomer"
 images:
  - /images/speakers/brent-bovenzi.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/bbovenzi
+linkedin: https://www.linkedin.com/in/brent-bovenzi/
 events:
  - 2023
 ---

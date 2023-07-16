@@ -4,7 +4,7 @@ designation: "Data Engineering Manager @ Vestiaire Collective"
 images:
  - /images/speakers/ben-chen.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/benbenbang/
 events:
  - 2023
 ---

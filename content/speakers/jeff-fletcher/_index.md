@@ -4,7 +4,7 @@ designation: "Director Field Engineering, Machine Learning - Astronomer"
 images:
  - /images/speakers/jeff-fletcher.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/jefffletcher/
 events:
  - 2023
 ---

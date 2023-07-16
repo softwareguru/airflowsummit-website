@@ -3,8 +3,8 @@ title: "Rafay Aleem"
 designation: "Senior Data Engineer @ Faire"
 images:
  - /images/speakers/rafay-aleem.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/mrafayaleem
+linkedin: https://www.linkedin.com/in/mrafayaleem/
 events:
  - 2023
 ---

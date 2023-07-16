@@ -4,7 +4,7 @@ designation: "Senior Technical Writer - Astronomer"
 images:
  - /images/speakers/laura-zdanski.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/lzdanski/
 events:
  - 2023
 ---

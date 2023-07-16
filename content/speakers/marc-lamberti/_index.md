@@ -4,7 +4,7 @@ designation: "Astronomer, Head of Customer Education"
 images:
  - /images/speakers/marc-lamberti.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/marclamberti/
 events:
  - 2023
 ---

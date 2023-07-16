@@ -4,7 +4,7 @@ designation: "Infrastructure Data Engineer at Wix.com (Data infra organziation)"
 images:
  - /images/speakers/roy-noyman.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/roy-noyman/
 events:
  - 2023
 ---

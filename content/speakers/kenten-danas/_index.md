@@ -4,7 +4,7 @@ designation: "Lead Developer Advocate at Astronomer"
 images:
  - /images/speakers/kenten-danas.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/kentendanas/
 events:
  - 2023
 ---

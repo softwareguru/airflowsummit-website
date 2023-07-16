@@ -4,7 +4,7 @@ designation: "Big Data Engineer"
 images:
  - /images/speakers/mateus-oliveira.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/mateus-henrique-c%C3%A2ndido-de-oliveira-53983a54/
 events:
  - 2023
 ---

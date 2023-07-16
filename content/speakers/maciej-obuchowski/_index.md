@@ -4,7 +4,7 @@ designation: "Software Engineer at GetInData, OpenLineage committer"
 images:
  - /images/speakers/maciej-obuchowski.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/maciejobuchowski/
 events:
  - 2023
 ---

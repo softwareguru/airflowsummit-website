@@ -4,7 +4,7 @@ designation: "Software Developer - AWS"
 images:
  - /images/speakers/syed-hussain.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/syed~hussain
 events:
  - 2023
 ---

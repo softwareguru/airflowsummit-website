@@ -3,8 +3,8 @@ title: "Bhavani Ravi"
 designation: "Independent Software Consultant"
 images:
  - /images/speakers/bhavani-ravi.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/BhavaniRavi_
+linkedin: https://www.linkedin.com/in/bhavanicodes/
 events:
  - 2023
 ---

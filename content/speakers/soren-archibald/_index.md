@@ -4,7 +4,7 @@ designation: "QBiz, Inc. -- Consulting Lead"
 images:
  - /images/speakers/soren-archibald.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/soren-archibald-43193b3/
 events:
  - 2023
 ---

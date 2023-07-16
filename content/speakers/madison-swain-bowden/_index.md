@@ -3,8 +3,8 @@ title: "Madison Swain-Bowden"
 designation: "Senior Data Engineer @ Automattic"
 images:
  - /images/speakers/madison-swain-bowden.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/AetherUnbound
+linkedin: https://www.linkedin.com/in/madisonswainbowden/
 events:
  - 2023
 ---

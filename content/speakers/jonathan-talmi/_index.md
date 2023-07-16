@@ -3,8 +3,8 @@ title: "Jonathan Talmi"
 designation: "Data Practitioner and Engineering Manager at Snapcommerce"
 images:
  - /images/speakers/jonathan-talmi.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/jtalms
+linkedin: https://www.linkedin.com/in/jonathan-talmi-1a099852/
 events:
  - 2023
 ---

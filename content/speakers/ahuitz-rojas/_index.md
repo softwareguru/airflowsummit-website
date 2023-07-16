@@ -3,7 +3,7 @@ title: "Ahuitz Rojas"
 designation: "Data Scientist at Akvelon"
 images:
  - /images/speakers/ahuitz-rojas.jpg
-twitter: 
+twitter: https://twitter.com/AhuitzRojas
 linkedin: 
 events:
  - 2023

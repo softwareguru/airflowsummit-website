@@ -4,7 +4,7 @@ designation: "Lead Consultant at Qbiz"
 images:
  - /images/speakers/jay-thomas.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/jaywthomas
 events:
  - 2023
 ---

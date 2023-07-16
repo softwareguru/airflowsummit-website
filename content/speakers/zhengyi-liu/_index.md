@@ -4,7 +4,7 @@ designation: "Software Engineering Manager in Snap"
 images:
  - /images/speakers/zhengyi-liu.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/zhengyi-liu-74abb126/
 events:
  - 2023
 ---

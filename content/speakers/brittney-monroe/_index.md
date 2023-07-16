@@ -4,7 +4,7 @@ designation: "Carvana, Senior Engineer I "
 images:
  - /images/speakers/brittney-monroe.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/brittney-monroe-84347349/
 events:
  - 2023
 ---

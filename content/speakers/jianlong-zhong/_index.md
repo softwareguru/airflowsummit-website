@@ -4,7 +4,7 @@ designation: "Coinbase, Staff Software Engineer"
 images:
  - /images/speakers/jianlong-zhong.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/jianlong-zhong-56751a5a/
 events:
  - 2023
 ---

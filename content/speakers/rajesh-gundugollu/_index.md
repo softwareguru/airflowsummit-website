@@ -1,10 +1,10 @@
 ---
 title: "Rajesh Gundugollu"
-designation: Principal Architect Data Products @ Asurion
+designation: "Solving and simplifying petabyte scale problems!"
 images:
  - /images/speakers/rajesh-gundugollu.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/rajesh-gundugollu/
 events:
  - 2023
 ---

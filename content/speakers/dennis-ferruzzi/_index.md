@@ -4,7 +4,7 @@ designation: "OSS Developer - AWS"
 images:
  - /images/speakers/dennis-ferruzzi.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/dferruzzi/
 events:
  - 2023
 ---

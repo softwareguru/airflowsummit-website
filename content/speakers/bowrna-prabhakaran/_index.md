@@ -3,8 +3,8 @@ title: "Bowrna Prabhakaran"
 designation: "Software Engineer Unravel Data,  Former Outreachy Intern for Apache Airflow"
 images:
  - /images/speakers/bowrna-prabhakaran.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/bowrna_p
+linkedin: https://www.linkedin.com/in/bowrna-prabhakaran/
 events:
  - 2023
 ---

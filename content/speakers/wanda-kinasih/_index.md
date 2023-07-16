@@ -4,7 +4,7 @@ designation: "Business Intelligence Lead at Gojek"
 images:
  - /images/speakers/wanda-kinasih.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/wandakinasih/
 events:
  - 2023
 ---

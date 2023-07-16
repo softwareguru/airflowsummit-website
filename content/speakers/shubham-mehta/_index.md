@@ -3,8 +3,8 @@ title: "Shubham Mehta"
 designation: "Senior Product Manager at AWS"
 images:
  - /images/speakers/shubham-mehta.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/deeplytechnical
+linkedin: https://www.linkedin.com/in/shubh-mehta/
 events:
  - 2023
 ---

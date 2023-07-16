@@ -1,10 +1,10 @@
 ---
 title: "Zohar Donenhirsh"
-designation: "Director of Data Engineering in C2i genomics"
+designation: "Director of Data Engineering in C2i Genomics"
 images:
  - /images/speakers/zohar-donenhirsh.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/zohardonenhirsh/
 events:
  - 2023
 ---

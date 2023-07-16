@@ -4,7 +4,7 @@ designation: "Senior Consultant at Qbiz"
 images:
  - /images/speakers/brian-donaghy.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/brian-donaghy/
 events:
  - 2023
 ---

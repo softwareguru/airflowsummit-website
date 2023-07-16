@@ -4,7 +4,7 @@ designation: "Bloomberg, Software Engineer, Data Pipelines, Data Platform"
 images:
  - /images/speakers/yenny-su.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/yennysu
 events:
  - 2023
 ---

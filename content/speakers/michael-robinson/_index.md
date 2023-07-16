@@ -3,8 +3,8 @@ title: "Michael Robinson"
 designation: "Michael Robinson is a Developer Relations Engineer at Astronomer and a contributor to OpenLineage, Marquez and Airflow."
 images:
  - /images/speakers/michael-robinson.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/devrel_michael
+linkedin: https://www.linkedin.com/in/michael-robinson/
 events:
  - 2023
 ---

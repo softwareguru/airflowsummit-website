@@ -4,7 +4,7 @@ designation: "Data Engineer at Zoominfo"
 images:
  - /images/speakers/serene-ghazi.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/serene-ghazi
 events:
  - 2023
 ---

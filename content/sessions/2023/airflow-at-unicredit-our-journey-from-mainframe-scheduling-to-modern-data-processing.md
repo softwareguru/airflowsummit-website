@@ -1,11 +1,13 @@
 ---
-title: "The Airflow experience at UniCredit"
-slug: the-airflow-experience-at-unicredit
+title: "Airflow at UniCredit: Our journey from mainframe scheduling to modern data processing"
+slug: airflow-at-unicredit-our-journey-from-mainframe-scheduling-to-modern-data-processing
+aliases:
+ - /sessions/2023/the-airflow-experience-at-unicredit
 speakers:
  - Jan Pawłowski
  - Jędrzej Matuszak
-time_start: 2023-09-19T09:00:00-05:00
-time_end: 2023-09-19T10:00:00-05:00
+time_start: 2023-09-20T15:00:00-04:00
+time_end: 2023-09-20T15:30:00-04:00
 track: Use cases
 ---
 

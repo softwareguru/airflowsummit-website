@@ -1,11 +1,13 @@
 ---
-title: "Airflow @ Monzo - Evolving Our Data Platform As The Bank Scales"
-slug: airflow-monzo-evolving-our-data-platform-as-the-bank-scales
+title: "Airflow at Monzo: Evolving our data platform as the bank scales"
+slug: airflow-at-monzo-evolving-our-data-platform-as-the-bank-scales
+aliases:
+ - /sessions/2023/airflow-monzo-evolving-our-data-platform-as-the-bank-scales
 speakers:
  - Jonathan Rainer
  - Ed Sparkes
-time_start: 2023-09-19T09:00:00-05:00
-time_end: 2023-09-19T10:00:00-05:00
+time_start: 2023-09-20T14:30:00-04:00
+time_end: 2023-09-20T15:00:00-04:00
 track: Use cases
 ---
 

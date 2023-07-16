@@ -3,8 +3,8 @@ title: "Pádraic Slattery"
 designation: "Analytics Engineer at Xebia Data"
 images:
  - /images/speakers/padraic-slattery.jpg
-twitter: 
-linkedin: 
+twitter: https://twitter.com/godatadriven
+linkedin: https://www.linkedin.com/in/padraicslattery/
 events:
  - 2023
 ---

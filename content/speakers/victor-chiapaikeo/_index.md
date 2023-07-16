@@ -4,7 +4,7 @@ designation: "Etsy, Staff Software Engineer, Data Platform"
 images:
  - /images/speakers/victor-chiapaikeo.jpg
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/victor-chiapaikeo-974a501b/
 events:
  - 2023
 ---
