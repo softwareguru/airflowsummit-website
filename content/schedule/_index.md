@@ -2,6 +2,7 @@
 title: "Program"
 date: 2023-04-21T15:49:31-05:00
 url: program-preview
+description: Airflow Summit 2023 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
 
 tracks:
  - Airflow basics
