@@ -5,7 +5,10 @@ speakers:
  - Jeff Fletcher
 time_start: 2023-09-20T17:15:00-04:00
 time_end: 2023-09-20T17:45:00-04:00
+room: Ballroom 1
 track: Operationalizing Airflow
+day: 2
+timeslot: 16
 ---
 
 Passing large amounts of data between tasks in Airflow used to be considered an anti-pattern. This is because of the limitations inherent in the way XComs was initially implemented. However Airflow is both evolving and is very customisable, and these limitations are now easily overcome to make moving of large data between tasks not only possible, but also preferable. 

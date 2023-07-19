@@ -8,7 +8,11 @@ speakers:
  - Raj Ramalingam
 time_start: 2023-09-19T15:30:00-04:00
 time_end: 2023-09-19T16:00:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 1
+timeslot: 12
+
 ---
 
 In this presentation, we discuss how we built a fully managed workflow orchestration system at Salesforce using Apache Airflow to facilitate dependable data lake infrastructure on the public cloud. We touch upon how we utilized kubernetes for increased scalability and resilience, as well as the most effective approaches for managing and scaling data pipelines. We will also talk about how we addressed data security and privacy, multitenancy, and interoperability with other internal systems.

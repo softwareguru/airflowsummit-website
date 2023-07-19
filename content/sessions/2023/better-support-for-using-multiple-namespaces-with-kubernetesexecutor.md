@@ -5,7 +5,11 @@ speakers:
  - Xiaodong Deng
 time_start: 2023-09-19T16:15:00-04:00
 time_end: 2023-09-19T16:45:00-04:00
+room: Ballroom 1
 track: New features/roadmap
+day: 1
+timeslot: 14
+
 ---
 
 Airflow’s KubernetesExecutor has supported multi_namespace_mode for long time. This feature is great at allowing Airflow jobs to run in different namespaces on the same Kubernetes clusters for better isolation and easier management.

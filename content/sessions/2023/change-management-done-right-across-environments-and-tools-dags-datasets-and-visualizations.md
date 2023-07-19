@@ -5,7 +5,10 @@ speakers:
  - Maxime Beauchemin
 time_start: 2023-09-20T12:30:00-04:00
 time_end: 2023-09-20T13:00:00-04:00
+room: Ballroom 2
 track: Airflow & ...
+day: 2
+timeslot: 7
 ---
 
 Change management in data teams can be challenging to say the least. Not only you have to evolve your data pipelines, data structures, and datasets themselves across environments, you also have to keep data exploration and visualizations tools in sync.

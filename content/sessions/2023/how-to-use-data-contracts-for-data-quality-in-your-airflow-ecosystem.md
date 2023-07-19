@@ -5,7 +5,10 @@ speakers:
  - Shirshanka Das
 time_start: 2023-09-20T12:00:00-04:00
 time_end: 2023-09-20T12:30:00-04:00
+room: York
 track: Lineage & Quality
+day: 2
+timeslot: 6
 ---
 
 Data contracts have been much discussed in the community of late, with a lot of curiosity around how to approach this concept in practice. 

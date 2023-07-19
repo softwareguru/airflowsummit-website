@@ -5,7 +5,10 @@ speakers:
  - Andrea Bombino
 time_start: 2023-09-20T14:00:00-04:00
 time_end: 2023-09-20T14:30:00-04:00
+room: Ballroom 2
 track: Airflow & ...
+day: 2
+timeslot: 9
 ---
 
 This talk will cover in high overview the architecture of a data product DAG, the benefits in a data mesh world and how to implement it easily.

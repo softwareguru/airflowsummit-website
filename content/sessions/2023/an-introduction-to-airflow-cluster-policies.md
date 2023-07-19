@@ -5,7 +5,11 @@ speakers:
  - Philippe Gagnon
 time_start: 2023-09-19T16:45:00-04:00
 time_end: 2023-09-19T17:15:00-04:00
+room: Ballroom 1
 track: New features/roadmap
+day: 1
+timeslot: 15
+
 ---
 
 Cluster Policies are an advanced Airflow feature composed of a set of hooks that allow cluster administrators to implement checks and mutations against certain core Airflow constructs (DAGs, Tasks, Task Instances, Pods).

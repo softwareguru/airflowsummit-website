@@ -5,7 +5,10 @@ speakers:
  - Roy Noyman
 time_start: 2023-09-20T16:15:00-04:00
 time_end: 2023-09-20T16:45:00-04:00
+room: York
 track: Use cases
+day: 2
+timeslot: 14
 ---
 
 Are you tired of spending hours on Airflow migrations and wondering how to make them more accessible? Would you like to be able to test your code on different Airflow versions? or are you struggling to set up a reliable local development environment?

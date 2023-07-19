@@ -6,7 +6,11 @@ speakers:
  - Christian Schilling
 time_start: 2023-09-19T15:30:00-04:00
 time_end: 2023-09-19T16:00:00-04:00
+room: Ballroom 1
 track: New features/roadmap
+day: 1
+timeslot: 12
+
 ---
 
 As user of Airflow we often use DagRun.conf attributes to control content and flow of a DAG run. Previously the Airflow UI only allowed to launch via JSON in the UI. This was technically feasible but not user friendly. A user needs to model, check and understand the JSON and enter parameters manually without the option to validate before trigger.

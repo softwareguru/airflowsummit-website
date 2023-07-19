@@ -5,7 +5,10 @@ speakers:
  - Utkarsh Sharma
 time_start: 2023-09-19T11:30:00-04:00
 time_end: 2023-09-19T12:00:00-04:00
-track: Airflow Intro talks
+day: 1
+timeslot: 5
+room: York
+track: Airflow basics
 ---
 
 Making a contribution to or becoming a committer on Airflow can be a daunting task, even for experienced Python developers and Airflow users. The sheer size and complexity of the code base may discourage potential contributors from taking the first steps. To help alleviate this issue, this session is designed to provide a better understanding of how Airflow works and build confidence in getting started.

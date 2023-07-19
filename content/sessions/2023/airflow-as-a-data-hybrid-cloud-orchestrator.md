@@ -2,11 +2,14 @@
 title: "Airflow as a DATA hybrid cloud orchestrator"
 slug: airflow-as-a-data-hybrid-cloud-orchestrator
 speakers:
- - Alaeddine Maaoui
+ - Maaoui Alaeddine
  - Jilan Kothakota
 time_start: 2023-09-20T14:00:00-04:00
 time_end: 2023-09-20T14:30:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 2
+timeslot: 9
 ---
 
 Apache Airflow is Scalable, Dynamic, Extensible , Elegant and can it be a lot more ?

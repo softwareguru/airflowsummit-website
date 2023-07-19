@@ -3,10 +3,14 @@ title: "Airflow and Data Mesh: Architecture, setup & monitoring"
 slug: data-mesh-workshop
 speakers:
  - M. Waqas Shahid 
-time_start: 2023-09-21T09:00:00-05:00
-time_end: 2023-09-21T11:30:00-05:00
+time_start: 2023-09-21T12:00:00-04:00
+time_end: 2023-09-21T14:30:00-04:00
 summary: In this workshop you will learn why and how to set up a data mesh architecture based on Apache Airflow.
 description: In this workshop you will learn why and how to set up a data mesh architecture based on Apache Airflow.
+day: 3
+timeslot: 3
+track: workshop
+room: Trinity 4
 
 ---
 

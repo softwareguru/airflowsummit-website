@@ -5,7 +5,10 @@ speakers:
  - Jack Lockyer-Stevens
 time_start: 2023-09-20T17:15:00-04:00
 time_end: 2023-09-20T17:45:00-04:00
+room: Ballroom 2
 track: Airflow & ...
+day: 2
+timeslot: 16
 ---
 
 In 2022, cloud data centres accounted for up to 3.7% of global greenhouse gas emissions, exceeding those of aviation and shipping.

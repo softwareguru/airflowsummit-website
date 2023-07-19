@@ -8,6 +8,7 @@ speakers:
  - Ramya Pappu
 time_start: 2023-09-19T17:45:00-04:00
 time_end: 2023-09-19T18:15:00-04:00
+room: Ballroom 3
 track: Use cases
 ---
 

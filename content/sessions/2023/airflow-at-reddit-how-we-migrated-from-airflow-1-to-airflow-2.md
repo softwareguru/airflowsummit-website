@@ -6,6 +6,10 @@ speakers:
  - Branden West
 time_start: 2023-09-19T14:00:00-04:00
 time_end: 2023-09-19T14:30:00-04:00
+day: 1
+timeslot: 9
+timeorder: 1
+room: Ballroom 3
 track: Use cases
 ---
 

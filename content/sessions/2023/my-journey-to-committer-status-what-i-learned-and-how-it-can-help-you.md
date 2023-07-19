@@ -5,7 +5,11 @@ speakers:
  - Niko Oliveira
 time_start: 2023-09-19T14:30:00-04:00
 time_end: 2023-09-19T15:00:00-04:00
+room: Ballroom 2
 track: Community
+day: 1
+timeslot: 10
+
 ---
 
 Apache Airflow is one of the largest Apache projects by many metrics but it ranks particularly high in the number of contributors involved in the project. This leads to hundreds of Github Issues, Pull Requests and Discussions being submitted to the project every month. So it is critical to have an ample number of Committers to support the community. 

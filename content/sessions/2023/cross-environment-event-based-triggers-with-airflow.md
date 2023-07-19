@@ -5,7 +5,10 @@ speakers:
  - Kunal Jain
 time_start: 2023-09-20T11:30:00-04:00
 time_end: 2023-09-20T12:00:00-04:00
+room: Ballroom 1
 track: Operationalizing Airflow
+day: 2
+timeslot: 5
 ---
 
 In an environment with multiple Airflow instances , how we build custom operators and framework to share events across the instances and trigger dags based on those events

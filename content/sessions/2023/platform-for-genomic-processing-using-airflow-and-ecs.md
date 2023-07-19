@@ -6,7 +6,10 @@ speakers:
  - Alina Aven
 time_start: 2023-09-20T15:30:00-04:00
 time_end: 2023-09-20T16:00:00-04:00
+room: Ballroom 2
 track: Airflow & ...
+day: 2
+timeslot: 12
 ---
 
 High-scale orchestration of genomic algorithms using Airflow workflows, AWS elastic container service (ECS), and docker.

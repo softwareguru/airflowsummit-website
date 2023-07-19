@@ -7,7 +7,11 @@ speakers:
  - M. Waqas Shahid
 time_start: 2023-09-19T17:15:00-04:00
 time_end: 2023-09-19T17:45:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 1
+timeslot: 16
+
 ---
 
 Ever thought how airflow could play a pivotal role in data mesh architecture, hosting thousands of DAGs and hundreds of thousands daily running tasks, let's find out!

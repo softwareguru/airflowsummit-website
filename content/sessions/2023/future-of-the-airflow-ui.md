@@ -5,7 +5,11 @@ speakers:
  - Brent Bovenzi
 time_start: 2023-09-19T12:30:00-04:00
 time_end: 2023-09-19T13:00:00-04:00
+room: Ballroom 1
 track: New features/roadmap
+day: 1
+timeslot: 7
+
 ---
 
 We are continuing to modernize the Airflow UI to make it easier to manage all aspects of your DAGs. See a demo of the latest updates and improve your workflows with new tips and tricks. Then get a preview of what else will be coming soon.

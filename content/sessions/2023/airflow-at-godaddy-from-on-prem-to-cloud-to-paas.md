@@ -7,7 +7,10 @@ speakers:
  - Amit Kumar
 time_start: 2023-09-20T12:30:00-04:00
 time_end: 2023-09-20T13:00:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 2
+timeslot: 7
 ---
 
 Discover the transformation of Airflow at GoDaddy: from its initial deployment on-prem to its migration to the cloud, and finally to a Single Pane Orchestration Model.

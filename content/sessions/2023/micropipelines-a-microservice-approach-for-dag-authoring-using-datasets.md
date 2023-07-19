@@ -5,7 +5,10 @@ speakers:
  - Vikram Koka
 time_start: 2023-09-20T15:00:00-04:00
 time_end: 2023-09-20T15:30:00-04:00
+room: Ballroom 1
 track: Operationalizing Airflow
+day: 2
+timeslot: 11
 ---
 
 Introduced in Airflow 2.4, Datasets are a foundational feature for authoring modular data pipelines. As DAGs grow to encompass a larger number of data sources and encompass multiple data transformation steps, they typically become less predictable in the timeliness of execution and less efficient. 

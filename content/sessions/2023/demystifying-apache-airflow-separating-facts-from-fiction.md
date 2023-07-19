@@ -6,7 +6,11 @@ speakers:
  - Uma Ramadoss
 time_start: 2023-09-19T12:30:00-04:00
 time_end: 2023-09-19T13:00:00-04:00
-track: Airflow Intro talks
+room: York
+track: Airflow basics
+day: 1
+timeslot: 7
+
 ---
 
 Apache Airflow is a popular workflow platform, but it often faces critiques that may not paint the whole picture. In this talk, we will unpack the critiques of Apache Airflow and provide a balanced analysis. We will highlight the areas where these critiques correctly point out Airflow's weaknesses, debunk common myths, and showcase where competitors like Dagster and Prefect are excelling.

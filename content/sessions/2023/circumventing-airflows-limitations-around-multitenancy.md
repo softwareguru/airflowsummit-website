@@ -6,7 +6,10 @@ speakers:
  - Akshay Battaje
 time_start: 2023-09-20T12:00:00-04:00
 time_end: 2023-09-20T12:30:00-04:00
+room: Ballroom 1
 track: Operationalizing Airflow
+day: 2
+timeslot: 6
 ---
 
 A steady rise in users and business critical workflows poses challenges to development and production workflows. The solution: enable multi-tenancy on our single Airflow instance. We needed to enable teams to manage their python requirements, and ensure DAGs were insulated from each other. To achieve this we divided our monolithic setup into three parts: Infrastructure (with common code packaging), Workspace Creation, and CI/CD to manage deployments.

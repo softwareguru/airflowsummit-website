@@ -5,7 +5,10 @@ speakers:
  - Bhavani Ravi
 time_start: 2023-09-19T12:00:00-04:00
 time_end: 2023-09-19T12:30:00-04:00
-track: Airflow Intro talks
+day: 1
+timeslot: 6
+room: York
+track: Airflow basics
 ---
 
 Apache Airflow - The open-ended nature of this orchestration tool gives room for a variety of customization.

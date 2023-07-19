@@ -4,11 +4,15 @@ slug: performance-optimize-airflow-workshop
 speakers:
  - Aneel Murari
  - Parnab Basak
-time_start: 2023-09-21T09:00:00-05:00
-time_end: 2023-09-21T11:30:00-05:00
+time_start: 2023-09-21T09:00:00-04:00
+time_end: 2023-09-21T11:30:00-04:00
 summary: Learn how to optimize your Apache Airflow environment. You will get hands-on experience implementing  techniques and best practices and see how they improve the performance of the Airflow environment.
 description: Learn how to optimize your Apache Airflow environment. You will get hands-on experience implementing  techniques and best practices and see how they improve the performance of the Airflow environment.
 
+day: 3
+timeslot: 1
+track: workshop
+room: Trinity 3
 
 ---
 

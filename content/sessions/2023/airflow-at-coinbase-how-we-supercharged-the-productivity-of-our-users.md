@@ -1,13 +1,16 @@
 ---
 title: "Airflow at Coinbase: How we supercharged the productivity of our users"
 slug: airflow-at-coinbase-how-we-supercharged-the-productivity-of-our-users
-aliases: 
+aliases:
  - /sessions/2023/supercharge-productivity-of-airflow-users-at-coinbase
 speakers:
  - Jianlong Zhong
 time_start: 2023-09-20T15:30:00-04:00
 time_end: 2023-09-20T16:00:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 2
+timeslot: 12
 ---
 
 At Coinbase, Airflow is adopted by a wide range of applications, and used by nearly all the engineering and data science teams. In this session, we will share our journey in improving the productivity of Airflow users at Coinbase. The presentation will focus on three main topics: 

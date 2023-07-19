@@ -5,7 +5,11 @@ speakers:
  - Laura Zdanski
 time_start: 2023-09-19T12:30:00-04:00
 time_end: 2023-09-19T13:00:00-04:00
+room: Ballroom 2
 track: Community
+day: 1
+timeslot: 7
+
 ---
 
 Open Source doc edits provide a low-stakes way for new users to first contribute. Ideally, new users find opportunities and feel welcome to fix docs as they learn, engaging with the community from the start. But, I found that contributing docs to Airflow had some surprising obstacles.

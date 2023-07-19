@@ -6,7 +6,10 @@ speakers:
  - Zdravko Hvarlingov
 time_start: 2023-09-20T17:15:00-04:00
 time_end: 2023-09-20T17:45:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 2
+timeslot: 16
 ---
 
 Inside the Financial Times, we’ve been gradually moving our batching data processing from a custom solution to Airflow. To enable various teams within the company to use Airflow more effectively, we've been working on extending the system's self-service capabilities. This includes giving ownership to teams of their DAGs and separating resources such as connections.

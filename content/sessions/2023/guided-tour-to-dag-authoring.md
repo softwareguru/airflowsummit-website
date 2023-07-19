@@ -5,7 +5,11 @@ speakers:
  - Jed Cunningham
 time_start: 2023-09-19T14:00:00-04:00
 time_end: 2023-09-19T14:30:00-04:00
-track: Airflow Intro talks
+room: York
+track: Airflow basics
+day: 1
+timeslot: 9
+
 ---
 
 New to Airflow or haven’t followed any of the recent DAG authoring enhancements? This talk is for you!

@@ -7,7 +7,10 @@ speakers:
  - Wanda Kinasih
 time_start: 2023-09-20T16:45:00-04:00
 time_end: 2023-09-20T17:15:00-04:00
+room: Ballroom 3
 track: Use cases
+day: 2
+timeslot: 15
 ---
 
 With millions of orders per day, Gojek needs a data processing solution that can handle a high volume of data. Airflow is a scalable tool that can handle large volumes of data and complex workflows, making it an ideal solution for Gojek's needs.

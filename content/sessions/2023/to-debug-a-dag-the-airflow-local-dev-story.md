@@ -5,7 +5,11 @@ speakers:
  - Daniel Imberman
 time_start: 2023-09-19T16:45:00-04:00
 time_end: 2023-09-19T17:15:00-04:00
-track: Airflow Intro talks
+room: York
+track: Airflow basics
+day: 1
+timeslot: 15
+
 ---
 
 As much as we love airflow, local development has been a bit of a white whale through much of its history. Until recently, Airflow’s local development experience has been hindered by the need to spin up a scheduler and webserver. In this talk, we will explore the latest innovation in Airflow local development, namely the "dag.test()" functionality introduced in Airflow 2.5.

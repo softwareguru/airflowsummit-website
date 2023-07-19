@@ -1,13 +1,16 @@
 ---
 title: "Airflow at Bloomberg: Leveraging dynamic DAGs for data ingestion"
 slug: airflow-at-bloomberg-leveraging-dynamic-dags-for-data-ingestion
-aliases: 
+aliases:
  - /sessions/2023/leveraging-dynamic-dags-for-data-ingestion-at-bloomberg
 speakers:
  - Ivan Sayapin
  - Yenny Su
 time_start: 2023-09-19T14:30:00-04:00
 time_end: 2023-09-19T15:00:00-04:00
+day: 1
+timeslot: 10
+room: Ballroom 3
 track: Use cases
 ---
 

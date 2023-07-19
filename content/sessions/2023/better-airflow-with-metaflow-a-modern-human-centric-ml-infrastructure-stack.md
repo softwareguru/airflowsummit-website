@@ -6,7 +6,10 @@ speakers:
  - Ryan Delgado
 time_start: 2023-09-20T12:00:00-04:00
 time_end: 2023-09-20T12:30:00-04:00
+room: Ballroom 2
 track: Airflow & ...
+day: 2
+timeslot: 6
 ---
 
 Airflow is a household brand in data engineering: It is readily familiar to most data engineers, quick to set up, and, as proven by millions of data pipelines powered by it since 2014, it can keep DAGs running.

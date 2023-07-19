@@ -5,7 +5,10 @@ speakers:
  - Bartosz Jankiewicz
 time_start: 2023-09-20T15:30:00-04:00
 time_end: 2023-09-20T16:00:00-04:00
+room: Ballroom 1
 track: Operationalizing Airflow
+day: 2
+timeslot: 12
 ---
 
 Reliability is a complex and important topic. I will focus on both reliability definition and best practices.

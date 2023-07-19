@@ -1,3 +1,4 @@
+
 #TopicTab {
 	background: #eee;
 	border-radius: 5px;
@@ -50,80 +51,162 @@
 }
 
 
-.time-table {
-	.time {
-		flex-basis: 20%;
-	}
-
-	.content {
-		flex-basis: 60%;
-	}
-
-
-	.content-img {
-		flex-basis: 20%;
-
-		img {
-			border-radius: 100%;
-
-			@media screen {
-				width: 100px;
-			}
-		}
-	}
-
-	li {
-		box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
-	}
-}
 
 .text-color-2 {
 	color: $secondary-color;
 }
 
-.session-item {
+.time-row {
+	margin-bottom: 1em;
+	grid-column-gap: 1em;
+}
+
+.time-row.concurrent {
 	display: grid;
-	align-items: start;
-	grid-template-columns: 100px 1fr;
-	column-gap: 20px;
-	margin: 1em 0;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	@media (max-width: 576px) {
+		grid-template-columns: 50px 1fr;
+		.time-label { grid-area: 1 / 1 / 5 / 2; }
+		.room-ballroom-1 { grid-area: 1 / 2 / 2 / 3; }
+		.room-ballroom-2 { grid-area: 2 / 2 / 3 / 3; }
+		.room-ballroom-3 { grid-area: 3 / 2 / 4 / 3; }
+        .room-york       { grid-area: 4 / 2 / 5 / 3; }
+	}
+}
+
+.time-row.keynote, .time-row.break {
+	display: grid;
+	grid-template-columns: 1fr;
+	@media (max-width: 576px) {
+		grid-template-columns: 50px 1fr;
+	}
+
+}
+
+  
+.session-item {
+	margin-bottom: 0.5em;
+	padding: 0.8em;  
+	border-radius: 10px;
+	font-size: 16px;
+}
+
+.session-item {
+	@media (min-width: 576px) {
+		height:95%;
+	} 
+}
+
+.session-item.empty-before {
+	@media (min-width: 576px) {
+        margin-top: 8em;
+    }
 }
 
 .session-time {
 	white-space: nowrap;
-	padding-top: 1em;
+	font-size: 0.8em;
+	color: #606060;
 }
 
-.session-info {
-	padding: 12px;
-	border-radius: 10px
+.session-speakers{
+	color: #202020;	
+	font-style: italic;
+}
+
+.session-abstract {
+	font-size: 0.8em;
+	line-height: 120%;
+
+}
+
+.session-room {
+	font-size: 0.8em;
+	color: $orange;
+}
+
+.local-room {
+	font-size: 0.9em;
+}
+
+.session-title {
+	font-weight: 500;
+	line-height: 140%;
+}
+
+.session-title a {
+	color: #202020;	
+}
+
+.session-title a:hover {
+	color: $blue;	
 }
 
 .session-info p {
 	margin: 0;
 }
 
-.keynote .session-info {
-	background-color: #b0b0f0;
+.track-all {
+	background-color: white;
+	border: 2px solid #404040;
 }
 
-.presentation .session-info {
-	background-color: #d0d0d0;
+.track{
+	background-color: white;
+	border: #80c090 3px solid;
 }
 
-.adoption .session-info,
-.spotlight .session-info {
-	background-color: #d0f0d6;
+  
+.track-break {
+	background-color: #d0d0d0a0;
+}
+  
+.track-keynote, .track-panel {
+	background-color: #fd7e6220;
+	border: 2px solid #fd7e62;
+}
+	
+.track-use-cases {
+	background-color: #40d9ff20;
+   	border: 2px solid #40d9ff;
 }
 
-.workshop .session-info {
-	background-color: #f0f0b0;
+.track-lineage--quality {
+	background-color: #f7fa1120;
+	border: 2px solid #f7fa11;
+}
+  
+.track-community {
+	background-color: #994c0020;
+	border: 2px solid #994c00;
 }
 
-.lightning .session-info {
-	background-color: #80c9fa;
-	border-radius: 0px;
+.track-airflow-basics {
+	background-color: #62fdd120;
+	border: 2px solid #62fdd1;
 }
+  
+.track-new-featuresroadmap {
+	background-color: #9b62fd20;
+	border: 2px solid #9b62fd;
+}
+  
+.track-airflow-- {
+	background-color: #1b9ecd60;
+	border: 2px solid #1b9ecd;
+}
+
+.track-operationalizing-airflow {
+	background-color: #2ba15b20;
+	border: 2px solid #2ba15b;
+}
+	  
+.track-workshop {
+	background-color: #5653f810;
+	border: 2px solid #5653f8;
+}
+  
+  
 
 .session-item.lightning {
 	margin:0;
@@ -144,12 +227,29 @@
 }
 
 .color-code-item {
-	padding: 5px; 
+	padding: 12px 18px; 
 	border-radius: 4px; 
     margin-right: 1em;
+	color: #202020;
+	margin-bottom: 1em;
 }
 
 .session-meta {
   margin: 0;
   font-size: 0.9em;
+}
+
+.session-track {
+	color: #606060;
+	font-size: 0.9em;;
+}
+
+#day-buttons .btn:focus, #day-buttons.btn.focus {
+	background-color: #dc3545;
+	color: #ffffff;
+}
+
+a.read-more {
+	font-size: 0.9em;
+	color: $blue;
 }
