@@ -27,19 +27,7 @@ We also have special 20% discount for students or academy members, and for parti
 
 Participant identified as **women or non-binary:** When registering apply the code DISC_WOMENNB
 
-<br>
 
-## Apply for a scholarship
-
-If you belong to an under-represented audience or you are a student, you have the opportunity to get a scholarship. Scholarships accepted will receive a complimentary pass to attend the event, and will have the possibility to be reimbursed up to a max of $1,500 USD for travel expenses. 
-
-Please apply before July 14, 2023, we will contact you by July 20th to let you know if we were able to support your attendance in some way.
-
-<div class="text-center">
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBE6DRor8HTAD-JrjOV_2P1vZME2Jz_eHVG9iwiMhpZami0g/viewform" target="_blank">
-<button class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#017CEE;">Apply for a scholarship</button>
-</a>
-</div>
 
 <br>
 
