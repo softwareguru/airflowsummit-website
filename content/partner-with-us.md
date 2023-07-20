@@ -11,8 +11,8 @@ draft: false
 
 Astronomer, AWS, BMC, Google, and IBM, are some of our top sponsors and you can join them during the in-person Airflow Summit this September 2023 in Toronto, Canada!
 
-<!--<img src="/images/blog/.png" class="img-fluid mx-auto d-block" >
-<br>-->
+<img src="/images/As-numbers.png" class="img-fluid mx-auto d-block">
+<br>
 
 
 Airflow Summit 2022 had an online component, plus local in-person events. The 2023 edition will be the first full in-person event.
@@ -34,77 +34,7 @@ This in-person event is an opportunity to get in contact with users, committers,
 
 ### Companies that have partnered with us
 
-
-<div class="row row-cols-1 row-cols-md-3">
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/astronomer.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/aws.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/bmc.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/google-cloud.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  
-</div>
-
-
-<div class="row row-cols-1 row-cols-md-3">
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/IBM.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/manning.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/montecarlo.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/packt-logo.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-</div>
-
-<div class="row row-cols-1 row-cols-md-3">
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/preset.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/Qbiz.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/lake.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-  <div class="col mb-2">
-    <div class="card">
-      <img src="/images/partners/unravel.png" class="card-img-top" alt="...">
-    </div>
-  </div>
-</div>
+Airbyte, Astronomer, AWS, BMC, Google Cloud, IBM, Manning editorial, Monte Carlo Data, Packt editorial, Preset, Qbiz, Treeverse, Unravel.
 
 <br>
 
