@@ -184,4 +184,4 @@ days:
 summary: 
 ---
 
-<h4 class="mb-4">Welcome to the session program for Beam Summit 2023. </h4>
+<h4 class="mb-4">Welcome to the session program for Airflow Summit 2023. </h4>
