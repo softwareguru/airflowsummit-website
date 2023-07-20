@@ -7,7 +7,7 @@ time_start: 2023-09-19T09:00:00-04:00
 time_end: 2023-09-19T09:30:00-04:00
 room: Ballroom 1
 track: keynote
-day: 2
+day: 1
 timeslot: 1
 
 ---
