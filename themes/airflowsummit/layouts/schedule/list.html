@@ -38,7 +38,11 @@
                             <div class="session-title text-center font-weight-normal">{{ .name }}</div>
                         </div>
                     </div>
-                {{ else }}   
+                {{ else if eq .type "room-labels"}}                
+                  {{ range $rooms }}
+                    <div class="mt-1 mb-2 text-center"><h4>{{ . }}</h4></div>
+                  {{ end }}
+                {{ else }}    
                 {{ range $rooms }}
                     <div class="time-room room-{{anchorize .}}">
                         {{ range sort (where (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day ) ".Params.timeslot" $time_id) ".Params.room" . ) ".Params.timeorder" }}
@@ -47,11 +51,11 @@
                             <div class="session-title"><a href="#abs-{{.Params.slug}}" target="_blank" data-toggle="collapse">{{ .Title }}</a></div>
                             <div class="session-speakers">{{ with .Params.speakers }}by {{ delimit . ", " " & " }}{{ end }}</div>
                             <div class="session-track">{{ with .Params.track }}Track: {{.}}{{ end }}</div>
+                            <div class="session-track d-sm-none">Room: {{ .Params.room }}</div>
                             <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
                                 <div class="my-2 session-abstract">{{ .Summary }}</div>                                
                               </div>
-                            <div><a href="{{.Permalink}}" class="read-more">See details</a></div>  
-                            <div class="session-room d-none">Room: {{ .Params.room }}</div>
+                            <div class="pb-3"><a href="{{.Permalink}}" class="read-more">See details</a></div>  
                             <div id="live-{{ .Params.slot }}" class="live-button text-center d-none"><a class="btn btn-danger btn-sm" href="{{ .Params.live_url }}" target="_blank">Watch</a></div>
                         </div>
                         {{ end }}

@@ -58,6 +58,9 @@
 
 .time-row {
 	grid-column-gap: 1em;
+	@media (max-width: 576px) {
+		margin-bottom: 1em;
+	}
 }
 
 .time-row.concurrent {
@@ -65,24 +68,34 @@
 	grid-template-columns: 1fr 1fr 1fr 1fr;
 	@media (max-width: 576px) {
 		grid-template-columns: 50px 1fr;
+		grid-row-gap: 0.8em;
 		.time-label { grid-area: 1 / 1 / 5 / 2; }
 		.room-ballroom-1 { grid-area: 1 / 2 / 2 / 3; }
 		.room-ballroom-2 { grid-area: 2 / 2 / 3 / 3; }
 		.room-ballroom-3 { grid-area: 3 / 2 / 4 / 3; }
-        .room-york       { grid-area: 4 / 2 / 5 / 3; }
+        .room-york       { grid-area: 4 / 2 / 5 / 3; }		
+	}
+}
+
+.time-row.room-labels {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	@media (max-width: 576px) {
+        display: none;
 	}
 }
 
 .time-row.keynote, .time-row.break {
 	display: grid;
 	grid-template-columns: 1fr;
-	margin-bottom: 0.5em;
 	@media (max-width: 576px) {
 		grid-template-columns: 50px 1fr;
 	}
-
 }
 
+.time-row.break {
+    margin: 0.5em 0px;
+}
   
 .session-item {
 	padding: 0.8em;  
@@ -153,8 +166,8 @@
 }
   
 .track-keynote, .track-panel {
-	background-color: #fd7e6220;
-	border: 2px solid #fd7e62;
+	background-color: #ff000020;
+	border: 2px solid #ff0000;
 }
 	
 .track-use-cases {
@@ -168,8 +181,8 @@
 }
   
 .track-community {
-	background-color: #994c0020;
-	border: 2px solid #994c00;
+	background-color: #fc6a0320;
+	border: 2px solid #fc6a03;
 }
 
 .track-airflow-basics {

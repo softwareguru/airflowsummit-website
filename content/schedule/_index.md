@@ -1,7 +1,9 @@
 ---
 title: "Program"
 date: 2023-04-21T15:49:31-05:00
-url: program-preview
+url: program
+aliases:
+ - /schedule
 description: Airflow Summit 2023 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
 
 tracks:
@@ -33,6 +35,9 @@ days:
         time_end: 2023-09-19T11:30:00-04:00
         type: break
         name: Morning break
+      - id: 4a
+        time_start: 2023-09-19T11:00:00-04:00
+        type: room-labels
       - id: 5
         time_start: 2023-09-19T11:30:00-04:00
         type: concurrent
@@ -47,6 +52,9 @@ days:
         time_end: 2023-09-19T14:00:00-04:00
         type: break
         name: Lunch
+      - id: 8a
+        time_start: 2023-09-19T11:00:00-04:00
+        type: room-labels
       - id: 9
         time_start: 2023-09-19T14:00:00-04:00
         type: concurrent
@@ -64,6 +72,9 @@ days:
         time_end: 2023-09-19T16:15:00-04:00
         type: break
         name: Afternoon break
+      - id: 13a
+        time_start: 2023-09-19T16:15:00-04:00
+        type: room-labels
       - id: 14
         time_start: 2023-09-19T16:15:00-04:00
         type: concurrent
@@ -97,6 +108,9 @@ days:
         time_end: 2023-09-20T11:30:00-04:00
         type: break
         name: Morning break
+      - id: 4a
+        time_start: 2023-09-19T11:00:00-04:00
+        type: room-labels
       - id: 5
         time_start: 2023-09-20T11:30:00-04:00
         type: concurrent
@@ -111,6 +125,9 @@ days:
         time_end: 2023-09-20T14:00:00-04:00
         type: break
         name: Lunch
+      - id: 8a
+        time_start: 2023-09-19T11:00:00-04:00
+        type: room-labels
       - id: 9
         time_start: 2023-09-20T14:00:00-04:00
         type: concurrent
@@ -128,6 +145,9 @@ days:
         time_end: 2023-09-20T16:15:00-04:00
         type: break
         name: Afternoon break
+      - id: 13a
+        time_start: 2023-09-19T11:00:00-04:00
+        type: room-labels
       - id: 14
         time_start: 2023-09-20T16:15:00-04:00
         type: concurrent
