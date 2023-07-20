@@ -1,6 +1,6 @@
 ---
 title: "Kaxil Naik"
-designation: "Airflow PMC member & Committer | Director - Airflow Engineering @ Astromomer.io"
+designation: "Airflow PMC member & Committer | Director - Airflow Engineering at Astronomer"
 images:
  - /images/speakers/kaxil-naik.jpg
 twitter: https://twitter.com/kaxil/

@@ -22,12 +22,23 @@ speaker = "speakers"
 ############################## navigation ###############################
 [menu]
 
-
+[[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 1
   [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 1
-
+    identifier = "about1"
+    name = "About"
+    url = "/about"
+    parent = "about"
+    weight = 1
+  [[menu.main]]
+    identifier = "about2"
+    name = "Partner With Us"
+    url = "/partner-with-us"
+    parent = "about"
+    weight = 2
 
   [[menu.main]]
     identifier = "category"
@@ -126,8 +137,8 @@ link = "/tickets"
     name = "Code of Conduct"
     url = "/coc"
 [[params.links.footer]]
-    name = "Prospectus"
-    url = "/docs/Airflow Summit 2023 Prospectus.pdf"
+    name = "Partner with US"
+    url = "partner-with-us"
     target="_blank"
 [[params.links.footer]]
     name = "Accessibility"

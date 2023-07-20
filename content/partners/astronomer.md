@@ -1,8 +1,8 @@
 ---
 title: "Astronomer"
 level: "platinum"
-logo: "/images/partners/astronomer-2022.png"
+logo: "/images/partners/astronomer.png"
 webUrl: "https://astronomer.io"
-weight: 2
+weight: 5
 ---
 

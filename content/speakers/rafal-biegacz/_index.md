@@ -1,6 +1,6 @@
 ---
 title: "Rafal Biegacz"
-designation: "Senior Engineering Manager (Cloud Composer, Google)"
+designation: "Senior Engineering Manager at Google"
 images:
  - /images/speakers/rafal-biegacz.jpg
 twitter: https://twitter.com/rbiegacz

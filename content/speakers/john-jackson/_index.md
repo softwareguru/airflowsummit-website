@@ -1,6 +1,6 @@
 ---
 title: "John Jackson"
-designation: "Principal Product Manager, Amazon MWAA"
+designation: "Principal Product Manager at Amazon"
 images:
  - /images/speakers/john-jackson.jpg
 twitter: https://twitter.com/JohnJacksonPM

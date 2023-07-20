@@ -1,6 +1,6 @@
 ---
 title: "Viraj Parekh"
-designation: "Founding Team, Astronomer"
+designation: "Founding Team at Astronomer "
 images:
  - /images/speakers/viraj-parekh.jpg
 twitter: https://twitter.com/viraj_parekh_

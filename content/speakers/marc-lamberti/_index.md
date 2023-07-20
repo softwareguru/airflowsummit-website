@@ -1,6 +1,6 @@
 ---
 title: "Marc Lamberti"
-designation: "Astronomer, Head of Customer Education"
+designation: "Head of Customer Education at  Astronomer"
 images:
  - /images/speakers/marc-lamberti.jpg
 twitter: 
