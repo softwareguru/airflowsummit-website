@@ -13,7 +13,7 @@ draft:
 ---
 
 
-## Partner with us, join our sponsors at Ariflow Summit 2023
+## Partner with us, join our sponsors at Airflow Summit 2023
 
 <br>
 
@@ -47,7 +47,7 @@ Airbyte, Astronomer, AWS, BMC, Google Cloud, IBM, Manning editorial, Monte Carlo
 <br>
 
 <div class="text-center">
-<a href="https://docs.google.com/presentation/d/1GR-V-3sEExDPAIQKg_fUZWSU2lNpwbAyfP1MiZjyWhw/edit?usp=sharing" target="_blank">Take a look at our Prospectus and get to know more about the available opportunities and benefits.</a>
+<h2>Take a look at our <a href="/docs/AirflowSummit2023-Prospectus.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h2>
 
 We are open to participation suggestions, feel free to [Contact Us!](mailto:info@airflowsummit.org)
 
