@@ -19,7 +19,7 @@ days:
   - id: 1
     title_short: Tuesday
     title_full: Tuesday, September 19, 2023
-    rooms: ["Ballroom A-B", "Ballroom crush", "Ballroom C-D", "York"]
+    rooms: ["Ballroom A-B", "Ballroom C-D", "Ballroom crush", "York"]
     timeslots: 
       - id: 1
         time_start: 2023-09-19T09:00:00-04:00
@@ -92,7 +92,7 @@ days:
   - id: 2
     title_short: Wednesday
     title_full: Wednesday, September 20, 2023
-    rooms: ["Ballroom A-B", "Ballroom crush", "Ballroom C-D", "York"]
+    rooms: ["Ballroom A-B", "Ballroom C-D", "Ballroom crush", "York"]
     timeslots: 
       - id: 1
         time_start: 2023-09-20T09:00:00-04:00
