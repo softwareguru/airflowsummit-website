@@ -10,7 +10,7 @@ description: In this workshop you will learn why and how to set up a data mesh a
 day: 3
 timeslot: 3
 track: workshop
-room: Trinity 4
+room: Trinity 1
 
 ---
 

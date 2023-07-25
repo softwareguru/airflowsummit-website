@@ -19,7 +19,7 @@ days:
   - id: 1
     title_short: Tuesday
     title_full: Tuesday, September 19, 2023
-    rooms: ["Ballroom 1", "Ballroom 2", "Ballroom 3", "York"]
+    rooms: ["Ballroom A-B", "Ballroom crush", "Ballroom C-D", "York"]
     timeslots: 
       - id: 1
         time_start: 2023-09-19T09:00:00-04:00
@@ -92,7 +92,7 @@ days:
   - id: 2
     title_short: Wednesday
     title_full: Wednesday, September 20, 2023
-    rooms: ["Ballroom 1", "Ballroom 2", "Ballroom 3", "York"]
+    rooms: ["Ballroom A-B", "Ballroom crush", "Ballroom C-D", "York"]
     timeslots: 
       - id: 1
         time_start: 2023-09-20T09:00:00-04:00
@@ -165,11 +165,11 @@ days:
   - id: 3
     title_short: Thursday
     title_full: Thursday, September 21, 2023
-    rooms: ["Trinity 1", "Trinity 2", "Trinity 3", "Trinity 4"]
+    rooms: ["Trinity 1", "Trinity 2", "Trinity 3", "Trinity 4", "Trinity 5"]
     timeslots: 
       - id: 1
         time_start: 2023-09-21T09:00:00-04:00
-        type: concurrent
+        type: workshops
       - id: 2
         time_start: 2023-09-21T11:30:00-04:00
         time_end: 2023-09-21T12:00:00-04:00
@@ -177,11 +177,11 @@ days:
         name: Lunch
       - id: 3
         time_start: 2023-09-21T12:00:00-04:00
-        type: concurrent
+        type: workshops
 
 
-
-summary: 
+summary: "Welcome to the session program for Airflow Summit."
+description: "Welcome to the session program for Airflow Summit."
 ---
 
 <h4 class="mb-4">Welcome to the session program for Airflow Summit 2023. </h4>

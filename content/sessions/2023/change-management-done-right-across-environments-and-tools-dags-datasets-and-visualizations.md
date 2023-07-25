@@ -5,7 +5,7 @@ speakers:
  - Maxime Beauchemin
 time_start: 2023-09-20T12:30:00-04:00
 time_end: 2023-09-20T13:00:00-04:00
-room: Ballroom 2
+room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 7

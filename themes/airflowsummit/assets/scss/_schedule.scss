@@ -70,12 +70,28 @@
 		grid-template-columns: 50px 1fr;
 		grid-row-gap: 0.8em;
 		.time-label { grid-area: 1 / 1 / 5 / 2; }
-		.room-ballroom-1 { grid-area: 1 / 2 / 2 / 3; }
-		.room-ballroom-2 { grid-area: 2 / 2 / 3 / 3; }
-		.room-ballroom-3 { grid-area: 3 / 2 / 4 / 3; }
+		.room-ballroom-a-b { grid-area: 1 / 2 / 2 / 3; }
+		.room-ballroom-crush { grid-area: 2 / 2 / 3 / 3; }
+		.room-ballroom-c-d { grid-area: 3 / 2 / 4 / 3; }
         .room-york       { grid-area: 4 / 2 / 5 / 3; }		
 	}
 }
+
+.time-row.workshops {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	@media (max-width: 576px) {
+		grid-template-columns: 50px 1fr;
+		grid-row-gap: 0.8em;
+		.time-label     { grid-area: 1 / 1 / 6 / 2; }
+		.room-trinity-1 { grid-area: 1 / 2 / 2 / 3; }
+		.room-trinity-2 { grid-area: 2 / 2 / 3 / 3; }
+		.room-trinity-3 { grid-area: 3 / 2 / 4 / 3; }
+        .room-trinity-4 { grid-area: 4 / 2 / 5 / 3; }		
+        .room-trinity-5 { grid-area: 5 / 2 / 6 / 3; }		
+	}
+}
+
 
 .time-row.room-labels {
 	display: grid;

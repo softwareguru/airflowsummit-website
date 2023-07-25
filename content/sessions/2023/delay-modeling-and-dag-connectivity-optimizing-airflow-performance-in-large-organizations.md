@@ -5,7 +5,7 @@ speakers:
  - Ahuitz Rojas
 time_start: 2023-09-20T11:30:00-04:00
 time_end: 2023-09-20T12:00:00-04:00
-room: Ballroom 3
+room: Ballroom C-D
 track: Use cases
 day: 2
 timeslot: 5

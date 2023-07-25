@@ -5,7 +5,7 @@ speakers:
  - Niko Oliveira
 time_start: 2023-09-19T14:30:00-04:00
 time_end: 2023-09-19T15:00:00-04:00
-room: Ballroom 2
+room: Ballroom crush
 track: Community
 day: 1
 timeslot: 10

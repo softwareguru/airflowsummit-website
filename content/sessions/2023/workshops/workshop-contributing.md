@@ -9,9 +9,9 @@ time_end: 2023-09-21T14:30:00-04:00
 summary: Learn how you can become a contributor to Apache Airflow. From setting up an environment to making your first pull request.
 description: Learn how you can become a contributor to Apache Airflow. From setting up an environment to making your first pull request.
 day: 3
-timeslot: 3
+timeslot: 1
 track: workshop
-room: Trinity 1
+room: Trinity 5
 
 ---
 

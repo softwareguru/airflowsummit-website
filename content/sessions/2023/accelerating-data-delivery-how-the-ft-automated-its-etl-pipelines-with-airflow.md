@@ -6,7 +6,7 @@ speakers:
  - Zdravko Hvarlingov
 time_start: 2023-09-20T17:15:00-04:00
 time_end: 2023-09-20T17:45:00-04:00
-room: Ballroom 3
+room: Ballroom C-D
 track: Use cases
 day: 2
 timeslot: 16
