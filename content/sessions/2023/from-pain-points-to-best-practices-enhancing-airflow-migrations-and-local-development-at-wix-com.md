@@ -4,7 +4,7 @@ slug: from-pain-points-to-best-practices-enhancing-airflow-migrations-and-local-
 speakers:
  - Roy Noyman
 time_start: 2023-09-20T16:15:00-04:00
-time_end: 2023-09-20T16:45:00-04:00
+time_end: 2023-09-20T16:40:00-04:00
 room: York
 track: Use cases
 day: 2

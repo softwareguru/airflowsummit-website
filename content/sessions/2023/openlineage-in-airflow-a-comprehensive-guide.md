@@ -4,7 +4,7 @@ slug: openlineage-in-airflow-a-comprehensive-guide
 speakers:
  - Maciej Obuchowski
 time_start: 2023-09-20T11:30:00-04:00
-time_end: 2023-09-20T12:00:00-04:00
+time_end: 2023-09-20T11:55:00-04:00
 room: York
 track: Lineage & Quality
 day: 2

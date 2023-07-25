@@ -4,7 +4,7 @@ slug: a-new-sqlalchemycollector-and-openlineageadapter-for-emitting-airflow-line
 speakers:
  - Michael Robinson
 time_start: 2023-09-20T15:00:00-04:00
-time_end: 2023-09-20T15:30:00-04:00
+time_end: 2023-09-20T15:25:00-04:00
 room: York
 track: Lineage & Quality
 day: 2

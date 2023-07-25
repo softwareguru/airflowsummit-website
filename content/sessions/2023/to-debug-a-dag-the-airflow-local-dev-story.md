@@ -4,7 +4,7 @@ slug: to-debug-a-dag-the-airflow-local-dev-story
 speakers:
  - Daniel Imberman
 time_start: 2023-09-19T16:45:00-04:00
-time_end: 2023-09-19T17:15:00-04:00
+time_end: 2023-09-19T17:10:00-04:00
 room: York
 track: Airflow basics
 day: 1

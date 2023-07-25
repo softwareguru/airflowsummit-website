@@ -4,7 +4,7 @@ slug: dag-parsing-optimizations
 speakers:
  - Raphaël Vandon
 time_start: 2023-09-19T17:15:00-04:00
-time_end: 2023-09-19T17:45:00-04:00
+time_end: 2023-09-19T17:40:00-04:00
 room: Ballroom A-B
 track: New features/roadmap
 day: 1

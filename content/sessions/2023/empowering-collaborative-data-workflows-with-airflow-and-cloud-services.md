@@ -5,7 +5,7 @@ speakers:
  - Stanisław Smyl
  - Hoa Nguyen
 time_start: 2023-09-19T12:30:00-04:00
-time_end: 2023-09-19T13:00:00-04:00
+time_end: 2023-09-19T12:55:00-04:00
 room: Ballroom C-D
 track: Use cases
 day: 1

@@ -4,7 +4,7 @@ slug: eat-sleep-test-repeat-how-king-ensures-always-on-data
 speakers:
  - Nathan Hadfield
 time_start: 2023-09-20T14:00:00-04:00
-time_end: 2023-09-20T14:30:00-04:00
+time_end: 2023-09-20T14:25:00-04:00
 room: York
 track: Lineage & Quality
 day: 2

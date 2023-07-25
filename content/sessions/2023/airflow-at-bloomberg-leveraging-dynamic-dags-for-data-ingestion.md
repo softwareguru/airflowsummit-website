@@ -7,7 +7,7 @@ speakers:
  - Ivan Sayapin
  - Yenny Su
 time_start: 2023-09-19T14:30:00-04:00
-time_end: 2023-09-19T15:00:00-04:00
+time_end: 2023-09-19T14:55:00-04:00
 day: 1
 timeslot: 10
 room: Ballroom C-D

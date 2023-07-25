@@ -5,7 +5,7 @@ speakers:
  - Savin Goyal
  - Ryan Delgado
 time_start: 2023-09-20T12:00:00-04:00
-time_end: 2023-09-20T12:30:00-04:00
+time_end: 2023-09-20T12:25:00-04:00
 room: Ballroom crush
 track: Airflow & ...
 day: 2

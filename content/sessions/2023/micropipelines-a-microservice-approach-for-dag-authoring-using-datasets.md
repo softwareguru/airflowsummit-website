@@ -4,7 +4,7 @@ slug: micropipelines-a-microservice-approach-for-dag-authoring-using-datasets
 speakers:
  - Vikram Koka
 time_start: 2023-09-20T15:00:00-04:00
-time_end: 2023-09-20T15:30:00-04:00
+time_end: 2023-09-20T15:25:00-04:00
 room: Ballroom A-B
 track: Operationalizing Airflow
 day: 2

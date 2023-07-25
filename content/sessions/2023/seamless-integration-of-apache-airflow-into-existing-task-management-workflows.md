@@ -5,7 +5,7 @@ speakers:
  - Serene Ghazi
  - Andy Weiss
 time_start: 2023-09-19T16:15:00-04:00
-time_end: 2023-09-19T16:45:00-04:00
+time_end: 2023-09-19T16:40:00-04:00
 room: York
 track: Airflow basics
 day: 1

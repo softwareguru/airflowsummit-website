@@ -4,7 +4,7 @@ slug: forging-the-future-five-years-of-fabricating-with-airflow
 speakers:
  - Madison Swain-Bowden
 time_start: 2023-09-19T15:00:00-04:00
-time_end: 2023-09-19T15:30:00-04:00
+time_end: 2023-09-19T15:25:00-04:00
 room: Ballroom crush
 track: Community
 day: 1

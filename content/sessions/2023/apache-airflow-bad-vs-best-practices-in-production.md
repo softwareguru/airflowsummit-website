@@ -4,7 +4,7 @@ slug: apache-airflow-bad-vs-best-practices-in-production
 speakers:
  - Bhavani Ravi
 time_start: 2023-09-19T12:00:00-04:00
-time_end: 2023-09-19T12:30:00-04:00
+time_end: 2023-09-19T12:25:00-04:00
 day: 1
 timeslot: 6
 room: York

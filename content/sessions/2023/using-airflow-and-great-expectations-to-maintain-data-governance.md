@@ -4,7 +4,7 @@ slug: using-airflow-and-great-expectations-to-maintain-data-governance
 speakers:
  - Brittney Monroe
 time_start: 2023-09-20T15:30:00-04:00
-time_end: 2023-09-20T16:00:00-04:00
+time_end: 2023-09-20T15:55:00-04:00
 room: York
 track: Lineage & Quality
 day: 2

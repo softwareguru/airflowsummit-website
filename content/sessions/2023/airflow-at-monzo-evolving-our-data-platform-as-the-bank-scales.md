@@ -7,7 +7,7 @@ speakers:
  - Jonathan Rainer
  - Ed Sparkes
 time_start: 2023-09-20T14:30:00-04:00
-time_end: 2023-09-20T15:00:00-04:00
+time_end: 2023-09-20T14:55:00-04:00
 room: Ballroom C-D
 track: Use cases
 day: 2

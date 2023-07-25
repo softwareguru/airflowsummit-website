@@ -4,7 +4,7 @@ slug: from-bug-to-bug-fix-tips-of-how-to-submit-an-issue
 speakers:
  - Diana Vazquez Romo
 time_start: 2023-09-19T16:15:00-04:00
-time_end: 2023-09-19T16:45:00-04:00
+time_end: 2023-09-19T16:40:00-04:00
 room: Ballroom crush
 track: Community
 day: 1

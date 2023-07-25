@@ -32,8 +32,8 @@
               {{ $time_start := .Params.time_start | time }}
               {{ $time_end := .Params.time_end | time }}            
               {{ if lt now $time_start }}
-              <div style="display:none;">
-              <em>{{ with .Params.time_start | time }}({{ .Format "15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }} UTC){{ end }}</em>
+              <div>
+              <em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em>
               </div>
               {{ else }}
                 {{ if ne $time_start.Year 2023 }}

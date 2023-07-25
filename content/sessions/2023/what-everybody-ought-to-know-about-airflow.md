@@ -4,7 +4,7 @@ slug: what-everybody-ought-to-know-about-airflow
 speakers:
  - Marc Lamberti
 time_start: 2023-09-19T11:30:00-04:00
-time_end: 2023-09-19T12:00:00-04:00
+time_end: 2023-09-19T11:55:00-04:00
 day: 1
 timeslot: 5
 room: Ballroom A-B

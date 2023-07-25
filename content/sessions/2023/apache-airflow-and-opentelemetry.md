@@ -5,7 +5,7 @@ speakers:
  - Dennis Ferruzzi
  - Howard Yoo
 time_start: 2023-09-19T15:00:00-04:00
-time_end: 2023-09-19T15:30:00-04:00
+time_end: 2023-09-19T15:25:00-04:00
 room: Ballroom A-B
 track: New features/roadmap
 day: 1

@@ -6,7 +6,7 @@ aliases:
 speakers:
  - Wanda Kinasih
 time_start: 2023-09-20T16:45:00-04:00
-time_end: 2023-09-20T17:15:00-04:00
+time_end: 2023-09-20T17:10:00-04:00
 room: Ballroom C-D
 track: Use cases
 day: 2

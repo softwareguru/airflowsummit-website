@@ -5,7 +5,7 @@ speakers:
  - Rafal Biegacz
  - Filip Knapik
 time_start: 2023-09-19T14:30:00-04:00
-time_end: 2023-09-19T15:00:00-04:00
+time_end: 2023-09-19T14:55:00-04:00
 room: York
 track: Airflow basics
 day: 1

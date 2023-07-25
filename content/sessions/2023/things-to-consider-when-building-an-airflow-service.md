@@ -5,7 +5,7 @@ speakers:
  - Viraj Parekh
  - Pete DeJoy
 time_start: 2023-09-19T15:30:00-04:00
-time_end: 2023-09-19T16:00:00-04:00
+time_end: 2023-09-19T15:55:00-04:00
 room: Ballroom crush
 track: Community
 day: 1
