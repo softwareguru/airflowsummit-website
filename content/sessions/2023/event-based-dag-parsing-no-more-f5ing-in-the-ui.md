@@ -1,5 +1,5 @@
 ---
-title: "Event-based DAG parsing: No more F5ing in the UI"
+title: "Event-based DAG Parsing: No more F5ing in the UI"
 slug: event-based-dag-parsing-no-more-f5ing-in-the-ui
 speakers:
  - Bas Harenslak

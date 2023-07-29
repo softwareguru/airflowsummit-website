@@ -1,6 +1,6 @@
 ---
 title: "Howard Yoo"
-designation: "Ex Product Manager"
+designation: "Sr. Solutions Architect at TechD"
 images:
  - /images/speakers/howard-yoo.jpg
 twitter: 

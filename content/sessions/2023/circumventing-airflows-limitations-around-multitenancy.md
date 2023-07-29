@@ -1,5 +1,5 @@
 ---
-title: "Circumventing Airflows Limitations around Multitenancy"
+title: "Circumventing Airflow's Limitations around Multitenancy"
 slug: circumventing-airflows-limitations-around-multitenancy
 speakers:
  - Anthony Kalsatos

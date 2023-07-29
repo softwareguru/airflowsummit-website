@@ -1,8 +1,8 @@
 ---
-title: "Airflow as a DATA hybrid cloud orchestrator"
+title: "Airflow as a Data Hybrid Cloud Orchestrator"
 slug: airflow-as-a-data-hybrid-cloud-orchestrator
 speakers:
- - Maaoui Alaeddine
+ - Alaeddine Maaoui
  - Jilan Kothakota
 time_start: 2023-09-20T14:00:00-04:00
 time_end: 2023-09-20T14:25:00-04:00

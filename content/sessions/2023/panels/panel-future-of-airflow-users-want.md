@@ -11,7 +11,7 @@ time_start: 2023-09-19T09:00:00-05:00
 time_end: 2023-09-19T10:00:00-05:00
 day: 2
 timeslot: 3
-room: Ballroom 1
+room: Ballroom A-B
 track: panel
 ---
 

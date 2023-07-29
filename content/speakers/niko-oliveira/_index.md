@@ -1,6 +1,6 @@
 ---
 title: "Niko Oliveira"
-designation: "Senior Software Engineer @ Amazon | Apache Airflow Comitter"
+designation: "Senior Software Engineer @ Amazon | Apache Airflow Committer"
 images:
  - /images/speakers/niko-oliveira.jpg
 twitter: 

@@ -1,5 +1,5 @@
 ---
-title: "Talking with management about open source"
+title: "Talking With Management About Open Source"
 slug: talking-management-open-source
 speakers:
  - Rich Bowen
