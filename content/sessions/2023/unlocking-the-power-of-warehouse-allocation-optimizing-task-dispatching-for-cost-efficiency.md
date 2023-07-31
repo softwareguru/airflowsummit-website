@@ -1,5 +1,5 @@
 ---
-title: "Unlocking the Power of Warehouse Allocation: Optimizing task dispatching for cost-efficiency"
+title: "Unlocking the Power of Warehouse Allocation: Optimizing task dispatching for cost efficiency"
 slug: unlocking-the-power-of-warehouse-allocation-optimizing-task-dispatching-for-cost-efficiency
 aliases:
  - /sessions/2023/unlocking-the-power-of-warehouse-allocation-optimizing-task-dispatching-for-cost-effective-and-effi

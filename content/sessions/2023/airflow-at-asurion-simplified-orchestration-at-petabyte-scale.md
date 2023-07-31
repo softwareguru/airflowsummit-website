@@ -11,6 +11,8 @@ room: Ballroom C-D
 track: Use cases
 day: 1
 timeslot: 6
+images:
+ - /images/sessions/2023/RajeshGundugollu.jpg
 
 ---
 

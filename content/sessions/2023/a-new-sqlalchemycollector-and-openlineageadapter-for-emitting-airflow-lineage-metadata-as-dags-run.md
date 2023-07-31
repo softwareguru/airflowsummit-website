@@ -9,6 +9,8 @@ room: York
 track: Lineage & Quality
 day: 2
 timeslot: 11
+images:
+ - /images/sessions/2023/MichaelRobinson.jpg
 ---
 
 Airflow uses SQLAlchemy under the hood but up to this point has not exploited the tool’s capacity to produce detailed metadata about queries, tables, columns, and more. In fact, SQLAlchemy ships with an event listener that, in conjunction with OpenLineage, offers tantalizing possibilities for enhancing the development process – specifically in the areas of monitoring and debugging. 

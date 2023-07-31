@@ -1,5 +1,5 @@
 ---
-title: "Astro Python SDK: Developing Modern ETL Pipelines on Apache Airflow"
+title: "Developing Modern ETL Pipelines on Apache Airflow with Astro Python SDK"
 slug: astro-python-sdk-developing-modern-etl-pipelines-on-apache-airflow
 speakers:
  - Luan Moreno Medeiros Maciel

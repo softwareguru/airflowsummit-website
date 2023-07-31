@@ -1,6 +1,6 @@
 ---
 title: "Mauricio De Diana"
-designation: "Monte Carlo Data"
+designation: "Tech Lead at Monte Carlo Data"
 images:
  - /images/speakers/mauricio-de-diana.jpg
 twitter: 

@@ -12,6 +12,9 @@ room: Ballroom C-D
 track: Use cases
 day: 2
 timeslot: 6
+images:
+ - /images/sessions/2023/Rafay+Victoria.jpg
+
 ---
 
 Data science and machine learning are at the heart of Faire’s industry-celebrated marketplace (a16z top-ranked marketplace) and drive powerful search, navigation, and risk functions which are powered by ML models that are trained on 3000+ features defined by our data scientists. 

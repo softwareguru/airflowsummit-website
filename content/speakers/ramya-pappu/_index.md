@@ -1,6 +1,6 @@
 ---
 title: "Ramya  Pappu"
-designation: "Styleseat, Senior Data engineer"
+designation: "Senior Data Engineer at StyleSeat"
 images:
  - /images/speakers/ramya-pappu.jpg
 twitter: 

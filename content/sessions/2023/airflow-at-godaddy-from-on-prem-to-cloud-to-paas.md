@@ -11,6 +11,9 @@ room: Ballroom C-D
 track: Use cases
 day: 2
 timeslot: 7
+images:
+ - /images/sessions/2023/AmitKumar.jpg
+
 ---
 
 Discover the transformation of Airflow at GoDaddy: from its initial deployment on-prem to its migration to the cloud, and finally to a Single Pane Orchestration Model.

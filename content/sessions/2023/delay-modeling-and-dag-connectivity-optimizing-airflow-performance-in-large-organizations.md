@@ -9,6 +9,8 @@ room: Ballroom C-D
 track: Use cases
 day: 2
 timeslot: 5
+images:
+ - /images/sessions/2023/AhuitzRojas.jpg
 ---
 
 In large organizations, data workflows can be complex and interconnected, with multiple dependencies and varied runtime requirements. To ensure efficient and timely execution of workflows, it is important to understand the factors that affect the performance of the system, such as network congestion, resource availability, and DAG structure. In this talk, we will explore how delay modeling and DAG connectivity analysis can be used to optimize Airflow performance in large organizations. We will present a network analysis of an airflow instance with multiple interconnected DAGs, and demonstrate how delay modeling can be used to estimate maximum delay and identify bottlenecks in the system. We will also discuss how the delay model can be used to optimize runtime and improve overall system performance.

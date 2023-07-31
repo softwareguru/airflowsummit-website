@@ -1,5 +1,5 @@
 ---
-title: "How to Build a System Test Dashboard and Why You Should Do It"
+title: "How to Build a System Test Dashboard and why you Should do it?"
 slug: how-to-build-a-system-test-dashboard-and-why-you-should-do-it
 speakers:
  - Vincent Beck
