@@ -9,6 +9,9 @@ day: 1
 timeslot: 5
 room: Ballroom C-D
 track: Use cases
+images:
+ - /images/sessions/2023/JosePuertos.jpg
+
 ---
 
 The purpose of this session is to indicate how we leverage airflow in a federated way across all our business units to perform a cost-effective platform that accommodates different patterns of data integration, replication and ML tasks in a flexible way providing DevOps tunning of DAGs across environments that integrate to our open-source observability strategy that allows our SREs to have a consistent metrics, monitoring and alerting of data tasks.

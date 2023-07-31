@@ -10,6 +10,8 @@ room: Ballroom A-B
 track: New features/roadmap
 day: 1
 timeslot: 12
+images:
+ - /images/sessions/2023/Jens+Christian.jpg
 
 ---
 

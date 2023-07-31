@@ -9,6 +9,9 @@ room: Ballroom crush
 track: Community
 day: 1
 timeslot: 16
+images:
+ - /images/sessions/2023/JonathanLeek.jpg
+
 ---
 
 Volunteers in Saint Louis are using Airflow to build an open source data warehouse of real estate data (permits, assessments, violations, etc), with an eye towards creating a national open data standard. This talk will focus on the unique challenges of running an open source data warehouse, and what it looks like to work with volunteers to create data pipelines.

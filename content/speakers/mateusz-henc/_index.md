@@ -10,5 +10,4 @@ events:
 ---
 
 - 5 years in Google
-
 - Cloud Composer team

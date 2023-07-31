@@ -9,6 +9,9 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 16
+images:
+ - /images/sessions/2023/JackLockyerStevens.jpg
+
 ---
 
 In 2022, cloud data centres accounted for up to 3.7% of global greenhouse gas emissions, exceeding those of aviation and shipping.

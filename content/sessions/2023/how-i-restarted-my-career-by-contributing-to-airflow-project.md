@@ -9,6 +9,9 @@ day: 1
 timeslot: 5
 room: Ballroom crush
 track: Community
+images:
+ - /images/sessions/2023/BowrnaPrabhakaran.jpg
+
 ---
 
 This talk is about how I filled a gap in my career by contributing to Apache Airflow and how it helped for the next step ahead in my career.

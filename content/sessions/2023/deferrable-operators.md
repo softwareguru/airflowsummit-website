@@ -9,6 +9,9 @@ room: Ballroom A-B
 track: Operationalizing Airflow
 day: 2
 timeslot: 9
+images:
+ - /images/sessions/2023/SyedHussain.jpg
+
 ---
 
 Deep dive into how AWS is developing Deferrable Operators for the Amazon Provider Package to help users realize the potential cost-savings provided by Deferrable Operators, and promote their usage.

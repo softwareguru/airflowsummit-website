@@ -10,6 +10,9 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 6
+images:
+ - /images/sessions/2023/Savin+Ryan.jpg
+
 ---
 
 Airflow is a household brand in data engineering: It is readily familiar to most data engineers, quick to set up, and, as proven by millions of data pipelines powered by it since 2014, it can keep DAGs running.

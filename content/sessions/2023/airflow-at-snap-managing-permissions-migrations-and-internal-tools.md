@@ -14,6 +14,8 @@ room: Ballroom C-D
 track: Use cases
 day: 1
 timeslot: 15
+images:
+ - /images/sessions/2023/Zhengyi+Yuri+Han+Nanxi-Snap.jpg
 
 ---
 

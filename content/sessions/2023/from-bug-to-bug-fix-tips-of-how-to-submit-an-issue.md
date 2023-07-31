@@ -9,19 +9,15 @@ room: Ballroom crush
 track: Community
 day: 1
 timeslot: 14
+images:
+ - /images/sessions/2023/DianaVazquez.jpg
 
 ---
 
 How to submit an Issue for community to fix
  
+To ensure a quality product the Airflow community relies on bug reports from Airflow users. Often times bug reports are incomplete or fail to include steps for observed bug to be re-created.
+  
+This workshop will present an example of bug-to-issue process, namely, how to rule out non-Airflow issues and once an Airflow issue is suspected, how to submit an issue for community to see. This could also cover how the community picks up on an issue and eventually fixes it in a future release. 
  
- 
- To ensure a quality product the Airflow community relies on bug reports from Airflow users. Often times bug reports are incomplete or fail to include steps for observed bug to be re-created.
- 
- 
- 
- This workshop will present an example of bug-to-issue process, namely, how to rule out non-Airflow issues and once an Airflow issue is suspected, how to submit an issue for community to see. This could also cover how the community picks up on an issue and eventually fixes it in a future release. 
- 
- 
- 
- Issue reporting is key to improving Airflow and the community will benefit on an easily digestible guide of how best to do so.
+Issue reporting is key to improving Airflow and the community will benefit on an easily digestible guide of how best to do so.

@@ -9,6 +9,8 @@ room: York
 track: Lineage & Quality
 day: 2
 timeslot: 9
+images:
+ - /images/sessions/2023/NathanHadfield.jpg
 ---
 
 At King, data is fundamental in helping us deliver the best possible experiences for the players of our games while continually bringing them new, innovative and evolving gameplay features. Data has to be "always-on", where downtime and accuracy is treated with the same level of diligence as any of our games and success is measured against internal SLAs.

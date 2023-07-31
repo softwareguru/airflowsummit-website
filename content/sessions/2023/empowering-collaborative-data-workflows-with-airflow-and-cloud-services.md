@@ -10,6 +10,8 @@ room: Ballroom C-D
 track: Use cases
 day: 1
 timeslot: 7
+images:
+ - /images/sessions/2023/Stanislaw+Hoa.jpg
 
 ---
 

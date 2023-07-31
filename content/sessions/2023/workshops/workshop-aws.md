@@ -13,6 +13,8 @@ day: 3
 timeslot: 1
 track: workshop
 room: Trinity 3
+images:
+ - /images/sessions/2023/Aneel+Parnab-Workshop.jpg
 
 ---
 

@@ -10,6 +10,9 @@ room: Ballroom A-B
 track: Operationalizing Airflow
 day: 2
 timeslot: 7
+images:
+ - /images/sessions/2023/Filip+Stanislav.jpg
+
 ---
 
 Kiwi.com started using Airflow in June 2016 as an orchestrator for several people in the company. The need for the tool grew and the monolithic instance was used by 30+ teams having 500+ DAGs active resulting in 3.5 million tasks/month successfully finished.

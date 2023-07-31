@@ -10,6 +10,9 @@ time_start: 2023-09-19T17:45:00-04:00
 time_end: 2023-09-19T18:10:00-04:00
 room: Ballroom C-D
 track: Use cases
+images:
+ - /images/sessions/2023/Kunal+Ramya.jpg
+
 ---
 
 We will share the case study of Airflow at StyleSeat, where within a year our data grew from 2 million data points per day to 200 million. Our original solution for orchestrating this data was not enough, so we migrated to an Airflow based solution.

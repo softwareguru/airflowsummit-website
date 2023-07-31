@@ -21,7 +21,7 @@
               <a class="text-dark" href="{{.Permalink}}">{{ .Params.title }}</a>
             </td>
             <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-            <td>{{ with .Params.images }}<img src="{{ index . 0 | relURL }}" alt="session banner" class="img-fluid">{{ end }}</td>
+            <td>{{ with .Params.images }}<a href="{{ index . 0 | relURL }}"><img src="{{ index . 0 | relURL }}" alt="session banner" class="img-fluid"></a>{{ else }}Pending{{ end }}</td>
           </tr>
           {{ end }}
         {{ end }}

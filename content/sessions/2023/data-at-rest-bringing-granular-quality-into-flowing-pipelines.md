@@ -11,6 +11,9 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 10
+images:
+ - /images/sessions/2023/CJ+Mauricio+Prateek.jpg
+
 ---
 
 You've got your pipelines flowing ... how much do you know about the data inside?

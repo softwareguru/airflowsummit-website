@@ -9,6 +9,9 @@ day: 1
 timeslot: 6
 room: York
 track: Airflow basics
+images:
+ - /images/sessions/2023/BhavaniRavi.jpg
+
 ---
 
 Apache Airflow - The open-ended nature of this orchestration tool gives room for a variety of customization.

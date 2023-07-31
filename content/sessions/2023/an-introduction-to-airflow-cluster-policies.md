@@ -9,6 +9,8 @@ room: Ballroom A-B
 track: New features/roadmap
 day: 1
 timeslot: 15
+images:
+ - /images/sessions/2023/PhilippeGagnon.jpg
 
 ---
 

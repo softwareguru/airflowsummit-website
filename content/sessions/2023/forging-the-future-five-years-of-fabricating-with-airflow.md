@@ -9,6 +9,8 @@ room: Ballroom crush
 track: Community
 day: 1
 timeslot: 11
+images:
+ - /images/sessions/2023/MadisonSwainBowden.jpg
 
 ---
 

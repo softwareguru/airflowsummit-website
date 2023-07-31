@@ -11,6 +11,9 @@ room: Ballroom C-D
 track: Use cases
 day: 2
 timeslot: 14
+images:
+ - /images/sessions/2023/RitikaJain.jpg
+
 ---
 
 Twitch, the world's leading live streaming platform, has a massive user base of over 140 million active users and an incredibly complex recommendation system to deliver a personalized and engaging experience to its users. 

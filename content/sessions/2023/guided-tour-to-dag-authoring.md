@@ -9,6 +9,8 @@ room: York
 track: Airflow basics
 day: 1
 timeslot: 9
+images:
+ - /images/sessions/2023/JedCunningham.jpg
 
 ---
 

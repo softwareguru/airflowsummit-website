@@ -9,6 +9,9 @@ room: Ballroom A-B
 track: Operationalizing Airflow
 day: 2
 timeslot: 5
+images:
+ - /images/sessions/2023/KunalJain.jpg
+
 ---
 
 In an environment with multiple Airflow instances , how we build custom operators and framework to share events across the instances and trigger dags based on those events

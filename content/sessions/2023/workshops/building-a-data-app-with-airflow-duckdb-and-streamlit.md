@@ -11,6 +11,9 @@ day: 3
 timeslot: 3
 track: workshop
 room: Trinity 3
+images:
+ - /images/sessions/2023/Workshop-Streamlit.jpg
+
 ---
 
 This will be a hands on keyboard, interactive workshop where we'll walk through how to take data from a public API, move it into a DuckDb instance, and then use Streamlit to build a dashboard on top. At the end, the user will have a streamlit app that gives historical data information based on a city they've input.
