@@ -44,6 +44,11 @@ We will not have live streaming. We will, however, record sessions and make them
 ### Can I join as sponsor?
 Yes! Please review our [Prospectus](/docs/AirflowSummit2023-Prospectus.pdf) or contact us at info@airflowsummit.org
 
+
+### What does the conference ticket include?
+
+Besides access to the sessions, your ticket includes: lunch, coffee breaks, access to the participants’ reception (to be held on Tuesday 19th), the event t-shirt, tote bag, and stickers.
+
 ### Accessibility
 
 The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at info@airflowsummit.org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
