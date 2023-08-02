@@ -9,6 +9,9 @@ day: 1
 timeslot: 5
 room: Ballroom A-B
 track: New features/roadmap
+images:
+ - /images/sessions/2023/MarcLamberti.jpg
+
 ---
 
 Airflow is a powerful tool for orchestrating complex data workflows, which have undergone significant changes over the past two years.
@@ -19,6 +22,4 @@ This presentation is intended to give you a solid update on the possibilities of
  
 At the end of this session, you will be able to use the essential features of Airflow, such as the Taskflow API, Datasets, or Dynamic Task Mapping, and you will know precisely what Airflow can and can't do today.
  
- 
- 
- Fasten your seatbelt, take a deep breath, and let's go 🚀
+Fasten your seatbelt, take a deep breath, and let's go 🚀

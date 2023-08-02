@@ -11,6 +11,8 @@ day: 3
 timeslot: 1
 track: workshop
 room: Trinity 2
+images:
+ - /images/sessions/2023/Databand.jpg
 
 ---
 

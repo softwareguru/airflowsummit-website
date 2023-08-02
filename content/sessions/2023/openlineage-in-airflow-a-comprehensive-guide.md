@@ -9,6 +9,9 @@ room: York
 track: Lineage & Quality
 day: 2
 timeslot: 5
+images:
+ - /images/sessions/2023/MaciejObuchowski.jpg
+
 ---
 
 With native support for OpenLineage in Airflow, users can now observe and manage their data pipelines with ease. This talk will cover the benefits of using OpenLineage, how it is implemented in Airflow, practical examples of how to take advantage of it, and what's in our roadmap. Whether you're an Airflow user or provider maintainer, this session will give you the knowledge to make the most of this tool.

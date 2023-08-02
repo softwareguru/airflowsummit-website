@@ -9,6 +9,8 @@ room: York
 track: Airflow basics
 day: 1
 timeslot: 12
+images:
+ - /images/sessions/2023/JarekPotiuk-MasteringDependencies.jpg
 
 ---
 

@@ -9,6 +9,8 @@ room: Ballroom A-B
 track: keynote
 day: 1
 timeslot: 1
+images:
+ - /images/sessions/2023/RichBowen.jpg
 
 ---
 

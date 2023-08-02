@@ -10,6 +10,9 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 12
+images:
+ - /images/sessions/2023/Zohar+Alina.jpg
+
 ---
 
 High-scale orchestration of genomic algorithms using Airflow workflows, AWS Elastic Container Service (ECS), and Docker.

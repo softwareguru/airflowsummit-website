@@ -9,6 +9,9 @@ room: York
 track: Lineage & Quality
 day: 2
 timeslot: 6
+images:
+ - /images/sessions/2023/ShirshankaDas.jpg
+
 ---
 
 Data contracts have been much discussed in the community of late, with a lot of curiosity around how to approach this concept in practice. 

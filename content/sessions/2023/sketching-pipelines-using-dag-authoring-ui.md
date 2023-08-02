@@ -10,6 +10,9 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 14
+images:
+ - /images/sessions/2023/Amogh+Shubham.jpg
+
 ---
 
 Cloudera Data Engineering (CDE) is a serverless service for Cloudera Data Platform that allows you to submit various Spark jobs and Airflow DAGs to an auto-scaling cluster.

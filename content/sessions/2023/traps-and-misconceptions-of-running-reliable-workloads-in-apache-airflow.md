@@ -9,6 +9,9 @@ room: Ballroom A-B
 track: Operationalizing Airflow
 day: 2
 timeslot: 12
+images:
+ - /images/sessions/2023/BartoszJankiewicz.jpg
+
 ---
 
 Reliability is a complex and important topic. I will focus on both reliability definition and best practices.

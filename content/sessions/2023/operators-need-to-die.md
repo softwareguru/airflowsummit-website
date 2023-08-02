@@ -9,6 +9,9 @@ day: 1
 timeslot: 9
 room: Ballroom A-B
 track: New features/roadmap
+images:
+ - /images/sessions/2023/BolkeDeBruin.jpg
+
 ---
 
 Operators form the core of the language of Airflow. In this talk I will argue that while they have served their purpose, they are holding back the development of Airflow and if Airflow wants to stay relevant in the world of the 'new' data stack (hint: it isn't currently considered to be part of it) self-service data mesh it needs to kill its darling.

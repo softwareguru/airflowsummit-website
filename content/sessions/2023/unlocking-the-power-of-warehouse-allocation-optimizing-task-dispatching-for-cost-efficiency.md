@@ -11,6 +11,9 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 15
+images:
+ - /images/sessions/2023/BenChen.jpg
+
 ---
 
 In this session, we'll explore the inner workings of our warehouse allocation service and its many benefits. We'll discuss how you can integrate these principles into your own workflow and provide real-world examples of how this technology has improved our operations. From reducing queue times to making smart decisions about warehouse costs, warehouse allocation has helped us streamline our operations and drive growth.

@@ -13,29 +13,5 @@ images:
  - /images/sessions/2023/VincentBeck.jpg
 
 ---
-
-# Pitch
  
- 
- 
- System tests are executable DAGs for example and testing purposes. With a simple pytest command, you can run an entire DAG. From a provider point of view, they can be viewed as integration tests for all provider related operators and sensors. Running these system tests frequently and monitoring the results allow us to enforce stability amongst many other benefits. In this presentation we will explore how AWS built their system test environment, from the GitHub fork to the health dashboard that exists today...but more importantly, why you should do it as well!
- 
- 
- 
- # Presentation
- 
- 
- 
- ## System tests at a glance
- 
- 
- 
- ## How to run them frequently and report their result?
- 
- 
- 
- ## What are the benefits? (Why you should do it as well)
- 
- 
- 
- ## Q&A
+System tests are executable DAGs for example and testing purposes. With a simple pytest command, you can run an entire DAG. From a provider point of view, they can be viewed as integration tests for all provider related operators and sensors. Running these system tests frequently and monitoring the results allow us to enforce stability amongst many other benefits. In this presentation we will explore how AWS built their system test environment, from the GitHub fork to the health dashboard that exists today...but more importantly, why you should do it as well!

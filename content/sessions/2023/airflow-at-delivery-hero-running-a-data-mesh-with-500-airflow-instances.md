@@ -4,7 +4,7 @@ slug: airflow-at-delivery-hero-running-a-data-mesh-with-500-airflow-instances
 aliases:
  - /sessions/2023/airflow-and-data-mesh-running-500-airflows-crunching-millions-of-meals-delivered-daily
 speakers:
- - M. Waqas Shahid
+ - M Waqas Shahid
 time_start: 2023-09-19T17:15:00-04:00
 time_end: 2023-09-19T17:40:00-04:00
 room: Ballroom C-D

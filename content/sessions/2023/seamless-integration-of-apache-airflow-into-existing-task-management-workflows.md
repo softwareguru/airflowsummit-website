@@ -10,6 +10,8 @@ room: York
 track: Airflow basics
 day: 1
 timeslot: 14
+images:
+ - /images/sessions/2023/Serene+Andy.jpg
 
 ---
 

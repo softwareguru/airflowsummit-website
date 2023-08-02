@@ -10,6 +10,8 @@ room: Ballroom crush
 track: Community
 day: 1
 timeslot: 12
+images:
+ - /images/sessions/2023/Viraj+Pete.jpg
 
 ---
 

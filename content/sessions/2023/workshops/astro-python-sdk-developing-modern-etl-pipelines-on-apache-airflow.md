@@ -10,6 +10,8 @@ day: 3
 timeslot: 3
 track: workshop
 room: Trinity 2
+images:
+ - /images/sessions/2023/Luan+Mateus-Workshop.jpg
 
 ---
 

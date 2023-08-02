@@ -10,7 +10,7 @@ track: Community
 day: 1
 timeslot: 9
 images:
- - /images/sessions/2023/JohnJackson.jpg
+ - /images/sessions/2023/JohnJackson-AWS.jpg
 
 ---
 

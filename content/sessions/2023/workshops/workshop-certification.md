@@ -11,6 +11,9 @@ day: 3
 timeslot: 3
 track: workshop
 room: Trinity 4
+images:
+ - /images/sessions/2023/Certification-Workshop.jpg
+
 ---
 
 As an Airflow Summit attendee, we’re thrilled to offer you an in-person opportunity to take an [Airflow Certification](https://www.astronomer.io/certification/) exam at no additional cost. Depending on your skill level, you can take one of two exams:
