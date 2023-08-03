@@ -47,7 +47,7 @@ Airbyte, Astronomer, AWS, BMC, Google Cloud, IBM, Manning editorial, Monte Carlo
 <br>
 
 <div class="text-center">
-<h2>Take a look at our <a href="/docs/AirflowSummit2023-Prospectus.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h2>
+<h2>Take a look at our <a href="/docs/AirflowSummit2023-Prospectus-v2.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h2>
 
 We are open to participation suggestions, feel free to [Contact Us!](mailto:info@airflowsummit.org)
 
