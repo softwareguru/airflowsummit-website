@@ -5,10 +5,9 @@ images:
  - /images/speakers/raj-ramalingam.jpg
 twitter: 
 linkedin: 
-draft: true
 events:
  - 2023
 
 ---
 
-Later
+Raj has been building an internal scalable multi-tenant data/ML platform at Salesforce. He has been focusing on enhancing deployability, security and toolsets to help internal teams to develop, test and deploy data/ML workflows.
