@@ -8,7 +8,7 @@ time_end: 2023-09-19T17:40:00-04:00
 room: Ballroom crush
 track: Community
 day: 1
-timeslot: 16
+timeslot: 17
 images:
  - /images/sessions/2023/JonathanLeek.jpg
 
