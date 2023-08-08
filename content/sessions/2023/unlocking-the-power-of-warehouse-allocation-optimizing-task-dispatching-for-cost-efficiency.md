@@ -5,12 +5,12 @@ aliases:
  - /sessions/2023/unlocking-the-power-of-warehouse-allocation-optimizing-task-dispatching-for-cost-effective-and-effi
 speakers:
  - Ben Chen
-time_start: 2023-09-20T16:45:00-04:00
-time_end: 2023-09-20T17:10:00-04:00
-room: Ballroom crush
-track: Airflow & ...
+time_start: 2023-09-20T17:15:00-04:00
+time_end: 2023-09-20T17:40:00-04:00
+room: York
+track: Use cases
 day: 2
-timeslot: 15
+timeslot: 16
 images:
  - /images/sessions/2023/BenChen.jpg
 

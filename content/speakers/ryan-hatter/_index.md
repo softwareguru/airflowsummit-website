@@ -1,12 +1,13 @@
 ---
 title: "Ryan Hatter"
-designation: "Data Engineer"
+designation: "Sr. Airflow Engineer at Astronomer"
 image: /images/speakers/ryan-hatter.jpg
 events:
  - 2021
+ - 2023
 twitter: ""
-linkedin: ""
-event-2021: true
+linkedin: https://www.linkedin.com/in/rnhttr/
+
 ---
 
-Ryan is a data engineer whose professional journey is different than most. After falling out of love with insurance and actuarial science, he learned to code, wrote an iOS app that never made it to the app store, then took a step back and took a software engineering internship. Eventually he twisted and turned his way into data engineering, and is now passionate about contributing to Apache Airflow.
+Ryan is an Airflow Engineer on Astronomer's Customer Reliability Engineering team. With a focus on making Airflow more reliable for Astronomer customers, Ryan is exploring using Airflow to help manage... other Airflow deployments!

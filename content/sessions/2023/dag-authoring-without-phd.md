@@ -1,5 +1,5 @@
 ---
-title: "DAG Authoring without PhD"
+title: "DAG Authoring without PhD, presented by Google Cloud"
 slug: dag-authoring-without-phd
 speakers:
  - Rafal Biegacz
@@ -7,7 +7,7 @@ speakers:
 time_start: 2023-09-19T14:30:00-04:00
 time_end: 2023-09-19T14:55:00-04:00
 room: York
-track: Airflow basics
+track: Sponsored
 day: 1
 timeslot: 10
 images:
