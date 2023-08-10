@@ -12,7 +12,6 @@ Toronto is now the third-largest tech hub in North America. It is home to more t
 
 ### The Venue
 
-
 <a href="https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview" target="_blank">Marriott Downtown at Eaton Centre</a> is located in the midst of some of the city’s most popular attractions and prominent destinations. Located next to world-class shopping, dining, and entertainment at CF Toronto Eaton Centre and within walking distance of various attractions while the hotel’s Bay Street address in downtown Toronto beckons guests to relax, rejuvenate and explore the city.
 
 
@@ -24,8 +23,7 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 
 
 <a id="lodging"></a>
-<h2 class="text-center">Where to Stay</h2>
-
+<h2 id="discounts" class="text-center">Where to Stay</h2>
 
 We've negotiated a **preferred rate for the Airflow Summit attendees:**
 
