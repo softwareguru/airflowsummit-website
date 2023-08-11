@@ -1,17 +1,14 @@
 ---
-title: "Event survey"
+title: "Event Survey"
 date: 2021-07-05T19:11:59-05:00
-image: /images/networking/2.png
-button: check it out!
-link: https://sg1.run/airflowsummitsurvey
+image: /images/networking/event-survey.png
+button: Check it out!
+link: 
 draft: false
 weight: 4
 ---
 
-**Give us your feedback and help us improve.**
+Share your suggestions and help us improve!
 
-Your opinion is very important for us. 
-
-Please fill out the event evaluation, it will be very helpful for future events organization.
-
-All survey participants join in the raffle for a $100 Amazon gift card
+Fill out the event survey and get the chance to win an Amazon gift card for 50usd
+Many thanks and good luck!🍀

@@ -68,6 +68,11 @@ speaker = "speakers"
   URL = "/speakers/"
   weight = 3
 
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "/networking/"
+  #weight = 3
+
   [[menu.main]]
   name = "Venue + Travel"
   URL = "venue"

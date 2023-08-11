@@ -1,20 +1,33 @@
 {{ define "main" }}
 
-<section class="section {{ .Type }}">
+<section class="kitvirtual section">
   <div class="container">
-    <div class="list-content">
+    <div class="lead">
       {{ .Content }}
     </div>
-
     <div class="row">
-      {{ range .Data.Pages }}
-      <div class="col-sm-4">
-        {{ .Render "post" }}
+        {{ range .Data.Pages.ByWeight }}
+      <div class="col-12 col-md-4 px-3 mb-3">
+        <div class="card h-100 shadow p-3 mb-6 border-card">
+          <img src="{{ .Params.Image }}" class="card-img-top" alt="..." >
+          <div class="card-body">
+            <h3 class="card-title"><a href="{{ .Params.Link }}" target="blank">{{ .Title }}</a></h3>        
+            <h6 class="card-subtitle mb-4 text-muted">{{ .Content }}</h6>
+            
+            </div>
+            <div class="text-center">
+              <a href="{{ .Params.Link }}" target="_blank">
+                {{ with .Params.Button }}
+                <button type="button" style="align-items: center; color: #fff;" class="btn btn-info col-md-10 px-3">{{ . }}</button>
+                {{ end }}
+             </a>
+            </div>
+        <br>
+          </div>
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
-      
     </div>
-
   </div>
 </section>
 
