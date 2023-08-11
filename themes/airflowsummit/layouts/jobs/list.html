@@ -8,8 +8,8 @@
     <div class="row">
         {{ range .Data.Pages.ByWeight }}
       <div class="col-12 col-md-4 px-3 mb-3">
-        <div class="card h-100 shadow p-2 border-card">
-          <img src="{{ .Params.Image }}" class="card-img-top" alt="..." >
+        <div class="card h-100 shadow p-4 border-card " style="margin-bottom: -35px;">
+          <img src="{{ .Params.Image }}" class="card-img-top" alt="..." style="margin-top: 20px;">
           <div class="card-body">
             <h3 class="card-title"><a href="{{ .Params.Link }}" target="blank">{{ .Title }}</a></h3>        
             <h6 class="card-subtitle text-muted">{{ .Content }}</h6>
