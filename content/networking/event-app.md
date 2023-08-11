@@ -1,8 +1,8 @@
 ---
 title: "Event App"
 date: 2021-07-05T19:11:59-05:00
-image: /images/networking/event-reception.png
-button: Check it out!
+image: /images/networking/event-app.png
+button: 
 link: 
 draft: false
 weight: 3

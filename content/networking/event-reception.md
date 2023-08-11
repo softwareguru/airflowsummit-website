@@ -2,7 +2,7 @@
 title: "Event reception"
 date: 2021-07-05T19:11:59-05:00
 image: /images/networking/event-reception.png
-button: Check it out!
+button: 
 link: 
 draft: false
 weight: 1
