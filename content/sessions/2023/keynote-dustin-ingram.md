@@ -9,6 +9,8 @@ room: Ballroom A-B
 track: keynote
 day: 1
 timeslot: 2
+images:
+ - /images/sessions/2023/DustinIngram.jpg
 
 ---
 

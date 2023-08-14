@@ -4,6 +4,7 @@ slug: contribution-workshop
 speakers:
  - Jarek Potiuk
  - Hussein Awala
+ - Elad Kalif
 time_start: 2023-09-21T12:00:00-04:00
 time_end: 2023-09-21T14:30:00-04:00
 summary: Learn how you can become a contributor to Apache Airflow. From setting up an environment to making your first pull request.
@@ -12,6 +13,8 @@ day: 3
 timeslot: 1
 track: workshop
 room: Trinity 5
+images:
+ - /images/sessions/2023/Workshop-Contributing.jpg
 
 ---
 

@@ -9,6 +9,8 @@ room: Ballroom A-B
 track: Operationalizing Airflow
 day: 2
 timeslot: 16
+images:
+ - /images/sessions/2023/RyanHatter.jpg
 
 ---
 

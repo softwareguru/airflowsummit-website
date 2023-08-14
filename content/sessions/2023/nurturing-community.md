@@ -9,6 +9,8 @@ room: Ballroom crush
 track: Community
 day: 1
 timeslot: 16
+images:
+ - /images/sessions/2023/JulienLeDem.jpg
 
 ---
 
