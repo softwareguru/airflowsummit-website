@@ -3,11 +3,11 @@ title: "AI/ML is Changing Orchestration: How Kubernetes can accelerate Airflow"
 slug: keynote-clayton-coleman
 speakers:
  - Clayton Coleman
-time_start: 2023-09-19T09:30:00-04:00
-time_end: 2023-09-19T10:00:00-04:00
+time_start: 2023-09-20T09:30:00-04:00
+time_end: 2023-09-20T10:00:00-04:00
 room: Ballroom A-B
 track: keynote
-day: 1
+day: 2
 timeslot: 2
 images:
  - /images/sessions/2023/ClaytonColeman.jpg
