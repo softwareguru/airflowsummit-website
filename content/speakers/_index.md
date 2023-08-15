@@ -4,4 +4,4 @@ title: Speakers
 ---
 
 
-### Meet our confirmed speakers so far. 
+### Meet our amazing speakers.
