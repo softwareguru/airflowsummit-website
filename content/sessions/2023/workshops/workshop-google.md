@@ -17,6 +17,9 @@ day: 3
 timeslot: 1
 track: workshop
 room: Trinity 1
+images:
+ - /images/sessions/2023/Workshop-Google.jpg
+
 ---
 
 Hands on workshop showing how easy it is to use Airflow in a public cloud (based on Cloud Composer).

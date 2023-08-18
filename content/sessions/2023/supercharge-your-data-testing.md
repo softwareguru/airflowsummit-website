@@ -9,6 +9,8 @@ room: Ballroom crush
 track: Airflow & ...
 day: 2
 timeslot: 15
+images:
+ - /images/sessions/2023/IddoAvneri.jpg
 
 ---
 
