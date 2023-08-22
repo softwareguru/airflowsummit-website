@@ -3,8 +3,8 @@ title: "Get Airflow Certified"
 slug: get-airflow-certified
 speakers:
  - Marc Lamberti
-time_start: 2023-09-21T09:00:00-04:00
-time_end: 2023-09-21T11:30:00-04:00
+time_start: 2023-09-21T12:00:00-04:00
+time_end: 2023-09-21T14:30:00-04:00
 summary: During Airflow Summit you can take an Airflow Certification exam at no additional cost. We will have beginner and advanced level certifications available.
 description: During Airflow Summit you can take an Airflow Certification exam at no additional cost. We will have beginner and advanced level certifications available.
 day: 3

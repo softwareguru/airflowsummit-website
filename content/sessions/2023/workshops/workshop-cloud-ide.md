@@ -11,6 +11,7 @@ day: 3
 timeslot: 1
 track: workshop
 room: Trinity 4
+draft: true
 
 ---
 
