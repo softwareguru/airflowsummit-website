@@ -86,7 +86,7 @@ days:
         type: concurrent
       - id: 17
         time_start: 2023-09-19T17:45:00-04:00
-        type: keynote
+        type: concurrent
 
 
   - id: 2
@@ -159,7 +159,7 @@ days:
         type: concurrent
       - id: 17
         time_start: 2023-09-20T17:45:00-04:00
-        type: concurrent
+        type: keynote
 
 
   - id: 3
