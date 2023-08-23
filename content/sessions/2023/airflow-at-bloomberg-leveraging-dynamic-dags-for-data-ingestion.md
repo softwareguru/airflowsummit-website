@@ -13,7 +13,7 @@ timeslot: 10
 room: Ballroom C-D
 track: Use cases
 images:
- - /images/sessions/2023/Ivan+Yenny.jpg
+ - /images/sessions/2023/Ivan+Gabby.jpg
 
 ---
 
