@@ -5,8 +5,8 @@ images:
  - /images/speakers/yenny-su.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/yennysu
-events:
- - 2023
+draft: true
+
 ---
 
 Yenny is a software engineer with the Data Platform Engineering team at Bloomberg. Her main responsibilities include maintaining and scaling the team's configuration-driven data ingestion pipelines.

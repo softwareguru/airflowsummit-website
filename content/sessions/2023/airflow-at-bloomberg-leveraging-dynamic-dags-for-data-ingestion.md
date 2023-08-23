@@ -5,7 +5,7 @@ aliases:
  - /sessions/2023/leveraging-dynamic-dags-for-data-ingestion-at-bloomberg
 speakers:
  - Ivan Sayapin
- - Yenny Su
+ - Gabby Clavell
 time_start: 2023-09-19T14:30:00-04:00
 time_end: 2023-09-19T14:55:00-04:00
 day: 1
