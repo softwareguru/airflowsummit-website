@@ -2,7 +2,7 @@
 title: "Luan Moreno Medeiros Maciel"
 designation: "Data & Cloud Architect"
 images:
- - /images/speakers/luan-moreno-medeiros-maciel.jpg
+ - /images/speakers/luan-moreno.png
 twitter: https://twitter.com/luansql
 linkedin: https://www.linkedin.com/in/luanmoreno/
 events:

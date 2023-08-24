@@ -3,7 +3,6 @@ title: "A Single Pane of Glass on Airflow using Astro Python SDK, Snowflake, dbt
 slug: a-single-pane-of-glass-on-airflow-using-astro-python-sdk-snowflake-dbt-and-cosmos
 speakers:
  - Luan Moreno Medeiros Maciel
- - Tatiana Al-Chueyr Martins
 time_start: 2023-09-20T11:30:00-04:00
 time_end: 2023-09-20T11:55:00-04:00
 day: 2
