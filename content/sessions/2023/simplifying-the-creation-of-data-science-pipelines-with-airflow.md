@@ -3,7 +3,6 @@ title: "Simplifying the Creation of Data Science Pipelines with Airflow"
 slug: simplifying-the-creation-of-data-science-pipelines-with-airflow
 speakers:
  - Soren Archibald
- - Brian Donaghy
  - Jay Thomas
 time_start: 2023-09-20T16:45:00-04:00
 time_end: 2023-09-20T17:10:00-04:00
