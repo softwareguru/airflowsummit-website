@@ -13,7 +13,7 @@ track: Airflow & ...
 day: 2
 timeslot: 5
 images:
- - /images/sessions/2023/Luan+Tatiana.jpg
+ - /images/sessions/2023/LuanMoreno.jpg
 
 ---
 
