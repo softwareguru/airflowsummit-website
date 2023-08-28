@@ -27,21 +27,13 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 
 We've negotiated a **preferred rate for the Airflow Summit attendees:**
 
-If you still haven’t booked your room for your stay in Toronto, you’re running out of time! 
-We still have a few available rooms at the <a href="https://www.marriott.com/en-us/hotels/yyzec-marriott-downtown-at-cf-toronto-eaton-centre/overview" target="_black">Marriott Downtown at Eaton Centre Hotel</a>, which is the event’s venue (please book before August 20th). 
-
-They are for single or double occupancy for CAD 565.00 per night (normally ranging from $780.00 to $840.00). 
-
-<a href="https://www.marriott.com/events/start.mi?id=1677692262364&key=GRP" target="_black">Book your room at Marriott</a>
-
-
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
     <div class="card h-100 shadow" style="background-color: #FDFDFD; border-radius: 40px;">
       <div class="card-body">
         <h5 class="card-title">In the airport area (about 45 min away)</h5>
         <p class="card-text">
-        <li><a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_black" style="color: #00c7d4;">Sheraton Gateway Hotel</a> with a rate of $325.00 CAD per night. You can book <a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1686052387870&key=GRP&app=resvlink" style="color: #00c7d4;">through this link</a></li>
+        <li><a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_black" style="color: #00c7d4;">Sheraton Gateway Hotel</a> with a rate of $449.00 CAD per night. You can book <a target="_blank"  href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1686052387870&key=GRP&app=resvlink" style="color: #00c7d4;">through this link</a></li>
         <br>
         <p style="color: #8D8D8D">Directions to the event:</p>
 
