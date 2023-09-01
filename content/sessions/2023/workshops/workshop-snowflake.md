@@ -10,7 +10,8 @@ track: workshop
 room: Trinity 4
 speakers:
  - Rishi Kar
-
+ - George Yates
+ 
 ---
 
 In this workshop, learn how to simplify your data pipelines in the Snowflake Data Cloud. You’ll learn how to use Airflow to create a data transformation job scheduler, write a directed analytics graph (DAG), and build a scalable Airflow pipeline with dbt and Snowflake.
