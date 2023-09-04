@@ -9,7 +9,7 @@ room: Ballroom A-B
 track: keynote
 day: 2
 timeslot: 1
-
+draft: true
 ---
 
 This talk will introduce how the Apache Software Foundation works both at project level (committers, PMC, PMC chair, …) and foundation level (members, board, …) and we will review the core values defining the Apache way (meritocracy, peer based, consensus driven, …) using Apache Airflow as a good example to illustrate.
