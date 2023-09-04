@@ -131,6 +131,10 @@ link = "/tickets"
     name = "Watch us on YouTube"
     url = "https://www.youtube.com/channel/UCSXwxpWZQ7XZ1WL3wqevChA/"
     icon = "fab fa-youtube"
+[[params.links.media]]
+    name = "Check us on Instagram"
+    url = "https://www.instagram.com/airflowsummit/"
+    icon = "fab fa-instagram"
 
 [[params.links.footer]]
     name = "Session archive"
