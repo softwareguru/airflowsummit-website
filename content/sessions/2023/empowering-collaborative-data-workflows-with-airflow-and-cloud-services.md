@@ -2,7 +2,7 @@
 title: "Empowering Collaborative Data Workflows with Airflow and Cloud Services"
 slug: empowering-collaborative-data-workflows-with-airflow-and-cloud-services
 speakers:
- - Stanisław Smyl
+ - Stanislaw Smyl 
  - Hoa Nguyen
 time_start: 2023-09-19T12:30:00-04:00
 time_end: 2023-09-19T12:55:00-04:00
