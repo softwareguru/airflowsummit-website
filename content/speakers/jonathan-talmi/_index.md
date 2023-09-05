@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Talmi"
-designation: "Data Practitioner and Engineering Manager at Snapcommerce"
+designation: "Manager of Technical Staff at Cohere"
 images:
  - /images/speakers/jonathan-talmi.jpg
 twitter: https://twitter.com/jtalms
@@ -9,4 +9,4 @@ events:
  - 2023
 ---
 
-Jonathan is a data professional based in Toronto. He has worked on data teams at Shopify and Instacart, and currently leads a team of analytics and data engineers at Snapcommerce, a mobile commerce company.
+Jonathan is a data professional based in Toronto. He has worked on and led data teams at Shopify, Instacart, and Super and currently leads an engineering team at Cohere, where he helps train LLMs.
