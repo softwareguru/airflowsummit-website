@@ -3,12 +3,12 @@ title: "Opportunities to join the Airflow (docs) community"
 slug: opportunities-to-join-the-airflow-docs-community
 speakers:
  - Laura Zdanski
-time_start: 2023-09-19T12:30:00-04:00
-time_end: 2023-09-19T12:55:00-04:00
+time_start: 2023-09-19T12:00:00-04:00
+time_end: 2023-09-19T12:25:00-04:00
 room: Ballroom crush
 track: Community
 day: 1
-timeslot: 7
+timeslot: 6
 images:
  - /images/sessions/2023/LauraZdanski.jpg
 
