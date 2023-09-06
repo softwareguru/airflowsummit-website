@@ -3,7 +3,6 @@ title: "Developing Modern ETL Pipelines on Apache Airflow with Astro Python SDK"
 slug: astro-python-sdk-developing-modern-etl-pipelines-on-apache-airflow
 speakers:
  - Luan Moreno Medeiros Maciel
- - Tatiana Al-Chueyr Martins
 time_start: 2023-09-21T12:00:00-04:00
 time_end: 2023-09-21T14:30:00-04:00
 day: 3
