@@ -25,30 +25,7 @@ Canada is not only an amazing place for leisure, it’s also an awesome place fo
 <a id="lodging"></a>
 <h2 id="discounts" class="text-center">Where to Stay</h2>
 
-We've negotiated a **preferred rate for the Airflow Summit attendees:**
-
-<div class="row row-cols-1 row-cols-md-2">
-  <div class="col mb-4">
-    <div class="card h-100 shadow" style="background-color: #FDFDFD; border-radius: 40px;">
-      <div class="card-body">
-        <h5 class="card-title">In the airport area (about 45 min away)</h5>
-        <p class="card-text">
-        <li><a href="https://www.marriott.com/en-us/hotels/yyzgs-sheraton-gateway-hotel-in-toronto-international-airport/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0" target="_black" style="color: #00c7d4;">Sheraton Gateway Hotel</a> with a rate of $449.00 CAD per night. You can book <a target="_blank"  href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1686052387870&key=GRP&app=resvlink" style="color: #00c7d4;">through this link</a></li>
-        <br>
-        <p style="color: #8D8D8D">Directions to the event:</p>
-
-<a href="https://www.upexpress.com/Home/Index"><p style="color: #8D8D8D !important; margin-top: -20px;">Up Express</p></a>
-
-<p style="color: #8D8D8D; margin-top: -20px;"> - Tickets can be purchased online or at Pearson/Union Station</p>
-<p style="color: #8D8D8D; margin-top: -20px;"> - Station located within the hotel</p>
-
-<p style="color: #8D8D8D; margin-top: -20px;"> - From Union Station, it is an 18min walk to Marriott Downtown at CF</p> 
-        </p>
-      </div>
-    </div>
-  </div>
-
-</div>
+<br>
 
 <table class="table">
   <thead class="thead-dark">
