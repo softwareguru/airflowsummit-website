@@ -2,7 +2,7 @@
 title: "Airflow Driven Data Lineage In Public Cloud"
 slug: airflow-driven-data-lineage-in-public-cloud
 speakers:
- - Michał Modras
+ - Michal Modras
 time_start: 2023-09-20T12:30:00-04:00
 time_end: 2023-09-20T12:55:00-04:00
 room: York
