@@ -3,12 +3,12 @@ title: "Airflow for Everyone, presented by Astronomer"
 slug: airflow-everyone
 speakers:
  - Viraj Parekh
-time_start: 2023-09-20T14:30:00-04:00
-time_end: 2023-09-20T14:55:00-04:00
+time_start: 2023-09-19T16:15:00-04:00
+time_end: 2023-09-19T16:40:00-04:00
 room: York
 track: Sponsored
-day: 2
-timeslot: 10
+day: 1
+timeslot: 14
 
 
 ---

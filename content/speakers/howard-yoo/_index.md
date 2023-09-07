@@ -1,6 +1,6 @@
 ---
 title: "Howard Yoo"
-designation: "Sr. Solutions Architect at TechD"
+designation: "Senior Solutions Architect"
 images:
  - /images/speakers/howard-yoo.jpg
 twitter: 
