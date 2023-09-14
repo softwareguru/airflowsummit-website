@@ -1,5 +1,5 @@
 ---
-title: "Julien LaNeve"
+title: "Julian LaNeve"
 designation: "Senior Product Manager at Astronomer"
 images: 
  - /images/speakers/julian-laneve.jpg
