@@ -3,7 +3,7 @@ title: "Building and deploying LLM applications with Apache Airflow"
 slug: keynote-llm
 speakers:
  - Kaxil Naik
- - Vikram Koka
+ - Julian LaNeve
 time_start: 2023-09-20T09:00:00-04:00
 time_end: 2023-09-20T9:30:00-04:00
 room: Ballroom A-B
@@ -13,10 +13,8 @@ timeslot: 1
 
 ---
 
-With the emergence of Generative AI and growing interest in LLM-based enterprise applications, there has been an expansion of data integration patterns. Enterprises wanting to use their private data to power LLM-based applications are facing challenges in moving beyond experimentation.
+Behind the growing interest in Generate AI and LLM-based enterprise applications lies an expanded set of requirements for data integrations and ML orchestration. Enterprises want to use proprietary data to power LLM-based applications that create new business value, but they face challenges in moving beyond experimentation. The pipelines that power these models need to run reliably at scale, bringing together data from many sources and reacting continuously to changing conditions.
 
-This talk focuses on the data integration patterns using Apache Airflow to support LLM applications created using private enterprise data. This also includes a proposal to add additional Airflow Providers to make it easier to interact with LLMs such as the ones from OpenAI (such as GPT4) and the ones on HuggingFace, while working with both structured and unstructured data.
+This talk focuses on the design patterns for using Apache Airflow to support LLM applications created using private enterprise data. We'll go through a real-world example of what this looks like, as well as a proposal to improve Airflow and to add additional Airflow Providers to make it easier to interact with LLMs such as the ones from OpenAI (such as GPT4) and the ones on HuggingFace, while working with both structured and unstructured data.
 
-Using a couple of actual examples, this walks through how Enterprise data can add context to LLM applications using Airflow, seamlessly leveraging the hundreds of already existing Airflow integrations.
-
-Finally, this shows how these Airflow patterns enable reliable, traceable, and scalable LLM applications within the enterprise.
+In short, this shows how these Airflow patterns enable reliable, traceable, and scalable LLM applications within the enterprise.

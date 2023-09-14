@@ -6,7 +6,7 @@ images:
 twitter: https://twitter.com/bowrna_p
 linkedin: https://www.linkedin.com/in/bowrna-prabhakaran/
 events:
- - 2023
+ - 2022
 
 ---
 
