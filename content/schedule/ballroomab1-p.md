@@ -2,5 +2,5 @@
 title: "Ballroom A-B Day 1"
 day: 1
 room: Ballroom A-B
-layout: list-room
+layout: program-room
 ---

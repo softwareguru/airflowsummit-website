@@ -39,7 +39,7 @@ Tickets are now available on the [tickets page](/tickets).
 
 ### Will there be live streaming?
 
-We will not have live streaming. We will, however, record sessions and make them available later. We are currently evaluating if we publish them on [Airflow’s YouTube Channel](https://www.youtube.com/@ApacheAirflow/featured) or if we host an online event for synced watching of the recordings with live chatting/interaction with speakers and other participants.
+We will not have live streaming. We will, however, record sessions and make them available later. 
 
 ### Can I join as sponsor?
 Yes! Please review our [Prospectus](/docs/AirflowSummit2023-Prospectus-v2.pdf) or contact us at info@airflowsummit.org

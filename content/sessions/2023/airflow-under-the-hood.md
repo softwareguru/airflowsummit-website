@@ -11,7 +11,7 @@ room: York
 track: Airflow basics
 images:
  - /images/sessions/2023/UtkarshSharma.jpg
-draft: true
+
 ---
 
 Making a contribution to or becoming a committer on Airflow can be a daunting task, even for experienced Python developers and Airflow users. The sheer size and complexity of the code base may discourage potential contributors from taking the first steps. To help alleviate this issue, this session is designed to provide a better understanding of how Airflow works and build confidence in getting started.
