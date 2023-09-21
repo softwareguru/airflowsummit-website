@@ -10,7 +10,7 @@ description: During Airflow Summit you can take an Airflow Certification exam at
 day: 3
 timeslot: 3
 track: workshop
-room: Trinity 4
+room: York
 images:
  - /images/sessions/2023/Certification-Workshop.jpg
 

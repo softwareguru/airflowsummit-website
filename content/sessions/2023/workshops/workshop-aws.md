@@ -12,7 +12,7 @@ description: Learn how to optimize your Apache Airflow environment. You will get
 day: 3
 timeslot: 1
 track: workshop
-room: Trinity 3
+room: York
 images:
  - /images/sessions/2023/Aneel+Parnab-Workshop.jpg
 

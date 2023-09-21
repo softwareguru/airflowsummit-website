@@ -16,7 +16,7 @@ description: Hands on workshop for medium/advanced Airflow users who would like 
 day: 3
 timeslot: 1
 track: workshop
-room: Trinity 1
+room: Trinity 1-2
 images:
  - /images/sessions/2023/Workshop-Google.jpg
 

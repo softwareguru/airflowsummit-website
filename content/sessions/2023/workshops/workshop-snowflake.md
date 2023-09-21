@@ -7,7 +7,7 @@ description: In this workshop you will learn how to simplify your data pipelines
 day: 3
 timeslot: 1
 track: workshop
-room: Trinity 4
+room: Trinity 5
 speakers:
  - Rishi Kar
  - George Yates

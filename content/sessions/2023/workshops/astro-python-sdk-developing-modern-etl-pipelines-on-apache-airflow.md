@@ -9,7 +9,7 @@ time_end: 2023-09-21T14:30:00-04:00
 day: 3
 timeslot: 3
 track: workshop
-room: Trinity 2
+room: Trinity 3-4
 images:
  - /images/sessions/2023/Luan+Tatiana-Workshop.jpg
 

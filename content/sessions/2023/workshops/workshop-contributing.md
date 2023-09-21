@@ -12,7 +12,7 @@ description: Learn how you can become a contributor to Apache Airflow. From sett
 day: 3
 timeslot: 3
 track: workshop
-room: Trinity 3
+room: Trinity 5
 images:
  - /images/sessions/2023/Workshop-Contributing.jpg
 

@@ -10,7 +10,7 @@ description: Hands on workshop showing how data observability can work within yo
 day: 3
 timeslot: 1
 track: workshop
-room: Trinity 2
+room: Trinity 3-4
 images:
  - /images/sessions/2023/Databand.jpg
 

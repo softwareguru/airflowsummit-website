@@ -50,8 +50,7 @@
                             <div class="session-time">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</div>
                             <div class="session-title"><a href="#abs-{{.Params.slug}}" target="_blank" data-toggle="collapse">{{ .Title }}</a></div>
                             <div class="session-speakers">{{ with .Params.speakers }}by {{ delimit . ", " " & " }}{{ end }}</div>
-                            <div class="session-track">{{ with .Params.track }}Track: {{.}}{{ end }}</div>
-                            <div class="session-track d-sm-none">Room: {{ .Params.room }}</div>
+                            <div class="session-track">Room: {{ .Params.room }}</div>
                             <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
                                 <div class="my-2 session-abstract">{{ .Summary }}</div>                                
                               </div>

@@ -165,7 +165,7 @@ days:
   - id: 3
     title_short: Thursday
     title_full: Thursday, September 21, 2023
-    rooms: ["Trinity 1", "Trinity 2", "Trinity 3", "Trinity 4", "Trinity 5"]
+    rooms: ["Trinity 1-2", "Trinity 3-4", "Trinity 5", "York"]
     timeslots: 
       - id: 1
         time_start: 2023-09-21T09:00:00-04:00
