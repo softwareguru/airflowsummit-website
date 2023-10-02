@@ -13,7 +13,7 @@ track: Use cases
 day: 1
 timeslot: 12
 images:
- - /images/sessions/2023/VarunSrinivas.jpg
+ - /images/sessions/2023/VarunRaj.jpg
 
 ---
 

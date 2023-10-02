@@ -10,6 +10,8 @@ room: Ballroom A-B
 track: keynote
 day: 2
 timeslot: 1
+images:
+ - /images/sessions/2023/LLMKeynote.jpg
 
 ---
 
