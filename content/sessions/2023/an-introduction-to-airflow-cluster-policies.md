@@ -11,7 +11,8 @@ day: 1
 timeslot: 15
 images:
  - /images/sessions/2023/PhilippeGagnon.jpg
-
+video: https://youtu.be/-RyGhuGL2XU
+slides: 2023/ab1-1645-ClusterPolicies.pdf
 ---
 
 Cluster Policies are an advanced Airflow feature composed of a set of hooks that allow cluster administrators to implement checks and mutations against certain core Airflow constructs (DAGs, Tasks, Task Instances, Pods).

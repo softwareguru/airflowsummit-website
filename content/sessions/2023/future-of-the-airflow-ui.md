@@ -11,6 +11,8 @@ day: 1
 timeslot: 7
 images:
  - /images/sessions/2023/BrentBovenzi.jpg
+video: https://youtu.be/KoxAg3XqoNo
+slides: 2023/ab1-1230-FutureAirflowUI.pdf
 
 ---
 

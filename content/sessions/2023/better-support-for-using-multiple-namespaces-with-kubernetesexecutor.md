@@ -11,7 +11,8 @@ day: 1
 timeslot: 14
 images:
  - /images/sessions/2023/XiaodongDeng.jpg
-
+video: https://youtu.be/TVBHGWD6d2Q
+slides: 2023/ab1-1615-BetterSupport.pdf
 ---
 
 Airflow’s KubernetesExecutor has supported multi_namespace_mode for long time. This feature is great at allowing Airflow jobs to run in different namespaces on the same Kubernetes clusters for better isolation and easier management.

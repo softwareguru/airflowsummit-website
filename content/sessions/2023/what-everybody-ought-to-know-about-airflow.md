@@ -11,7 +11,9 @@ room: Ballroom A-B
 track: New features/roadmap
 images:
  - /images/sessions/2023/MarcLamberti.jpg
-
+video: https://youtu.be/y9rSCboE6BY
+slides: 2023/ab1-1130-WhatEverybody.pdf
+ 
 ---
 
 Airflow is a powerful tool for orchestrating complex data workflows, which have undergone significant changes over the past two years.

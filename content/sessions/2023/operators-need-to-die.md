@@ -11,6 +11,8 @@ room: Ballroom A-B
 track: New features/roadmap
 images:
  - /images/sessions/2023/BolkeDeBruin.jpg
+video: https://youtu.be/J5pbH1TUv0U
+slides: 2023/ab1-1400-Operators.pdf
 
 ---
 

@@ -11,7 +11,8 @@ room: Ballroom A-B
 track: New features/roadmap
 images:
  - /images/sessions/2023/NikoOliveira-Executors.jpg
-
+video: https://youtu.be/VFC0E6Oyj7A
+slides: 2023/ab1-1200-Executors.pdf
 ---
 
 Executors are a core concept in Apache Airflow and are an essential piece to the execution of DAGs. They have seen a lot of investment over the year and there are many exciting advancements that will benefit both users and contributors.

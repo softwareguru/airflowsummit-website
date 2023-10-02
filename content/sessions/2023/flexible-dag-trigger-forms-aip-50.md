@@ -12,7 +12,8 @@ day: 1
 timeslot: 12
 images:
  - /images/sessions/2023/Jens+Christian.jpg
-
+video: https://youtu.be/pDatEFbnMwg
+slides: 2023/ab1-1530-Flexible.pdf
 ---
 
 As user of Airflow we often use DagRun.conf attributes to control content and flow of a DAG run. Previously the Airflow UI only allowed to launch via JSON in the UI. This was technically feasible but not user friendly. A user needs to model, check and understand the JSON and enter parameters manually without the option to validate before trigger.

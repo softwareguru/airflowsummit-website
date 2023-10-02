@@ -13,7 +13,8 @@ room: Ballroom A-B
 track: New features/roadmap
 images:
  - /images/sessions/2023/Jarek+Mateusz+Vincent-MultiTenancy.jpg
-
+video: https://youtu.be/WYB4LJbow1U
+slides: 2023/ab1-1745-Multitenancy.pdf
 ---
 
 This sesion is about the current state of implementation for multi-tenancy feature of Airflow. This is a long-term feature that involves multiple changes, separate AIPs to implement, with the long-term vision of having single Airflow instance supporting multiple, independed teams using it - either from the same company or as part of Airflow-As-A-Service implementation.

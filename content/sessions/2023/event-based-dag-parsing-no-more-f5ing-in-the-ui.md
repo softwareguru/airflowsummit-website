@@ -11,7 +11,8 @@ day: 1
 timeslot: 10
 images:
  - /images/sessions/2023/BasHarenslak.jpg
-
+slides: 2023/ab1-1430-EventBasedDAGs.pdf
+video: https://youtu.be/UkV1CAOul2w
 ---
 
 Have you ever added a DAG file and had no clue what happened to it? You're not alone! With default settings, Airflow can wait up to 5 minutes before processing new DAG files.

@@ -11,7 +11,8 @@ day: 1
 timeslot: 16
 images:
  - /images/sessions/2023/RaphaelVandon.jpg
-
+video: https://youtu.be/W0X7NEj7mRk
+slides: 2023/ab1-1715-DAGParsing.pdf
 ---
 
 As big Airflow users grow their usage to hundreds of DAGs, parsing them can become a performance bottleneck in the scheduler.

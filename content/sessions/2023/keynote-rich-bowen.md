@@ -11,7 +11,8 @@ day: 1
 timeslot: 1
 images:
  - /images/sessions/2023/RichBowen.jpg
-
+video: https://youtu.be/ya5jP6YfT0s
+slides: https://github.com/rbowen/presentations/blob/main/talking-to-management/slides.md
 ---
 
 For those of us who already know how important open source is, it can
