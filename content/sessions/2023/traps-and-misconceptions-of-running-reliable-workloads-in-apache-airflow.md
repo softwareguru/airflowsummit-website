@@ -11,6 +11,8 @@ day: 2
 timeslot: 12
 images:
  - /images/sessions/2023/BartoszJankiewicz.jpg
+video: https://youtu.be/6WY_hUoy-jA
+slides: 2023/ab2-1530-Traps.pdf
 
 ---
 

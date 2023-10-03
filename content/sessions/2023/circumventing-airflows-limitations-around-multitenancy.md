@@ -12,7 +12,7 @@ day: 2
 timeslot: 6
 images:
  - /images/sessions/2023/Anthony+Akshay.jpg
-
+video: https://youtu.be/fu45ppzj1wY
 ---
 
 A steady rise in users and business critical workflows poses challenges to development and production workflows. The solution: enable multi-tenancy on our single Airflow instance. We needed to enable teams to manage their python requirements, and ensure DAGs were insulated from each other. To achieve this we divided our monolithic setup into three parts: Infrastructure (with common code packaging), Workspace Creation, and CI/CD to manage deployments.

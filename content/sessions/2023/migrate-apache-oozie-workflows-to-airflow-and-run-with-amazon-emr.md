@@ -11,7 +11,8 @@ day: 2
 timeslot: 10
 images:
  - /images/sessions/2023/DipankarGhosal.jpg
-
+video: https://youtu.be/4tR2JVqhJSc
+slides: 2023/ab2-1430-MigrateOozie.pdf
 ---
 
 Learn how to convert Oozie Workflows into Airflow DAG and run it on Amazon EMR. The utility supports Airflow 2.4.3. 

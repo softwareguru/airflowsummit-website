@@ -11,7 +11,8 @@ day: 2
 timeslot: 9
 images:
  - /images/sessions/2023/SyedHussain.jpg
-
+video: https://youtu.be/d6UnOXCo9mg
+slides: 
 ---
 
 Deep dive into how AWS is developing Deferrable Operators for the Amazon Provider Package to help users realize the potential cost-savings provided by Deferrable Operators, and promote their usage.

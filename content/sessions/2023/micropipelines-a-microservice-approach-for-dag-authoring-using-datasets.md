@@ -11,7 +11,7 @@ day: 2
 timeslot: 11
 images:
  - /images/sessions/2023/VikramKoka.jpg
-
+video: https://youtu.be/Tagr4IqbqDI
 ---
 
 Introduced in Airflow 2.4, Datasets are a foundational feature for authoring modular data pipelines. As DAGs grow to encompass a larger number of data sources and encompass multiple data transformation steps, they typically become less predictable in the timeliness of execution and less efficient. 

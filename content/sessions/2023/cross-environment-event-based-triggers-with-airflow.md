@@ -11,7 +11,8 @@ day: 2
 timeslot: 5
 images:
  - /images/sessions/2023/KunalJain.jpg
-
+video: https://youtu.be/6ysn3D1ky-E
+slides: 2023/ab2-1130-CrossEnvironmentTriggers.pdf
 ---
 
 In an environment with multiple Airflow instances , how we build custom operators and framework to share events across the instances and trigger dags based on those events

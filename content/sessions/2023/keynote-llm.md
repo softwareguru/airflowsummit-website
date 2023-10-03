@@ -12,7 +12,7 @@ day: 2
 timeslot: 1
 images:
  - /images/sessions/2023/LLMKeynote.jpg
-
+slides: https://speakerdeck.com/kaxil/building-and-deploying-llm-applications-with-apache-airflow
 ---
 
 Behind the growing interest in Generate AI and LLM-based enterprise applications lies an expanded set of requirements for data integrations and ML orchestration. Enterprises want to use proprietary data to power LLM-based applications that create new business value, but they face challenges in moving beyond experimentation. The pipelines that power these models need to run reliably at scale, bringing together data from many sources and reacting continuously to changing conditions.
