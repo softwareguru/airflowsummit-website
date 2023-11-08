@@ -16,7 +16,8 @@ day: 1
 timeslot: 15
 images:
  - /images/sessions/2023/Zhengyi+Yuri+Han+Nanxi-Snap.jpg
-
+video: https://youtu.be/cbjqgt_ZQj8
+slides: 2023/1-CD-1645-Airflow-at-Snap.pdf
 ---
 
 We will cover how Snap (parent company of Snapchat) has been using Airflow since 2016. 

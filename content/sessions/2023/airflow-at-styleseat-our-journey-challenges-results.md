@@ -14,7 +14,8 @@ day: 1
 timeslot: 17
 images:
  - /images/sessions/2023/Kunal+Ramya.jpg
-
+video: https://youtu.be/75z41Do-NaQ
+slides: 2023/1-CD-1745-Airflow-at-StyleSeat.pdf
 ---
 
 We will share the case study of Airflow at StyleSeat, where within a year our data grew from 2 million data points per day to 200 million. Our original solution for orchestrating this data was not enough, so we migrated to an Airflow based solution.

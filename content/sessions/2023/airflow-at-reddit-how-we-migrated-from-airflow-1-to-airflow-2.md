@@ -13,7 +13,8 @@ room: Ballroom C-D
 track: Use cases
 images:
  - /images/sessions/2023/Dave+Branden.jpg
-
+video: https://youtu.be/89VAPfShQ9Q
+slides: 2023/1-CD-1400-Reddit-Airflow-Migration.pdf
 ---
 
 We would love to speak about our experience upgrading our old airflow 1 infrastructure to airflow 2 on kubernetes and how we orchestrated the migration of approximately 1500 DAGs that were owned by multiple teams in our organization. We had some interesting challenges along the way and can speak about our solutions.

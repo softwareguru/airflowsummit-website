@@ -13,7 +13,8 @@ day: 1
 timeslot: 16
 images:
  - /images/sessions/2023/MWaqas.jpg
-
+video: https://youtu.be/Or0nlM95b_o
+#slides: https://docs.google.com/presentation/d/10_6gBlC8OhafWurFG9McojeQ4NpyrfM2sLHbE_ruCoY/edit?usp=drive_link
 ---
 
 Ever thought how airflow could play a pivotal role in data mesh architecture, hosting thousands of DAGs and hundreds of thousands daily running tasks, let's find out!

@@ -11,7 +11,8 @@ day: 1
 timeslot: 11
 images:
  - /images/sessions/2023/ParnabBasak.jpg
-
+video: https://youtu.be/Ti7au0S8W7w
+slides: 2023/1-York-1500-The-Why-and-How Self-managed.pdf
 ---
 
 Today, all major cloud service providers and 3rd party providers include Apache Airflow as a managed service offering in their portfolios. While these cloud based solutions help with the undifferentiated heavy lifting of environment management, some data teams are also looking to operate self-managed Airflow instances to satisfy specific differentiated capabilities. In this session, we would talk about:

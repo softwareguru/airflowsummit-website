@@ -11,7 +11,8 @@ day: 1
 timeslot: 12
 images:
  - /images/sessions/2023/JarekPotiuk-MasteringDependencies.jpg
-
+video: https://youtu.be/zPjIQjjjyHI
+slides: 2023/Mastering-dependencies-The-Airflow-Way-(Airflow-Summit 2023).pdf
 ---
 
 Apache Airflow has over 650 Python dependencies. In case you did not know already, dependencies in Python are difficult subject. And Airflow has its own, custom ways of managing the dependencies. 

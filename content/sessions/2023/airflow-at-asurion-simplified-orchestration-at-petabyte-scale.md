@@ -13,7 +13,8 @@ day: 1
 timeslot: 6
 images:
  - /images/sessions/2023/RajeshGundugollu.jpg
-
+video: https://youtu.be/11WQWViGm34
+slides: 2023/1-CD-1200-Airflow-at-Asurion.pdf
 ---
 
 Workload Orchestration is at the heart of a successful Data lakehouse implementation. Especially for the "house" part which represents the Datawarehouse workloads which often are complex because of the very nature of warehouse data, which have dependency orchestration problems.

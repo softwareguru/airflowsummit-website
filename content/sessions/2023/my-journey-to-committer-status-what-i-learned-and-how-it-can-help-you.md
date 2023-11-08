@@ -11,7 +11,8 @@ day: 1
 timeslot: 10
 images:
  - /images/sessions/2023/NikoOliveira-Committer.jpg
-
+video: https://youtu.be/cjre1uXWhjE
+slides: 2023/Airflow-Summit-2023-My-Journey-to-Committer-Status.pdf
 ---
 
 Apache Airflow is one of the largest Apache projects by many metrics but it ranks particularly high in the number of contributors involved in the project. This leads to hundreds of Github Issues, Pull Requests and Discussions being submitted to the project every month. So it is critical to have an ample number of Committers to support the community. 

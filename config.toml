@@ -40,43 +40,43 @@ speaker = "speakers"
     parent = "about"
     weight = 2
 
-  [[menu.main]]
-    identifier = "category"
-    name = "Program"
-    url = "/program"
-    weight = 1
-  [[menu.main]]
-    identifier = "category1"
-    name = "Program"
-    url = "/program"
-    parent = "category"
-    weight = 1
-  [[menu.main]]
-    identifier = "category2"
-    name = "Panels"
-    url = "/sessions/2023/panels"
-    parent = "category"
-    weight = 2
-  [[menu.main]]
-    identifier = "category3"
-    name = "Workshops"
-    url = "/sessions/2023/workshops"
-    parent = "category"
+  #[[menu.main]]
+  #  identifier = "category"
+  #  name = "Program"
+  #  url = "/program"
+  #  weight = 1
+  #[[menu.main]]
+  #  identifier = "category1"
+  #  name = "Program"
+  #  url = "/program"
+  #  parent = "category"
+  #  weight = 1
+  #[[menu.main]]
+  #  identifier = "category2"
+  #  name = "Panels"
+  #  url = "/sessions/2023/panels"
+  #  parent = "category"
+  #  weight = 2
+  #[[menu.main]]
+  #  identifier = "category3"
+  #  name = "Workshops"
+  #  url = "/sessions/2023/workshops"
+  #  parent = "category"
 
   [[menu.main]]
   name = "Speakers"
-  URL = "/speakers/"
+  URL = "/speakers/archive"
   weight = 3
 
-  [[menu.main]]
-  name = "Networking"
-  URL = "/networking/"
-  weight = 3
+  #[[menu.main]]
+  #name = "Networking"
+  #URL = "/networking/"
+  #weight = 3
 
-  [[menu.main]]
-  name = "Venue + Travel"
-  URL = "venue"
-  weight = 4
+  #[[menu.main]]
+  #name = "Venue + Travel"
+  #URL = "venue"
+  #weight = 4
 
 
   [[menu.main]]
@@ -110,8 +110,8 @@ link = "/tickets"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Tickets"
-link = "/tickets"
+label = "Sessions"
+link = "/sessions/2023"
 
 
 [params.links]

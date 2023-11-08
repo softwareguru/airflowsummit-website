@@ -11,7 +11,7 @@ day: 1
 timeslot: 14
 images:
  - /images/sessions/2023/DianaVazquez.jpg
-
+video: https://youtu.be/4SPYx6nhGvU
 ---
 
 How to submit an Issue for community to fix

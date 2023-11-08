@@ -12,7 +12,8 @@ day: 1
 timeslot: 10
 images:
  - /images/sessions/2023/Rafal+Filip.jpg
-
+video: https://youtu.be/ztpBpD7FY0w
+slides: 2023/york1-1430-DAGAuthoring.pdf
 ---
 
 DAG Authoring - learn how to go beyond the basics and best practices when implementing Airflow DAGs. It will be a survival guide for Airflow DAG developers who need to cope with hundreds of Airflow operators.

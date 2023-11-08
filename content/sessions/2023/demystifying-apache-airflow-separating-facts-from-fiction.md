@@ -12,7 +12,7 @@ day: 1
 timeslot: 7
 images:
  - /images/sessions/2023/Shubham+Uma.jpg
-
+video: https://youtu.be/89VAPfShQ9Q
 ---
 
 Apache Airflow is a popular workflow platform, but it often faces critiques that may not paint the whole picture. In this talk, we will unpack the critiques of Apache Airflow and provide a balanced analysis. We will highlight the areas where these critiques correctly point out Airflow's weaknesses, debunk common myths, and showcase where competitors like Dagster and Prefect are excelling.

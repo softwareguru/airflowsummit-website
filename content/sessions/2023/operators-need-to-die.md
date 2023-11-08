@@ -13,7 +13,6 @@ images:
  - /images/sessions/2023/BolkeDeBruin.jpg
 video: https://youtu.be/J5pbH1TUv0U
 slides: 2023/ab1-1400-Operators.pdf
-
 ---
 
 Operators form the core of the language of Airflow. In this talk I will argue that while they have served their purpose, they are holding back the development of Airflow and if Airflow wants to stay relevant in the world of the 'new' data stack (hint: it isn't currently considered to be part of it) self-service data mesh it needs to kill its darling.

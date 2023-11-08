@@ -11,7 +11,8 @@ day: 1
 timeslot: 9
 images:
  - /images/sessions/2023/JedCunningham.jpg
-
+video: https://youtu.be/j3DIJHXTZQ4
+slides: 2023/1-York-1400-Guided-Tour-to-DAG-Authoring.pdf
 ---
 
 New to Airflow or haven’t followed any of the recent DAG authoring enhancements? This talk is for you!

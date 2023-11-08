@@ -11,7 +11,7 @@ room: York
 track: Airflow basics
 images:
  - /images/sessions/2023/KaxilNaik.jpg
-
+slides: 2023/airflowctl_-_Airflow_Summit_2023.pdf
 ---
 
 New users starting with Airflow frequently encounter several challenges, ranging from the complexities of Containers and virtual environments to the Python dependency hell. Moreover, their familiarity with tools such as Docker, docker-compose, and Helm might be somewhat limited and even overkill. In contrast, seasoned Airflow users encounter their problems, encompassing configuration conflics with ongoing Airflow projects and intricacies stemming from Docker and docker-compose configurations and lack of visibility into all the projects.

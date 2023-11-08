@@ -11,7 +11,8 @@ day: 1
 timeslot: 15
 images:
  - /images/sessions/2023/VincentBeck.jpg
-
+video: 
+slides: 2023/1-crush-1645-How-to-Build-a-System-Test-Dashboard.pdf
 ---
  
 System tests are executable DAGs for example and testing purposes. With a simple pytest command, you can run an entire DAG. From a provider point of view, they can be viewed as integration tests for all provider related operators and sensors. Running these system tests frequently and monitoring the results allow us to enforce stability amongst many other benefits. In this presentation we will explore how AWS built their system test environment, from the GitHub fork to the health dashboard that exists today...but more importantly, why you should do it as well!

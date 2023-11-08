@@ -12,7 +12,8 @@ day: 1
 timeslot: 16
 images:
  - /images/sessions/2023/VictorChiapaikeo.jpg
-
+video: https://youtu.be/wkAb8mDDHMs
+slides: 2023/1-York-1715-Testing-Airflow-DAGs-with-Dagtest.pdf
 ---
 
 For the dag owner, testing Airflow DAGs can be complicated and tedious. Kubectl cp your dag from local to pod, exec into the pod, and run a command? Install breeze? Why pull the Airflow image and start up the webserver / scheduler / triggerer if all we want is to test the addition of a new task?
