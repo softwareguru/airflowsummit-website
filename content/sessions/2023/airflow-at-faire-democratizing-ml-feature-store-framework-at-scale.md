@@ -14,7 +14,8 @@ day: 2
 timeslot: 6
 images:
  - /images/sessions/2023/Rafay+Victoria.jpg
-
+video: https://youtu.be/9MlQqKI3O1c
+slides: 2023/2-CD-1200-Democratizing-ML-Feature-Store.pdf
 ---
 
 Data science and machine learning are at the heart of Faire’s industry-celebrated marketplace (a16z top-ranked marketplace) and drive powerful search, navigation, and risk functions which are powered by ML models that are trained on 3000+ features defined by our data scientists. 

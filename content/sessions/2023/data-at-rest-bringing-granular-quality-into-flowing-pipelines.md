@@ -12,7 +12,8 @@ day: 2
 timeslot: 10
 images:
  - /images/sessions/2023/CJ+Mauricio+Prateek.jpg
-
+video: https://youtu.be/vxJe6QyJ3zk
+slides: 2023/2-crush-1430-Data-At-Rest.pdf
 ---
 
 You've got your pipelines flowing ... how much do you know about the data inside?

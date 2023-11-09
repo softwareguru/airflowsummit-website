@@ -12,7 +12,8 @@ day: 2
 timeslot: 16
 images:
  - /images/sessions/2023/Vladi+Zdravko.jpg
-
+video: https://youtu.be/KlvZUK3Fqbs
+slides: 2023/2-CD-1715-Accelerating-data-delivery.pdf
 ---
 
 Inside the Financial Times, we’ve been gradually moving our batching data processing from a custom solution to Airflow. To enable various teams within the company to use Airflow more effectively, we've been working on extending the system's self-service capabilities. This includes giving ownership to teams of their DAGs and separating resources such as connections.

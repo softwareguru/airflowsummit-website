@@ -13,7 +13,8 @@ day: 2
 timeslot: 15
 images:
  - /images/sessions/2023/WandaKinasih.jpg
-
+video: https://youtu.be/aQTOYxWs4zk
+slides: 2023/2-CD-1645-Airflow-at-Gojek.pdf
 ---
 
 With millions of orders per day, Gojek needs a data processing solution that can handle a high volume of data. Airflow is a scalable tool that can handle large volumes of data and complex workflows, making it an ideal solution for Gojek's needs.

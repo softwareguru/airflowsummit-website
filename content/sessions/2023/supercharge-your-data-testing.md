@@ -11,7 +11,8 @@ day: 2
 timeslot: 15
 images:
  - /images/sessions/2023/IddoAvneri.jpg
-
+video: https://youtu.be/9K_VEgbfXsk
+slides: 2023/2-crush-1645-Supercharge-Your-Data-Testing.pdf
 ---
 
 Are you tired of spending countless hours testing your data pipelines, only to find that they don't work as expected? Do you wish there was a better way to manage your data versions and streamline your testing processes?

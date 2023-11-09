@@ -14,7 +14,8 @@ day: 2
 timeslot: 5
 images:
  - /images/sessions/2023/LuanMoreno.jpg
-
+video: https://youtu.be/c7Bl_UBD3OY
+slides: 
 ---
 
 ETL data pipelines are the bread and butter of data teams that must design, develop, and author DAGs to accommodate the various business requirements. 

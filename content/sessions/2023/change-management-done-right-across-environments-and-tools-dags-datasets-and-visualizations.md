@@ -11,7 +11,7 @@ day: 2
 timeslot: 7
 images:
  - /images/sessions/2023/MaximeBeauchemin.jpg
-
+video: https://youtu.be/XteD138eB3g
 ---
 
 Change management in data teams can be challenging to say the least. Not only you have to evolve your data pipelines, data structures, and datasets themselves across environments, you also have to keep data exploration and visualizations tools in sync.

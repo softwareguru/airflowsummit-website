@@ -11,7 +11,7 @@ day: 2
 timeslot: 9
 images:
  - /images/sessions/2023/AndreaBombino.jpg
-
+video: https://youtu.be/Ep40EFsKUw0
 ---
 
 This talk will cover in high overview the architecture of a data product DAG, the benefits in a data mesh world and how to implement it easily.

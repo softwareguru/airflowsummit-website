@@ -12,7 +12,7 @@ day: 2
 timeslot: 9
 images:
  - /images/sessions/2023/Alaeddine+Jilan.jpg
-
+video: https://youtu.be/s6ZktpGoEps
 ---
 
 Apache Airflow is Scalable, Dynamic, Extensible , Elegant and can it be a lot more ?

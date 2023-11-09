@@ -11,7 +11,8 @@ day: 2
 timeslot: 6
 images:
  - /images/sessions/2023/ShirshankaDas.jpg
-
+video: https://youtu.be/KuwpDTYGnHE
+slides: 
 ---
 
 Data contracts have been much discussed in the community of late, with a lot of curiosity around how to approach this concept in practice. 

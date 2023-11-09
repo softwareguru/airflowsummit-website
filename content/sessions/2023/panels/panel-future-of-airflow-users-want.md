@@ -15,7 +15,8 @@ room: Ballroom A-B
 track: panel
 images:
  - /images/sessions/2023/Panel-WhatUsersWant.jpg
-
+video: https://youtu.be/SWe77zkanY8
+slides: 
 ---
 
 There are so many ways to run Airflow and as such, lots of folks responsible for running Airflow for downstream users. While many orgs go with a managed service(Astronomer, AWS MWAA, Google Cloud Composer), many also prefer running an Airflow platform themselves. This panel will be about what users want from a managed Airflow service, from the perspective of those charged with providing one. We'll talk about use cases, roadmaps, and best practices that've been accumulated along the way.

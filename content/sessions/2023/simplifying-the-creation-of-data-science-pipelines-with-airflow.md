@@ -12,7 +12,7 @@ day: 2
 timeslot: 15
 images:
  - /images/sessions/2023/Soren+Brian+Jay.jpg
-
+video: https://youtu.be/xm1sKYpyDnw
 ---
 
 The ability to create DAGs programmatically opens up new possibilities for collaboration between Data Science and Data Engineering. Engineering and DevOPs are typically incentivized by stability whereas Data Science is typically incentivized by fast iteration and experimentation. With Airflow, it becomes possible for engineers to create tools that allow Data Scientists and Analysts to create robust no-code/low-code data pipelines for feature stores.

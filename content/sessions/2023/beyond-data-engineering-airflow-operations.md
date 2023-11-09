@@ -11,7 +11,8 @@ day: 2
 timeslot: 16
 images:
  - /images/sessions/2023/RyanHatter.jpg
-
+video: https://youtu.be/kdAeBiBDscg
+slides:
 ---
 
 Much of the world sees Airflow as a hammer and ETL tasks as nails, but in reality, Airflow is much more of a sophisticated multitool, capable of orchestrating a wide variety of complex workflows. Astronomer’s Customer Reliability Engineering (CRE) team is leveraging this potential in its development of Airline, a tool powered by Airflow that monitors Airflow deployments and sends alerts proactively when issues arise.

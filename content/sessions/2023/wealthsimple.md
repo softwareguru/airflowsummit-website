@@ -9,7 +9,8 @@ room: York
 track: Lineage & Quality
 day: 2
 timeslot: 5
-
+video: https://youtu.be/NcOeJFyhrHM
+slides: 
 ---
 
 This talk is speculative: orchestration tools like Airflow have it made it very easy to pull and push data from anywhere to everywhere. But we don’t know what data we are pushing around.

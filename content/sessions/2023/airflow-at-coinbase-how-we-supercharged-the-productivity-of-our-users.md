@@ -13,7 +13,7 @@ day: 2
 timeslot: 12
 images:
  - /images/sessions/2023/JianlongZhong.jpg
-
+slides: 
 ---
 
 At Coinbase, Airflow is adopted by a wide range of applications, and used by nearly all the engineering and data science teams. In this session, we will share our journey in improving the productivity of Airflow users at Coinbase. The presentation will focus on three main topics: 

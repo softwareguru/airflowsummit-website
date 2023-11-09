@@ -12,7 +12,8 @@ day: 2
 timeslot: 12
 images:
  - /images/sessions/2023/Zohar+Alina.jpg
-
+video: https://youtu.be/j4fmIh3ir3I
+slides: 
 ---
 
 High-scale orchestration of genomic algorithms using Airflow workflows, AWS Elastic Container Service (ECS), and Docker.

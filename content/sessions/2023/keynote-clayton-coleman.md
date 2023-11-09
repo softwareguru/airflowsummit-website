@@ -11,7 +11,8 @@ day: 2
 timeslot: 2
 images:
  - /images/sessions/2023/ClaytonColeman.jpg
-
+video: https://youtu.be/1RQP0MM3tAA
+slides: 
 ---
 
 It should be no surprise to the Airflow community that the hype around generative large language models (LLMs) and their wildly-inventive chat front ends have brought significant attention to growing these models and feeding them on a steady diet of data.  For many communities in the infrastructure, orchestration, and data landscape this is an opportunity to think big, help our users scale, and make the right foundational investments to sustain that growth over the long term.

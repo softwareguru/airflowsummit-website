@@ -11,6 +11,8 @@ day: 2
 timeslot: 14
 images:
  - /images/sessions/2023/RoyNoyman.jpg
+video: https://youtu.be/nuFrsNMw9Fc
+slides: 
 ---
 
 Are you tired of spending hours on Airflow migrations and wondering how to make them more accessible? Would you like to be able to test your code on different Airflow versions? or are you struggling to set up a reliable local development environment?
