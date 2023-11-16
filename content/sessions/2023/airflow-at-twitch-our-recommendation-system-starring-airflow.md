@@ -13,7 +13,7 @@ day: 2
 timeslot: 14
 images:
  - /images/sessions/2023/RitikaJain.jpg
-video: https://youtu.be/j4fmIh3ir3I
+video: https://youtu.be/Aothhrhadtc
 slides: 
 ---
 

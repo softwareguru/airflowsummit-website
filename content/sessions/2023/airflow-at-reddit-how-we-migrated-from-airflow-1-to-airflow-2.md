@@ -13,7 +13,7 @@ room: Ballroom C-D
 track: Use cases
 images:
  - /images/sessions/2023/Dave+Branden.jpg
-video: https://youtu.be/89VAPfShQ9Q
+video: https://youtu.be/FExVqjvDjvw
 slides: 2023/1-CD-1400-Reddit-Airflow-Migration.pdf
 ---
 
