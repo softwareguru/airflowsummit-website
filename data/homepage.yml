@@ -12,5 +12,5 @@ event_info:
     - number : "In person"
       label : "It's time to finally meet!"
 
-    - number : "800+"
+    - number : "+800"
       label : "participants"
