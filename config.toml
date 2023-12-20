@@ -110,7 +110,7 @@ link = "/tickets"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Sessions"
+label = "2023 Sessions"
 link = "/sessions/2023"
 
 

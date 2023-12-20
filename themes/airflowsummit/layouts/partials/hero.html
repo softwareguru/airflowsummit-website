@@ -1,20 +1,21 @@
 <section class="hero">
     <div class="hero-sailboat">
-        <img src="/images/sailboat.svg" class="img-fluid">
+        <img src="/images/rombus.svg" class="img-fluid">
     </div>    
     <div class="hero-middle"> 
         <img src="/images/logo-h.svg" class="img-fluid mb-4">
-        <h3 class="hero-tagline text-center">Let's flow together</h3>
-        <h4 class="hero-meta text-center">September 19-21, 2023</h4>
-        <h4 class="hero-meta text-center">Toronto, Canada</h4>
+        <!--<h3 class="hero-tagline text-center">Let's flow together</h3>-->
+        <h4 class="hero-meta text-center">September 10-12, 2024</h4>
+        <h4 class="hero-meta text-center">Bay Area, San Francisco</h4>
 
         <div class="cta-container my-4 text-center">
 
-            {{ with .Site.Params.hero.cta1 }}
+           <!-- {{ with .Site.Params.hero.cta1 }}
             <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
                 <button id="button-hero1" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#fd7e62;">{{ .text }}</button>
             </a>
             {{ end }}
+            -->
 
             {{ with .Site.Params.hero.cta2 }}
               {{ if eq .enable true }}
