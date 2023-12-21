@@ -146,8 +146,8 @@ link = "/sessions/2023"
     name = "Code of Conduct"
     url = "/coc"
 [[params.links.footer]]
-    name = "Partner with US"
-    url = "/partner-with-us"
+    name = "Prospectus"
+    url = "/docs/AirflowSummit2024-Prospectus-v1_1.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Accessibility"
