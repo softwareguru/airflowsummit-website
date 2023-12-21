@@ -22,23 +22,29 @@ speaker = "speakers"
 ############################## navigation ###############################
 [menu]
 
-[[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about"
-    weight = 1
   [[menu.main]]
-    identifier = "about1"
-    name = "About"
-    url = "/about"
-    parent = "about"
-    weight = 1
-  [[menu.main]]
-    identifier = "about2"
-    name = "Partner With Us"
-    url = "/partner-with-us"
-    parent = "about"
-    weight = 2
+  name = "About"
+  URL = "/about"
+  weight = 1
+
+
+#[[menu.main]]
+#    identifier = "about"
+#    name = "About"
+#    url = "/about"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "about1"
+#    name = "About"
+#    url = "/about"
+#    parent = "about"
+#    weight = 1
+#  [[menu.main]]
+#    identifier = "about2"
+#    name = "Partner With Us"
+#    url = "/partner-with-us"
+#    parent = "about"
+#    weight = 2
 
   #[[menu.main]]
   #  identifier = "category"
@@ -105,7 +111,7 @@ text = "September 19-21, 2023. Toronto, Canada."
 
 [params.hero.cta1]
 text = "Become a sponsor"
-link = "/docs/Airflow-Summit-2024-Prospectus-v1.pdf"
+link = "/docs/AirflowSummit2024-Prospectus-v1_2.pdf"
 
 # Navigation button
 [params.navigation_button]
@@ -147,7 +153,7 @@ link = "/sessions/2023"
     url = "/coc"
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/AirflowSummit2024-Prospectus-v1_1.pdf"
+    url = "/docs/AirflowSummit2024-Prospectus-v1_2.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Accessibility"
