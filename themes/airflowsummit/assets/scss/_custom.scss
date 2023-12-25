@@ -151,8 +151,9 @@ section.faq {
 }
 
 section.event-info {
-	border-top: solid 2px $cyan;
-	border-bottom: solid 2px $cyan;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #00c7d460;
 
 }
 
@@ -170,7 +171,6 @@ section.event-info {
 .event-info h2 {
     font-weight: 400;
 	font-size: 40px;
-	color: white;
 }
 
 
