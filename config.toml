@@ -143,18 +143,21 @@ link = "/sessions/2023"
     icon = "fab fa-instagram"
 
 [[params.links.footer]]
+    name = "Prospectus"
+    url = "/docs/AirflowSummit2024-Prospectus-v1_2.pdf"
+    target="_blank"
+[[params.links.footer]]
     name = "Session archive"
     url = "/sessions"
 [[params.links.footer]]
     name = "Speaker archive"
     url = "/speakers/archive/"
 [[params.links.footer]]
+    name = "Organizers"
+    url = "/team"
+[[params.links.footer]]
     name = "Code of Conduct"
     url = "/coc"
-[[params.links.footer]]
-    name = "Prospectus"
-    url = "/docs/AirflowSummit2024-Prospectus-v1_2.pdf"
-    target="_blank"
 [[params.links.footer]]
     name = "Accessibility"
     url = "/accessibility"
@@ -164,9 +167,6 @@ link = "/sessions/2023"
 [[params.links.footer]]
     name = "Testimonials"
     url = "/testimonials"
-[[params.links.footer]]
-    name = "Organizers"
-    url = "/team"
 
 
 [permalinks]
@@ -174,25 +174,26 @@ tags = "/blog/tags/:slug/"
 posts = "/:year/:month/:title/"
 
 ############################# Plugins ##############################
+
 # CSS Plugins
 [[params.plugins.css]]
-# link = "https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
-link = "/plugins/bootstrap/css/bootstrap.min.css"
+link = "/plugins/bootstrap.min.css"
 
 [[params.plugins.css]]
-link = "https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.css"
+link = "/plugins/bootstrap-table.min.css"
+
+[[params.plugins.css]]
+link = "/plugins/fontawesome.css"
 
 # JS Plugins
 [[params.plugins.js]]
-# link = "https://code.jquery.com/jquery-3.5.1.slim.min.js" 
-link = "/plugins/jquery/jquery.js" 
+link="/plugins/jquery.min.js"
 
 [[params.plugins.js]]
-# link="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
-link="/plugins/bootstrap/js/bootstrap.min.js"
+link="/plugins/bootstrap.bundle.min.js"
 
 [[params.plugins.js]]
-link="https://kit.fontawesome.com/4a6d2efc2e.js"
+link="/plugins/bootstrap-table.min.js"
 
 [[params.plugins.js]]
-link="https://unpkg.com/bootstrap-table@1.18.2/dist/bootstrap-table.min.js"
+link="/plugins/swiper-bundle.min.js"
