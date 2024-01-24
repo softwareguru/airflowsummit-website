@@ -10,7 +10,7 @@ event_info:
       label : "Days"
 
     - number : "In person"
-      label : "In San Francisco Bay area!"
+      label : "In San Francisco, California"
 
     - number : "+800"
       label : "Participants"
