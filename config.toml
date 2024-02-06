@@ -79,10 +79,10 @@ speaker = "speakers"
   #URL = "/networking/"
   #weight = 3
 
-  #[[menu.main]]
-  #name = "Venue + Travel"
-  #URL = "venue"
-  #weight = 4
+  [[menu.main]]
+  name = "Venue"
+  URL = "venue"
+  weight = 4
 
 
   [[menu.main]]
@@ -110,8 +110,12 @@ end_date = "2023-09-21T17:00-05:00"
 text = "September 19-21, 2023. Toronto, Canada."
 
 [params.hero.cta1]
-text = "Become a sponsor"
-link = "/docs/AirflowSummit2024-Prospectus-v1_2.pdf"
+text = "CFP is open!"
+link = "https://sessionize.com/airflow-summit-2024/"
+
+[params.hero.cta2]
+text = "CFP is open!"
+link = "https://sessionize.com/airflow-summit-2024/"
 
 # Navigation button
 [params.navigation_button]
@@ -144,7 +148,7 @@ link = "/sessions/2023"
 
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/AirflowSummit2024-Prospectus-v1_2.pdf"
+    url = "/docs/AirflowSummit2024-Prospectus-v1_3.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Session archive"

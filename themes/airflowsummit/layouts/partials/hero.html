@@ -10,25 +10,19 @@
 
         <div class="cta-container my-4 text-center">
 
-           {{ with .Site.Params.hero.cta1 }}
+            {{ with .Site.Params.hero.cta1 }}
             <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
                 <button id="button-hero1" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#fd7e62;">{{ .text }}</button>
             </a>
             {{ end }}
-            
 
             {{ with .Site.Params.hero.cta2 }}
-              {{ if eq .enable true }}
-              <a id="hero-button2" href="{{ .link }}" target="_blank" class="mx-4">
-                <button id="button-hero2" class="btn btn-secondary my-2">{{ .text }}</button>
-              </a>
-              {{ end }}
+                <button class="btn text-white my-3 btn-rounded" disabled style="font-size: 1.4em; background-color:#017CEE;">Registration is open</button>
             {{ end }}
             
-            <button data-tf-popup="TxCJx3Vp" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Airflow Summit 2023 - Interested" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=,utm_medium=,utm_campaign=" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#017CEE;">Sign up for updates</button><script src="//embed.typeform.com/next/embed.js"></script>
         </div>
     </div>
     <div class="hero-corner">
         <img src="/images/rombus.svg" class="img-fluid">
-    </div>    
+    </div>
 </section>
