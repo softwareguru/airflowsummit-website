@@ -2,7 +2,7 @@
 event_info:
   enable : true
   title : "Get ready for Airflow Summit 2024!"
-  description : "We are getting ready to celebrate the 10th anniversary of Airflow! Save the date to meet with this amazing community in San Francisco, California next September 10-12, 2024."
+  description : "We are getting ready to celebrate the 10th anniversary of Airflow! Save the date to meet with this amazing community in The Westin St. Francis, San Francisco, USA next September 10-12, 2024."
   #cta_text: "Tickets available now!"
   #cta_link: "/tickets"
   features: 
@@ -10,7 +10,7 @@ event_info:
       label : "Days"
 
     - number : "In person"
-      label : "In San Francisco, California"
+      label : "In San Francisco, USA"
 
     - number : "+800"
       label : "Participants"

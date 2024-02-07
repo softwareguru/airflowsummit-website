@@ -2,7 +2,7 @@
 title: "Tickets"
 ---
 
-### Get your tickets for attending Airflow Summit 2023!
+### Get your tickets for attending Airflow Summit 2024!
 
 
 <script src="https://js.tito.io/v2/with/ga4,hits" async></script>

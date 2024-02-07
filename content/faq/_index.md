@@ -12,7 +12,7 @@ We will meet on September 10-12th, 2024 at [The Westin St. Francis on Union Squa
 
 Depending on your country of origin you may need a visa to enter the United States of America. Please consider that if you need one, it is time to start the process so you don't miss this event, let us know if you need our support with an invitation letter once you have bought your ticket. 
 
-Please request a letter to teyza@sg.com.mx and include the following info:
+Please request a letter to sofia@sg.com.mx and include the following info:
 
 * Full Name
 * Passport Number
