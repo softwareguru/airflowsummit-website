@@ -64,14 +64,14 @@
       "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
       "location": {
         "@type": "Place",
-        "name": "Marriott Downtown at Eaton Centre",
+        "name": "Westin St. Francis on Union Square",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "525 Bay St.",
-          "addressLocality": "Toronto",
-          "postalCode": "M5G 2L2",
-          "addressRegion": "Ontario",
-          "addressCountry": "Canada"
+          "streetAddress": "335 Powell St.",
+          "addressLocality": "San Francisco",
+          "postalCode": "94102",
+          "addressRegion": "CA",
+          "addressCountry": "USA"
         }
       }, 
     "image": [ {{ index .Site.Params.images 0 | absURL }} ],
@@ -79,10 +79,10 @@
       "offers": {
         "@type": "Offer",
         "url": {{ with .Site.Params.navigation_button.link }}{{ . | absURL }}{{ end }},
-        "price": "300",
+        "price": "450",
         "priceCurrency": "USD",
         "availability": "https://schema.org/InStock",
-        "validFrom": "2023-03-01T12:00"
+        "validFrom": "2024-02-01T12:00"
       },
       "performer": {
         "@type": "PerformingGroup",
