@@ -13,7 +13,7 @@ timeslot: 12
 images:
  - /images/sessions/2023/Viraj+Pete.jpg
 video: https://youtu.be/Q7H0JYVnI9I
-slides: 
+slides: 2023/crush1-1530-ThingsConsider.pdf
 ---
 
 Data platform teams often find themselves in a situation where they have to provide Airflow as a service to downstream teams, as more users and use cases in their organization require an orchestrator. In these situations, it's giving each team it's own Airflow environment can unlock velocity and actually be lower overhead to maintain than a monolithic environment.
