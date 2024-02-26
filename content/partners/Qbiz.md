@@ -4,5 +4,5 @@ level: "silver"
 logo: "/images/partners/Qbiz.png"
 webUrl: "http://qbizinc.com/"
 weight: 2
-draft: false
+draft: true
 ---
