@@ -35,7 +35,7 @@ Yes. Airflow Summit aims to provide a harassment-free experience to all particip
 We will not have live streaming. We will, however, record sessions and make them available later.
 
 ### Can I join as sponsor?
-Yes! Please review our [Prospectus](/docs/AirflowSummit2024-Prospectus-v1_3.pdf) or contact us at info@airflowsummit.org
+Yes! Please review our [Prospectus](/docs/AirflowSummit2024-Prospectus-v1_4.pdf) or contact us at info@airflowsummit.org
 
 ### Accessibility
 
