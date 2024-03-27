@@ -2,6 +2,27 @@
 title: "Venue" 
 ---
 
+### Where to Stay
+
+<table class="table border mb-4">
+    <tr>
+      <th scope="col">Hotels</th>
+      <th scope="col">Walking time</th>
+      <th scope="col">Room rate</th>
+      <th scope="col">Booking link</th>
+    </tr>
+  <tbody>
+    <tr>
+      <th scope="row"><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1709896400179&key=GRP&app=resvlink" target="_blank">The Westin St. Francis San Francisco on Union Square</a></th>
+      <td>-</td>
+      <td>259 USD per night (taxes not included)</td>
+      <td><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1709896400179&key=GRP&app=resvlink" target="_blank">Book your group rate</a><br>Deadline for reservations: Monday, August 12th, 2024.</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ### About the Venue
 
 We will meet on September 10-12th at [The Westin St. Francis on Union Square](https://www.marriott.com/en-us/hotels/sfouw-the-westin-st-francis-san-francisco-on-union-square/events/). For over 100 years, The Westin St. Francis has hosted some of the best events offering one of the best spaces in San Francisco. Our superb location, glamorous venues, and impeccable service are well-suited to various events, from small executive sessions to big conferences. We offer over 56,000 square feet of space, including 35 unique event spaces. Our expert onsite event planning staff is on hand to help you throughout your event, while guests delight in a range of gourmet options, creating memorable meetings and events.
