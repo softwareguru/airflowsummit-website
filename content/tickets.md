@@ -9,7 +9,8 @@ title: "Tickets"
 <tito-widget event="airflowsummit/2024"></tito-widget>
 
 * Ticket prices are in US dollars.
-* Payment is done with credit card and processed via stripe. If you need to use a different payment method please contact us at airflowsummit@sg.com.mx 
+* If your company is paying for your ticket, you can still take advantage of the early bird price. Don't wait!
+* Payment is done with credit card and processed via Stripe. If you need to use a different payment method, please select the "Invoice" payment method when checking out.
 
 <br>
 
