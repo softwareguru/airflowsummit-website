@@ -1,10 +1,10 @@
 <section class="hero">
-    <div class="hero-sailboat">
-        <img src="/images/rombus.svg" class="img-fluid">
-    </div>    
+   <div class="hero-sailboat">
+        <img src="/images/logo-2024.png" class="img-fluid">
+   </div>
     <div class="hero-middle"> 
-        <img src="/images/logo-h.svg" class="img-fluid mb-4">
-        <!--<h3 class="hero-tagline text-center">Let's flow together</h3>-->
+      
+        <h3 class="hero-tagline text-center">Celebrating 10 Years of Airflow</h3>
         <h4 class="hero-meta text-center">September 10-12, 2024</h4>
         <h4 class="hero-meta text-center">San Francisco, USA</h4>
 
@@ -12,17 +12,15 @@
 
             {{ with .Site.Params.hero.cta1 }}
             <a id="hero-button1" href="{{ .link }}" target="_blank" class="mx-4">
-                <button id="button-hero1" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#fd7e62;">{{ .text }}</button></a>
+                <button id="button-hero1" class="btn text-white my-3 btn-rounded" style="font-size: 1.2em; padding: 20px; background-color:#017CEE; text-transform: uppercase;">{{ .text }}</button></a>
             {{ end }}
 
             {{ with .Site.Params.hero.cta2 }}
             <a id="hero-button2" href="{{ .link }}" target="_blank" class="mx-4">
-                <button class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#017CEE;">{{ .text }}</button></a>    
+                <button class="btn text-white my-3 btn-rounded" style="font-size: 1.2em; padding: 20px; background-color:#322F2D; text-transform: uppercase;">{{ .text }}</button></a>    
             {{ end }}
             
         </div>
     </div>
-    <div class="hero-corner">
-        <img src="/images/rombus.svg" class="img-fluid">
-    </div>
+
 </section>

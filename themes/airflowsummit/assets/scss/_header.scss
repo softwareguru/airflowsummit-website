@@ -4,7 +4,7 @@
 
 .navbar {
   align-items: flex-end;
-  background-color: #fffcfb;
+  background-color: #000000b6;
 }
 
 @media (min-width: 768px) { 
@@ -21,12 +21,12 @@
 .main-nav {
   padding: 1em;
   transition: all .7s linear;
-  border-bottom: solid 2px $cyan;
+  //border-bottom: solid 2px $cyan;
 
   .nav-link {
     font-size: 26px;
     margin: 0 10px;
-    color: $cyan !important;
+    color: white !important;
     font-weight: 800;
 
     @media (max-width: 640px) {

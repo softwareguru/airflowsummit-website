@@ -2,6 +2,10 @@
 	flex-grow: 0 !important;
 }
 
+.btn-menu{
+	background-color: #017CEE !important;
+}
+
 #slides-iframe {
 	margin-top: 2em;
 }
@@ -73,9 +77,12 @@ section.swag p {
 }
 
 .logo-b {
-	height: 30px;
+	margin-top: -10px;
+	margin-bottom: -10px;
+	
+	height: 65px;
 	@media (max-width: 640px) {
-		height: 20px;
+		height: 40px;
 	}
 }
 

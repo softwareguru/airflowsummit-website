@@ -1,13 +1,17 @@
-
 section.hero {
   height: 100vh;
   display: grid;
+  background-image: url(/images/background_home.jpg);
+  background-size: cover;
+  background-position: center;
+  margin-top: -20px;
   grid-template-columns: 35% 1fr 20%;
   grid-template-rows: 1fr 10% 55% 1fr;
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 
   @media (max-width:992px) {
+    background-image: url(/images/home_transpa.jpg);
     grid-template-columns: 10% 1fr 10%;
     grid-template-rows: 1fr 20% 60% 1fr;  
   }  
@@ -18,15 +22,26 @@ section.hero {
 }
 
 .hero-sailboat {
-  grid-area: 2 / 1 / 4 / 2;  
-  align-self: end;
+
+  display: none;
 
   @media (max-width:992px) {
     text-align: center;
-    grid-area: 2 / 2 / 3 / 3;      
+    grid-area: 2 / 2 / 3 / 3;
+    justify-content: center;
+    display: grid;
+    margin-top: -150px;
+   
+  @media (max-width:540px){
+    margin-top: -120px;
+  }  
+
+  @media (max-width:520px){
+    margin-top: -50px;
+  }  
   
     img {
-      max-height: 30vh;
+      max-height: 60vh;
     }
   }
 }
@@ -34,27 +49,34 @@ section.hero {
 
 
 .hero-middle { 
-  grid-area: 3 / 2 / 4 / 4; 
+  grid-area: 2 / 1 / 4 / 3;
   align-self: end;
-  padding-right: 6em;
+  padding-right: 10em;
   font-size: 24px;
+  
+  @media (max-width:1625px) {
+    padding-right: 8em;
+  }
 
   @media (max-width:1300px) {
       font-size: 20px;
-      padding-right: 3em;
+      padding-right: 0em;
+
     }
 
   @media (max-width:992px) {
     justify-self: center;
     align-self: start;
     font-size: 16px;
-    padding-top: 3em;
+    padding-top: 9em;
     padding-right: 0;
     grid-area: 3 / 2 / 4 / 3;
+    margin-top: 50px;
   }
 
-  @media (max-width:400px) {
-    font-size: 14px;
+  @media (max-width:550px) {
+    font-size: 15px;
+    margin-top: -10px;
   }
 
 }
@@ -68,11 +90,9 @@ section.hero {
   }
 }
 
-
 .hero-tagline {
     font-size: 2.2em;
     color: #017cee;
-
 }
 
 .hero-meta {
@@ -80,7 +100,6 @@ section.hero {
   color: #404040;
 }
 
-
 #button-hero1, #button-hero2 {
-  font-size: 1.2em;
+  font-size: 1em;
 }
