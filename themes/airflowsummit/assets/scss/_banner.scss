@@ -7,7 +7,7 @@ section.hero {
   margin-top: -20px;
   grid-template-columns: 35% 1fr 20%;
   grid-template-rows: 1fr 10% 55% 1fr;
-  grid-column-gap: 0px;
+  grid-column-gap: 0px; 
   grid-row-gap: 0px;
 
   @media (max-width:992px) {
@@ -52,7 +52,7 @@ section.hero {
   grid-area: 2 / 1 / 4 / 3;
   align-self: end;
   padding-right: 10em;
-  font-size: 24px;
+  font-size: 18px;
   
   @media (max-width:1625px) {
     padding-right: 8em;
