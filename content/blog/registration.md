@@ -4,7 +4,7 @@ date: 2023-06-06T10:00:00
 description: ""
 summary: ""
 # post thumb
-images: ["/images/blog/Registration.png"]
+images: ["/images/blog/registration-2024.png"]
 # author
 author: "Airflow Summit Team"
 draft: false
