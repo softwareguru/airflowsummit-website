@@ -1,8 +1,8 @@
 ---
 title: "BMC"
-level: "silver"
-logo: "/images/partners/bmc.png"
+level: "gold"
+logo: "/images/partners/bmc-logo.png"
 webUrl: "https://www.bmc.com/"
-weight: 1
-draft: true
+weight: 2
+draft: false
 ---
