@@ -109,11 +109,11 @@ end_date = "2023-09-21T17:00-05:00"
 [params.hero]
 text = "September 19-21, 2023. Toronto, Canada."
 
-[params.hero.cta1]
-text = "Submit to our CFP"
-link = "https://sessionize.com/airflow-summit-2024/"
+# [params.hero.cta1]
+# text = "Submit to our CFP"
+# link = "https://sessionize.com/airflow-summit-2024/"
 
-[params.hero.cta2]
+[params.hero.cta1]
 text = "Get your ticket"
 link = "/tickets"
 
