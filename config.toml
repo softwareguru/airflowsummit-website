@@ -113,7 +113,7 @@ text = "September 19-21, 2023. Toronto, Canada."
 # text = "Submit to our CFP"
 # link = "https://sessionize.com/airflow-summit-2024/"
 
-[params.hero.cta1]
+[params.hero.cta2]
 text = "Get your ticket"
 link = "/tickets"
 
