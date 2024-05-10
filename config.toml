@@ -71,7 +71,7 @@ speaker = "speakers"
 
   [[menu.main]]
   name = "Speakers"
-  URL = "/speakers/archive"
+  URL = "/speakers"
   weight = 3
 
   #[[menu.main]]
@@ -81,7 +81,7 @@ speaker = "speakers"
 
   [[menu.main]]
   name = "Venue"
-  URL = "venue"
+  URL = "/venue"
   weight = 4
 
 

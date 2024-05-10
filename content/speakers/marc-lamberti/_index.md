@@ -1,12 +1,12 @@
 ---
 title: "Marc Lamberti"
-designation: "Head of Customer Education at  Astronomer"
+designation: "Head of Customer Education at Astronomer"
 images:
  - /images/speakers/marc-lamberti.jpg
 twitter: 
-linkedin: https://www.linkedin.com/in/marclamberti/
+linkedin: 
 events:
- - 2023
+ - 2024
 ---
 
 Marc Lamberti is a data engineer, head of customer education at Astronomer, and Udemy instructor with over 60,000 students.
