@@ -12,7 +12,7 @@ presence: "remote"
 block: f
 slot: 2
 video: https://youtu.be/QhSn9oviZ9g
-
+draft: true
 ---
 
 Have you faced a scenario where 100 worker slots are available to run the Tasks, but you have 100 DAGs waiting on a Sensor that’s currently running but idle, waiting for something to happen? Ultimately, you got frustrated as you could not run anything else - even though your entire Airflow cluster was essentially idle. This is exactly where the concept of Deferrable Operators is very useful. 
