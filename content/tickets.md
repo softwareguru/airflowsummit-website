@@ -9,19 +9,19 @@ title: "Tickets"
 <tito-widget event="airflowsummit/2024"></tito-widget>
 
 * Ticket prices are in US dollars.
-* Payment is done with credit card and processed via Stripe. If you need to use a different payment method, please select the "Invoice" payment method when checking out.
+* Individual pass is meant for people who cover themselves the price of the ticket and pay via credit card.
+* Corporate pass is meant for people whose ticket is purchased/refunded by their employer and may require an invoice as well as additional payment options (ie bank transfer).
+* A discount of 25% is applied on orders of 5 or more tickets for corporate passes.
 
 <br>
 
 ## Ticket discounts
 
-Take advantage of the discounts for groups, communities, and minorities we have:
+Take advantage of the discounts communities, and minorities we have:
 
-* 25% Discount for groups of 5 or more: Group pass
-* 20% Discount for women applying the code: 20%DISC_WOMEN
-* 20% Discount for students applying the code: 20%DISC_STUDENT
+* 20% Discount for women applying the code: 20DISC_WOMEN
+* 20% Discount for students applying the code: 20DISC_STUDENT
 
-***Discounts apply to corporate passes.***
 
 <!---
 You can take advantage of the different discounts available. We will approve the discount based on the information you provide in the registration:
