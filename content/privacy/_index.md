@@ -1,6 +1,7 @@
 ---
 title: "Privacy Policy"
 linkTitle: "Privacy"
+draft: true
 ---
 
 ## Privacy Policy
