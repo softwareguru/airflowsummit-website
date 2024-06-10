@@ -1,12 +1,13 @@
 ---
 title: "Jianlong Zhong"
-designation: "Coinbase, Staff Software Engineer"
+designation: "Coinbase, Staff Engineer and Tech Lead Manager"
 images:
  - /images/speakers/jianlong-zhong.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/jianlong-zhong-56751a5a/
 events:
  - 2023
+ - 2024
 ---
 
-Jianlong currently works at Coinbase Data Platform team as the tech lead for data pipeline orchestration and data governance. Previously he worked at Instagram where he built the entire server framework for the world's largest Python web service, and at TigerGraph where he was the founding engineer and built the world's fastest graph database from scratch.
+Jianlong Zhong currently works at Coinbase Data Platform team as a Staff Engineer and Tech Lead Manager. His team supports pipeline orchestration, data ingress, data transformation and data access control at Coinbase. He previously engineered Instagram's largest Python web server framework from scratch and was a founding engineer at TigerGraph, developing the world’s fastest graph database and analytics platform.

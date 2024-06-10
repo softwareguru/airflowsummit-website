@@ -1,14 +1,15 @@
 ---
 title: "Roberto Santamaria"
-designation: "Apple Cloud Services, Engineering Manager - Data Pipelines"
+designation: "Apple, Engineering Leader"
 image: /images/speakers/roberto-santamaria.jpg
 events:
  - 2021
+ - 2024
 twitter: ""
-linkedin: "https://www.linkedin.com/in/roberto-c-santamaria/"
+linkedin: https://www.linkedin.com/in/roberto-c-santamaria/
 event-2021: true
 ---
 
-Roberto leads a project at Apple that is built on top of Airflow. He's had many roles in tech ranging from tech support, Ops engineer, Sys Admin, Sr. Developer and is currently the Engineering Manager behind a company-wide data pipelines solution.
+Roberto is an engineering leader at Apple and has had roles in customer support, system administration, software development and leadership in the 10+ years he's been at Apple.  Most recently he leads a stellar team of engineers who deliver managed Airflow as a service for teams throughout Apple and helps facilitate contributions from company engineers to open source.  
 
-Roberto was born in El Salvador, grew up in Houston, Texas (USA), now lives in Boston, Massachusetts (USA), and spends his spare time building furniture and working on house renovation projects with his kids.
+In his free time Roberto is an amateur woodworker and enjoys outdoor activities with his family.

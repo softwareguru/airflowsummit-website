@@ -1,6 +1,6 @@
 ---
 title: "Albert Okiri"
-designation: "Acies Crest, Data Engineer"
+designation: "Acies Crest, Data Engineer "
 images:
  - /images/speakers/albert-okiri.jpg
 twitter: https://twitter.com/albert_o__?t=aBlxFmlWq0eCIfAaWD19Jw&s=03

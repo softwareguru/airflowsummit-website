@@ -7,6 +7,7 @@ twitter: https://twitter.com/bbovenzi
 linkedin: https://www.linkedin.com/in/brent-bovenzi/
 events:
  - 2023
+ - 2024
 ---
 
-Frontend Engineer since 2016. At Astronomer since 2020.
+Staff frontend engineer at Astronomer. Airflow Committer and PMC. Contributing to Airflow since 2020. Based in NYC.

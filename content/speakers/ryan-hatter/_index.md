@@ -1,11 +1,12 @@
 ---
 title: "Ryan Hatter"
-designation: "Sr. Airflow Engineer at Astronomer"
+designation: "Senior Airflow Engineer at Astronomer"
 images: 
  - /images/speakers/ryan-hatter.jpg
 events:
  - 2021
  - 2023
+ - 2024
 
 linkedin: https://www.linkedin.com/in/rnhttr/
 
