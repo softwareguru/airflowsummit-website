@@ -23,17 +23,19 @@
         <tbody>
               {{ range .Data.Pages.ByTitle }}
             <tr>
-                <td><h4 class="mb-0">
+                <td data-toggle="collapse" data-target="#abs-{{.File.TranslationBaseName}}" class="session-toggler"><h4 class="mb-0">
                     <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
+                    
                     </h4>
                     {{ if $is_active }}
                     <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
                     {{ end }}
 
                     {{ if $is_active }}
-                    <div class="card-abstract mt-2" id="abs-{{.File.TranslationBaseName}}">
-                        {{ .Summary }}
-                    </div>
+                    <div class="collapse card-abstract" id="abs-{{.File.TranslationBaseName}}" >
+                      {{ .Summary }}
+                        <div><a href="{{.Permalink}}">See more ...</a></div>
+                  </div>
                     {{ end }}
                   </td>
                 {{ if not $is_active }}
