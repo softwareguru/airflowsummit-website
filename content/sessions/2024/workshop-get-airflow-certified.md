@@ -8,6 +8,7 @@ track:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
+draft: true
 ---
 
 As an Airflow Summit attendee, we’re thrilled to offer you an in-person opportunity to take an [Airflow Certification](https://www.astronomer.io/certification/) exam at no additional cost. Depending on your skill level, you can take one of two exams:
