@@ -5,6 +5,7 @@ speakers:
  - Briana Okyere
  - Amogh Desai
  - Ryan Hatter
+ - Srabasti Banerjee
 track:
  - Community
 room: 
