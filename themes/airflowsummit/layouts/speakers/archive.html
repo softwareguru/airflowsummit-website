@@ -6,7 +6,9 @@
       {{ .Content }}
     </div>
     <div class="speaker-strip">
-      {{ range where (where .Site.Pages.ByTitle "Type" "speakers") "Kind" "term" }}
+      {{ range $name, $term := .Site.Taxonomies.speakers }}
+      {{ $speaker_path := printf "%s" $name | urlize | printf "%s%s" "/speakers/" }}
+      {{ with $.Site.GetPage $speaker_path }}
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">
@@ -19,6 +21,7 @@
           </div>
         </div>
       </div>
+      {{ end }}
       {{ end }}
     </div>
   </div>
