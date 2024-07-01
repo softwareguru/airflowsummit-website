@@ -28,55 +28,26 @@ speaker = "speakers"
   weight = 1
 
 
-#[[menu.main]]
-#    identifier = "about"
-#    name = "About"
-#    url = "/about"
-#    weight = 1
-#  [[menu.main]]
-#    identifier = "about1"
-#    name = "About"
-#    url = "/about"
-#    parent = "about"
-#    weight = 1
-#  [[menu.main]]
-#    identifier = "about2"
-#    name = "Partner With Us"
-#    url = "/partner-with-us"
-#    parent = "about"
-#    weight = 2
-
+  [[menu.main]]
+    identifier = "program"
+    name = "Program"
+    url = "/program"
+    weight = 1
   #[[menu.main]]
-  #  identifier = "category"
-  #  name = "Program"
-  #  url = "/program"
+  #  identifier = "sessions"
+  #  name = "Sessions"
+  #  url = "/sessions/2024"
+  #  parent = "program"
   #  weight = 1
   #[[menu.main]]
-  #  identifier = "category1"
-  #  name = "Program"
-  #  url = "/program"
-  #  parent = "category"
-  #  weight = 1
-  #[[menu.main]]
-  #  identifier = "category2"
-  #  name = "Panels"
-  #  url = "/sessions/2023/panels"
-  #  parent = "category"
-  #  weight = 2
-  #[[menu.main]]
-  #  identifier = "category3"
+  #  identifier = "workshops"
   #  name = "Workshops"
-  #  url = "/sessions/2023/workshops"
-  #  parent = "category"
+  #  url = "/sessions/2024/workshops"
+  #  parent = "program"
 
   [[menu.main]]
   name = "Speakers"
   URL = "/speakers"
-  weight = 3
-
-  [[menu.main]]
-  name = "Sessions"
-  URL = "/sessions/2024/"
   weight = 3
 
   [[menu.main]]
