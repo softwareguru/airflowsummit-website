@@ -23,10 +23,24 @@ speaker = "speakers"
 [menu]
 
   [[menu.main]]
-  name = "About"
+  identifier = "about-AS"
+  name = "ABOUT"
   URL = "/about"
   weight = 1
 
+  [[menu.main]]
+    identifier = "scholarships"
+    name = "ABOUT AIRFLOW SUMMIT"
+    url = "/about"
+    parent = "about-AS"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "scholarships2"
+    name = "SCHOLARSHIPS"
+    url = "/blog/scholarship"
+    parent = "about-AS"
+    weight = 3
 
   [[menu.main]]
     identifier = "program"

@@ -27,5 +27,21 @@ You have until **June 14, 2024** to apply.
 All the information provided in this form will only be used for the evaluation of scholarships, after the event the scholarship application information will be deleted.
 
 <center>
- <a id="nav-button" href="https://sg1.run/airflowsummit-scholarship2024" class="btn btn-orange text-white btn-rounded" target="_blank">Apply now!</a>
+ <a id="nav-button" data-bs-toggle="modal" data-bs-target="#exampleModal" class="btn btn-orange text-white btn-rounded" target="_blank">Apply now!</a>
 <center>
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h1 class="modal-title fs-5" id="exampleModalLabel">Scholarships</h1>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        Airflow Summit scholarship applications period has ended. We will inform the applicants of any resolution taken asap. Contact us for any question <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a>
+      </div> 
+    </div>
+  </div>
+</div>

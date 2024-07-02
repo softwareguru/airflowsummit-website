@@ -9,7 +9,6 @@ summary: ""
 images: ["images/blog/partner.png"]
 # author
 author: "Airflow Summit Team"
-draft:
 draft: true
 ---
 
