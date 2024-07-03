@@ -16,7 +16,7 @@ title: "Venue"
       <th scope="row"><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1709896400179&key=GRP&app=resvlink" target="_blank">The Westin St. Francis San Francisco on Union Square</a></th>
       <td>-</td>
       <td>259 USD per night (taxes not included)</td>
-      <td><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1709896400179&key=GRP&app=resvlink" target="_blank">Book your group rate</a><br>Deadline for reservations: Monday, August 12th, 2024.</td>
+      <td><a href="https://www.marriott.com/event-reservations/reservation-link.mi?id=1709896400179&key=GRP&app=resvlink" target="_blank">Book your group rate</a><br>Deadline for reservations: Monday, August 12th, 2024. If you are arriving before Sep 9, or leaving after Sep 13, you must make 2 separate bookings because a different rate will apply. In that case, please call the hotel so they can merge your reservations.</td>
     </tr>
   </tbody>
 </table>
