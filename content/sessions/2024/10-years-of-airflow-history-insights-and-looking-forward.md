@@ -8,6 +8,7 @@ speakers:
  - Marc Lamberti
  - Rafal Biegacz
  - Ash Berlin-Taylor
+ - Elad Kalif
 track:
  - Airflow Intro talks
 room: 

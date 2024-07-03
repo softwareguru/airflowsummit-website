@@ -6,7 +6,6 @@ images:
 twitter: https://twitter.com/vikramvkoka
 linkedin: https://www.linkedin.com/in/vikramkoka/
 events:
- - 2023
  - 2024
 ---
 

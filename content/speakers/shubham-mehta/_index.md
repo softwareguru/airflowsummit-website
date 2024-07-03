@@ -6,7 +6,7 @@ images:
 twitter: https://twitter.com/deeplytechnical
 linkedin: https://www.linkedin.com/in/shubh-mehta/
 events:
- - 2023
+ - 2024
 ---
 
 Shubham is a skilled product manager with a diverse background in delivering successful products across various industries. As a Senior Product Manager at AWS, he oversees the roadmap and prioritization of Airflow features in Amazon Managed Workflows for Apache Airflow (MWAA) and leads the open-source contributions to enhance product functionality. 

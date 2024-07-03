@@ -3,6 +3,7 @@ title: "Running Airflow tasks anywhere, in any language"
 slug: running-airflow-tasks-anywhere-in-any-language
 speakers:
  - Ash Berlin-Taylor
+ - Vikram Koka
 track:
  - New features
 room: 

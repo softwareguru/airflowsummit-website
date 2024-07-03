@@ -2,10 +2,10 @@
 title: "Airflow 3 - Roadmap Discussion"
 slug: airflow-3-roadmap-discussion
 speakers:
- - Jarek Potiuk
+ - Constance Martineau
  - Kaxil Naik
  - Michał Modras
- - John Jackson
+ - Shubham Mehta
 track:
  - New features
 room: 
