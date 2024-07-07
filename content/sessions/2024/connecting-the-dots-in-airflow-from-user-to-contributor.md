@@ -8,6 +8,8 @@ speakers:
  - Srabasti Banerjee
 track:
  - Community
+images:
+ - /images/sessions/2024/connecting-dots.jpg 
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00

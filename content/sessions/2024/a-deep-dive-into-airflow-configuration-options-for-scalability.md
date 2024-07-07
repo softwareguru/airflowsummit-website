@@ -3,6 +3,8 @@ title: "A deep dive into Airflow configuration options for scalability"
 slug: a-deep-dive-into-airflow-configuration-options-for-scalability
 speakers:
  - Ephraim Anierobi
+images:
+ - /images/sessions/2024/deep-dive-configuration.jpg 
 track:
  - Airflow Intro talks
 room: 

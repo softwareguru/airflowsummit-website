@@ -4,6 +4,8 @@ speakers:
  - Bartosz Jankiewicz
 track:
  - New features
+images:
+ - /images/sessions/2024/empowering-airflow.jpg 
 time_start: 2024-09-10T16:00:00.000Z
 time_end: 2024-09-10T16:45:00.000Z
 draft: false

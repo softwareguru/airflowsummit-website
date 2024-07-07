@@ -7,6 +7,8 @@ speakers:
 track:
  - Airflow & ...
 room: 
+images:
+ - /images/sessions/2024/datasets-pub-sub.jpg 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
 ---

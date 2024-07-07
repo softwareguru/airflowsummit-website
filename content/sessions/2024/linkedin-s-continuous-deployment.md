@@ -6,6 +6,8 @@ speakers:
  - Keshav Tyagi
 track:
  - Use cases
+images:
+ - /images/sessions/2024/linkedin.jpg 
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00

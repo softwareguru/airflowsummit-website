@@ -5,6 +5,8 @@ speakers:
  - Tim Hiatt
 track:
  - Community
+images:
+ - /images/sessions/2024/dagify.jpg 
 time_start: 2024-09-10T16:00:00.000Z
 time_end: 2024-09-10T16:45:00.000Z
 draft: false
