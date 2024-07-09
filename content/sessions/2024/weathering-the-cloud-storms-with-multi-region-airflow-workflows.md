@@ -2,7 +2,7 @@
 title: "Weathering the Cloud Storms With Multi-Region Airflow Workflows"
 slug: weathering-the-cloud-storms-with-multi-region-airflow-workflows
 speakers:
- - Denis Magda
+ - Amit Chauhan
 track:
  - Airflow & ...
 room: 
