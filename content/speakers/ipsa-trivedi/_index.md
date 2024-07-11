@@ -3,7 +3,7 @@ title: "Ipsa Trivedi"
 date: 2024-07-02T23:22:46-05:00
 images: 
  - /images/speakers/ipsa-trivedi.jpg
-designation: Sr Software Architect at Envestnet
+designation: Data Engineer and Cloud Solutions
 twitter: 
 linkedin: https://www.linkedin.com/in/ipsatrivedi/
 github: 
