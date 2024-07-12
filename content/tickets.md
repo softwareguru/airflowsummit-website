@@ -19,8 +19,9 @@ title: "Tickets"
 
 Take advantage of the discounts communities, and minorities we have:
 
-* 20% Discount for women applying the code: 20DISC_WOMEN
+* 20% Discount for women applying the code: 20DISC_WNB
 * 20% Discount for students applying the code: 20DISC_STUDENT
+* If you are paying for your ticket from your own pocket (not by employer), apply the code 100LESS_IND to get $100 off.
 
 
 <!---
