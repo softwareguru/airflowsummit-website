@@ -3,7 +3,6 @@ title: "10 years of Airflow: history, insights, and looking forward"
 slug: 10-years-of-airflow-history-insights-and-looking-forward
 speakers:
  - Kenten Danas
- - Jarek Potiuk
  - John Jackson
  - Marc Lamberti
  - Rafal Biegacz
