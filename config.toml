@@ -43,6 +43,14 @@ speaker = "speakers"
     weight = 3
 
   [[menu.main]]
+    identifier = "scholarships3"
+    name = "DIVERSITY & INCLUSION"
+    url = "diversity-and-inclusion"
+    parent = "about-AS"
+    weight = 4
+
+
+  [[menu.main]]
     identifier = "program"
     name = "Program"
     url = "/program"
