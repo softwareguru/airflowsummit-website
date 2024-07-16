@@ -9,8 +9,6 @@ title: "Tickets"
 <tito-widget event="airflowsummit/2024"></tito-widget>
 
 * Ticket prices are in US dollars.
-* Individual pass is meant for people who cover themselves the price of the ticket and pay via credit card.
-* Corporate pass is meant for people whose ticket is purchased/refunded by their employer and may require an invoice as well as additional payment options (ie bank transfer).
 * A discount of 25% is applied on orders of 5 or more tickets for corporate passes.
 
 <br>
