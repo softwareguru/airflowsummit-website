@@ -4,6 +4,8 @@ title: "Venue"
 
 ### Where to Stay
 
+<br>
+
 <table class="table border mb-4">
     <tr>
       <th scope="col">Hotels</th>
@@ -25,7 +27,7 @@ title: "Venue"
   </tbody>
 </table>
 
-
+<br>
 
 ### About the Venue
 
@@ -62,3 +64,37 @@ As the only hotel directly located on Union Square, we provide the perfect start
     </div>
   </div>
 </div>
+
+<br>
+
+### How to get there?
+
+There are three main airports near San Francisco:
+
+1. **San Francisco International Airport (SFO):** 21 km from downtown, accessible by metro (BART) and bus.
+
+2. **Oakland Metropolitan Airport (OAK):** 18 km away, reachable via metro and bus.
+
+
+3. **San José Airport (SJC):** 48 km away, requiring a combination of bus and metro.
+
+Each airport offers public transport and taxi options to reach downtown San Francisco, varying in cost and travel time.
+
+<br>
+
+### What to do?
+
+Here are some recommendations for Things to Do in San Francisco
+
+1. **Golden Gate Bridge:** Walk or bike across this iconic bridge.
+2. **Alcatraz Island:** Tour the historic former prison.
+3. **Fisherman's Wharf:** Enjoy seafood, shopping, and entertainment.
+4. **Chinatown:** Explore the vibrant culture and cuisine.
+5. **Golden Gate Park:** Visit museums, gardens, and outdoor activities.
+6. **Cable Cars:** Ride the historic cable cars for unique city views.
+7. **Union Square:** Shop and dine in this bustling area.
+8. **Exploratorium:** Engage with interactive science exhibits.
+9. **Lombard Street:** See the famously crooked street.
+10. **Mission District:** Experience colorful murals and diverse food.
+
+San Francisco offers a blend of cultural, historical, and natural attractions, ensuring a memorable visit.
