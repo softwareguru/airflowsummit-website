@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Leveraging Automation Analytics & Intelligence with Airflow for Enhanced Workflow Observability"
+title: "Leveraging Automation Analytics & Intelligence with Airflow for Enhanced Workflow Observability"
 speakers:
  - Chetan Kapoor
 track:
@@ -7,7 +7,7 @@ track:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
-
+summary: "Learn how easy it is to integrate Automation Analytics & Intelligence (AAI) and Airflow, including details on the architecture and implementation strategies."
 ---
 
 In this workshop we will discuss how easy it is to integrate Automation Analytics & Intelligence (AAI) and Airflow, including details on the architecture and implementation strategies.
