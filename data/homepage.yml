@@ -12,5 +12,5 @@ event_info:
     - number : "In person"
       label : "In San Francisco, USA"
 
-    - number : "+800"
+    - number : "+700"
       label : "Participants"

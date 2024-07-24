@@ -3,7 +3,7 @@ title: "Srabasti Banerjee"
 date: 2024-06-23T20:07:46-05:00
 images: 
  - /images/speakers/srabasti-banerjee.jpg
-designation: Sr Data Engineer at Five9
+designation: Sr. Data Engineer at Five9
 twitter: 
 linkedin: https://www.linkedin.com/in/srabasti-banerjee/
 github: 
