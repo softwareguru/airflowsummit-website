@@ -11,5 +11,4 @@ events:
  - 2024
 ---
 
-
 Joe Morotti is a Sr. Solution Architect with AWS and is based out of Columbus, OH. As a Sr. Solutions Architect, Joe works with enterprise customers in the Financial Services industry on their AWS journey. Joe is an active member of the AWS Analytics community with a focus on Airflow.
