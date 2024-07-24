@@ -9,6 +9,7 @@ room:
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
 draft: true
+summary: "In-person opportunity to take an Airflow Certification exam at no additional cost. The workshop will include 20 mins of preparation and a Q&A with Marc Lamberti from Astronomer."
 ---
 
 As an Airflow Summit attendee, we’re thrilled to offer you an in-person opportunity to take an [Airflow Certification](https://www.astronomer.io/certification/) exam at no additional cost. Depending on your skill level, you can take one of two exams:
