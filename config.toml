@@ -49,33 +49,32 @@ speaker = "speakers"
     parent = "about-AS"
     weight = 4
 
-
   [[menu.main]]
     identifier = "program"
     name = "PROGRAM"
     url = "/program"
-    weight = 1
+    weight = 2
   [[menu.main]]
     identifier = "sessions"
     name = "Sessions"
     url = "/sessions/2024"
     parent = "program"
-    weight = 1
+    weight = 2
+
   [[menu.main]]
-    name = "Workshops"
+    name = "WORKSHOPS"
     url = "/sessions/2024/workshops"
-    parent = "program"
+    weight = 3
 
   [[menu.main]]
   name = "Speakers"
   URL = "/speakers"
-  weight = 3
+  weight = 4
 
   [[menu.main]]
   name = "Venue"
   URL = "/venue"
-  weight = 4
-
+  weight = 5
 
   [[menu.main]]
   name = "FAQ"
