@@ -30,21 +30,21 @@ speaker = "speakers"
 
   [[menu.main]]
     identifier = "scholarships"
-    name = "ABOUT AIRFLOW SUMMIT"
+    name = "About Airflow Summit"
     url = "/about"
     parent = "about-AS"
     weight = 2
 
   [[menu.main]]
     identifier = "scholarships2"
-    name = "SCHOLARSHIPS"
+    name = "Scholarships"
     url = "/blog/scholarship"
     parent = "about-AS"
     weight = 3
 
   [[menu.main]]
     identifier = "scholarships3"
-    name = "DIVERSITY & INCLUSION"
+    name = "Diversity and inclusion"
     url = "diversity-and-inclusion"
     parent = "about-AS"
     weight = 4
