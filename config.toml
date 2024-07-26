@@ -52,20 +52,19 @@ speaker = "speakers"
 
   [[menu.main]]
     identifier = "program"
-    name = "Program"
+    name = "PROGRAM"
     url = "/program"
     weight = 1
-  #[[menu.main]]
-  #  identifier = "sessions"
-  #  name = "Sessions"
-  #  url = "/sessions/2024"
-  #  parent = "program"
-  #  weight = 1
-  #[[menu.main]]
-  #  identifier = "workshops"
-  #  name = "Workshops"
-  #  url = "/sessions/2024/workshops"
-  #  parent = "program"
+  [[menu.main]]
+    identifier = "sessions"
+    name = "Sessions"
+    url = "/sessions/2024"
+    parent = "program"
+    weight = 1
+  [[menu.main]]
+    name = "Workshops"
+    url = "/sessions/2024/workshops"
+    parent = "program"
 
   [[menu.main]]
   name = "Speakers"
