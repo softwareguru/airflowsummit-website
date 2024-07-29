@@ -1,6 +1,6 @@
 ---
 title: "Nishchay Agrawal"
-designation: "Senior Data Engineer at Walmart"
+designation: "Data Engineer"
 images:
  - /images/speakers/nishchay-agrawal.jpg
 twitter: 
