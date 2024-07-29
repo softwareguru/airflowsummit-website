@@ -56,19 +56,28 @@ speaker = "speakers"
     weight = 2
 
   [[menu.main]]
-    name = "WORKSHOPS"
-    url = "/sessions/2024/workshops"
+    identifier = "schedule"
+    name = "Schedule"
+    url = "/program"
+    parent = "program"
+    weight = 1
+
+  [[menu.main]]
+    name = "Speakers"
+    URL = "/speakers"
     weight = 3
+    parent = "program"
 
   [[menu.main]]
-  name = "Speakers"
-  URL = "/speakers"
-  weight = 4
+    name = "Workshops"
+    url = "/sessions/2024/workshops"
+    weight = 2
+    parent = "program"
 
   [[menu.main]]
-  name = "Venue"
-  URL = "/venue"
-  weight = 5
+    name = "Venue"
+    URL = "/venue"
+    weight = 5
 
   [[menu.main]]
   name = "FAQ"
