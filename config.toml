@@ -63,15 +63,15 @@ speaker = "speakers"
     weight = 1
 
   [[menu.main]]
-    name = "Speakers"
-    URL = "/speakers"
-    weight = 3
-    parent = "program"
-
-  [[menu.main]]
     name = "Workshops"
     url = "/sessions/2024/workshops"
     weight = 2
+    parent = "program"
+
+  [[menu.main]]
+    name = "Speakers"
+    URL = "/speakers"
+    weight = 3
     parent = "program"
 
   [[menu.main]]
