@@ -1,5 +1,5 @@
 ---
-title: "Airflow as a workflow for Self Service Based Ingestion"
+title: "Airflow as a Workflow for Self Service Based Ingestion"
 slug: airflow-as-a-workflow-for-self-service-based-ingestion
 speakers:
  - Ramesh Babu K M

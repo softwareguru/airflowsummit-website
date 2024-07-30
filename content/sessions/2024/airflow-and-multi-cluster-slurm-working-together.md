@@ -1,5 +1,5 @@
 ---
-title: "Airflow and multi-cluster Slurm working together"
+title: "Airflow and Multi-Cluster Slurm Working Together"
 slug: airflow-and-multi-cluster-slurm-working-together
 speakers:
  - Eloi Codina Torras

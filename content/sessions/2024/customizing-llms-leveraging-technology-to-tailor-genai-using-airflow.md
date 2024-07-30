@@ -1,8 +1,10 @@
 ---
-title: "Customizing LLMs: Leveraging Technology to tailor GenAI using Airflow"
+title: "Customizing LLMs: Leveraging Technology to Tailor GenAI using Airflow"
 slug: customizing-llms-leveraging-technology-to-tailor-genai-using-airflow
 speakers:
  - Vincent La
+ - Jim Howard
+ - Moulay Zaidane Al Bahi Draidia
 track:
  - Use cases
 images:

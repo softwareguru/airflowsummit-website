@@ -1,5 +1,5 @@
 ---
-title: "Airflow-as-an-Engine: Lessons from Open-Source Applications Built On Top of Airflow"
+title: "Airflow as an Engine: Lessons from open-source applications built on top of Airflow"
 slug: airflow-as-an-engine-lessons-from-open-source-applications-built-on-top-of-airflow
 speakers:
  - Ian Moritz

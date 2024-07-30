@@ -11,7 +11,6 @@ events:
  - 2024
 ---
 
-
 Jim is a Principle Machine Learning engineer with Laurel, working on using data and machine learning to
 automate timesheets for Legal and Accounting industries.
 

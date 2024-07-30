@@ -1,5 +1,5 @@
 ---
-title: "AIP-63: DAG Versioning - Where are we?"
+title: "AIP-63 (DAG Versioning): Where are we?"
 slug: aip-63-dag-versioning-where-are-we
 speakers:
  - Jed Cunningham

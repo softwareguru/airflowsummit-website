@@ -1,5 +1,5 @@
 ---
-title: "Airflow at Burns & McDonnell | Orchestration from zero to 100"
+title: "Airflow at Burns & McDonnell: Orchestration from zero to 100"
 slug: airflow-at-burns-mcdonnell-orchestration-from-zero-to-100
 speakers:
  - Bonnie Why
