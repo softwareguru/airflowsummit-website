@@ -3,7 +3,8 @@ title: "Evolution of Airflow at Uber"
 speakers:
  - Shobhit Shah
  - Sumit Maheshwari
-
+images:
+ - /images/sessions/2024/uber.jpg 
 track:
  - Use cases
 time_start: 2024-09-10T16:00:00.000Z
