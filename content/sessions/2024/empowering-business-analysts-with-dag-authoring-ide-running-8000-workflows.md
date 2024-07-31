@@ -1,5 +1,5 @@
 ---
-title: "Empowering business analysts with DAG authoring IDE running 8000 workflows"
+title: "Empowering Business Analysts with DAG Authoring IDE Running 8000 Workflows"
 slug: empowering-business-analysts-with-dag-authoring-ide-running-8000-workflows
 speakers:
  - Daniil Dubin
