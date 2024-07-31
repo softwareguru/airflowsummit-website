@@ -1,5 +1,5 @@
 ---
-title: "Stress-Free Airflow development: From Dev to Prod at Stripe"
+title: "Stress-Free Airflow Development: From Dev to Prod at Stripe"
 speakers:
  - Nick Bilozerov
 track:
