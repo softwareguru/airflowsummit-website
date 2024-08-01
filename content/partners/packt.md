@@ -1,8 +1,8 @@
 ---
 title: "Packt Publishing"
-level: "partner"
+level: "community"
 logo: "/images/partners/packt.png"
 webUrl: "https://www.packtpub.com"
-draft: true
-weight: 1
+draft: false
+weight: 3
 ---
