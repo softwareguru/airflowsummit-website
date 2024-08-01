@@ -6,6 +6,8 @@ speakers:
  - Pankaj Koti
 track:
  - Airflow & ...
+images:
+ - /images/sessions/2024/overcoming-performance.jpg 
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
