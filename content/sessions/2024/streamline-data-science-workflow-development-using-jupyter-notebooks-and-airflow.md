@@ -1,11 +1,13 @@
 ---
-title: "Streamline data science workflow development using Jupyter notebooks and Airflow"
+title: "Streamline Data Science Workflow Development Using Jupyter Notebooks and Airflow"
 slug: streamline-data-science-workflow-development-using-jupyter-notebooks-and-airflow
 speakers:
  - Neha Singla
  - Sathish kumar Thangaraj
 track:
  - Airflow & ...
+images:
+ - /images/sessions/2024/streamline-data-science.jpg 
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00

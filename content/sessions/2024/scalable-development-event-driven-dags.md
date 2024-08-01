@@ -3,6 +3,8 @@ title: "Scalable Development of Event Driven Airflow DAGs"
 speakers:
  - Subramanian Vellaiyan
  - Ipsa Trivedi
+images:
+ - /images/sessions/2024/scalable-development.jpg 
 track:
  - Use cases
 time_start: 2024-09-10T16:00:00.000Z
