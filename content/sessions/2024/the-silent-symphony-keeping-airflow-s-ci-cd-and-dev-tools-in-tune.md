@@ -8,6 +8,8 @@ track:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
+images:
+ - /images/sessions/2024/silent-symphony.jpg 
 ---
 
 Apache Airflow relies on a silent symphony behind the scenes: its CI/CD (Continuous Integration/Continuous Delivery) and development tooling. This presentation explores the critical role these tools play in keeping Airflow efficient and innovative. We'll delve into how robust CI/CD ensures bug fixes and improvements are seamlessly integrated, while well-maintained development tools empower developers to contribute effectively.

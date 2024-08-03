@@ -8,6 +8,8 @@ track:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
+images:
+ - /images/sessions/2024/weathering.jpg 
 ---
 
 Cloud availability zones and regions are not immune to outages. These zones regularly go down, and regions become unavailable due to natural disasters or human-caused incidents. Thus, if an availability zone or region goes down, so do your Airflow workflows and applications… unless your Airflow workflows function across multiple geographic locations.

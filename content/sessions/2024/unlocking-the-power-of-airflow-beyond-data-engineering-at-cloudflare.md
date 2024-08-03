@@ -8,6 +8,8 @@ track:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
+images:
+ - /images/sessions/2024/beyond-data.jpg 
 ---
 
 While Airflow is widely known for orchestrating and managing workflows, particularly in the context of data engineering, data science, ML (Machine Learning), and ETL (Extract, Transform, Load) processes, its flexibility and extensibility make it a highly versatile tool suitable for a variety of use cases beyond these domains. In fact, Cloudflare has publicly shared in the past an example on how Airflow was leveraged to build a system that automates datacenter expansions.

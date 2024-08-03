@@ -9,6 +9,8 @@ track:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
+images:
+ - /images/sessions/2024/why-fail.jpg 
 ---
 
 There are 3 certainties in life: death, taxes, and data pipelines failing. Pipelines may fail for a number of reasons: you may run out of memory, your credentials may expire, an upstream data source may not be reliable, etc. But there are patterns we can learn from!
