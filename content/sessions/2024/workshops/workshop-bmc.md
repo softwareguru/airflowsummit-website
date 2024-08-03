@@ -1,7 +1,8 @@
 ---
 title: "Workshop: Orchestrating Business Services with Airflow and Control M"
 speakers:
- - Joe Goldberg
+ - Minh Nguyen
+ - Robby Dick
 track:
  - Workshop
 room: 
