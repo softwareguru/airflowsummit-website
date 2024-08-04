@@ -10,6 +10,7 @@ images:
 room: 
 time_start: 2024-09-10 9:00:00
 time_end: 2024-09-10 9:25:00
+draft: true
 ---
 
 Airflow uses multithreading in different components to parallelize the processing but relies heavily on synchronous execution, even for I/O blocking statements, which can slow down processing and increase resource usage.
