@@ -7,7 +7,6 @@ twitter: https://twitter.com/_HusseinAwala
 linkedin: https://www.linkedin.com/in/husseinawala
 events:
  - 2023
- - 2024 
 ---
 
 Hussein is a Senior Data Engineer at Voodoo, specializing in Big Data processing and management with extensive experience in Lakehouse technologies, Spark ETL, Kafka streaming, and Airflow scheduling.

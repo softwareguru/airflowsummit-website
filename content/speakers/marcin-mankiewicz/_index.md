@@ -7,8 +7,6 @@ designation: Application Analyst Senior Professional @ UniCredit
 twitter: 
 linkedin: 
 github: 
-events:
- - 2024
 ---
 IT professional with experience in both infrastructure and application administration. Always happy to use coding skills to make my work easier and less repetitive. Personally: coffee lover/home barista and HomeAssistant enthusiast.
 
