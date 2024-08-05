@@ -3,6 +3,7 @@ title: "Workshop: Get Airflow Certified"
 slug: workshop-get-airflow-certified
 speakers:
  - Marc Lamberti
+ - David Patlut
 track:
  - Workshop
 room: 
