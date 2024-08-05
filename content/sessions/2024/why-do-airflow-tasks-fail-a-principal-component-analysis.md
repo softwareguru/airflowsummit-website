@@ -1,5 +1,5 @@
 ---
-title: "Why Do Airflow Tasks Fail? A Principal Component Analysis"
+title: "Why Do Airflow Tasks Fail? An Analysis through Machine Learning Techniques"
 slug: why-do-airflow-tasks-fail-a-principal-component-analysis
 speakers:
  - Julian LaNeve
@@ -15,6 +15,6 @@ images:
 
 There are 3 certainties in life: death, taxes, and data pipelines failing. Pipelines may fail for a number of reasons: you may run out of memory, your credentials may expire, an upstream data source may not be reliable, etc. But there are patterns we can learn from!
 
-Join us as we walk through an analysis we’ve done on a massive dataset of Airflow failure logs. We’ll show how we used principal component analysis and other dimensionality reduction methods to explore the latent space of Airflow task failures in order to cluster, visualize, and understand failures.
+Join us as we walk through an analysis we've done on a massive dataset of Airflow failure logs. We'll show how we used natural language processing and dimensionality reduction methods to explore the latent space of Airflow task failures in order to cluster, visualize, and understand failures.
 
-We’ll conclude the talk by walking through mitigation methods for common task failure reasons, and walk through how we can use Airflow to build an MLOps platform to turn this one-time analysis into a reliable, recurring activity.
+We'll conclude the talk by walking through mitigation methods for common task failure reasons, and walk through how we can use Airflow to build an MLOps platform to turn this one-time analysis into a reliable, recurring activity.
