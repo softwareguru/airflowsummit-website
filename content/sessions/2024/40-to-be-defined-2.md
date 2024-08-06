@@ -1,5 +1,5 @@
 ---
-title: "To be defined 2"
+title: "To be confirmed"
 slug: to-be-defined-2
 speakers:
  - 

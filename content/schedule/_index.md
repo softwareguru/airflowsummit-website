@@ -71,7 +71,7 @@ days:
         label: "Afternoon break"
         gridarea: "11/2/12/6"
         timelabel: "15:35 - 16:00"
-        gridaream: "24/1/25/2"
+        gridaream: "26/1/27/2"
       - type: timelabel
         label: "16:00"
         gridarea: "12/1/13/2"
@@ -88,7 +88,7 @@ days:
         label: "Event reception"
         gridarea: "15/2/16/6"
         timelabel: "17:35 - 19:40"
-        gridaream: "26/1/27/2"
+        gridaream: "39/1/40/2"
 
   - id: 20242
     title_short: Wednesday
@@ -108,7 +108,7 @@ days:
         label: "Morning break"
         gridarea: "3/2/4/6"
         timelabel: "10:00 - 10:30"
-        gridaream: "4/1/5/2"
+        gridaream: "3/1/4/2"
       - type: timelabel
         label: "10:30"
         gridarea: "4/1/5/2"
@@ -134,7 +134,7 @@ days:
         label: "Lunch"
         gridarea: "10/2/11/6"
         timelabel: "13:30 - 14:30"
-        gridaream: "13/1/14/2"
+        gridaream: "20/1/21/2"
       - type: timelabel
         label: "14:30"
         gridarea: "11/1/12/2"
@@ -151,7 +151,7 @@ days:
         label: "Afternoon break"
         gridarea: "14/2/15/6"
         timelabel: "16:05 - 16:30"
-        gridaream: "24/1/25/2"
+        gridaream: "30/1/31/2"
       - type: timelabel
         label: "16:30"
         gridarea: "15/1/16/2"
@@ -180,7 +180,7 @@ days:
         label: "Morning break"
         gridarea: "3/2/4/6"
         timelabel: "10:10 - 10:30"
-        gridaream: "4/1/5/2"
+        gridaream: "3/1/4/2"
       - type: timelabel
         label: "10:30"
         gridarea: "4/1/5/2"
@@ -203,7 +203,7 @@ days:
         label: "Lunch"
         gridarea: "9/2/10/6"
         timelabel: "13:15 - 14:00"
-        gridaream: "13/1/14/2"
+        gridaream: "19/1/20/2"
       - type: timelabel
         label: "14:00"
         gridarea: "10/1/11/2"
@@ -226,7 +226,7 @@ days:
         label: "Wrap up"
         gridarea: "15/2/16/6"
         timelabel: "17:00 - 17:30"
-        gridaream: "24/1/25/2"
+        gridaream: "33/1/34/2"
 
 
 summary: "Welcome to the session program for Airflow Summit."

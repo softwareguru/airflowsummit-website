@@ -177,9 +177,15 @@
 }
 
   
-.track-break {
-	background-color: #d0d0d0a0;
+.track-break, div.activity {
+	background-color: #d0d0d0c0;
+	text-align: center;
+	padding: 0.8em;
+	margin: 0.4em 0 0.6em 0;
+	border-radius: 10px;
 }
+
+
   
 .track-keynote, .track-panel {
 	background-color: #ff000020;
@@ -191,7 +197,7 @@
    	border: 2px solid #40d9ff;
 }
 
-.track-lineage--quality {
+.track-best-practices {
 	background-color: #f7fa1120;
 	border: 2px solid #f7fa11;
 }
@@ -201,22 +207,22 @@
 	border: 2px solid #fc6a03;
 }
 
-.track-airflow-basics {
+.track-airflow-intro-talks {
 	background-color: #62fdd120;
 	border: 2px solid #62fdd1;
 }
   
-.track-new-featuresroadmap {
+.track-new-features {
 	background-color: #9b62fd20;
 	border: 2px solid #9b62fd;
 }
   
-.track-airflow-- {
+.track-sponsored {
 	background-color: #1b9ecd60;
 	border: 2px solid #1b9ecd;
 }
 
-.track-operationalizing-airflow {
+.track-airflow-- {
 	background-color: #2ba15b20;
 	border: 2px solid #2ba15b;
 }

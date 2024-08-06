@@ -1,6 +1,6 @@
 ---
-title: "To be defined"
-slug: to-be-defined
+title: "To be confirmed"
+slug: to-be-confirmed3
 speakers:
  - 
 time_start: 2024-09-12 15:45:00
