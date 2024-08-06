@@ -279,3 +279,19 @@ a.read-more {
 	font-size: 0.9em;
 	color: $blue;
 }
+
+.daygrid {
+	display: grid;
+	grid-template-columns: 100px 1fr 1fr 1fr 1fr;
+	grid-template-rows: auto;
+	grid-column-gap: 1em;
+	grid-row-gap: 0px;
+}
+
+.daygrid-xs {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto;
+	grid-column-gap: 1em;
+	grid-row-gap: 0px;
+}

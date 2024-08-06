@@ -1,10 +1,10 @@
 ---
 title: "Program"
 date: 2023-04-21T15:49:31-05:00
-url: program-2023
+url: program-2024
 aliases:
  - /schedule
-description: Airflow Summit 2023 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
+description: Airflow Summit 2024 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
 
 tracks:
  - Airflow basics
@@ -16,172 +16,221 @@ tracks:
  - Use cases
 
 days: 
-  - id: 1
+
+  - id: 20241
     title_short: Tuesday
-    title_full: Tuesday, September 19, 2023
-    rooms: ["Ballroom A-B", "Ballroom C-D", "Ballroom crush", "York"]
-    timeslots: 
-      - id: 1
-        time_start: 2023-09-19T09:00:00-04:00
-        type: keynote
-      - id: 2
-        time_start: 2023-09-19T09:30:00-04:00
-        type: keynote
-      - id: 3
-        time_start: 2023-09-19T10:00:00-04:00
-        type: keynote
-      - id: 4
-        time_start: 2023-09-19T11:00:00-04:00
-        time_end: 2023-09-19T11:30:00-04:00
-        type: break
-        name: Morning break
-      - id: 4a
-        time_start: 2023-09-19T11:00:00-04:00
-        type: room-labels
-      - id: 5
-        time_start: 2023-09-19T11:30:00-04:00
-        type: concurrent
-      - id: 6
-        time_start: 2023-09-19T12:00:00-04:00
-        type: concurrent
-      - id: 7
-        time_start: 2023-09-19T12:30:00-04:00
-        type: concurrent
-      - id: 8
-        time_start: 2023-09-19T13:00:00-04:00
-        time_end: 2023-09-19T14:00:00-04:00
-        type: break
-        name: Lunch
-      - id: 8a
-        time_start: 2023-09-19T11:00:00-04:00
-        type: room-labels
-      - id: 9
-        time_start: 2023-09-19T14:00:00-04:00
-        type: concurrent
-      - id: 10
-        time_start: 2023-09-19T14:30:00-04:00
-        type: concurrent
-      - id: 11
-        time_start: 2023-09-19T15:00:00-04:00
-        type: concurrent
-      - id: 12
-        time_start: 2023-09-19T15:30:00-04:00
-        type: concurrent
-      - id: 13
-        time_start: 2023-09-19T16:00:00-04:00
-        time_end: 2023-09-19T16:15:00-04:00
-        type: break
-        name: Afternoon break
-      - id: 13a
-        time_start: 2023-09-19T16:15:00-04:00
-        type: room-labels
-      - id: 14
-        time_start: 2023-09-19T16:15:00-04:00
-        type: concurrent
-      - id: 15
-        time_start: 2023-09-19T16:45:00-04:00
-        type: concurrent
-      - id: 16
-        time_start: 2023-09-19T17:15:00-04:00
-        type: concurrent
-      - id: 17
-        time_start: 2023-09-19T17:45:00-04:00
-        type: concurrent
+    title_full: Tuesday, September 10, 2024
+    rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
+    schedule_items: 
+      - type: timelabel
+        label: "09:00"
+        gridarea: "1/1/2/2"
+      - type: activity
+        label: "Welcome"
+        gridarea: "1/2/2/6"
+        timelabel: "9:00 - 9:10"
+        gridaream: "1/1/2/2"
+      - type: timelabel
+        label: "10:05"
+        gridarea: "3/1/4/2"
+      - type: timelabel
+        label: "10:30"
+        gridarea: "4/1/5/2"
+      - type: activity
+        label: "Morning break"
+        gridarea: "4/2/5/6"
+        timelabel: "10:30 - 11:00"
+        gridaream: "4/1/5/2"
+      - type: timelabel
+        label: "11:00"
+        gridarea: "5/1/6/2"
+      - type: timelabel
+        label: "12:00"
+        gridarea: "6/1/7/2"
+      - type: timelabel
+        label: "13:00"
+        gridarea: "7/1/8/2"
+      - type: activity
+        label: "Lunch"
+        gridarea: "7/2/8/6"
+        timelabel: "13:00 - 14:00"
+        gridaream: "13/1/14/2"
+      - type: timelabel
+        label: "14:00"
+        gridarea: "8/1/9/2"
+      - type: timelabel
+        label: "14:35"
+        gridarea: "9/1/10/2"
+      - type: timelabel
+        label: "15:10"
+        gridarea: "10/1/11/2"
+      - type: timelabel
+        label: "15:35"
+        gridarea: "11/1/12/2"
+      - type: activity
+        label: "Afternoon break"
+        gridarea: "11/2/12/6"
+        timelabel: "15:35 - 16:00"
+        gridaream: "24/1/25/2"
+      - type: timelabel
+        label: "16:00"
+        gridarea: "12/1/13/2"
+      - type: timelabel
+        label: "16:35"
+        gridarea: "13/1/14/2"
+      - type: timelabel
+        label: "17:10"
+        gridarea: "14/1/15/2"
+      - type: timelabel
+        label: "17:35"
+        gridarea: "15/1/16/2"
+      - type: activity
+        label: "Event reception"
+        gridarea: "15/2/16/6"
+        timelabel: "17:35 - 19:40"
+        gridaream: "26/1/27/2"
 
-
-  - id: 2
+  - id: 20242
     title_short: Wednesday
-    title_full: Wednesday, September 20, 2023
-    rooms: ["Ballroom A-B", "Ballroom C-D", "Ballroom crush", "York"]
-    timeslots: 
-      - id: 1
-        time_start: 2023-09-20T09:00:00-04:00
-        type: keynote
-      - id: 2
-        time_start: 2023-09-20T09:30:00-04:00
-        type: keynote
-      - id: 3
-        time_start: 2023-09-20T10:00:00-04:00
-        type: keynote
-      - id: 4
-        time_start: 2023-09-20T11:00:00-04:00
-        time_end: 2023-09-20T11:30:00-04:00
-        type: break
-        name: Morning break
-      - id: 4a
-        time_start: 2023-09-19T11:00:00-04:00
-        type: room-labels
-      - id: 5
-        time_start: 2023-09-20T11:30:00-04:00
-        type: concurrent
-      - id: 6
-        time_start: 2023-09-20T12:00:00-04:00
-        type: concurrent
-      - id: 7
-        time_start: 2023-09-20T12:30:00-04:00
-        type: concurrent
-      - id: 8
-        time_start: 2023-09-20T13:00:00-04:00
-        time_end: 2023-09-20T14:00:00-04:00
-        type: break
-        name: Lunch
-      - id: 8a
-        time_start: 2023-09-19T11:00:00-04:00
-        type: room-labels
-      - id: 9
-        time_start: 2023-09-20T14:00:00-04:00
-        type: concurrent
-      - id: 10
-        time_start: 2023-09-20T14:30:00-04:00
-        type: concurrent
-      - id: 11
-        time_start: 2023-09-20T15:00:00-04:00
-        type: concurrent
-      - id: 12
-        time_start: 2023-09-20T15:30:00-04:00
-        type: concurrent
-      - id: 13
-        time_start: 2023-09-20T16:00:00-04:00
-        time_end: 2023-09-20T16:15:00-04:00
-        type: break
-        name: Afternoon break
-      - id: 13a
-        time_start: 2023-09-19T11:00:00-04:00
-        type: room-labels
-      - id: 14
-        time_start: 2023-09-20T16:15:00-04:00
-        type: concurrent
-      - id: 15
-        time_start: 2023-09-20T16:45:00-04:00
-        type: concurrent
-      - id: 16
-        time_start: 2023-09-20T17:15:00-04:00
-        type: concurrent
-      - id: 17
-        time_start: 2023-09-20T17:45:00-04:00
-        type: keynote
+    title_full: Wednesday, September 11, 2024
+    rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
+    schedule_items: 
+      - type: timelabel
+        label: "09:00"
+        gridarea: "1/1/2/2"
+      - type: timelabel
+        label: "09:30"
+        gridarea: "2/1/3/2"
+      - type: timelabel
+        label: "10:00"
+        gridarea: "3/1/4/2"
+      - type: activity
+        label: "Morning break"
+        gridarea: "3/2/4/6"
+        timelabel: "10:00 - 10:30"
+        gridaream: "4/1/5/2"
+      - type: timelabel
+        label: "10:30"
+        gridarea: "4/1/5/2"
+      - type: timelabel
+        label: "11:00"
+        gridarea: "5/1/6/2"
+      - type: timelabel
+        label: "11:30"
+        gridarea: "6/1/7/2"
+      - type: timelabel
+        label: "12:00"
+        gridarea: "7/1/8/2"
+      - type: timelabel
+        label: "12:30"
+        gridarea: "8/1/9/2"
+      - type: timelabel
+        label: "13:00"
+        gridarea: "9/1/10/2"
+      - type: timelabel
+        label: "13:30"
+        gridarea: "10/1/11/2"
+      - type: activity
+        label: "Lunch"
+        gridarea: "10/2/11/6"
+        timelabel: "13:30 - 14:30"
+        gridaream: "13/1/14/2"
+      - type: timelabel
+        label: "14:30"
+        gridarea: "11/1/12/2"
+      - type: timelabel
+        label: "15:05"
+        gridarea: "12/1/13/2"
+      - type: timelabel
+        label: "15:40"
+        gridarea: "13/1/14/2"
+      - type: timelabel
+        label: "16:05"
+        gridarea: "14/1/15/2"
+      - type: activity
+        label: "Afternoon break"
+        gridarea: "14/2/15/6"
+        timelabel: "16:05 - 16:30"
+        gridaream: "24/1/25/2"
+      - type: timelabel
+        label: "16:30"
+        gridarea: "15/1/16/2"
+      - type: timelabel
+        label: "17:05"
+        gridarea: "16/1/17/2"
+      - type: timelabel
+        label: "17:40"
+        gridarea: "17/1/18/2"
 
-
-  - id: 3
+  - id: 20243
     title_short: Thursday
-    title_full: Thursday, September 21, 2023
-    rooms: ["Trinity 1-2", "Trinity 3-4", "Trinity 5", "York"]
-    timeslots: 
-      - id: 1
-        time_start: 2023-09-21T09:00:00-04:00
-        type: workshops
-      - id: 2
-        time_start: 2023-09-21T11:30:00-04:00
-        time_end: 2023-09-21T12:00:00-04:00
-        type: break
-        name: Lunch
-      - id: 3
-        time_start: 2023-09-21T12:00:00-04:00
-        type: workshops
+    title_full: Thursday, September 12, 2024
+    rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
+    schedule_items: 
+      - type: timelabel
+        label: "09:00"
+        gridarea: "1/1/2/2"
+      - type: timelabel
+        label: "09:30"
+        gridarea: "2/1/3/2"
+      - type: timelabel
+        label: "10:10"
+        gridarea: "3/1/4/2"
+      - type: activity
+        label: "Morning break"
+        gridarea: "3/2/4/6"
+        timelabel: "10:10 - 10:30"
+        gridaream: "4/1/5/2"
+      - type: timelabel
+        label: "10:30"
+        gridarea: "4/1/5/2"
+      - type: timelabel
+        label: "11:00"
+        gridarea: "5/1/6/2"
+      - type: timelabel
+        label: "11:30"
+        gridarea: "6/1/7/2"
+      - type: timelabel
+        label: "12:00"
+        gridarea: "7/1/8/2"
+      - type: timelabel
+        label: "12:30"
+        gridarea: "8/1/9/2"
+      - type: timelabel
+        label: "13:15"
+        gridarea: "9/1/10/2"
+      - type: activity
+        label: "Lunch"
+        gridarea: "9/2/10/6"
+        timelabel: "13:15 - 14:00"
+        gridaream: "13/1/14/2"
+      - type: timelabel
+        label: "14:00"
+        gridarea: "10/1/11/2"
+      - type: timelabel
+        label: "14:35"
+        gridarea: "11/1/12/2"
+      - type: timelabel
+        label: "15:10"
+        gridarea: "12/1/13/2"
+      - type: timelabel
+        label: "15:45"
+        gridarea: "13/1/14/2"
+      - type: timelabel
+        label: "16:20"
+        gridarea: "14/1/15/2"
+      - type: timelabel
+        label: "17:00"
+        gridarea: "15/1/16/2"
+      - type: activity
+        label: "Wrap up"
+        gridarea: "15/2/16/6"
+        timelabel: "17:00 - 17:30"
+        gridaream: "24/1/25/2"
 
 
 summary: "Welcome to the session program for Airflow Summit."
 description: "Welcome to the session program for Airflow Summit."
 ---
 
-<h4 class="mb-4">Welcome to the session program for Airflow Summit 2023. </h4>
+<h4 class="mb-4">Welcome to the session program for Airflow Summit 2024. </h4>
