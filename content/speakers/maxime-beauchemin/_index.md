@@ -7,6 +7,7 @@ twitter: https://twitter.com/mistercrunch
 linkedin: https://www.linkedin.com/in/maximebeauchemin/
 events:
  - 2023
+ - 2024
 ---
 
 Founder & CEO Preset. Original creator of Apache Superset and Apache Airflow.

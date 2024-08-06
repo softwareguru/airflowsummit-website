@@ -1,5 +1,21 @@
-{{ define "main" }}
+{{ define "headextra" }}
+  <link rel="stylesheet" href="https://cdn.addevent.com/libs/atc/themes/fff-theme-7/theme.css" type="text/css" media="all" />
+  <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js"></script>
+  <script type="text/javascript">
+    window.addeventasync = function(){
+        addeventatc.settings({
+            appleical  : {show:true, text:"Apple Calendar"},
+            google     : {show:true, text:"Google <em>(online)</em>"},
+            office365  : {show:true, text:"Office 365 <em>(online)</em>"},
+            outlook    : {show:true, text:"Outlook"},
+            outlookcom : {show:false, text:"Outlook.com <em>(online)</em>"},
+            yahoo      : {show:false, text:"Yahoo <em>(online)</em>"}
+        });
+    };
+    </script>
+{{ end }}
 
+{{ define "main" }}
 
 <div class="container-fluid px-md-5">
     <div class="content mt-4">
@@ -19,9 +35,20 @@
             {{ range sort (sort (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day )  ".Title") ".Params.time_start" }}
               <div class="session-item track-{{ .Params.track | anchorize }}" {{ with .Params.gridarea }}style="grid-area: {{. | safeCSS}};"{{end}} data-slot='{{.Params.slot}}' data-timestart='{{ with .Params.time_start | time }}{{ .Format "02 Jan 2006 15:04:05 MST" }}{{ end }}' data-timeend='{{ with .Params.time_end | time }}{{ .Format "02 Jan 2006 15:04:05 MST" }}{{ end }}' data-track="{{ .Params.track }}">
                 <div class="session-time hour d-none">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}. </div>
-                <div class="session-title"><a class="session-title" data-toggle="collapse" href="#abs-{{.Params.slug}}">{{ .Params.title }}</a></div>
+                <div class="session-title"><a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a></div>
                 <div class="session-speakers names">{{ with .Params.speakers }}By {{ delimit . ", " " & " }}{{ end }}</div>
-                <div class="track-name">{{ with .Params.track }}Track: {{ . }}{{ end }}</div>
+                <div class="d-flex justify-content-between">
+                  <div class="track-name">{{ with .Params.track }}Track: {{ . }}{{ end }}</div>
+                  <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                    <img src="https://cdn.addevent.com/libs/imgs/icon-calendar-t1.svg" alt="" style="width:18px;" />
+                    <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                    <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                    <span class="timezone">America/Los_Angeles</span>
+                    <span class="title">AS24: {{.Title}}</span>
+                    <span class="description">{{.Content}}</span>
+                    <span class="location">{{.Params.room}}</span>
+                  </div>
+                </div>
 
                 <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
                   <div class="my-2">{{ .Summary }}</div>

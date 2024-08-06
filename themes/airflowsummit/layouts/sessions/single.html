@@ -32,20 +32,15 @@
               {{ $time_start := .Params.time_start | time }}
               {{ $time_end := .Params.time_end | time }}            
               {{ if lt now $time_start }}
-              <!--<div>
+              <div>
               <em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em>
-              </div> -->
+              </div>
               {{ else }}
                 {{ if ne $time_start.Year 2023 }}
               <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
               {{ end }}
               {{ end }}
             </div>
-            {{ if .Params.crowdcast_id_EDITED  }}
-            <div class="content mt-0">
-              <a href="https://www.crowdcast.io/e/airflowsummit2021/{{.Params.crowdcast_id}}">Watch it here</a>
-            </div>
-            {{ end }}
             {{ with .Params.language }}<p class="session-meta" id="lang">Language: {{ humanize . }}</p>{{ end }}
             <div class="d-lg-none d-xl-none">
               By
@@ -60,6 +55,11 @@
             {{ end }}
 
             <div class="content mt-4">{{ .Content }}</div>
+
+            {{ with .Params.addevent}}
+            <a title="Add to Calendar" class="addeventatc" data-id="{{.}}" href="https://www.addevent.com/event/{{.}}" target="_blank">Add to Calendar</a> <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
+            {{ end }}
+
           </div>
         </div>
       </div>
