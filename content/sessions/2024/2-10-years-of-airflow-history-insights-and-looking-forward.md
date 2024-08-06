@@ -15,7 +15,6 @@ track: Keynote
 day: 20241
 timeslot: 2
 gridarea: "2/2/3/6"
-addevent: xp22530341
 images: 
  - /images/sessions/2024/10years.jpg
 ---

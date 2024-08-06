@@ -3,13 +3,14 @@ title: "Seeing Clearly with Airflow: The Shift to Data-Aware Orchestration"
 slug: seeing-clearly-with-airflow-the-shift-to-data-aware-orchestration
 speakers:
  - Constance Martineau
-time_start: 2024-09-12 10:30:00
-time_end: 2024-09-12 10:55:00
+ - Tzu-ping Chung
+time_start: 2024-09-12 12:30:00
+time_end: 2024-09-12 13:15:00
 room: Elizabethan A+B
 track: New features
 day: 20243
-timeslot: 84
-gridarea: "4/4/5/5"
+timeslot: 95
+gridarea: "8/4/9/5"
 images: 
  - 
 ---

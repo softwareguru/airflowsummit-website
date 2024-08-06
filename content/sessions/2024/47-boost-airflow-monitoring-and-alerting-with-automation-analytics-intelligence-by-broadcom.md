@@ -6,7 +6,7 @@ speakers:
 time_start: 2024-09-11 11:00:00
 time_end: 2024-09-11 11:25:00
 room: Elizabethan A+B
-track: 
+track: Sponsored
 day: 20242
 timeslot: 47
 gridarea: "5/4/6/5"

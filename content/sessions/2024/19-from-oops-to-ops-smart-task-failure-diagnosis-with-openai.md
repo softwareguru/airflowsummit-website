@@ -16,6 +16,10 @@ images:
 
 This session reveals an experimental venture integrating OpenAI's AI technologies with Airflow, aimed at advancing error diagnosis.
  
-Through the application of AI, our objective is to deepen the understanding of issues, provide comprehensive insights into task failures, and suggest actionable solutions, thereby augmenting the resolution process. This method seeks to not only enhance diagnostic efficiency but also to equip data engineers with AI-informed recommendations.
  
-Participants will be guided through the integration journey, illustrating how AI can refine error analysis and potentially simplify troubleshooting workflows.
+ 
+ Through the application of AI, our objective is to deepen the understanding of issues, provide comprehensive insights into task failures, and suggest actionable solutions, thereby augmenting the resolution process. This method seeks to not only enhance diagnostic efficiency but also to equip data engineers with AI-informed recommendations.
+ 
+ 
+ 
+ Participants will be guided through the integration journey, illustrating how AI can refine error analysis and potentially simplify troubleshooting workflows.

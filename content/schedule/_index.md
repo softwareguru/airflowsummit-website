@@ -1,9 +1,8 @@
 ---
 title: "Program"
 date: 2023-04-21T15:49:31-05:00
-url: program-2024
-aliases:
- - /schedule
+url: /program
+
 description: Airflow Summit 2024 features more than 90 sessions covering Airflow features, case studies, workshops and community sessions. Check it out!
 
 tracks:
@@ -234,3 +233,4 @@ description: "Welcome to the session program for Airflow Summit."
 ---
 
 <h4 class="mb-4">Welcome to the session program for Airflow Summit 2024. </h4>
+<h5>If you prefer, you can also see this as <a style="color:#c04040; !important" href="/program-sessionize">sessionize layout</a> or <a style="color:#c04040; !important" href="/sessions/2024">list of sessions</a>.</h5>

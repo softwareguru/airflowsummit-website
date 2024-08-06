@@ -7,7 +7,7 @@ speakers:
 time_start: 2024-09-11 09:30:00
 time_end: 2024-09-11 09:55:00
 room: Grand Ballroom
-track: Use cases
+track: Keynote
 day: 20242
 timeslot: 41
 gridarea: "2/2/3/6"

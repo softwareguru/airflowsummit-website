@@ -1,3 +1,21 @@
+{{ define "headextra" }}
+  <link rel="stylesheet" href="https://cdn.addevent.com/libs/atc/themes/fff-theme-1/theme.css" type="text/css" media="all" />
+
+  <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js"></script>
+  <script type="text/javascript">
+    window.addeventasync = function(){
+        addeventatc.settings({
+            appleical  : {show:true, text:"Apple Calendar"},
+            google     : {show:true, text:"Google <em>(online)</em>"},
+            office365  : {show:true, text:"Office 365 <em>(online)</em>"},
+            outlook    : {show:true, text:"Outlook"},
+            outlookcom : {show:false, text:"Outlook.com <em>(online)</em>"},
+            yahoo      : {show:false, text:"Yahoo <em>(online)</em>"}
+        });
+    };
+    </script>
+{{ end }}
+
 {{ define "main" }}
 
 <!-- Speaker Detail -->
@@ -32,9 +50,21 @@
               {{ $time_start := .Params.time_start | time }}
               {{ $time_end := .Params.time_end | time }}            
               {{ if lt now $time_start }}
-              <div>
-              <em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em>
-              </div>
+              <div class="d-flex align-items-center">
+                <div class="pe-4">
+                  <em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em>              
+                </div>
+                <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                  Add to Calendar
+                  <span class="addeventatc_icon"></span>
+                  <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                  <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                  <span class="timezone">America/Los_Angeles</span>
+                  <span class="title">AS24: {{.Title}}</span>
+                  <span class="description">{{.Content}}</span>
+                  <span class="location">{{.Params.room}}</span>
+                </div>
+              </div>  
               {{ else }}
                 {{ if ne $time_start.Year 2023 }}
               <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
@@ -55,10 +85,6 @@
             {{ end }}
 
             <div class="content mt-4">{{ .Content }}</div>
-
-            {{ with .Params.addevent}}
-            <a title="Add to Calendar" class="addeventatc" data-id="{{.}}" href="https://www.addevent.com/event/{{.}}" target="_blank">Add to Calendar</a> <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js" async defer></script>
-            {{ end }}
 
           </div>
         </div>
