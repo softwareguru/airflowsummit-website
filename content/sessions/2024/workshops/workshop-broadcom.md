@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Automation Analytics & Intelligence with Airflow for Enhanced Workflow Observability"
+title: "Workshop: Leveraging Automation Analytics & Intelligence with Airflow for Enhanced Workflow Observability"
 speakers:
  - Chetan Kapoor
 track:

@@ -11,7 +11,7 @@ day: 20243
 timeslot: 84
 gridarea: "4/4/5/5"
 images: 
- - 
+ - /images/sessions/2024/scale-security.jpg
 ---
 
 In today's data-driven era, ensuring data reliability and enhancing our testing and development capabilities are paramount. Local unit testing has its merits but falls short when dealing with the volume of big data. One major challenge is running Spark jobs pre-deployment to ensure they produce expected results and handle production-level data volumes.

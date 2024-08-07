@@ -10,7 +10,5 @@ track: Sponsored
 day: 20242
 timeslot: 58
 gridarea: "9/4/10/5"
-images: 
- - 
 ---
 

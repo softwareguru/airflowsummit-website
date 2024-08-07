@@ -1,5 +1,5 @@
 ---
-title: "Orchestrating ML Workflows with Amazon MWAA"
+title: "Workshop: Orchestrating ML Workflows with Amazon MWAA"
 speakers:
  - Sriharsh Adari
  - Joseph Morotti

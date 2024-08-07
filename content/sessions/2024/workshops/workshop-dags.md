@@ -1,5 +1,5 @@
 ---
-title: "DAG writing best practices workshop"
+title: "Workshop: DAG writing best practices"
 speakers:
  - Kenten Danas
 track:
