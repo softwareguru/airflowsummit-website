@@ -11,7 +11,7 @@ day: 20241
 timeslot: 29
 gridarea: "12/4/13/5"
 images: 
- - /images/sessions/2024/ai-reality-check.jpg
+ - /images/sessions/2024/empowering-teams.jpg
 ---
 
 Does your organization feel like the responsibility to write Airflow DAGs, handle the Airflow infrastructure administration, debug failing tasks, and keep up with new features and best practices is too much for too few people? Perhaps you only have one data team that owns all of that; or you have too many teams that have too many permissions into other teams' DAGs.
