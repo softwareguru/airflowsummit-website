@@ -6,9 +6,9 @@ speakers:
  - David Patlut
 track:
  - Workshop
-room: 
-time_start: 2024-09-10 9:00:00
-time_end: 2024-09-10 9:25:00
+room: Elizabethan D
+time_start: 2024-09-12 14:00:00
+time_end: 2024-09-12 16:40:00
 draft: false
 summary: "In-person opportunity to take an Airflow Certification exam at no additional cost. The workshop will include 20 mins of preparation and a Q&A with Marc Lamberti from Astronomer."
 ---

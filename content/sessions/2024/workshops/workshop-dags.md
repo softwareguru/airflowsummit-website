@@ -4,9 +4,9 @@ speakers:
  - Kenten Danas
 track:
  - Workshop
-room: 
-time_start: 2024-09-10 9:00:00
-time_end: 2024-09-10 9:25:00
+room: Elizabethan D
+time_start: 2024-09-11 14:30:00
+time_end: 2024-09-11 17:20:00
 summary: "Learn how to design your DAGs for easy readability and maintenance, how to make your DAGs dynamic in an efficient and scalable way, and how to avoid common pitfalls that can cause performance issues."
 ---
 

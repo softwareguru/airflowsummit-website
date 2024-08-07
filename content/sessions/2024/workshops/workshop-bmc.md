@@ -5,9 +5,9 @@ speakers:
  - Robby Dick
 track:
  - Workshop
-room: 
-time_start: 2024-09-10 9:00:00
-time_end: 2024-09-10 9:25:00
+room: Elizabethan C
+time_start: 2024-09-11 14:30:00
+time_end: 2024-09-11 17:20:00
 summary: "Join this workshop to orchestrate end-to-end business services that include data pipelines managed by Airflow and applications orchestrated by Control-M."
 ---
 
