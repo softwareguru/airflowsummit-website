@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/luiz-tauffer
 github: 
 events:
  - 2024
+draft: true 
 ---
 
 Background in Electrical Engineer, with over 8 years in academia focusing on computer science applied to behavioral and neuroscience research. Has been working as a consultant and software developer, focusing on AI and data workflows, for over 6 years.

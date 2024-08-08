@@ -3,6 +3,7 @@
   <div class="content py-5 px-4">
     <h4 class="my-3"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
     <p><em>By {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em></p>
+    <p><em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em></p>
     <p class="mb-4">{{ .Summary }}</p>
   </div>
 </article>

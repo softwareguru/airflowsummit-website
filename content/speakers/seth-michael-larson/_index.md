@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/sethmlarson/
 github: 
 events:
  - 2024
+draft: true
 ---
 
 

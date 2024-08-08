@@ -8,7 +8,7 @@ description: We will be offering hands-on workshops so you can get practical exp
 ### We will be offering hands-on workshops so you can get practical experience with Airflow tools and managed offerings.
 
 * Format & duration: Workshops are instructor led, 2-3 hours long, bring your own device.
-* Sign up for workshops will open on August 5th for attendees who have a Conference + Workshop pass.
-* We plan to offer 3-4 different workshops on September 11th (2:30-5:30pm) and another 3-4 workshops on September 12th (2-5pm). Workshops offered will be different each day.
+* Only available for participants with a Conference + Workshop pass.
+* Workshops have limited capacity. You can sign up in advance for 2 workshops (one per day) to get a confirmed spot.
+* Workshops will be able to receive walk-ins (people who didn't sign up in advance) but will have limited spots and do not guarantee they will be able to receive all walk-ins.
 
-These are the currently confirmed workshops ...

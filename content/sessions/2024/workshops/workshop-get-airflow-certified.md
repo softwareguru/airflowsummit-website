@@ -6,11 +6,13 @@ speakers:
  - David Patlut
 track:
  - Workshop
-room: Elizabethan D
+room: Yorkshire
 time_start: 2024-09-12 14:00:00
 time_end: 2024-09-12 16:40:00
 draft: false
 summary: "In-person opportunity to take an Airflow Certification exam at no additional cost. The workshop will include 20 mins of preparation and a Q&A with Marc Lamberti from Astronomer."
+list_order: 6
+day: "20242"
 ---
 
 As an Airflow Summit attendee, we’re thrilled to offer you an in-person opportunity to take an [Airflow Certification](https://www.astronomer.io/certification/) exam at no additional cost. Depending on your skill level, you can take one of two exams:

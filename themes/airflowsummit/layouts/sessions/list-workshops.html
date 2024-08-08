@@ -4,14 +4,20 @@
   <div class="container">
     <div class="list-content">{{.Content}}</div>
     <div class="row">
-
-          {{ range .Data.Pages.ByDate.Reverse }}
-          <div class="col-sm-6">
+      <h3>Wednesday, September 11</h3>
+          {{ range sort (where .Data.Pages "Params.day" "20241") ".Params.list_order" }}
+          <div class="col-lg-4">
             {{ .Render "post" }}
           </div>
           {{ end }}
-        </div>
-      </div>
+    </div>
+    <div class="row">
+      <h3>Thursday, September 12</h3>
+          {{ range sort (where .Data.Pages "Params.day" "20242") ".Params.list_order" }}
+          <div class="col-lg-4">
+            {{ .Render "post" }}
+          </div>
+          {{ end }}
     </div>
   </div>
 </section>

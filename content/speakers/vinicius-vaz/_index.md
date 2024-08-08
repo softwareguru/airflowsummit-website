@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/vinicvaz/
 github: 
 events:
  - 2024
+draft: true
 ---
 
 
