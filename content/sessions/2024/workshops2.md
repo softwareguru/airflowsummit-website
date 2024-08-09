@@ -2,12 +2,12 @@
 title: Featured Workshops
 layout: list-workshops
 description: We will be offering hands-on workshops so you can get practical experience with Airflow tools and managed offerings.
-time_start: 2024-09-11 14:30:00
-time_end: 2024-09-11 17:20:00
+time_start: 2024-09-12 14:00:00
+time_end: 2024-09-12 16:40:00
 room: "Elizabethan C, Elizabethan D, Borgia"
 track: Workshops
 day: 20243
-timeslot: 101
+timeslot: 97
 gridarea: "10/5/15/6"
 
 ---

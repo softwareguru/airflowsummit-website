@@ -7,7 +7,7 @@ time_end: 2024-09-11 17:20:00
 room: "Elizabethan C, Elizabethan D, Borgia"
 track: Workshops
 day: 20242
-timeslot: 62
+timeslot: 60
 gridarea: "11/5/18/6"
 url: /sessions/2024/workshops
 ---

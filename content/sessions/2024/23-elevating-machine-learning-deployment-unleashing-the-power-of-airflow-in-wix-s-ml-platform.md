@@ -16,9 +16,7 @@ images:
 
 In his presentation, Elad will provide a novel take on Airflow, highlighting its versatility beyond conventional use for scheduled pipelines. He'll discuss its application as an on-demand tool for initiating and halting jobs, mainly in the Data Science fields, like dataset enrichment and batch prediction via API calls, complete with real-time status tracking and alerts. The talk aims to encourage a fresh approach to Airflow utilization but will also delve into the technical aspects of implementing DAG triggering and cancellation logic.
  
- 
- 
- What will the audience learn:
+What will the audience learn:
  
  1. Real-life use case of leveraging Airflow capabilities beyond traditional pipeline scheduling, with innovative integration as the infrastructure for ML Platform.
  

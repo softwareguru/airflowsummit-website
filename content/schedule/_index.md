@@ -150,7 +150,7 @@ days:
         label: "Afternoon break"
         gridarea: "14/2/15/5"
         timelabel: "16:05 - 16:30"
-        gridaream: "30/1/31/2"
+        gridaream: "31/1/32/2"
       - type: timelabel
         label: "16:30"
         gridarea: "15/1/16/2"
@@ -202,7 +202,7 @@ days:
         label: "Lunch"
         gridarea: "9/2/10/6"
         timelabel: "13:15 - 14:00"
-        gridaream: "19/1/20/2"
+        gridaream: "20/1/21/2"
       - type: timelabel
         label: "14:00"
         gridarea: "10/1/11/2"
@@ -225,7 +225,7 @@ days:
         label: "Wrap up"
         gridarea: "15/2/16/6"
         timelabel: "17:00 - 17:30"
-        gridaream: "33/1/34/2"
+        gridaream: "35/1/36/2"
 
 
 summary: "Welcome to the session program for Airflow Summit."
