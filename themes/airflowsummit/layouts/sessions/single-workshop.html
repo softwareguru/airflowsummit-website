@@ -1,0 +1,74 @@
+
+{{ define "main" }}
+
+<!-- Speaker Detail -->
+<section class="speaker-detail">
+  <div class="container">
+    <div class="row mt-4">
+      <div class="image-column col-lg-3 d-none d-lg-block">
+        <div class="schedule-block col-lg-10 col-md-12 col-sm-12">
+          <div class="sec-title text-center">
+            <span class="title">Speaker(s):</span>
+            <div class="speaker-info" style="margin-bottom: 20px;">
+              {{ range (.GetTerms "speakers") }}
+              <figure class="thumb my-3">
+                <a href="{{ .Permalink }}">
+                  <div class="img-container">
+                    <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
+                  </div>
+                  <h5 class="name">{{ .Title }}</h5>
+                </a> 
+              </figure>
+               {{ end }}
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <div class="info-column col-lg-9 col-md-12 col-sm-12" style="margin-top: -10px;">
+        <div class="inner-column">
+          <div class="text-box">
+            <div class="session-meta" id="date">
+              <span style="display: none;" id="adjTime"></span>
+              {{ $time_start := .Params.time_start | time }}
+              {{ $time_end := .Params.time_end | time }}            
+              {{ if lt now $time_start }}
+                <div class="pe-4">
+                  <em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em>              
+                </div>
+              {{ else }}
+                {{ if ne $time_start.Year 2023 }}
+              <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
+              {{ end }}
+              {{ end }}
+            </div>
+            <div class="d-lg-none d-xl-none">
+              By
+              {{ range (.GetTerms "speakers") }}
+              <a class="speaker-inline-item" href="{{ .Permalink }}">{{ .Title }}</a>
+              {{ end }}
+            </div>
+
+            <div class="content mt-4">{{ .Content }}</div>
+  
+  <p class="mb-4"><em>(you need to have a conference+workshop pass to participate)</em></p>
+
+  {{with .Params.luma_id}}
+  <a href="https://lu.ma/event/{{.}}" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="{{.}}">
+    Save your spot</a> 
+  <p class="my-2">&nbsp;</p>
+  <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+  {{ end }}
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+<!--End Speker Detail -->
+
+
+
+{{ end }}

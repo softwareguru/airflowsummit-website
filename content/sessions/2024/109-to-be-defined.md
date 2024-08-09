@@ -12,5 +12,6 @@ timeslot: 109
 gridarea: "14/4/15/5"
 images: 
  - 
+draft: true 
 ---
 

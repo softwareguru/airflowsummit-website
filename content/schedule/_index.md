@@ -148,7 +148,7 @@ days:
         gridarea: "14/1/15/2"
       - type: activity
         label: "Afternoon break"
-        gridarea: "14/2/15/6"
+        gridarea: "14/2/15/5"
         timelabel: "16:05 - 16:30"
         gridaream: "30/1/31/2"
       - type: timelabel

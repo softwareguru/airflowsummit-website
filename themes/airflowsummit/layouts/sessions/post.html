@@ -1,9 +1,18 @@
-<article class="blog-article mb-4 border border-secondary">
+<article class="blog-article border border-secondary h-100">
   {{ with .Params.image }}<img src="{{ . | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid">{{ end }}
   <div class="content py-5 px-4">
     <h4 class="my-3"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
     <p><em>By {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em></p>
     <p><em>{{ with .Params.time_start | time }}{{ .Format "Jan-02 15:04" }}{{ end }}-{{ with .Params.time_end | time }}{{ .Format "15:04" }}{{ end }}{{with .Params.room}} in {{.}}{{ end }}</em></p>
     <p class="mb-4">{{ .Summary }}</p>
+
+    {{with .Params.luma_id}}
+    <div class="signup">
+    <a href="https://lu.ma/event/{{.}}" class="luma-checkout--button" data-luma-action="checkout" data-luma-event-id="{{.}}">
+      Save your spot</a> 
+    </div>
+    <script id="luma-checkout" src="https://embed.lu.ma/checkout-button.js"></script>
+    {{ end }}
+  
   </div>
 </article>

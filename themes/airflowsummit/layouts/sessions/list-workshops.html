@@ -3,18 +3,18 @@
 <section class="section {{ .Type }}">
   <div class="container">
     <div class="list-content">{{.Content}}</div>
+    <h3>Wednesday, September 11</h3>
     <div class="row">
-      <h3>Wednesday, September 11</h3>
-          {{ range sort (where .Data.Pages "Params.day" "20241") ".Params.list_order" }}
-          <div class="col-lg-4">
+        {{ range sort (where (where (where .Site.Pages "Section" "sessions") "Params.day" "20242") "Params.track" "Workshop") ".Params.list_order" }}
+          <div class="col-lg-4 mb-4">
             {{ .Render "post" }}
           </div>
           {{ end }}
     </div>
+    <h3>Thursday, September 12</h3>
     <div class="row">
-      <h3>Thursday, September 12</h3>
-          {{ range sort (where .Data.Pages "Params.day" "20242") ".Params.list_order" }}
-          <div class="col-lg-4">
+      {{ range sort (where (where (where .Site.Pages "Section" "sessions") "Params.day" "20243") "Params.track" "Workshop") ".Params.list_order" }}
+      <div class="col-lg-4 mb-4">
             {{ .Render "post" }}
           </div>
           {{ end }}

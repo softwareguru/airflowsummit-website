@@ -117,6 +117,7 @@
 	padding: 0.8em;  
 	border-radius: 10px;
 	font-size: 16px;
+	margin-bottom: 10px;
 
 }
 
@@ -182,7 +183,6 @@
 	border-radius: 10px;
 }
 
-
   
 .track-keynote, .track-panel {
 	background-color: #ff000020;
@@ -224,11 +224,10 @@
 	border: 2px solid #2ba15b;
 }
 
-.track-sponsored {
+.track-sponsored, .track-workshops {
 	background-color: #ff4dc420;
 	border: 2px solid #ff4dc4;
 }
-
 
 .track-workshop {
 	background-color: #5653f810;
