@@ -10,7 +10,7 @@ speakers:
 time_start: 2024-09-12 09:25:00
 time_end: 2024-09-12 10:10:00
 room: Grand Ballroom
-track: New features
+track: Keynote
 day: 20243
 timeslot: 80
 gridarea: "2/2/3/6"
