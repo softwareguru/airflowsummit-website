@@ -3,6 +3,7 @@ title: "Comparing Airflow Executors and Custom Environments"
 slug: comparing-airflow-executors-and-custom-environments
 speakers:
  - Mikhail Epikhin
+ - Deepan Ignaatious
 time_start: 2024-09-11 11:30:00
 time_end: 2024-09-11 11:55:00
 room: Elizabethan A+B
