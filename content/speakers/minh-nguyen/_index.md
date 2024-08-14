@@ -12,3 +12,4 @@ events:
 ---
 
 
+Howdy y'all! I was previously a Senior Applications Engineer at Centene Corporation and had the opportunity to lead conversions of multiple scheduling tools into Control-M. I guess you can call me a passionate Control-M sensei. Outside of that, I have too many hobbies to keep up with from FPV drone racing, gunpla, food connoisseur (does that count?) and others. I do try to maintain a healthy lifestyle and you will often find me at the gym, in a workout class, or doing some kind of outdoor activity with my Labradoodle. I also do enjoy some stimulating brain excersises/activities like gaming, chess, tetris, etc. Although keeping a balance between activities is the fun part.
