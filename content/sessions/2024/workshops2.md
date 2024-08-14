@@ -9,6 +9,7 @@ track: Workshops
 day: 20243
 timeslot: 97
 gridarea: "10/5/15/6"
+summary: "We will have 3 simultaneous hands-on workshops. Follow the link for details and to sign up."
 
 ---
 

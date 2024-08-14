@@ -10,6 +10,7 @@ day: 20242
 timeslot: 60
 gridarea: "11/5/18/6"
 url: /sessions/2024/workshops
+summary: "We will have 3 simultaneous hands-on workshops. Follow the link for details and to sign up."
 ---
 
 ### We will be offering hands-on workshops so you can get practical experience with Airflow tools and managed offerings.
