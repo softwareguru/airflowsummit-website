@@ -1,8 +1,8 @@
 ---
-title: "Unravel"
-level: "diversity"
-logo: "/images/partners/unravel.png"
-webUrl: "https://www.unraveldata.com/"
-weight: 5
-draft: true
+title: "Impetus"
+level: "bronze"
+logo: "/images/partners/Impetus.png"
+webUrl: "https://www.impetus.com/"
+weight: 3
+draft: false
 ---
