@@ -8,7 +8,7 @@ speakers:
 time_start: 2024-09-12 11:30:00
 time_end: 2024-09-12 12:15:00
 room: Georgian
-track: Sponsored
+track: Use cases
 day: 20243
 timeslot: 92
 gridarea: "6/5/8/6"
