@@ -10,7 +10,7 @@ room: Elizabethan A+B
 track: New features
 day: 20243
 timeslot: 95
-gridarea: "8/4/9/5"
+gridarea: "8/4/10/5"
 images: 
  - /images/sessions/2024/data-centric.jpg
 ---

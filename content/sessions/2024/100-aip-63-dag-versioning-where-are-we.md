@@ -9,7 +9,7 @@ room: Elizabethan A+B
 track: New features
 day: 20243
 timeslot: 100
-gridarea: "10/4/12/5"
+gridarea: "11/4/13/5"
 images: 
  - /images/sessions/2024/aip-63.jpg
 ---

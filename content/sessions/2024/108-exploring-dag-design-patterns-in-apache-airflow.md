@@ -9,7 +9,7 @@ room: Elizabethan A+B
 track: Airflow intro talks
 day: 20243
 timeslot: 108
-gridarea: "13/4/14/5"
+gridarea: "14/4/15/5"
 images: 
  - /images/sessions/2024/exploring-dag.jpg
 ---

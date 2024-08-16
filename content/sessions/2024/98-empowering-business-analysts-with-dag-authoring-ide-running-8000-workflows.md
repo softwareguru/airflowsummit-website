@@ -9,7 +9,7 @@ room: California East
 track: Use cases
 day: 20243
 timeslot: 98
-gridarea: "10/2/11/3"
+gridarea: "11/2/12/3"
 images: 
  - /images/sessions/2024/empowering-business.jpg
 ---

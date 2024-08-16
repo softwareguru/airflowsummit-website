@@ -6,11 +6,11 @@ speakers:
  - David Xue
 time_start: 2024-09-11 12:30:00
 time_end: 2024-09-11 13:15:00
-room: Georgian
+room: Elizabethan A+B
 track: Best practices
 day: 20242
 timeslot: 57
-gridarea: "8/5/10/6"
+gridarea: "8/4/10/5"
 images: 
  - /images/sessions/2024/why-fail.jpg
 ---

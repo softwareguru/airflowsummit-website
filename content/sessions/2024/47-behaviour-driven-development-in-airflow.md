@@ -3,13 +3,15 @@ title: "Behaviour Driven Development in Airflow"
 slug: behaviour-driven-development-in-airflow
 speakers:
  - Ole Christian Langfjæran
+track: Best practices
+
 time_start: 2024-09-11 11:00:00
 time_end: 2024-09-11 11:25:00
-room: Georgian
-track: Best practices
+room: Elizabethan A+B
 day: 20242
-timeslot: 48
-gridarea: "5/5/6/6"
+timeslot: 47
+gridarea: "5/4/6/5"
+
 images: 
  - /images/sessions/2024/behaviour-driven.jpg
 ---

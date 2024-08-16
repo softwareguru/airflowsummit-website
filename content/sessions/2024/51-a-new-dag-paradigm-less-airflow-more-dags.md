@@ -4,13 +4,15 @@ slug: a-new-dag-paradigm-less-airflow-more-dags
 speakers:
  - Marion Azoulai
  - Maggie Stark
+track: Best practices
+
 time_start: 2024-09-11 11:30:00
 time_end: 2024-09-11 12:15:00
-room: Georgian
-track: Best practices
+room: Elizabethan A+B
 day: 20242
-timeslot: 52
-gridarea: "6/5/8/6"
+timeslot: 51
+gridarea: "6/4/8/5"
+
 images: 
  - /images/sessions/2024/a-new-dag-paradigm.jpg
 ---

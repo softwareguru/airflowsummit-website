@@ -9,7 +9,7 @@ room: California East
 track: Use cases
 day: 20243
 timeslot: 106
-gridarea: "13/2/14/3"
+gridarea: "14/2/15/3"
 images: 
  - /images/sessions/2024/scaling-data-productivity.jpg
 ---

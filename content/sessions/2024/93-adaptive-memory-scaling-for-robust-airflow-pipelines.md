@@ -11,7 +11,7 @@ room: California East
 track: Use cases
 day: 20243
 timeslot: 93
-gridarea: "8/2/9/3"
+gridarea: "8/2/10/3"
 images: 
  - /images/sessions/2024/adaptive-memory-scaling.jpg
 ---

@@ -9,7 +9,7 @@ room: California West
 track: Community
 day: 20243
 timeslot: 104
-gridarea: "12/3/13/4"
+gridarea: "13/3/14/4"
 images: 
  - /images/sessions/2024/lessons-ecosystem.jpg
 ---

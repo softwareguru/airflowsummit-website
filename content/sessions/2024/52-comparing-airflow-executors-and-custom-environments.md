@@ -4,13 +4,15 @@ slug: comparing-airflow-executors-and-custom-environments
 speakers:
  - Mikhail Epikhin
  - Deepan Ignaatious
+track: Sponsored
+
 time_start: 2024-09-11 11:30:00
 time_end: 2024-09-11 11:55:00
-room: Elizabethan A+B
-track: Sponsored
+room: Georgian
 day: 20242
-timeslot: 51
-gridarea: "6/4/7/5"
+timeslot: 52
+gridarea: "6/5/7/6"
+
 images: 
  - /images/sessions/2024/doublecloud.jpg
 ---

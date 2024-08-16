@@ -11,7 +11,7 @@ room: California West
 track: Community
 day: 20243
 timeslot: 107
-gridarea: "13/3/15/4"
+gridarea: "14/3/16/4"
 images: 
  - /images/sessions/2024/hello-quality.jpg
 ---

@@ -3,13 +3,14 @@ title: "Growing with Apache Airflow: A Providers Journey"
 slug: growing-with-apache-airflow-a-providers-journey
 speakers:
  - Rajesh Bishundeo
+track: Sponsored
+
 time_start: 2024-09-11 10:30:00
 time_end: 2024-09-11 10:55:00
-room: Elizabethan A+B
-track: Airflow & ...
+room: Georgian
 day: 20242
-timeslot: 45
-gridarea: "4/4/5/5"
+timeslot: 46
+gridarea: "4/5/5/6"
 
 ---
 

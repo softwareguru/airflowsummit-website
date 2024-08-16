@@ -9,7 +9,7 @@ room: California West
 track: Community
 day: 20243
 timeslot: 99
-gridarea: "10/3/11/4"
+gridarea: "11/3/12/4"
 images: 
  - /images/sessions/2024/productionize-ai.jpg
 ---

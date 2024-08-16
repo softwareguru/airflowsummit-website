@@ -3,13 +3,15 @@ title: "Boost Airflow Monitoring and Alerting with Automation Analytics & Intell
 slug: boost-airflow-monitoring-and-alerting-with-automation-analytics-intelligence-by-broadcom
 speakers:
  - Jennifer Chisik
+track: Sponsored
+
 time_start: 2024-09-11 11:00:00
 time_end: 2024-09-11 11:25:00
-room: Elizabethan A+B
-track: Sponsored
+room: Georgian
 day: 20242
-timeslot: 47
-gridarea: "5/4/6/5"
+timeslot: 48
+gridarea: "5/5/6/6"
+
 images: 
  - /images/sessions/2024/broadcom.jpg
 ---

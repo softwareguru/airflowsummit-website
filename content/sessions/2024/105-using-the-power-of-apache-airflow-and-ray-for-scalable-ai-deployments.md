@@ -10,7 +10,7 @@ room: Elizabethan A+B
 track: New features
 day: 20243
 timeslot: 105
-gridarea: "12/4/13/5"
+gridarea: "13/4/14/5"
 images: 
  - /images/sessions/2024/using-ray.jpg
 ---

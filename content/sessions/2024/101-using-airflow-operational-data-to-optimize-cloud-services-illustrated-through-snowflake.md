@@ -9,7 +9,7 @@ room: California East
 track: Best practices
 day: 20243
 timeslot: 101
-gridarea: "11/2/12/3"
+gridarea: "12/2/13/3"
 images: 
  - /images/sessions/2024/using-operational-data.jpg
 ---

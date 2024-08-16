@@ -9,7 +9,7 @@ room: California West
 track: Airflow & ...
 day: 20243
 timeslot: 102
-gridarea: "11/3/12/4"
+gridarea: "12/3/13/4"
 images: 
  - /images/sessions/2024/airflow-engine.jpg
 ---

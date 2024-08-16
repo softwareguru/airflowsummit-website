@@ -8,7 +8,7 @@ room: "Elizabethan C, Elizabethan D, Borgia"
 track: Workshops
 day: 20243
 timeslot: 97
-gridarea: "10/5/15/6"
+gridarea: "11/5/16/6"
 summary: "We will have 3 simultaneous hands-on workshops. Follow the link for details and to sign up."
 
 ---

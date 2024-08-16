@@ -9,7 +9,7 @@ room: California West
 track: Community
 day: 20243
 timeslot: 94
-gridarea: "8/3/9/4"
+gridarea: "8/3/10/4"
 images: 
  - /images/sessions/2024/silent-symphony.jpg
 ---

@@ -9,7 +9,7 @@ room: California East
 track: Use cases
 day: 20243
 timeslot: 110
-gridarea: "14/2/15/3"
+gridarea: "15/2/16/3"
 images: 
  - /images/sessions/2024/mastering-pipelines.jpg
 ---

@@ -200,30 +200,30 @@ days:
         gridarea: "9/1/10/2"
       - type: activity
         label: "Lunch"
-        gridarea: "9/2/10/6"
+        gridarea: "10/2/11/6"
         timelabel: "13:15 - 14:00"
         gridaream: "20/1/21/2"
       - type: timelabel
         label: "14:00"
-        gridarea: "10/1/11/2"
-      - type: timelabel
-        label: "14:35"
         gridarea: "11/1/12/2"
       - type: timelabel
-        label: "15:10"
+        label: "14:35"
         gridarea: "12/1/13/2"
       - type: timelabel
-        label: "15:45"
+        label: "15:10"
         gridarea: "13/1/14/2"
       - type: timelabel
-        label: "16:20"
+        label: "15:45"
         gridarea: "14/1/15/2"
       - type: timelabel
-        label: "17:00"
+        label: "16:20"
         gridarea: "15/1/16/2"
+      - type: timelabel
+        label: "17:00"
+        gridarea: "16/1/17/2"
       - type: activity
         label: "Wrap up"
-        gridarea: "15/2/16/6"
+        gridarea: "16/2/17/6"
         timelabel: "17:00 - 17:30"
         gridaream: "35/1/36/2"
 
