@@ -1,5 +1,5 @@
 ---
-title: "Unlocking FMOps/LLMOps using Apache Airflow: A guide to operationalizing and managing Large Language Models"
+title: "Unlocking FMOps/LLMOps with Airflow: A guide to operationalizing and managing Large Language Models"
 slug: unlocking-fmops-llmops-using-apache-airflow-a-guide-to-operationalizing-and-managing-large-language
 speakers:
  - Parnab Basak
