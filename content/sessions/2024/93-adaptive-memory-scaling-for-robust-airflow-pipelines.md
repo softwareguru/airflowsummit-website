@@ -18,9 +18,7 @@ images:
 
 At Vibrant Planet, we're on a mission to make the world's communities and ecosystems more resilient in the face of climate change. Our cloud-based platform is designed for collaborative scenario planning to tackle wildfires, climate threats, and ecosystem restoration on a massive scale. 
  
- 
- 
- In this talk we will dive into how we are using Airflow. Particularly we will focus on how we're making Airflow pipelines smarter and more resilient, especially when dealing with the task of processing large satellite imagery and other geospatial data. 
+In this talk we will dive into how we are using Airflow. Particularly we will focus on how we're making Airflow pipelines smarter and more resilient, especially when dealing with the task of processing large satellite imagery and other geospatial data. 
  
  
  

@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/feed/
 github: 
 events:
  - 2024
+draft: true 
 ---
 
 Senior Solutions Architect at Amazon Web Services. Specializing in Analytics and Machine Learning.  Previously, I worked for 9 years at Intel Corporation as Backed Tech lead developing data oriented solutions. 

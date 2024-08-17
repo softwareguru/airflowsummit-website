@@ -10,7 +10,7 @@ time_end: 2024-09-12 12:15:00
 room: Georgian
 track: Use cases
 day: 20243
-timeslot: 92
+timeslot: 91
 gridarea: "6/5/8/6"
 
 images: 

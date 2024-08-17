@@ -4,6 +4,7 @@ slug: optimizing-critical-operations-enhancing-robinhood-s-workflow-journey-with
 speakers:
  - Kevin Wang
  - Palanieppan Muthiah
+ - Peiqiu Tian
 time_start: 2024-09-10 17:10:00
 time_end: 2024-09-10 17:35:00
 room: Georgian
