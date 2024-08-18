@@ -1,5 +1,5 @@
 ---
-title: "Building reliable data products"
+title: "Building Reliable Data Products"
 slug: reliable-data-products
 speakers:
  - Julian LaNeve
@@ -13,6 +13,8 @@ day: 20243
 timeslot: 96
 gridarea: "8/5/9/6"
 
+images: 
+ - /images/sessions/2024/astronomer.jpg
 
 ---
 

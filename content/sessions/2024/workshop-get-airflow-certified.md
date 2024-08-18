@@ -13,6 +13,9 @@ list_order: 6
 day: "20243"
 layout: single-workshop
 luma_id: evt-0P2upNJrRChM3Qt
+images:
+ - /images/sessions/2024/workshop-certified.jpg 
+
 ---
 
 As an Airflow Summit attendee, we’re thrilled to offer you an in-person opportunity to take an [Airflow Certification](https://www.astronomer.io/certification/) exam at no additional cost. Depending on your skill level, you can take one of two exams:

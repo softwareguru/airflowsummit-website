@@ -3,6 +3,7 @@ title: "Stress-Free Airflow development: From Dev to Prod at Stripe"
 slug: stress-free-airflow-development-from-dev-to-prod-at-stripe
 speakers:
  - Nick Bilozerov
+ - Thomas Tauber-Marshall
 time_start: 2024-09-11 12:30:00
 time_end: 2024-09-11 12:55:00
 room: Georgian

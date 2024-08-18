@@ -12,18 +12,15 @@ day: 20243
 timeslot: 91
 gridarea: "6/4/8/5"
 images: 
- - /images/sessions/2024/gen-ai.jpg
+ - /images/sessions/2024/genai-airflow-rags.jpg
 ---
 
 Gen AI has taken the computing world by storm. As Enterprises and Startups have started to experiment with LLM applications, it has become clear that providing the right context to these LLM applications is critical. 
  
  
+This process known as Retrieval augmented generation (RAG) relies on adding custom data to the large language model, so that the efficacy of the response can be improved. Processing custom data and integrating with Enterprise applications is a strength of Apache Airflow. 
  
- This process known as Retrieval augmented generation (RAG) relies on adding custom data to the large language model, so that the efficacy of the response can be improved. Processing custom data and integrating with Enterprise applications is a strength of Apache Airflow. 
- 
- 
- 
- This talk goes into details about a vision to enhance Apache Airflow to more intuitively support RAG, with additional capabilities and patterns. Specifically, these include the following
+This talk goes into details about a vision to enhance Apache Airflow to more intuitively support RAG, with additional capabilities and patterns. Specifically, these include the following
  
  
  
