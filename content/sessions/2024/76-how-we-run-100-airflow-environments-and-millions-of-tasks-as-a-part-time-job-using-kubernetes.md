@@ -1,5 +1,5 @@
 ---
-title: "How we run 100 Airflow environments and millions of Tasks as a Part Time job using Kubernetes"
+title: "How we Run 100 Airflow Environments and Millions of Tasks as a Part Time Job Using Kubernetes"
 slug: how-we-run-100-airflow-environments-and-millions-of-tasks-as-a-part-time-job-using-kubernetes
 speakers:
  - Michael Juster

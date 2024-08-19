@@ -1,5 +1,5 @@
 ---
-title: "Empowering Airflow Users: A Framework for Performance Testing and Transparent Resource Optimization"
+title: "Empowering Airflow Users: A framework for performance testing and transparent resource optimization"
 slug: empowering-airflow-users-a-framework-for-performance-testing-and-transparent-resource-optimization
 speakers:
  - Bartosz Jankiewicz

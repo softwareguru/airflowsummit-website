@@ -1,5 +1,5 @@
 ---
-title: "Building in resource awareness and event dependency into Airflow"
+title: "Building in Resource Awareness and Event Dependency into Airflow"
 slug: building-in-resource-awareness-and-event-dependency-into-airflow
 speakers:
  - Roberto Santamaria

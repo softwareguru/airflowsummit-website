@@ -3,7 +3,7 @@ title: "Sriharsh Adari"
 date: 2024-06-10T22:55:28-06:00
 images: 
  - /images/speakers/sriharsh-adari.jpg
-designation: Sriharsh Adari, Technology Strategist & Architect
+designation: Technology Strategist & Architect
 twitter: https://twitter.com/SriharshAdari
 linkedin: https://www.linkedin.com/in/sriharsh-adari
 github: 

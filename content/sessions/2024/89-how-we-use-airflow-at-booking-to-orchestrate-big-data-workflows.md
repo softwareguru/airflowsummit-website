@@ -1,5 +1,5 @@
 ---
-title: "How we use Airflow at Booking to orchestrate Big Data workflows"
+title: "How we use Airflow at Booking to Orchestrate Big Data Workflows"
 slug: how-we-use-airflow-at-booking-to-orchestrate-big-data-workflows
 speakers:
  - Madhav Khakhar

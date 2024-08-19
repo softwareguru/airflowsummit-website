@@ -3,7 +3,7 @@ title: "Michael Winser"
 date: 2024-07-02T23:40:15-05:00
 images: 
  - /images/speakers/michael-winser.jpg
-designation: Technical Strategist at Alpha-Omega fund
+designation: "Security Strategy Ambassador at the Eclipse Foundation"
 twitter: 
 linkedin: https://www.linkedin.com/in/michaelw/
 github: 

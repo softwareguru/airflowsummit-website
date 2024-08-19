@@ -1,5 +1,5 @@
 ---
-title: "Empowering more teams in your organization to self-service their Airflow needs"
+title: "Empowering More Teams in your Organization to Self-service their Airflow Needs"
 slug: empowering-more-teams-in-your-organization-to-self-service-their-airflow-needs
 speakers:
  - Spencer Tollefson

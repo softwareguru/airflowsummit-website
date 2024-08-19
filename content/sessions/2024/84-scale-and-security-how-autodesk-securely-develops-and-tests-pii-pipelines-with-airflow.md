@@ -1,5 +1,5 @@
 ---
-title: "Scale and Security : How Autodesk Securely Develops and Tests PII Pipelines with Airflow"
+title: "Scale and Security: How Autodesk Securely Develops and Tests PII Pipelines with Airflow"
 slug: scale-and-security-how-autodesk-securely-develops-and-tests-pii-pipelines-with-airflow
 speakers:
  - Bhavesh Jaisinghani

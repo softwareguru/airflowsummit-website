@@ -3,7 +3,7 @@ title: "Subramanian Vellaiyan"
 date: 2024-07-02T23:23:04-05:00
 images: 
  - /images/speakers/subramanian-vellaiyan.jpg
-designation: Director of Data Engineering and Analytics at Envestnet
+designation: Director of Data Engineering and Analytics
 twitter: 
 linkedin: https://www.linkedin.com/in/svellaiyan
 github: 

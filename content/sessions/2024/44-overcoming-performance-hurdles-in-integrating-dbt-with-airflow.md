@@ -1,5 +1,5 @@
 ---
-title: "Overcoming performance hurdles in Integrating dbt with Airflow"
+title: "Overcoming Performance Hurdles in Integrating dbt with Airflow"
 slug: overcoming-performance-hurdles-in-integrating-dbt-with-airflow
 speakers:
  - Tatiana Al-Chueyr Martins

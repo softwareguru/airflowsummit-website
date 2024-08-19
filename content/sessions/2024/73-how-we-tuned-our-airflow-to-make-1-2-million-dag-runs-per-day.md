@@ -1,5 +1,5 @@
 ---
-title: "How we tuned our Airflow to make 1.2 million DAG runs - per day!"
+title: "How we Tuned our Airflow to Make 1.2 million DAG Runs - per day!"
 slug: how-we-tuned-our-airflow-to-make-1-2-million-dag-runs-per-day
 speakers:
  - Jens Scheffler
