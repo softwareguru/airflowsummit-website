@@ -2,7 +2,6 @@
 title: "Winning Strategies: Powering a World Series Victory with Airflow Orchestration"
 slug: winning-strategies-powering-a-world-series-victory-with-airflow-orchestration
 speakers:
- - Alexander Booth
  - Oliver Dykstra
 time_start: 2024-09-11 09:30:00
 time_end: 2024-09-11 09:55:00
