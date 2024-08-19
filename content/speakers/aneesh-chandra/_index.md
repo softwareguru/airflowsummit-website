@@ -9,6 +9,7 @@ linkedin:
 github: 
 events:
  - 2024
+draft: true
 ---
 
 
