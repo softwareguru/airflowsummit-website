@@ -9,6 +9,7 @@ linkedin:
 github: 
 events:
  - 2024
+draft: true
 ---
 
 Hugo is a Software Engineer in the Core Data Platform within Balyasny Asset Management’s Data Intelligence Group. The team manages the foundational elements of the data platform and provides tooling to allow users to more easily get value from it.
