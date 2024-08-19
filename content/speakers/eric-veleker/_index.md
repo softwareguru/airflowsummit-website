@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/ericveleker/
 github: 
 events:
  - 2024
+draft: true 
 ---
 
 Eric started off as a data practitioner in the biotech and legal arenas, later focusing on DataOps product and implementation at DataKitchen.  He currently looks after ISV Partnerships at Atlan.
