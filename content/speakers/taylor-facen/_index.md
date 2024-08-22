@@ -3,7 +3,7 @@ title: "Taylor Facen"
 date: 2024-06-10T23:07:23-06:00
 images: 
  - /images/speakers/taylor-facen.jpg
-designation: Data Lead at AngelList
+designation: Sr Analytics Engineer at Ramp
 twitter: 
 linkedin: https://linkedin.com/in/taylorfacen
 github: 
