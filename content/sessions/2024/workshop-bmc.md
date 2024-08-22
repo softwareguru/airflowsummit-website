@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Orchestrating Business Services with Airflow and Control M"
+title: "Workshop: Orchestrating Business Services with Airflow and Control-M"
 speakers:
  - Minh Nguyen
  - Joe Goldberg
