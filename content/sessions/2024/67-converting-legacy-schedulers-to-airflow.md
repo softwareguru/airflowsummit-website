@@ -14,4 +14,6 @@ images:
  - /images/sessions/2024/converting-legacy.jpg
 ---
 
-Introducing a process and framework to convert legacy scheduler workloads such as Control-M to Airflow using automated transpilation techniques. We will discuss the process and demonstrate a python-based transpiler to automatically migrate legacy scheduler workflows with a standard set of patterns to Airflow DAGs. This framework is easily extended via configurable rulesets to encompass other schedulers such as Automic, Autosys, Oozie, and others.
+Having helped many customers to migrate thousands of workloads, we will discuss the process of migrations, and how we built an open-source framework to migrate legacy scheduler workflows via standard sets of patterns to Airflow Projects.
+
+This framework is easily extended to encompass schedulers such as Automic, Autosys, Oozie, JAMS, SSIS and others, and has turned a difficult process requiring months or years to a simple one taking days or weeks.
