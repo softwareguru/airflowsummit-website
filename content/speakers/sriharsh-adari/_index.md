@@ -3,7 +3,7 @@ title: "Sriharsh Adari"
 date: 2024-06-10T22:55:28-06:00
 images: 
  - /images/speakers/sriharsh-adari.jpg
-designation: Technology Strategist & Architect
+designation: Sr. Solutions Architect at AWS
 twitter: https://twitter.com/SriharshAdari
 linkedin: https://www.linkedin.com/in/sriharsh-adari
 github: 
