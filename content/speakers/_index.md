@@ -4,4 +4,4 @@ title: Speakers
 ---
 
 
-### We are in the process of confirming speakers and sessions. Meet our confirmed speakers so far.
+### Meet our speakers for this edition of Airflow Summit.
