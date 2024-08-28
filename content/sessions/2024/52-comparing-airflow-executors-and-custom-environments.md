@@ -2,7 +2,6 @@
 title: "Comparing Airflow Executors and Custom Environments"
 slug: comparing-airflow-executors-and-custom-environments
 speakers:
- - Mikhail Epikhin
  - Deepan Ignaatious
 track: Sponsored
 
