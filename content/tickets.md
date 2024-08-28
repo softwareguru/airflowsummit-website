@@ -13,15 +13,7 @@ title: "Tickets"
 
 <br>
 
-## Ticket discounts
-
-Take advantage of the discounts communities, and minorities we have:
-
-* 20% discount for women and gender minorities. Use discount code: 20DISC_WNB
-* 20% discount for students. Use discount code: 20DISC_STUDENT
-* $100 off for participants paying from their own pocket (not by employer). Use discount code: 100LESS_IND
-* Discounts cannot be combined.
-
+### All discounts codes have now expired.
 
 
 <div class="text-center">
