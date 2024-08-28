@@ -4,13 +4,15 @@ slug: linkedin-s-continuous-deployment
 speakers:
  - Rahul Gade
  - Keshav Tyagi
-time_start: 2024-09-11 12:30:00
-time_end: 2024-09-11 13:15:00
+
+time_start: 2024-09-11 11:30:00
+time_end: 2024-09-11 12:15:00
 room: California East
 track: Use cases
 day: 20242
-timeslot: 54
-gridarea: "8/2/10/3"
+timeslot: 49
+gridarea: "6/2/8/3"
+
 images: 
  - /images/sessions/2024/linkedin.jpg
 ---
