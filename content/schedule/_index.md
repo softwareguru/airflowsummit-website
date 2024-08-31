@@ -215,9 +215,9 @@ days:
       - type: timelabel
         label: "15:45"
         gridarea: "14/1/15/2"
-      - type: timelabel
-        label: "16:20"
-        gridarea: "15/1/16/2"
+      #- type: timelabel
+      #  label: "16:20"
+      #  gridarea: "15/1/16/2"
       - type: timelabel
         label: "17:00"
         gridarea: "16/1/17/2"
