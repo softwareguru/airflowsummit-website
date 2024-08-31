@@ -1,5 +1,5 @@
 ---
-title: "Seeing Clearly with Airflow: The Shift to Data-Aware Orchestration"
+title: "Seeing Clearly with Airflow: Bridging Task-Centric and Data-Aware Orchestration"
 slug: seeing-clearly-with-airflow-the-shift-to-data-aware-orchestration
 speakers:
  - Constance Martineau
@@ -15,8 +15,6 @@ images:
  - /images/sessions/2024/data-centric.jpg
 ---
 
-Join me at this year's Airflow Summit as we delve into a pivotal evolution for Apache Airflow: The integration of data awareness.
- 
-Airflow has long excelled as a workflow orchestration tool, managing complex workflows with ease and efficiency. However, it has operated with limited insight into the data it manipulates or the assets it produces. This talk will explore the implications and benefits of embedding deeper insights about these outputs directly into Airflow.
- 
-We'll start with a retrospective on Airflow's origins and its task-centric approach, discussing why Airflow has thrived even without a focus on data awareness. We'll then examine how enhancing the connection between tasks and the assets they produce can significantly boost Airflow's utility and value for its users. Finally, we'll consider new features that can be developed with this enhanced level of understanding, empowering data engineers with tools for more efficient, reliable and insightful operations.
+As Apache Airflow evolves, a key shift is emerging: the move from task-centric to data-aware orchestration. Traditionally, Airflow has focused on managing tasks efficiently, with limited visibility into the data those tasks manipulate. However, the rise of data-centric workflows demands a new approach—one that puts data at the forefront.
+
+This talk will explore how embedding deeper data insights into Airflow can align with modern users’ needs, reducing complexity and enhancing workflow efficiency. We’ll discuss how this evolution can transform Airflow into a more intuitive and powerful tool, better suited to today’s data-driven environments.
