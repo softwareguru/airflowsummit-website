@@ -4,7 +4,6 @@ slug: building-on-cosmos-making-dbt-on-airflow-easy
 speakers:
  - Lewis Macdonald
  - Ethan Stone
-
 time_start: 2024-09-10 11:00:00
 time_end: 2024-09-10 11:45:00
 room: California West
