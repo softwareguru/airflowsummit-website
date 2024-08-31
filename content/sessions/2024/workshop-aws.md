@@ -2,8 +2,8 @@
 title: "Workshop: Orchestrating ML Workflows with Amazon MWAA"
 speakers:
  - Sriharsh Adari
- - Joseph Morotti
  - Aneesh Chandra PN
+ - Anurag Srivastava
 track: Workshop
 room: Elizabethan C
 time_start: 2024-09-12 14:00:00
