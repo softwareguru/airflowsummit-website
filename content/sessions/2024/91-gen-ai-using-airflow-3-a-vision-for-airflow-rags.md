@@ -24,20 +24,10 @@ This talk goes into details about a vision to enhance Apache Airflow to more int
  
  
  
- - Support for unstructured data sources such as Text, but also 
+ - Support for unstructured data sources such as Text, but also extending to Image, Audio, Video, and Custom sensor data
  
-  extending to Image, Audio, Video, and Custom sensor data
+ - LLM model invocation, including both external model services through APIs and local models using container invocation. 
  
- - LLM model invocation, including both external model services 
+ - Automatic Index Refreshing with a focus on unstructured data lifecycle management to avoid cumbersome and expensive index creation on Vector databases
  
-  through APIs and local models using container invocation. 
- 
- - Automatic Index Refreshing with a focus on unstructured data 
- 
-  lifecycle management to avoid cumbersome and expensive 
- 
-  index creation on Vector databases
- 
- - Templates for hallucination reduction via testing and scoping 
- 
-  strategies
+ - Templates for hallucination reduction via testing and scoping strategies
