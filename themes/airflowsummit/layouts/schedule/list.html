@@ -38,7 +38,10 @@
                 <div class="session-title"><a class="session-title" href="#abs-{{.Params.slug}}" data-bs-toggle="collapse" role="button">{{ .Params.title }}</a></div>
                 <div class="session-speakers names">{{ with .Params.speakers }}By {{ delimit . ", " " & " }}{{ end }}</div>
                 <div class="d-flex justify-content-between">
-                  <div class="track-name">{{ with .Params.track }}Track: {{ . }}{{ end }}</div>
+                  <div>
+                    <div class="track-name">{{ with .Params.track }}Track: {{ . }}{{ end }}</div>
+                    <div class="track-name">{{ with .Params.room }}Room: {{ . }}{{ end }}</div>
+                  </div>
                   <div title="Add to Calendar" class="addeventatc" data-styling="none">
                     <img src="https://cdn.addevent.com/libs/imgs/icon-calendar-t1.svg" alt="" style="width:18px;" />
                     <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
