@@ -3,13 +3,15 @@ title: "Investigating the Many Loops of the Airflow Scheduler"
 slug: investigating-the-many-loops-of-the-airflow-scheduler
 speakers:
  - Philippe Gagnon
-time_start: 2024-09-11 15:05:00
-time_end: 2024-09-11 15:30:00
+
+time_start: 2024-09-11 12:30:00
+time_end: 2024-09-11 13:15:00
 room: California West
 track: Airflow & ...
 day: 20242
-timeslot: 64
-gridarea: "12/3/13/4"
+timeslot: 55
+gridarea: "8/3/10/4"
+
 images: 
  - /images/sessions/2024/investigating-many-loops.jpg
 ---

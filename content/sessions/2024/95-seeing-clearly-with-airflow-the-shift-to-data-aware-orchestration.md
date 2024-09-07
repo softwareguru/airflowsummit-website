@@ -1,5 +1,5 @@
 ---
-title: "Seeing Clearly with Airflow: Bridging Task-Centric and Data-Aware Orchestration"
+title: "Seeing Clearly with Airflow: The Shift to Data-Aware Orchestration"
 slug: seeing-clearly-with-airflow-the-shift-to-data-aware-orchestration
 speakers:
  - Constance Martineau

@@ -219,12 +219,12 @@ days:
       #  label: "16:20"
       #  gridarea: "15/1/16/2"
       - type: timelabel
-        label: "17:00"
+        label: "16:45"
         gridarea: "16/1/17/2"
       - type: activity
         label: "Wrap up"
         gridarea: "16/2/17/6"
-        timelabel: "17:00 - 17:30"
+        timelabel: "16:45 - 17:15"
         gridaream: "35/1/36/2"
 
 

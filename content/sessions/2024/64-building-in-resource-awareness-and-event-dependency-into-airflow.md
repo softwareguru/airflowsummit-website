@@ -5,13 +5,15 @@ speakers:
  - Roberto Santamaria
  - Xiaodong Deng
  - Anandhi Murali
-time_start: 2024-09-11 14:30:00
-time_end: 2024-09-11 14:55:00
+
+time_start: 2024-09-11 15:05:00
+time_end: 2024-09-11 15:30:00
 room: California West
 track: Airflow & ...
 day: 20242
-timeslot: 61
-gridarea: "11/3/12/4"
+timeslot: 64
+gridarea: "12/3/13/4"
+
 images: 
  - /images/sessions/2024/building-awareness.jpg
 ---

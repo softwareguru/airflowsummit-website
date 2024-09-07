@@ -3,13 +3,15 @@ title: "Event-driven Data Pipelines with Apache Airflow"
 slug: event-driven-data-pipelines-with-apache-airflow
 speakers:
  - John Jackson
-time_start: 2024-09-10 12:00:00
-time_end: 2024-09-10 12:45:00
+
+time_start: 2024-09-10 11:00:00
+time_end: 2024-09-10 11:45:00
 room: Georgian
 track: Best practices
 day: 20241
-timeslot: 12
-gridarea: "6/5/7/6"
+timeslot: 8
+gridarea: "5/5/6/6"
+
 images: 
  - /images/sessions/2024/event-driven.jpg
 ---
