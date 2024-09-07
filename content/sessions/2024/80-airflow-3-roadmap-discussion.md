@@ -18,4 +18,4 @@ images:
  - /images/sessions/2024/airflow3-roadmap.jpg
 ---
 
-This session would be about presenting the tentative scope for the next generation of Airflow, i.e. Airflow 3.
+Join us in this panel with key members of the community behind the development of Apache Airflow where we will discuss the tentative scope for the next generation, i.e. Airflow 3.
