@@ -1,7 +1,9 @@
 ---
 title: "Workshop: DAG writing best practices"
 speakers:
- - Kenten Danas
+ - Marc Lamberti
+ - Ryan Hatter
+ - Michael Robinson
 track: Workshop
 room: Borgia
 time_start: 2024-09-11 14:30:00
