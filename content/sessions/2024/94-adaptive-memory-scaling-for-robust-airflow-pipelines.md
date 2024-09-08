@@ -10,7 +10,7 @@ time_end: 2024-09-12 13:15:00
 room: California East
 track: Use cases
 day: 20243
-timeslot: 93
+timeslot: 94
 gridarea: "8/2/10/3"
 images: 
  - /images/sessions/2024/adaptive-memory-scaling.jpg

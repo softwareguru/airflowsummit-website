@@ -9,7 +9,7 @@ time_end: 2024-09-12 13:15:00
 room: Elizabethan A+B
 track: New features
 day: 20243
-timeslot: 95
+timeslot: 96
 gridarea: "8/4/10/5"
 images: 
  - /images/sessions/2024/data-centric.jpg

@@ -8,7 +8,7 @@ time_end: 2024-09-12 13:15:00
 room: California West
 track: Community
 day: 20243
-timeslot: 94
+timeslot: 95
 gridarea: "8/3/10/4"
 images: 
  - /images/sessions/2024/silent-symphony.jpg
