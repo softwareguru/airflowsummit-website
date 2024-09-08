@@ -218,16 +218,13 @@ days:
       - type: timelabel
         label: "15:45"
         gridarea: "14/1/15/2"
-      #- type: timelabel
-      #  label: "16:20"
-      #  gridarea: "15/1/16/2"
       - type: timelabel
-        label: "16:45"
+        label: "16:20"
         gridarea: "16/1/17/2"
       - type: activity
-        label: "Wrap up"
+        label: "Lightning talks & Wrap up"
         gridarea: "16/2/17/6"
-        timelabel: "16:45 - 17:15"
+        timelabel: "16:20 - 17:00"
         gridaream: "35/1/36/2"
 
 

@@ -6,7 +6,7 @@ speakers:
 track: Workshop
 room: Elizabethan D
 time_start: 2024-09-12 14:00:00
-time_end: 2024-09-12 16:40:00
+time_end: 2024-09-12 16:20:00
 summary: "This interactive workshop session empowers you to unlock the full potential of Airflow through performance optimization techniques."
 list_order: 5
 day: "20243"
