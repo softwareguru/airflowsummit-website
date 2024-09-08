@@ -6,7 +6,7 @@ images:
 twitter: https://twitter.com/FilipKnapik1
 linkedin: https://www.linkedin.com/in/filip-knapik-3aa1021/
 events:
- - 2023
+ - 2024
 ---
 
 Over 20 years of international IT experience, including Engineering, Solution Architecture and Product Management.  
