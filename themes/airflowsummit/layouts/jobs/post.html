@@ -1,17 +1,12 @@
 <article class="swag border mb-4" >
     <div class="content py-3 px-5 " style="background-color: black;">
-        <center>
         <h4 class="my-2 module line-clamp">{{ .Title | markdownify }}</h4>
-        </center>
 
         <div class="py-3 px-3" style="background-color: white; border-radius: 10px; margin-top: 40px; margin-bottom: 40px;">
-            <a href="{{ .Params.form_link }}" target="_blank">
-                <img class="img-fluid" src="{{ .Params.Image }}">
-               </a>
         </div>
 
         <div class="text-right" >
-            <a style="color: #11e1ee; box-shadow: none;" target="_blank" href="{{ .Params.form_link }}" class="btn">Check it out!<i class="fas fa-arrow-right mr-4"></i></a>
+            <a style="color: #11e1ee; box-shadow: none;" target="_blank" href="{{ .Params.extlink }}" class="btn">Check it out!<i class="fas fa-arrow-right mr-4"></i></a>
         </div>
     </div>
 </article>

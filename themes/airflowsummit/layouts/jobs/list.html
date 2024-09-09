@@ -9,24 +9,15 @@
         {{ range .Data.Pages.ByWeight }}
       <div class="col-12 col-md-4 px-3 mb-3">
         <div class="card h-100 shadow p-4 border-card " style="margin-bottom: -35px;">
-          <img src="{{ .Params.Image }}" class="card-img-top" alt="..." style="margin-top: 20px;">
           <div class="card-body">
-            <h3 class="card-title"><a href="{{ .Params.Link }}" target="blank">{{ .Title }}</a></h3>        
-            <h6 class="card-subtitle text-muted">{{ .Content }}</h6>
-            
-            </div>
-            <div class="text-center">
-              <a href="{{ .Params.Link }}" target="_blank">
-                {{ with .Params.Button }}
-                <button type="button" style="align-items: center; color: #fff;" class="btn btn-info col-md-10 px-3">{{ . }}</button>
-                {{ end }}
-             </a>
-            </div>
-        <br>
+            <h3 class="card-title"><a href="{{ .Params.extlink }}" target="_blank">{{ .Title }}</a></h3>
+            <h5 class="card-subtitle mb-2 text-body-secondary">{{with .Params.company}}{{.}}{{end}}{{with .Params.location}}<br>{{.}}{{end}}</h5>
+            <div class="card-text">{{ .Summary }}</div>
+            <a href="{{ .Params.extlink }}" class="card-link" target="_blank"></a>
           </div>
         </div>
+      </div>  
         {{ end }}
-      </div>
     </div>
   </div>
 </section>

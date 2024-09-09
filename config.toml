@@ -80,6 +80,11 @@ speaker = "speakers"
     weight = 5
 
   [[menu.main]]
+    name = "Jobs"
+    URL = "/jobs"
+    weight = 6
+
+  [[menu.main]]
   name = "FAQ"
   URL = "faq"
   weight = 7
