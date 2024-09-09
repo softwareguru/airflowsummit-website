@@ -1,7 +1,8 @@
 ---
 title: "Ankit Chaurasia"
 designation: "Senior Software Engineer at Astronomer"
-image: /images/speakers/ankit-chaurasia.jpg
+images:
+ - /images/speakers/ankit-chaurasia.jpg
 events:
  - 2024
 twitter: ""

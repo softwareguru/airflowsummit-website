@@ -1,10 +1,9 @@
 ---
 title: "Howie Wang"
 designation: "Apple Cloud Services, SDE - Data Pipelines"
-image: /images/speakers/howie-wang.jpg
+images:
+ - /images/speakers/howie-wang.jpg
 events:
- - 2021
- - 2022
  - 2024
 twitter: "https://twitter.com/HowieWang15"
 linkedin: "https://www.linkedin.com/in/howiewang/"

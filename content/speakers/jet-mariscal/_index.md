@@ -1,7 +1,8 @@
 ---
 title: "Jet Mariscal"
 designation: "Tech Lead @ Cloudflare"
-image: /images/speakers/jet-mariscal.jpg
+images:
+ - /images/speakers/jet-mariscal.jpg
 events:
  - 2020
  - 2021

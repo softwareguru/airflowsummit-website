@@ -1,7 +1,8 @@
 ---
 title: "Ephraim Anierobi"
 designation: Software Engineer at Astronomer.io, Apache Airflow Committer & PMC member
-image: /images/speakers/ephraim-anierobi.jpg
+images:
+ - /images/speakers/ephraim-anierobi.jpg
 events:
  - 2021
  - 2022

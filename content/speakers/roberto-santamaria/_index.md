@@ -1,7 +1,8 @@
 ---
 title: "Roberto Santamaria"
 designation: "Apple, Engineering Leader"
-image: /images/speakers/roberto-santamaria.jpg
+images: 
+ - /images/speakers/roberto-santamaria.jpg
 events:
  - 2021
  - 2024

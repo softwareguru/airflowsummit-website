@@ -2,7 +2,7 @@
 title: "Behaviour Driven Development in Airflow"
 slug: behaviour-driven-development-in-airflow
 speakers:
- - Ole Christian Langfjæran
+ - Ole Christian Langfjaeran
 track: Best practices
 
 time_start: 2024-09-11 11:00:00
