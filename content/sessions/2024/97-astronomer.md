@@ -10,7 +10,7 @@ time_end: 2024-09-12 13:15:00
 room: Georgian
 track: Sponsored
 day: 20243
-timeslot: 96
+timeslot: 97
 gridarea: "8/5/9/6"
 
 images: 
