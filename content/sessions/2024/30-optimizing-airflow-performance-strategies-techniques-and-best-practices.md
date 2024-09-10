@@ -3,7 +3,7 @@ title: "Optimizing Airflow Performance: Strategies, Techniques, and Best Practic
 slug: optimizing-airflow-performance-strategies-techniques-and-best-practices
 speakers:
  - Pankaj Singh
- - Utkarsh Sharma
+ - Pankaj Koti
 time_start: 2024-09-10 16:00:00
 time_end: 2024-09-10 16:25:00
 room: Georgian
