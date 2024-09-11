@@ -17,7 +17,7 @@ tracks:
 days: 
 
   - id: 20241
-    enabled: true
+    enabled: false
     title_short: Tuesday
     title_full: Tuesday, September 10, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]

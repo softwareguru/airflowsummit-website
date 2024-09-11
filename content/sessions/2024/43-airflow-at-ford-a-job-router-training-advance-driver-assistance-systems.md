@@ -2,7 +2,7 @@
 title: "Airflow at Ford: A Job Router Training Advance Driver Assistance Systems"
 slug: airflow-at-ford-a-job-router-training-advance-driver-assistance-systems
 speakers:
- - Serjesh Sharma
+ - Doug Rogan
  - Vasantha Kosuri-Marshall
 time_start: 2024-09-11 10:30:00
 time_end: 2024-09-11 11:15:00

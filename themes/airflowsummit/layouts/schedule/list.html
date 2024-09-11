@@ -23,6 +23,8 @@
     </div>
 
     {{ range .Params.days }}
+      {{ if not .enabled }}{{ continue }}{{ end }}
+
       {{ $curr_day :=  .id }}
 
     <div id="dayblock-{{.id}}" class="dayblock my-5">
