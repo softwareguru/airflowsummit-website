@@ -91,7 +91,7 @@ days:
         gridaream: "39/1/40/2"
 
   - id: 20242
-    enabled: true
+    enabled: false
     title_short: Wednesday
     title_full: Wednesday, September 11, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
