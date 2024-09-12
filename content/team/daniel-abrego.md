@@ -1,8 +1,8 @@
 ---
-title: "Alberto Rodríguez"
+title: "Daniel Abrgo"
 date: 2021-04-23T10:24:17-05:00
-image : "/images/team/alberto-rodriguez.jpg"
-designation : "Web & tech"
+image : "/images/team/daniel-abrego.jpg"
+designation : "Production support"
 country: ""
 facebook: ""
 instagram: ""

@@ -6,5 +6,6 @@ designation : Founding team, Field CTO @ Astronomer
 twitter:
 linkedin: https://www.linkedin.com/in/viraj-parekh-46114689/
 group: committee
+draft: true
 ---
 
