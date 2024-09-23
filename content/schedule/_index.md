@@ -17,7 +17,7 @@ tracks:
 days: 
 
   - id: 20241
-    enabled: false
+    enabled: true
     title_short: Tuesday
     title_full: Tuesday, September 10, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
@@ -91,7 +91,7 @@ days:
         gridaream: "39/1/40/2"
 
   - id: 20242
-    enabled: false
+    enabled: true
     title_short: Wednesday
     title_full: Wednesday, September 11, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
