@@ -14,6 +14,8 @@ timeslot: 38
 gridarea: "14/5/15/6"
 images: 
  - /images/sessions/2024/robinhood.jpg
+slides: 2024/34-Optimizing-Critical-Operations.pdf
+video: 
 ---
 
 Airflow is widely used within Robinhood. In addition to traditional offline analytics use cases (to schedule ingestion and analytics workloads that populate our data lake), we also use Airflow in our backend services to orchestrate various workflows that are highly critical for the business, e.g: compliance and regulatory reporting, user facing reports and more.

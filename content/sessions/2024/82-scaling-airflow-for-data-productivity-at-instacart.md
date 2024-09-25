@@ -14,6 +14,8 @@ gridarea: "4/2/5/3"
 
 images: 
  - /images/sessions/2024/scaling-data-productivity.jpg
+slides: 2024/72-Scaling-Airflow-for-Data-Productivity-at-Instacart.pdf
+video: 
 ---
 
 In this talk, we'll discuss how Instacart leverages Apache Airflow to orchestrate a vast network of data pipelines, powering both our core infrastructure and dbt deployments. As a data-driven company, Airflow plays a critical role in enabling us to execute large and intricate pipelines securely, compliantly, and at scale.

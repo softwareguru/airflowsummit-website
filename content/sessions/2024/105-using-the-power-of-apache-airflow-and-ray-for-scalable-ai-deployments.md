@@ -13,6 +13,8 @@ timeslot: 105
 gridarea: "13/4/14/5"
 images: 
  - /images/sessions/2024/using-ray.jpg
+slides: 2024/97-Using-the-power-of-Apache-Airflow-and-Ray-for-Scalable-AI-deployments.pdf
+video: 
 ---
 
 Many organizations struggle to create a well-orchestrated AI infrastructure, using separate and disconnected platforms for data processing, model training, and inference, which slows down development and increases costs. There's a clear need for a unified system that can handle all aspects of AI development and deployment, regardless of the size of data or models.

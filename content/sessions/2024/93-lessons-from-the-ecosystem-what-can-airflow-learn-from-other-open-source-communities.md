@@ -14,6 +14,8 @@ gridarea: "7/3/8/4"
 
 images: 
  - /images/sessions/2024/lessons-ecosystem.jpg
+slides: 2024/79-lessons-from-the-ecosystem-what-can-airflow-learn-from-other-open-source-communities.pdf
+video: 
 ---
 
 The Apache Airflow community is so large and active that it’s tempting to take the view that “if it ain’t broke don’t fix it.”

@@ -12,6 +12,8 @@ timeslot: 102
 gridarea: "12/3/13/4"
 images: 
  - /images/sessions/2024/airflow-engine.jpg
+slides: 2024/94-Airflow-as-an-Engine.pdf
+video: 
 ---
 
 Airflow is often used for running data pipelines, which themselves connect with other services through the provider system. However, it is also increasingly used as an engine under-the-hood for other projects building on top of the DAG primitive. For example, Cosmos is a framework for automatically transforming dbt DAGs into Airflow DAGs, so that users can supplement the developer experience of dbt with the power of Airflow.

@@ -12,6 +12,8 @@ timeslot: 78
 gridarea: "17/4/18/5"
 images: 
  - /images/sessions/2024/mastering-advanced.jpg
+slides: 2024/69-Mastering-Advanced-Dataset-Scheduling-in-Apache-Airflow.pdf
+video: 
 ---
 
 Are you looking to harness the full potential of data-driven pipelines with Apache Airflow? This session will dive into the newly introduced conditional expressions for advanced dataset scheduling in Airflow - a feature highly requested by the Airflow community. Attendees will learn how to effectively use logical operators to create complex dependencies that trigger DAGs based on the dataset updates in real-world scenarios. We'll also explore the innovative DatasetOrTimeSchedule, which combines time-based and dataset-triggered scheduling for unparalleled flexibility. Furthermore, attendees will discover the latest API endpoints that facilitate external updates and resets of dataset events, streamlining workflow management across different deployments.

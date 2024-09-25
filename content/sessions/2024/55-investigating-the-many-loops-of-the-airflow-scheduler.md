@@ -14,6 +14,8 @@ gridarea: "8/3/10/4"
 
 images: 
  - /images/sessions/2024/investigating-many-loops.jpg
+slides: 2024/42-Investigating-the-Many-Loops-of-the-Airflow-Scheduler.pdf
+video: 
 ---
 
 The scheduler is unarguably the most important component of an Airflow cluster. It is also the most complex and misunderstood by practitioners and administrators alike.

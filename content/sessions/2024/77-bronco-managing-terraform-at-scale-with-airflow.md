@@ -12,6 +12,8 @@ timeslot: 77
 gridarea: "17/3/18/4"
 images: 
  - /images/sessions/2024/bronco.jpg
+slides: 2024/66-Bronco.pdf
+video: 
 ---
 
 Airflow is not just purpose-built for data applications. It is a job scheduler on steroids. This is exactly what a cloud platform team needs: a configurable and scalable automation tool that can handle thousands of administrative tasks.

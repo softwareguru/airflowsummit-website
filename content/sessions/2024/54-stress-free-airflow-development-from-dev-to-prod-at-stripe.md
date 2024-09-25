@@ -15,6 +15,8 @@ gridarea: "8/2/10/3"
 
 images: 
  - /images/sessions/2024/stripe.jpg
+slides: 2024/39-Stress-Free-Airflow-development.pdf
+video: 
 ---
 
 At Stripe, compliance with regulations is of utmost importance, and ensuring the integrity of production data is crucial. To address this challenge, Stripe developed a powerful system called User Scope Mode (USM), which allows users to safely and efficiently test new or existing Airflow pipelines without the risk of corrupting production data.

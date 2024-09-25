@@ -12,6 +12,8 @@ timeslot: 37
 gridarea: "14/4/15/5"
 images: 
  - /images/sessions/2024/maxime-preset.jpg
+slides: 2024/31-AI-Reality-Checkpoint.pdf
+video: 
 ---
 
 In the past 18 months, artificial intelligence has not just entered our workspaces – it has taken over. As we stand at the crossroads of innovation and automation, it's time for a candid reflection on how AI has reshaped our professional lives, and to talk about where it's been a game changer, where it's falling short, and what's about to shift dramatically in the short term.

@@ -14,6 +14,8 @@ timeslot: 89
 gridarea: "6/2/7/3"
 images: 
  - /images/sessions/2024/booking.jpg
+slides: 2024/74-How-we-use-Airflow-at-Booking-to-Orchestrate-Big-Data-workflows.pdf
+video: 
 ---
 
 The talk will cover how we use Airflow at the heart of our Workflow Management Platform(WFM) at Booking.com, enabling our internal users to orchestrate big data workflows on Booking Data Exchange(BDX).

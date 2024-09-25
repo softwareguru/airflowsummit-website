@@ -13,6 +13,8 @@ timeslot: 36
 gridarea: "14/3/15/4"
 images: 
  - /images/sessions/2024/overcoming-python.jpg
+slides: 2024/28-Overcoming-Custom-Python-Package-Hurdles-in-Airflow.pdf
+video: 
 ---
 
 DAG Authors, while constructing DAGs, generally use native libraries provided by Airflow in conjunction with python libraries available over public PyPI repositories.

@@ -13,6 +13,8 @@ timeslot: 44
 gridarea: "4/3/6/4"
 images: 
  - /images/sessions/2024/overcoming-performance.jpg
+slides: 2024/40-Overcoming-Performance-Hurdles-in-Integrating-dbt-with-Airflow.pdf
+video: 
 ---
 
 The integration between dbt and Airflow is a popular topic in the community, both in previous editions of Airflow Summit, in Coalesce and the #airflow-dbt Slack channel.

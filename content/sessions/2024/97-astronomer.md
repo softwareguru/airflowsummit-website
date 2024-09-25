@@ -4,7 +4,6 @@ slug: reliable-data-products
 speakers:
  - Julian LaNeve
  - Jason Ma
-
 time_start: 2024-09-12 12:30:00
 time_end: 2024-09-12 13:15:00
 room: Georgian

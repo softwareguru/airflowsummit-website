@@ -12,6 +12,8 @@ timeslot: 65
 gridarea: "12/4/13/5"
 images: 
  - /images/sessions/2024/hybrid-executors.jpg
+slides: 2024/59-Hybrid-Executors.pdf
+video: 
 ---
 
 Executors are a core concept in Apache Airflow and they are an essential piece to the execution of DAGs. They continue to see investment and innovation including a new feature launching this year: Hybrid Execution.

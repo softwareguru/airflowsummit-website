@@ -12,6 +12,8 @@ timeslot: 24
 gridarea: "10/4/11/5"
 images: 
  - /images/sessions/2024/deep-dive-configuration.jpg
+slides: 2024/19-A-deep-dive-into-Airflow-configuration-options-for-scalability.pdf
+video: 
 ---
 
 Apache Airflow has a lot of configuration options. A change in some of these options can affect the performance of Airflow.

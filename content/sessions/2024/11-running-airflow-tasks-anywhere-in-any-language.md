@@ -13,6 +13,8 @@ timeslot: 11
 gridarea: "6/4/7/5"
 images: 
  - /images/sessions/2024/running-anywhere.jpg
+slides: 2024/8-Running-Airflow-tasks-anywhere-in-any-language.pdf
+video: 
 ---
 
 Imagine a world where writing Airflow tasks in languages like Go, R, Julia, or maybe even Rust is not just a dream but a native capability. Say goodbye to BashOperators; welcome to the future of Airflow task execution.

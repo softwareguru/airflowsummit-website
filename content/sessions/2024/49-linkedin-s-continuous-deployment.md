@@ -15,6 +15,8 @@ gridarea: "6/2/8/3"
 
 images: 
  - /images/sessions/2024/linkedin.jpg
+slides: 2024/38-Linkedins-Continuous-Deployment.pdf
+video: 
 ---
 
 LinkedIn Continuous Deployment (LCD), started with the goal of improving the deployment experience and expanding its outreach to all LinkedIn systems. LCD delivers a modern deployment UX and easy-to-customize pipelines which enables all LinkedIn applications to declare their deployment pipelines.

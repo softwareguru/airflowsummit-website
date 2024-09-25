@@ -15,6 +15,8 @@ gridarea: "6/5/8/6"
 
 images: 
  - /images/sessions/2024/uber.jpg
+slides: 2024/87-Evolution-of-Airflow-at-Uber.pdf
+video: 
 ---
 
 Up until a few years ago, teams at Uber used multiple data workflow systems, with some based on open source projects such as Apache Oozie, Apache Airflow, and Jenkins while others were custom built solutions written in Python and Clojure. 

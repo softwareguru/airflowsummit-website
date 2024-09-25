@@ -12,6 +12,7 @@ timeslot: 17
 gridarea: "8/5/9/6"
 images: 
  - /images/sessions/2024/optimize-dags.jpg
+slides: 2024/20-Optimize-Your-DAGs-Embrace-Dag-Params-for-Efficiency-and-Simplicity.pdf
 ---
 
 In the realm of data engineering, there is a prevalent tendency for professionals to develop similar Directed Acyclic Graphs (DAGs) to manage analogous tasks. Leveraging Dag Params presents an effective strategy for mitigating redundancy within these DAGs. Moreover, the utilization of Dag Params facilitates seamless enforcement of user inputs, thereby streamlining the process of incorporating validations into the DAG codebase.

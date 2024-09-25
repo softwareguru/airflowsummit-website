@@ -14,6 +14,8 @@ timeslot: 103
 gridarea: "13/2/14/3"
 images: 
  - /images/sessions/2024/customizing-llm.jpg
+slides: 2024/91-customizing-llms.pdf
+video: 
 ---
 
 Laurel provides an AI-driven timekeeping solution tailored for accounting and legal firms, automating timesheet creation by capturing digital work activities. This session highlights two notable AI projects:

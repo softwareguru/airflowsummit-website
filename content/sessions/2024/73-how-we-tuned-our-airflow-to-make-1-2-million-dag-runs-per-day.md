@@ -12,6 +12,8 @@ timeslot: 73
 gridarea: "16/2/17/3"
 images: 
  - /images/sessions/2024/tuned-airflow.jpg
+slides: 2024/62-how-we-tuned-our-airflow-to-make-1-2-million-dag-runs-per-day.pdf
+video: 
 ---
 
 As we deployed Airflow in our enterprise connected to various event sources to implement our data-driven pipelines we were faced with event storms a couple of times. As of such event storms happened often unplanned and with increased load waves we iteratively tuned the setup in multiple iterations. We were in panic and also needed to add some quick workarounds sometime.

@@ -12,6 +12,8 @@ timeslot: 108
 gridarea: "14/4/15/5"
 images: 
  - /images/sessions/2024/exploring-dag.jpg
+slides: 2024/98-Exploring-DAG-Design-Patterns-in-Apache-Airflow.pdf
+video:
 ---
 
 This talk delves into advanced Directed Acyclic Graph (DAG) design patterns that are pivotal for optimizing data pipeline management and boosting efficiency. We'll cover dynamic DAG generation, which allows for flexible, scalable workflow creation based on real-time data and configurations. Learn about task grouping and SubDAGs to enhance readability and maintainability of complex workflows. We'll also explore parameterized DAGs for injecting runtime parameters into tasks, enabling versatile and adaptable pipeline configurations. Additionally, the session will address branching and conditional execution to manage workflow paths dynamically based on data conditions or external triggers. Lastly, understand how to leverage parallelism and concurrency to maximize resource utilization and reduce execution times. This session is designed for intermediate to advanced users who are familiar with the basics of Airflow and looking to deepen their understanding of its more sophisticated capabilities.

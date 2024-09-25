@@ -14,6 +14,8 @@ gridarea: "5/4/6/5"
 
 images: 
  - /images/sessions/2024/behaviour-driven.jpg
+slides: 2024/44-Behaviour-Driven-Development-in-Airflow.pdf
+video: 
 ---
 
 Behaviour Driven Development can, in the simplest of terms, be described as Test Driven Development, only readable. It is of course more than that, but that is not the aim of this talk. This talk aims to show:

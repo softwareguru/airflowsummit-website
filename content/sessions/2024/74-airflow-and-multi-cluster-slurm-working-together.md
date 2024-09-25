@@ -12,6 +12,8 @@ timeslot: 74
 gridarea: "16/3/17/4"
 images: 
  - /images/sessions/2024/airflow-multi-cluster.jpg
+slides: 2024/65-Airflow-and-multi-cluster-Slurm-working-together.pdf
+video: 
 ---
 
 Meteosim provides environmental services, mainly based on weather and air quality intelligence, and helps customers make operational and tactical decisions and understand their companies' environmental impact. We introduced Airflow a couple of years ago to replace a huge Crontab file and we currently have around 7000 DAG Runs per day. 
