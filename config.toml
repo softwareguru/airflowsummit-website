@@ -49,30 +49,16 @@ speaker = "speakers"
     parent = "about-AS"
     weight = 4
 
-  [[menu.main]]
-    identifier = "program"
-    name = "PROGRAM"
-    url = "/program"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "schedule"
-    name = "Schedule"
-    url = "/program"
-    parent = "program"
-    weight = 1
-
-  [[menu.main]]
-    name = "Workshops"
-    url = "/sessions/2024/workshops"
-    weight = 2
-    parent = "program"
 
   [[menu.main]]
     name = "Speakers"
     URL = "/speakers"
     weight = 3
-    parent = "program"
+
+  [[menu.main]]
+    name = "Sessions"
+    URL = "/sessions/2024"
+    weight = 4
 
   [[menu.main]]
     name = "Venue"
@@ -113,12 +99,12 @@ text = "September 10-12, 2024. San Francisco, USA."
 # link = "https://sessionize.com/airflow-summit-2024/"
 
 [params.hero.cta2]
-text = "Get your ticket"
-link = "/tickets"
+text = "2024 Sessions"
+link = "/sessions/2024"
 
 # Navigation button
 [params.navigation_button]
-enable = true
+enable = false
 label = "Tickets"
 link = "/tickets"
 
