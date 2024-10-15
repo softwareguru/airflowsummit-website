@@ -12,6 +12,8 @@ timeslot: 5
 gridarea: "5/2/6/3"
 images: 
  - /images/sessions/2024/burns-mcdonnell.jpg
+slides: 2024/3-Airflow-at-Burns-&-McDonnell-Orchestration-from-0-to-100.pdf
+video: https://youtu.be/dg3aKHnm8oI
 ---
 
 As the largest employee-owned engineering and construction firm in the United States, Burns & McDonnell has a massive amount of data. Not only that, it’s hard to pinpoint which source system has the data we need. Our solution to this challenge is to build a unified information platform — a single source of truth where all of our data is searchable, trustworthy, and accessible to our employee-owners and the projects that need it.

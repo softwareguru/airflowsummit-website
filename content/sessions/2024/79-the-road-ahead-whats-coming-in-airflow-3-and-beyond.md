@@ -13,7 +13,7 @@ gridarea: "1/2/2/6"
 images: 
  - /images/sessions/2024/road-ahead.jpg
 slides: 2024/70-the-road-ahead-whats-coming-in-airflow-3-and-beyond.pdf
-video: 
+video: https://youtu.be/2g1nBbHgZbY
 ---
 
 Apache Airflow has emerged as the defacto standard for data orchestration. Over the last couple of years, Airflow has also seen increasing adoption for ML and AI use cases. It has been almost four years since the release of Airflow 2 and as a community we have agreed that it’s time for a major foundational release in the form of Airflow 3. 

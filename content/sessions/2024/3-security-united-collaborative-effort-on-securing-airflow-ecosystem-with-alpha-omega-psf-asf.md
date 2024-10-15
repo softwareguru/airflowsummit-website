@@ -11,6 +11,8 @@ track: Keynote
 day: 20241
 timeslot: 3
 gridarea: "3/2/4/6"
+slides:
+video: https://youtu.be/f6gfoVJXWEE
 ---
 
 Airflow's power comes from its vast ecosystem, but securing this intricate web requires a united front. This talk unveils a groundbreaking collaborative effort between the Python Software Foundation (PSF), the Apache Software Foundation (ASF), the Airflow Project Management Committee (PMC), and Alpha-Omega Fund - aimed at securing not only Airflow, but the whole ecosystem. We'll explore this new project dedicated to improving security across the Airflow landscape.

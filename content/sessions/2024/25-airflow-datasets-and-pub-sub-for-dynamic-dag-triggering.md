@@ -13,6 +13,8 @@ timeslot: 25
 gridarea: "10/5/11/6"
 images: 
  - /images/sessions/2024/datasets-pub-sub.jpg
+slides: 
+video: https://youtu.be/4EU7M_E5pMw
 ---
 
 Looking for a way to streamline your data workflows and master the art of orchestration? As we navigate the complexities of modern data engineering, Airflow’s dynamic workflow and complex data pipeline dependencies are starting to become more and more common nowadays. In order to empower data engineers to exploit Airflow as the main orchestrator, Airflow Datasets can be easily integrated in your data journey.

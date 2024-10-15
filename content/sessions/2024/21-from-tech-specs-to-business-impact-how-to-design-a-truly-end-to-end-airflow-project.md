@@ -12,6 +12,8 @@ timeslot: 21
 gridarea: "9/5/10/6"
 images: 
  - /images/sessions/2024/from-tech-specs.jpg
+slides: 2024/21-From-Tech-Specs-to-Business-Impact_-How-to-Design-A-Truly-End-to-End-Airflow-Project.pdf
+video: https://youtu.be/FS043ZLJyvU
 ---
 
 There are many Airflow tutorials. However, many don’t show the full process of sourcing, transforming, testing, alerting, documenting, and finally supplying data. This talk with go over how to piece together an end-to-end Airflow project that transforms raw data to be consumable by the business. It will include how various technologies can all be orchestrated by Airflow to satisfy the needs of analysts, engineers, and business stakeholders. 

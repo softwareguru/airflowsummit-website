@@ -13,9 +13,10 @@ track: Airflow & ...
 day: 20242
 timeslot: 64
 gridarea: "12/3/13/4"
-
 images: 
  - /images/sessions/2024/building-awareness.jpg
+slides: 2024/56-Building-in-Resource-Awareness-and-Event-Dependency-into-Airflow.pdf
+video:
 ---
 
 In this talk, we will explore how adding custom dependency checks into Airflow’s scheduling system can elevate Airflow’s performance. 

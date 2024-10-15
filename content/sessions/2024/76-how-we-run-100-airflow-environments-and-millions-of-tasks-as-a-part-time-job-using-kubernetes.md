@@ -12,6 +12,8 @@ timeslot: 76
 gridarea: "17/2/18/3"
 images: 
  - /images/sessions/2024/100-airflow-environments.jpg
+slides: 2024/63-How-we-run-100-Airflow-environments-and-millions-of-Tasks-as-a-Part-Time-job-using-Kubernetes.pdf
+video: 
 ---
 
 Balyasny Asset Management (BAM) is a diversified global investment firm founded in 2001 with over $20 billion in assets under management. We have more than 100 teams who run a variety of workloads that benefit from Orchestration and parallelization.

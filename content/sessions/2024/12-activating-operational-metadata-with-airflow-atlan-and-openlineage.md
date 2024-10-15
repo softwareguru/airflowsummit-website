@@ -15,7 +15,7 @@ gridarea: "6/5/7/6"
 images: 
  - /images/sessions/2024/activating-operational.jpg
 slides: 2024/10-Activating-operational-metadata-with-Airflow-Atlan-and-OpenLineage.pdf
-video: 
+video: https://youtu.be/z_j3UFIyj9o
 ---
 
 OpenLineage is an open standard for lineage data collection, integrated into the Airflow codebase, facilitating lineage collection across providers like Google, Amazon, and more.

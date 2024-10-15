@@ -11,9 +11,10 @@ track: Best practices
 day: 20241
 timeslot: 8
 gridarea: "5/5/6/6"
-
 images: 
  - /images/sessions/2024/event-driven.jpg
+slides: 
+video: https://youtu.be/bk9NStntfi0
 ---
 
 Airflow is all about schedules…we use CRON strings and Timetable to define schedules, and there’s an Airflow Scheduler component that manages those timetables, and a lot more, to ensure that DAGs and tasks are addressed based on those schedules.

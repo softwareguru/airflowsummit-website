@@ -13,6 +13,8 @@ timeslot: 96
 gridarea: "8/4/10/5"
 images: 
  - /images/sessions/2024/data-centric.jpg
+slides: 2024/84-Seeing-Clearly-with-Airflow_-The-Shift-to-Data-Aware-Orchestration.pdf
+video: 
 ---
 
 As Apache Airflow evolves, a key shift is emerging: the move from task-centric to data-aware orchestration. Traditionally, Airflow has focused on managing tasks efficiently, with limited visibility into the data those tasks manipulate. However, the rise of data-centric workflows demands a new approach—one that puts data at the forefront.

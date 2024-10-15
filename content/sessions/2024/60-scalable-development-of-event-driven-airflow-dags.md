@@ -13,6 +13,8 @@ timeslot: 60
 gridarea: "11/2/12/3"
 images: 
  - /images/sessions/2024/scalable-development.jpg
+slides: 2024/52-Scalable-Development-of-Event-Driven-Airflow-DAGs.pdf
+video: 
 ---
 
 This usecase shows how we deal with data of different varieties from different sources. Each source sends data in different layout, timings, structures, location patterns sizes. The goal is to process the files within SLA and send them out. This a complex multi step processing pipeline that involves multiple spark jobs, api based integrations with microservices, resolving unique ids, deduplication and filtering. Note that this is an event driven system, but not a streaming data system. The files are of gigabyte scale, and each day the data being processed is of terabyte scale.
