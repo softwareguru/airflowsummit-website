@@ -11,9 +11,10 @@ track: Airflow & ...
 day: 20241
 timeslot: 6
 gridarea: "5/3/6/4"
-
 images: 
  - /images/sessions/2024/building-cosmos.jpg
+slides: 
+video: https://youtu.be/si6UCKpurmM
 ---
 
 Balyasny Asset Management (BAM) is a diversified global investment firm founded in 2001 with over $20 billion in assets under management. 

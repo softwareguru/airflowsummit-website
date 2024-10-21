@@ -12,6 +12,8 @@ timeslot: 20
 gridarea: "9/4/10/5"
 images: 
  - /images/sessions/2024/managing-version-upgrades.jpg
+slides: 
+video: https://youtu.be/8aNHrFofT7I
 ---
 
 Airflow version upgrades can be challenging. Maybe you upgrade and your dags fail to parse (that’s an easy fix). Or maybe you upgrade and everything looks fine, but when your dag runs, you can no longer connect to mysql because the TLS version changed. In this talk I will provide concrete strategies that users can put into practice to make version upgrades safer and less painful. Topics may include:

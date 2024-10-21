@@ -11,7 +11,8 @@ track: Sponsored
 day: 20243
 timeslot: 85
 gridarea: "4/5/5/6"
-
+slides: 
+video: https://youtu.be/eGa8gtWMC1s
 ---
 
 In the realm of data engineering, machine learning pipelines and using cloud and web services there is a huge demand for orchestration technologies.

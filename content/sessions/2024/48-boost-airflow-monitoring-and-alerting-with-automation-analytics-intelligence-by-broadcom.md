@@ -4,16 +4,16 @@ slug: boost-airflow-monitoring-and-alerting-with-automation-analytics-intelligen
 speakers:
  - Jennifer Chisik
 track: Sponsored
-
 time_start: 2024-09-11 11:00:00
 time_end: 2024-09-11 11:25:00
 room: Georgian
 day: 20242
 timeslot: 48
 gridarea: "5/5/6/6"
-
 images: 
  - /images/sessions/2024/broadcom.jpg
+slides: 
+video: https://youtu.be/ep7h462vLAo
 ---
 
 This talk is presented by Broadcom. 

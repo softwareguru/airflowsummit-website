@@ -10,7 +10,8 @@ track: Keynote
 day: 20242
 timeslot: 40
 gridarea: "1/2/2/6"
-
+slides:
+video: https://youtu.be/7w1YaHDM31s
 ---
 
 Artificial Intelligence is reshaping the landscape of software development. In this talk, we'll explore the latest AI breakthroughs improving LLM capabilities for software development use cases.

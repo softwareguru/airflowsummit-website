@@ -10,9 +10,10 @@ track: Sponsored
 day: 20242
 timeslot: 53
 gridarea: "7/5/8/6"
-
 images: 
  - /images/sessions/2024/bmc-basil.jpg
+slides: 
+video: https://youtu.be/Yz1BHGhqG1Y
 ---
 
 #### This talk is presented by BMC Software

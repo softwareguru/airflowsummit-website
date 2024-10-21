@@ -12,6 +12,8 @@ timeslot: 16
 gridarea: "8/4/9/5"
 images: 
  - /images/sessions/2024/dbt-core.jpg
+slides: 
+video: https://youtu.be/d0wXnimEMUk
 ---
 
 dbt became the de facto for data teams building reliable and trustworthy SQL code leveraging a modern data stack architecture. The dbt logic needs to be orchestrated, and jobs scheduled to meet business expectations. That's where Airflow comes into play.

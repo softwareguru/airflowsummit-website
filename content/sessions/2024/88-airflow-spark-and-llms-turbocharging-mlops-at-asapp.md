@@ -13,7 +13,7 @@ gridarea: "5/5/6/6"
 images: 
  - /images/sessions/2024/airflow-spark-llm.jpg
 slides: 2024/86-airflow-spark-and-llms-turbocharging-mlops-at-asapp.pdf
-video: 
+video: https://youtu.be/kGe4-Z24a7w
 ---
 
 This talk will explore ASAPP's use of Apache Airflow to streamline and optimize our machine learning operations (MLOps). Key highlights include:

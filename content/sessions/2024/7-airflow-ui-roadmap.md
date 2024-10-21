@@ -12,6 +12,8 @@ timeslot: 7
 gridarea: "5/4/6/5"
 images: 
  - /images/sessions/2024/airflow-ui-roadmap.jpg
+slides: 
+video: https://youtu.be/nq_FiCWuLfM
 ---
 
 Soon we will finally switch to a 100% React UI with a full separation between the API and UI as well. While we are doing such a big change, let's also take the opportunity to imagine whole new interfaces vs just simply modernizing the existing views. How can we use design to help you better understand what is going on with your DAG?

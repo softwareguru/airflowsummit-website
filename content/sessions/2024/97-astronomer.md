@@ -11,10 +11,10 @@ track: Sponsored
 day: 20243
 timeslot: 97
 gridarea: "8/5/9/6"
-
 images: 
  - /images/sessions/2024/astronomer.jpg
-
+slides: 
+video: https://youtu.be/kAWJwuE45-E
 ---
 
 Data engineers have shifted from delivering data for internal analytics applications to customer-facing data products. And with that shift comes a whole new level of operational rigor necessary to instill trust and confidence in the data. How do you hold data pipelines to the same standards as traditional software applications? Can you apply principles learned from the field of SRE to the world of data?
