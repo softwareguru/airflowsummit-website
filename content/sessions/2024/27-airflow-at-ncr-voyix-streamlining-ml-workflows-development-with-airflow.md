@@ -12,6 +12,7 @@ timeslot: 27
 gridarea: "12/2/13/3"
 images: 
  - /images/sessions/2024/ncr.jpg
+video: https://youtu.be/3lQgW0eOAZM
 ---
 
 NCR Voyix Retail Analytics AI team offers ML products for retailers while embracing Airflow as its MLOps Platform. As the team is small and there have been twice as many data scientists as engineers, we encountered challenges in making Airflow accessible to the scientists:

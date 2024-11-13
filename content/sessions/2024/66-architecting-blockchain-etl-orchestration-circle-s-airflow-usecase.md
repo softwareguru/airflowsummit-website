@@ -12,6 +12,8 @@ timeslot: 66
 gridarea: "13/2/14/3"
 images: 
  - /images/sessions/2024/architecting-blockchain.jpg
+slides: 2024/54-Architecting-Blockchain-ETL-Orchestration_-Circle's-Airflow-Usecase.pdf
+video: https://youtu.be/TYRp6FlGYJc
 ---
 
 This talk focuses on exploring the implementation of Apache Airflow for Blockchain ETL orchestration, indexing, and the adoption of GitOps at Circle. IT will cover CICD tips, architectural choices for managing Blockchain data at scale, engineering practices to enable data scientists and some learnings from production.

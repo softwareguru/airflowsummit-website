@@ -12,7 +12,7 @@ timeslot: 16
 gridarea: "8/4/9/5"
 images: 
  - /images/sessions/2024/dbt-core.jpg
-slides: 
+slides: 2024/17-dbt-Core-&-Airflow-101_-Building-Data-Pipelines-Demystified.pdf
 video: https://youtu.be/d0wXnimEMUk
 ---
 

@@ -12,6 +12,8 @@ timeslot: 72
 gridarea: "15/4/16/5"
 images: 
  - /images/sessions/2024/open-lineage.jpg
+slides: 2024/67-OpenLineage_-From-Operators-to-Hooks.pdf
+video: https://youtu.be/LoyIvKWXGuM
 ---
 
 "More data lineage" has been second most popular feature request in Airflow Survey 2023. However, despite the integration of OpenLineage in Airflow 2.7 through AIP-53, the most popular Operator in Airflow - PythonOperator - isn't covered by lineage support.

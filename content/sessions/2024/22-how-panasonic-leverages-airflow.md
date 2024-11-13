@@ -12,6 +12,8 @@ timeslot: 22
 gridarea: "10/2/11/3"
 images: 
  - /images/sessions/2024/panasonic.jpg
+slides:
+video: https://youtu.be/H8HLeKiLxxk
 ---
 
 Using various operators to perform daily routines.

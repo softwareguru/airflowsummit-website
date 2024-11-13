@@ -12,7 +12,7 @@ timeslot: 34
 gridarea: "13/5/14/6"
 images: 
  - /images/sessions/2024/automated-testing.jpg
-slides:
+slides: 2024/33-Automated-Testing-and-Deployment-of-DAGs.pdf
 video: https://youtu.be/Me94KjSK8bw
 ---
 

@@ -13,7 +13,7 @@ gridarea: "9/3/10/4"
 images: 
  - /images/sessions/2024/from-oops.jpg
 slides: 2024/15-From-Oops-to-Ops.pdf
-video: 
+video: https://youtu.be/XokcRts8XTY
 ---
 
 This session reveals an experimental venture integrating OpenAI's AI technologies with Airflow, aimed at advancing error diagnosis.

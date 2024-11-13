@@ -11,7 +11,7 @@ track: Keynote
 day: 20241
 timeslot: 3
 gridarea: "3/2/4/6"
-slides:
+slides: 2024/2-Security-United_-collaborative-effort-on-securing-Airflow-ecosystem-with-Alpha-Omega,-PSF-&-ASF.pdf
 video: https://youtu.be/f6gfoVJXWEE
 ---
 

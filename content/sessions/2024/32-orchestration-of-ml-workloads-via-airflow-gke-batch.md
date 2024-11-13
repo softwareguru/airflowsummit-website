@@ -13,6 +13,7 @@ timeslot: 32
 gridarea: "13/3/14/4"
 images: 
  - /images/sessions/2024/orchestration-ml-gke.jpg
+video: https://youtu.be/VI_aRVBiDg8
 ---
 
 During this talk we are going to given an overview of different orchestration approaches (Kubeflow, Ray, Airflow, etc.) when running ML workloads on Kubernetes and specifically we will focus on how to use Kubernetes Batch API and Kubernetes Operators to run complex ML workloads.

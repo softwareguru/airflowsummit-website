@@ -10,7 +10,8 @@ track: Use cases
 day: 20241
 timeslot: 35
 gridarea: "14/2/15/3"
-
+slides: 2024/25-Streamlining-DAG-Creation-with-YAML-in-Large-Organizations.pdf
+video: https://youtu.be/4UO_1cKpqsc
 ---
 
 As organizations grow, the task of creating and managing Airflow DAGs efficiently becomes a challenge.

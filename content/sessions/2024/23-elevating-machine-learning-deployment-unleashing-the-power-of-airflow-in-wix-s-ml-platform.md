@@ -12,6 +12,7 @@ timeslot: 23
 gridarea: "10/3/11/4"
 images: 
  - /images/sessions/2024/elevating-machine.jpg
+video: https://youtu.be/-mbqXAF_4Ro
 ---
 
 In his presentation, Elad will provide a novel take on Airflow, highlighting its versatility beyond conventional use for scheduled pipelines. He'll discuss its application as an on-demand tool for initiating and halting jobs, mainly in the Data Science fields, like dataset enrichment and batch prediction via API calls, complete with real-time status tracking and alerts. The talk aims to encourage a fresh approach to Airflow utilization but will also delve into the technical aspects of implementing DAG triggering and cancellation logic.

@@ -14,6 +14,8 @@ timeslot: 94
 gridarea: "8/2/10/3"
 images: 
  - /images/sessions/2024/adaptive-memory-scaling.jpg
+slides: 2024/76-Adaptive-Memory-Scaling-for-Robust-Airflow-Pipelines.pdf
+video: https://youtu.be/1AZkGkgdUoQ
 ---
 
 At Vibrant Planet, we're on a mission to make the world's communities and ecosystems more resilient in the face of climate change. Our cloud-based platform is designed for collaborative scenario planning to tackle wildfires, climate threats, and ecosystem restoration on a massive scale. 
