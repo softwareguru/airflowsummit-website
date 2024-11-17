@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
+      <thead>
+        <tr>
+          <th data-field="title" data-sortable="true">Title</th>        
+
+        </tr>
+      </thead>
+        <tbody>
+              {{ range sort (sort .Data.Pages ".Params.rooms") ".Params.time_start" }}
+            <tr>
+                <td>{{ .Title }}</td>
+                <td>{{ .Params.room }}</td>
+                <td>{{ .Params.time_start }}</td>
+                <td>{{ .Content }}</td>
+          </tr>
+            {{ end }}
+        </tbody>
+    </table>
+
+</div>
+
+
+{{ end }}

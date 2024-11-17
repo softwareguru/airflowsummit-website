@@ -13,7 +13,7 @@ gridarea: "6/3/7/4"
 images: 
  - /images/sessions/2024/dagify.jpg
 slides: 2024/78-DAGify---Enterprise-Scheduler-Migration-Accelerator-for-Airflow.pdf
-video: 
+video: https://youtu.be/xxP4UknkmBo
 ---
 
 DAGify is a highly extensible, template driven, enterprise scheduler migration accelerator that helps organizations speed up their migration to Apache Airflow. While DAGify does not claim to migrate 100% of existing scheduler functionality it aims to heavily reduce the manual effort it takes for developers to convert their enterprise scheduler formats into Python Native Airflow DAGs.

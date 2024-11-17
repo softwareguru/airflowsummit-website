@@ -12,6 +12,7 @@ timeslot: 98
 gridarea: "11/2/12/3"
 images: 
  - /images/sessions/2024/empowering-business.jpg
+video: https://youtu.be/9pvKUwBb2hs 
 ---
 
 At Wix more often than not business analysts build workflows themselves to avoid data engineers being a bottleneck. But how do you enable them to create SQL ETLs starting when dependencies are ready and sending emails or refreshing Tableau reports when the work is done? One simple answer may be to use Airflow. The problem is every BA cannot be expected to know Python and Git so well that they will create thousands of DAGs easily.

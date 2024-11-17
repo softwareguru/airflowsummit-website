@@ -13,7 +13,7 @@ gridarea: "13/3/14/4"
 images: 
  - /images/sessions/2024/converting-legacy.jpg
 slides: 2024/57-Converting-Legacy-Schedulers-to-Airflow.pdf
-video: 
+video: https://youtu.be/bDP11dIaVl8
 ---
 
 Having helped many customers to migrate thousands of workloads, we will discuss the process of migrations, and how we built an open-source framework to migrate legacy scheduler workflows via standard sets of patterns to Airflow Projects.

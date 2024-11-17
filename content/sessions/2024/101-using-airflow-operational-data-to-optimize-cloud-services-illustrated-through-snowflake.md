@@ -12,6 +12,7 @@ timeslot: 101
 gridarea: "12/2/13/3"
 images: 
  - /images/sessions/2024/using-operational-data.jpg
+video: https://youtu.be/-jDfKP5fNxo 
 ---
 
 Cost management is a continuous challenge for our data teams at Astronomer. Understanding the expenses associated with running our workflows is not always straightforward, and identifying which process ran a query causing unexpected usage on a given day can be time-consuming.

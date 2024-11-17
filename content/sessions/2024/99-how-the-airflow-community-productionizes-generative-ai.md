@@ -12,6 +12,7 @@ timeslot: 99
 gridarea: "11/3/12/4"
 images: 
  - /images/sessions/2024/productionize-ai.jpg
+video:  https://youtu.be/B3aagFW517c
 ---
 
 Every data team out there is being asked from their business stakeholders about Generative AI. Taking LLM centric workloads to production is not a trivial task. At the foundational level, there are a set of challenges around data delivery, data quality, and data ingestion that mirror traditional data engineering problems. Once you’re past those, there’s a set of challenges related to the underlying use case you’re trying to solve. Thankfully, because of how Airflow was already being used at these companies for data engineering and MLOps use cases, it has become the defacto orchestration layer behind many GenAI use cases for startups and Fortune 500s. 

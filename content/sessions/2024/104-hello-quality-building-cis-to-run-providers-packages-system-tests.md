@@ -15,7 +15,7 @@ gridarea: "13/3/15/4"
 images: 
  - /images/sessions/2024/hello-quality.jpg
 slides: 2024/95-hello-quality.pdf
-video: 
+video: https://youtu.be/lWCp-r-bQEI
 ---
 
 Airflow operators are a core feature of Apache Airflow and it’s extremely important that we maintain high quality of operators, prevent regressions and on the other hand we help developers with automated tests results to double check if introduced changes don’t cause regressions or backward incompatible changes and we provide Airflow release managers with information whether a given version of a provider should be released or not yet.

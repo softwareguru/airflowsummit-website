@@ -16,7 +16,7 @@ gridarea: "6/4/8/5"
 images: 
  - /images/sessions/2024/a-new-dag-paradigm.jpg
 slides: 2024/45-A-New-DAG-Paradigm.pdf
-video: 
+video: https://youtu.be/1cqFkbKftzI
 ---
 
 Astronomer’s data team recently underwent a major shift in how we work with Airflow. We’ll deep dive into the challenges which prompted that change, how we addressed them and where we are now. 

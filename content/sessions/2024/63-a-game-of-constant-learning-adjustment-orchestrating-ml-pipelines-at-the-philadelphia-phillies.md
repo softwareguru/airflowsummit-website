@@ -13,6 +13,7 @@ timeslot: 63
 gridarea: "12/2/13/3"
 images: 
  - /images/sessions/2024/game-constant-learning.jpg
+video: https://youtu.be/TH0SSdAZGPg
 ---
 
 When developing Machine Learning (ML) models, the biggest challenges are often infrastructural. How do we deploy our model and expose an inference API? How can we retrain? Can we continuously evaluate performance and monitor model drift? 

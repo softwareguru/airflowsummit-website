@@ -13,9 +13,9 @@ gridarea: "15/3/16/4"
 images: 
  - /images/sessions/2024/profiling-tasks.jpg
 slides: 2024/64-Profiling-Airflow-tasks-with-Memray.pdf
-video: 
+video: https://youtu.be/QHLedv-j8Hc
 ---
 
 Profiling Airflow tasks can be difficult, specially in remote environments. In this talk I will demonstrate how we can leverage the capabilities of Airflow's plugin mechanism to selectively run Airflow tasks within the context of a profiler and with the help of operator links and custom views make the results available to the user.
  
- The content of this talk can provide inspiration on how Airflow may in the future allow the gathering of custom task metrics and make those metrics easily accessible.
+The content of this talk can provide inspiration on how Airflow may in the future allow the gathering of custom task metrics and make those metrics easily accessible.

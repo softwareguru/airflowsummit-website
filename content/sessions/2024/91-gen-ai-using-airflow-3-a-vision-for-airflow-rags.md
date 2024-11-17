@@ -14,7 +14,7 @@ gridarea: "6/4/8/5"
 images: 
  - /images/sessions/2024/genai-airflow-rags.jpg
 slides: 2024/83-Gen-AI-using-Airflow-3.pdf
-video: 
+video: https://youtu.be/0djdrF91n5s
 ---
 
 Gen AI has taken the computing world by storm. As Enterprises and Startups have started to experiment with LLM applications, it has become clear that providing the right context to these LLM applications is critical. 

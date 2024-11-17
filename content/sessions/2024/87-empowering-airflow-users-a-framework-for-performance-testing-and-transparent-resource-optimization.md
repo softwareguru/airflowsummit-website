@@ -13,7 +13,7 @@ gridarea: "5/4/6/5"
 images: 
  - /images/sessions/2024/empowering-airflow.jpg
 slides: 2024/82-empowering-airflow-users.pdf
-video: 
+video: https://youtu.be/QEMNhWKKPv8
 ---
 
 Apache Airflow is the backbone of countless data pipelines, but optimizing performance and resource utilization can be a challenge. This talk introduces a novel performance testing framework designed to measure, monitor, and improve the efficiency of Airflow deployments. I'll delve into the framework's modular architecture, showcasing how it can be tailored to various Airflow setups (Docker, Kubernetes, cloud providers). By measuring key metrics across schedulers, workers, triggers, and databases, this framework provides actionable insights to identify bottlenecks and compare performance across different versions or configurations.

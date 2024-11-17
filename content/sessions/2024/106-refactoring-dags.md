@@ -11,7 +11,7 @@ day: 20243
 timeslot: 106
 gridarea: "14/2/15/3"
 slides: 2024/92-refactoring-dags.pdf
-video: 
+video: https://youtu.be/W0YDfUAQNRU
 ---
 
 Feeling trapped in a maze of duplicate Airflow DAG code? We were too! That's why we embarked on a journey to build a centralized library, eliminating redundancy and unlocking delightful efficiency.
