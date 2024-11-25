@@ -12,8 +12,8 @@ timeslot: 86
 gridarea: "5/2/6/3"
 images: 
  - /images/sessions/2024/beyond-data.jpg
-slides: 2024/61-Unlocking-the-Power-of-AI-at-_-A-Behind-the-Scenes-Look-at-Mach1ML-and-Airflow.pdf
-video: https://youtu.be/s5Hxx5ux2rc
+slides: 
+video: https://youtu.be/zm9XfM3F0eg
 ---
 
 While Airflow is widely known for orchestrating and managing workflows, particularly in the context of data engineering, data science, ML (Machine Learning), and ETL (Extract, Transform, Load) processes, its flexibility and extensibility make it a highly versatile tool suitable for a variety of use cases beyond these domains. In fact, Cloudflare has publicly shared in the past an example on how Airflow was leveraged to build a system that automates datacenter expansions.
