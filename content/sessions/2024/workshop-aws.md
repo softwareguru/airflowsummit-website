@@ -15,7 +15,7 @@ layout: single-workshop
 luma_id: evt-EzNwaoXNZCyrw4U
 images:
  - /images/sessions/2024/workshop-aws.jpg 
-
+draft: true
 ---
 
 In this workshop you will learn how you can utilize Airflow to build ML workflows/pipelines. You will create and orchestrate tasks such as data transformation, model training, testing, and evaluation using different analytic and AI/ML services.

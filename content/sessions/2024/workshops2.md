@@ -10,7 +10,7 @@ day: 20243
 timeslot: 97
 gridarea: "11/5/16/6"
 summary: "We will have 3 simultaneous hands-on workshops. Follow the link for details and to sign up."
-
+draft: true
 ---
 
 ### We will be offering hands-on workshops so you can get practical experience with Airflow tools and managed offerings.

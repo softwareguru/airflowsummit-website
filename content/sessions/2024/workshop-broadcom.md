@@ -13,6 +13,7 @@ list_order: 3
 day: "20242"
 layout: single-workshop
 luma_id: evt-h0SGpQyhafvBKWc
+draft: true
 ---
 
 In this workshop we will discuss how easy it is to integrate Automation Analytics & Intelligence (AAI) and Airflow, including details on the architecture and implementation strategies.

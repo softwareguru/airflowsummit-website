@@ -14,6 +14,7 @@ images:
  - /images/sessions/2024/workshop-bmc.jpg 
 layout: single-workshop
 luma_id: evt-uZLxnKjB6wmKLrj
+draft: true
 ---
 
 As data applications like AI/ML/Analytics go mainstream, they frequently rely on data from or push data pipeline results into Supply Chain, Billing, and similar business applications. Join this workshop to orchestrate end-to-end business services that include data pipelines managed by Airflow and applications orchestrated by Control-M.

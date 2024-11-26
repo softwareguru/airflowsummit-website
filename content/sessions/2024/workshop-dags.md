@@ -13,6 +13,7 @@ list_order: 4
 day: "20242"
 layout: single-workshop
 luma_id: evt-jlcAMIzMHB3EKqr
+draft: true
 ---
 
 Because Airflow is 100% code, knowing the basics of Python is all it takes to get started writing DAGs. However, writing DAGs that are efficient, secure, and scalable requires some Airflow-specific finesse. It’s no surprise that one of the most requested topics in this year’s Airflow survey was more Airflow best practices content. We hear you, and we’ve got you covered with this hands-on workshop on DAG writing best practices.
