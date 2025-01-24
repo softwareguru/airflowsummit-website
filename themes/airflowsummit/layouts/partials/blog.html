@@ -17,9 +17,9 @@
               <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid" style="width: 600px;">
             </a>
             
-            <div class="p-4 text-center">
+            <!--<div class="p-4 text-center">
               <h4 class="mt-2 mb-3"><a href="{{ .Params.redirection }}">{{ .Title | markdownify }}</a></h4>
-            </div>
+            </div>-->
           </div>
         </div>
         {{ else }}

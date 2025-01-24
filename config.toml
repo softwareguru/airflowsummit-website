@@ -70,6 +70,7 @@ speaker = "speakers"
 
   [[menu.main]]
     name = "Sponsor"
+    hrefTargetBlank = true
     URL = "/docs/airflowsummit2025-prospectus-v1.pdf"
     weight = 3
 
@@ -110,12 +111,12 @@ google_analytics_4 = "G-DQ3SEJY0LP"
 google_ads = "AW-10857785820"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/as2024-card.png"]
-start_date = "2024-09-10T09:00-05:00"
-end_date = "2024-09-12T17:00-05:00" 
+images = ["/images/card-2025.png"]
+start_date = "2025-10-07T09:00-05:00"
+end_date = "2025-10-09T17:00-05:00" 
 
 [params.hero]
-text = "September 10-12, 2024. San Francisco, USA."
+text = "October 7 - 9, 2025."
 
 # [params.hero.cta1]
 # text = "Submit to our CFP"

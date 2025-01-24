@@ -6,7 +6,7 @@ aliases: /diversity-and-inclusion
 draft: false
 ---
 
-<h1 class="text-center">Celebrating 10 years of Airflow with D&I</h1>
+<h1 class="text-center">Scaling to the next data era of Airflow 3.0 with D&I</h1>
 
 <br>
 
