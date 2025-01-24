@@ -10,7 +10,7 @@ We will meet on October 7-9th, 2025 at The Hyatt Regency Seattle, situated in th
 
 ### Do I need a visa to travel to USA?
 
-Depending on your country of origin you may need a visa to enter the United States of America. Please consider that if you need one, it is time to start the process so you don’t miss this event, let us know if you need our support with an invitation letter once you have bought your ticket.
+Depending on your country of origin you may need a [visa](/visa-letter-request) to enter the United States of America. Please consider that if you need one, it is time to start the process so you don’t miss this event, let us know if you need our support with an invitation letter once you have bought your ticket.
 
 ### Can I get a refund for my ticket if I don't get my visa approved?
 

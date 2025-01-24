@@ -1,10 +1,10 @@
 section.hero-2025 { 
-  height: 100vh;
+  height: 90vh;
   display: grid;
   background-image: url(/images/hero-2025.png );
   background-size: cover;
   background-position: center;
-  margin-top: -130px;
+  margin-top: -150px;
 
   
   @media (max-width:640px) {
@@ -30,11 +30,11 @@ section.hero-2025 {
   @media (max-width:992px) {
     text-align: center;
     font-size: 3.5em;
-    margin-top: 150px;
+    margin-top: 110px;
   }  
 
   @media (max-width:335px) {
-    margin-top: 60px;
+    margin-top: 140px;
     font-size: 2em;
   }
   }
@@ -45,7 +45,7 @@ section.hero-2025 {
     align-content: center;
 
     @media (max-width:992px) {
-      margin-top: 20px;
+      margin-top: 0px;
       width: 250px;
     }  
   
@@ -59,12 +59,12 @@ section.hero-2025 {
   .hero-titles .date{
     font-size: 1.5em;
     text-align: left;
-    margin-top: 50px;
+    margin-top: 10px;
 
     @media (max-width:992px) {
       text-align: center;
       font-size: 1em;
-      margin-top: 20px;
+      margin-top: 10px;
     }  
   
     @media (max-height:500px) {
@@ -75,7 +75,7 @@ section.hero-2025 {
   .hero-titles .city{
     font-size: 1.5em;
     text-align: left;
-    margin-top: 40px;
+    margin-top: 20px;
     background-color: green;
     border-radius: 15px;
     padding: 7px;
@@ -83,7 +83,7 @@ section.hero-2025 {
     @media (max-width:992px) {
       text-align: center;
       font-size: 1em;
-      margin-top: 20px;
+      margin-top: 10px;
     }  
   
     @media (max-height:500px) {
