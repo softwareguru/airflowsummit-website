@@ -23,22 +23,34 @@ speaker = "speakers"
 [menu]
 
   [[menu.main]]
+    name = "ABOUT"
+    URL = "/about"
+    weight = 1
+
+  [[menu.main]]
   identifier = "about-AS"
-  name = "ABOUT"
-  URL = "/about"
-  weight = 1
+  name = "ATTEND"
+  URL = "/attend"
+  weight = 2
 
   [[menu.main]]
     identifier = "scholarships"
-    name = "About Airflow Summit"
-    url = "/about"
+    name = "Venue + Travel"
+    url = "/venue"
     parent = "about-AS"
     weight = 2
 
   [[menu.main]]
+    identifier = "scholarships1"
+    name = "Convince your boss"
+    url = "/convince-your-boss"
+    parent = "about-AS"
+    weight = 3
+
+    [[menu.main]]
     identifier = "scholarships2"
-    name = "Scholarships"
-    url = "/blog/scholarship"
+    name = "Visa letter request"
+    url = "/visa-letter-request"
     parent = "about-AS"
     weight = 3
 
@@ -49,31 +61,42 @@ speaker = "speakers"
     parent = "about-AS"
     weight = 4
 
+    [[menu.main]]
+    identifier = "scholarships3"
+    name = "Code of conduct"
+    url = "/coc"
+    parent = "about-AS"
+    weight = 4
+
+  [[menu.main]]
+    name = "Sponsors"
+    URL = "/docs/airflowsummit2025-prospectus-v1.pdf"
+    weight = 3
 
   [[menu.main]]
     name = "Speakers"
-    URL = "/speakers"
-    weight = 3
+    URL = "/speakers/archive"
+    weight = 4
 
   [[menu.main]]
     name = "Sessions"
     URL = "/sessions/2024"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Venue"
     URL = "/venue"
-    weight = 5
-
-  [[menu.main]]
-    name = "Jobs"
-    URL = "/jobs"
     weight = 6
+
+  #[[menu.main]]
+  #  name = "Jobs"
+  #  URL = "/jobs"
+  #  weight = 7
 
   [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 7
+  weight = 8
 
 
 # Everything below this are Site Params
@@ -133,7 +156,7 @@ link = "/tickets"
 
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/AirflowSummit2024-Prospectus-v1_5.pdf"
+    url = "/docs/airflowsummit2025-prospectus-v1.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Session archive"
