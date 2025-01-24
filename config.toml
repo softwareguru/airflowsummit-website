@@ -69,7 +69,7 @@ speaker = "speakers"
     weight = 4
 
   [[menu.main]]
-    name = "Sponsors"
+    name = "Sponsor"
     URL = "/docs/airflowsummit2025-prospectus-v1.pdf"
     weight = 3
 
@@ -83,10 +83,10 @@ speaker = "speakers"
     URL = "/sessions/2024"
     weight = 5
 
-  [[menu.main]]
-    name = "Venue"
-    URL = "/venue"
-    weight = 6
+  #[[menu.main]]
+  #  name = "Venue"
+  #  URL = "/venue"
+  #  weight = 6
 
   #[[menu.main]]
   #  name = "Jobs"
