@@ -12,5 +12,5 @@ event_info:
     - number : "+500"
       label : "In person"
 
-    - number : "+800"
-      label : "Online"
+    - number : "+100"
+      label : "Sessions"
