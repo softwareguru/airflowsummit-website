@@ -1,6 +1,6 @@
 ---
 title: "2024-recordings!"
-date: 2025-01-22T10:00:00
+date: 2025-01-20T10:00:00
 description: ""
 summary: ""
 # post thumb

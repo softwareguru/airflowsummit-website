@@ -9,7 +9,7 @@
       </div>
     </div>
     <div class="row">
-      {{ range first 2 (where .Site.RegularPages "Type" "blog" )}}
+      {{ range first 1 (where .Site.RegularPages "Type" "blog" )}}
       {{ if .Params.redirection }}
       <div class="col-lg-4 col-md-6 mx-auto d-flex">
           <div class="blog-item card border-0 mb-5 mb-lg-0">
