@@ -12,7 +12,7 @@ draft: false
 
 Dear [Boss's Name],
 
-I hope this message finds you well. I would like to take this opportunity to request your support in attending the Airflow Summit 2025, which will take place from 7-9th in Seattle. This event is one of the most significant conferences dedicated to Apache Airflow, a crucial tool in our workflow and data strategy.
+I hope this message finds you well. I would like to take this opportunity to request your support in attending the Airflow Summit 2025, which will take place from October 7-9th in Seattle. This event is one of the most significant conferences dedicated to Apache Airflow, a crucial tool in our workflow and data strategy.
 
 Airflow Summit 2025 is a global conference that brings together experts, developers, and users of Apache Airflow from around the world to scale to the next data era with Airflow 3.0. Here are some key points on how attending this event could greatly benefit our company:
 
