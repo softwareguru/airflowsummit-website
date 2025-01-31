@@ -71,7 +71,7 @@ speaker = "speakers"
   [[menu.main]]
     name = "Sponsor"
     hrefTargetBlank = true
-    URL = "/docs/airflowsummit2025-prospectus-v1.pdf"
+    URL = "/docs/airflowsummit2025-prospectus-v1.1.pdf"
     weight = 3
 
   [[menu.main]]
