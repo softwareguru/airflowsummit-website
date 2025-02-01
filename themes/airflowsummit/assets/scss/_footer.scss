@@ -50,20 +50,20 @@ footer {
 	}
 }
 
-.footer-links ul {
-	list-style-type: none;
-}
-
-.footer-links ul li {
-	margin-bottom: 4px;
-}
-
 footer a {
-	color: $black-lighter;
+	color: $black !important;
+
+	&:hover {
+		color: $white-2025 !important;
+	}
+	
 }
 
-footer a:hover {
-	color: $orange;
+.footer-section a{
+	color: $blue !important;
+	&:hover{
+		color: $blue-light-2025 !important;
+	}
 }
 
 a.footer-section__media-section--link i {

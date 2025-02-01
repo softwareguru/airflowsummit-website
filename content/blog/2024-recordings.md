@@ -1,5 +1,5 @@
 ---
-title: "2024-recordings!"
+title: "2024 Recordings!"
 date: 2025-01-20T10:00:00
 description: ""
 summary: ""

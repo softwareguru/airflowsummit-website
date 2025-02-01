@@ -6,11 +6,14 @@ event_info:
   #cta_text: "Tickets available now!"
   #cta_link: "/tickets"
   features: 
-    - number : "3"
-      label : "Days"
+    - number : "3 days"
+      content : "Get ready to step into the next era of data with Airflow 3.0! Over the course of three days, enjoy a full agenda of meetings, presentations, and hands-on workshops. "
+      icon: bi-file-earmark
 
-    - number : "+500"
-      label : "In person"
+    - number : "+500 In Person"
+      content : "Connect with top industry professionals and immerse yourself in the Apache Airflow community. Don’t miss this unique chance!"
+      icon: bi-broadcast
 
-    - number : "+100"
-      label : "Sessions"
+    - number : "+100 Sessions"
+      content : "Explore over 100 captivating sessions hosted by industry experts—your ultimate source of knowledge and inspiration!"
+      icon: bi-clipboard-check

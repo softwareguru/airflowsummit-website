@@ -1,39 +1,56 @@
+<section class="blog-news-section mb-4">
 
-<section class="section blog">
-  <div class="container">
-    <div class="row section-heading">
-      <div class="col-md-8 ">
-        <div class="heading">
-          <h2>Latest News</h2>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      {{ range first 3 (where .Site.RegularPages "Type" "blog" )}}
-      {{ if .Params.redirection }}
-      <div class="col-lg-4 col-md-6 mx-auto d-flex">
-          <div class="blog-item card border-0 mb-5 mb-lg-0">
-            <a href="{{ .Params.redirection }}" target="_blank">
-              <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid" style="width: 600px;">
-            </a>
-            
-            <!--<div class="p-4 text-center">
-              <h4 class="mt-2 mb-3"><a href="{{ .Params.redirection }}">{{ .Title | markdownify }}</a></h4>
-            </div>-->
+  <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" navigation="true" space-between="30"
+    centered-slides="true" autoplay-delay="4500" autoplay-disable-on-interaction="false" loop="true">
+
+    {{ range first 3 (where .Site.RegularPages "Type" "blog" )}}
+    
+    <swiper-slide>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-5 col-md-6 mt-4">
+            <p class="news-sub">WHAT'S NEW</p>
+            <p class="latest-news-title">Latest news:</p>
+            <p class="news-title">{{ .Title }}</p>
+            <p class="news-description mt-4 mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum ut
+              dolore fugit quis hic debitis?</p>
+
+              {{ with .Params.redirection }}
+              <a href="{{ . }}" class="text-decoration-none news-button-item ">
+                <button class="btn my-3 btn-rounded news-button">READ MORE</button>
+              </a>
+              {{ end }}
+              
+              {{ with .Params.link}}
+              <a href="{{ . }}" class="text-decoration-none news-button-item ">
+                <button class="btn my-3 btn-rounded news-button">READ MORE</button>
+              </a>
+              {{ end }}
+
+          </div>
+          <div class="col-lg-7 col-md-6">
+            <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid venue-img">
           </div>
         </div>
-        {{ else }}
-        <div class="col-lg-4 col-md-6">
-          <div class="blog-item card border-0 mb-5 mb-lg-0">
-            <a href="{{ .Permalink }}">
-              <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid" style="width: 600px;">
-            </a>
-            
-          </div>
-        </div>
-        {{ end }}
-        {{ end }}
       </div>
-    </div>
+    </swiper-slide>
+    {{ end }}
+    
+  </swiper-container>
+
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-element-bundle.min.js"></script>
+
 </section>
-  
+
+  <!-- Initialize Swiper -->
+  <script>
+    const progressCircle = document.querySelector(".autoplay-progress svg");
+    const progressContent = document.querySelector(".autoplay-progress span");
+
+    const swiperEl = document.querySelector("swiper-container");
+    swiperEl.addEventListener("autoplaytimeleft", (e) => {
+      const [swiper, time, progress] = e.detail;
+      progressCircle.style.setProperty("--progress", 1 - progress);
+      progressContent.textContent = `${Math.ceil(time / 1000)}s`;
+    });
+  </script>

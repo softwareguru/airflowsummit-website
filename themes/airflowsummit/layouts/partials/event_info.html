@@ -1,25 +1,29 @@
 {{ $data := index .Site.Data }}
 
 {{ with $data.homepage.event_info }}
-<section class="section event-info">
-  <a id="event-info"></a>
+
+<section class="event-info-section mt-4">
   <div class="container">
-    <div class="content">
-      <div>
-        <h2>{{ .title }}</h2>
-        <p>{{ .description }}</p>
-
-      </div>
-
-      <div class="statistics-block">
-        {{ range .features }}
-          <div class="item">
-            <div class="numbers">{{ .number }}</div>
-            <div class="label">{{ .label }}</div>
+    <div class="row row-cols-1 row-cols-lg-3 g-4">
+      {{ range .features}}
+      <div class="col mb-4">
+        <div class="card h-100 card-event-info">
+          <p class="event-info-icon">&nbsp;&nbsp;&nbsp;<i class="bi {{ .icon }}"></i></p>
+          <div class="card-body">
+            <h5 class="card-title event-info-title">{{ .number }}</h5>
+            <p class="card-text event-info-content mt-3">{{ .content }}</p>
           </div>
-        {{ end }}  
+        </div>
       </div>
-    </div>    
+      {{ end }}    
+    </div>
   </div>
+  <br>
 </section>
+
 {{ end }}
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+
+
+

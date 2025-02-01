@@ -1,70 +1,98 @@
 {{ $links := .Site.Params.links }}
 
-<footer>
-    <div class="container-fluid">
-        <div class="container py-5">
-            <div class="d-flex justify-content-between">
-                <div class="col-6 col-md-4 col-lg-3">
-                    <div class="mb-3"> <img src="/images/logo-h-2024.png" class="img-fluid" alt="Airflow Summit"></div>
-                    {{ with $links }}
-                        {{ with index . "media"}}
-                            <ul class="list-inline mb-0">
-                            {{ range . }}
-                            <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title aria-label="{{ .name }}" data-original-title="{{ .name }}">
-                                <a title="{{ .name}}" target="_blank" href="{{ .url }}">
-                                  <i class="{{ .icon }}" aria-hidden="true"></i>
-                                </a>
-                            </li>    
-                            {{ end }}
-                            </ul>
-                        {{ end }}
-                    {{ end }}
-                </div>    
-                <div class="col-md-6 text-end">
-                    <div class="footer-links">
-                    {{ with $links }}
-                        {{ with index . "footer"}}
-                        <ul>
-                            {{ range . }}
-                            <li><a href="{{ .url }}" {{ with .target }}target="{{ . }}"{{ end }}>
-                                {{ .name }}
-                            </a></li>
-                            {{ end }}
-                        </ul>    
-                        {{ end }}
-                    {{ end }}
-                    </div>
-                </div>
+
+<style>
+    .footer-section-container {
+        background-color: #2AABEE;
+        padding: 20px 0 1px 0;
+    }
+
+    .footer-section-container ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .footer-section-container a {
+        text-decoration: none;
+        line-height: 30px;
+
+    }
+</style>
+
+
+<footer class="footer-section-container">
+    <div class="container mt-4 mb-4">
+        <div class="row align-items-start">
+            <div class="col mb-4">
+                <h4>Platforms</h4>
+                <ul>
+                    <li><a href="#">Registration</a></li>
+                    <li><a href="/docs/airflowsummit2025-prospectus-v1.1.pdf" target="_blank">Become a sponsor</a></li>
+                    <li><a href="/venue/">Venue and travel </a></li>
+                    <li><a href="/diversity-&-inclusion/">Diversity & Inclusion</a></li>
+                    <li><a href="/coc/">Code of conduct </a></li>
+                    <li><a href="/faq/">FAQ</a></li>
+                </ul>
             </div>
-        </div>    
+            <div class="col mb-4">
+                <h4>Resources</h4>
+                <ul>
+                    <li><a href="/convince-your-boss/">Convince your boss</a></li>
+                    <li><a href="/visa-letter-request/">Visa letter request</a></li>
+                    <li><a href="/sessions/">Previous sessions</a></li>
+                    <li><a href="/speakers/archive">Previous speakers</a></li>
+                    <li><a href="#">Blog</a></li>
+                </ul>
+
+            </div>
+            <div class="col footer-links">
+                <h4>Contact & Support:</h4>
+                <ul>
+                    <li><a href="">Organizers </a></li>
+                    <li class="email">
+                       Should you have any questions or special requirements, please reach out to:  <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a>
+                    </li>
+                </ul>
+                {{ with $links }}
+                {{ with index . "media"}}
+                <ul class="list-inline mt-3">
+                    {{ range . }}
+                    <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title
+                        aria-label="{{ .name }}" data-original-title="{{ .name }}">
+                        <a title="{{ .name}}" target="_blank" href="{{ .url }}">
+                            <i class="{{ .icon }}" aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+        <hr>
+        <div class="text-center">
+            <p><i class="bi bi-c-circle"></i>
+                </svg> Copywriting | All Rights Reserved | <a href="#">Terms of Use</a> | <a href="#">Privacy</a></p>
+        </div>
     </div>
+
+    
     <div class="footer-section footer-section__policies-section bg-dark">
-    <div class="container my-0 footer-section__policies-section--disclaimer">
-        <p>
-            Apache Airflow®, Apache, Airflow, the Airflow logo, and the Apache feather logo are either registered trademarks or trademarks of the <a href="https://www.apache.org/" target="_blank">Apache Software Foundation</a> in the United States and/or other countries, and are used with permission. The Apache Software Foundation has no affiliation with and does not endorse or review the materials provided at this event, which is managed by Software Guru.             
-        </p>
-        <!--<p>Photographs used in this website are derived versions from <a href="https://photos.apachecon.com/?/category/1" target="_blank">ApacheCon Photo Gallery</a> licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>-->
-    </div>    
+        <div class="container my-0 footer-section__policies-section--disclaimer">
+            <p>
+                Apache Airflow®, Apache, Airflow, the Airflow logo, and the Apache feather logo are either registered
+                trademarks or trademarks of the <a href="https://www.apache.org/" target="_blank">Apache Software
+                    Foundation</a> in the United States and/or other countries, and are used with permission. The Apache
+                Software Foundation has no affiliation with and does not endorse or review the materials provided at
+                this event, which is managed by Software Guru.
+            </p>
+            <!--<p>Photographs used in this website are derived versions from <a href="https://photos.apachecon.com/?/category/1" target="_blank">ApacheCon Photo Gallery</a> licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>-->
+        </div>
     </div>
 </footer>
 
-<script type="text/javascript">
-    _linkedin_partner_id = "5019004";
-    window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
-    window._linkedin_data_partner_ids.push(_linkedin_partner_id);
-    </script><script type="text/javascript">
-    (function(l) {
-    if (!l){window.lintrk = function(a,b){window.lintrk.q.push([a,b])};
-    window.lintrk.q=[]}
-    var s = document.getElementsByTagName("script")[0];
-    var b = document.createElement("script");
-    b.type = "text/javascript";b.async = true;
-    b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
-    s.parentNode.insertBefore(b, s);})(window.lintrk);
-    </script>
-    <noscript>
-    <img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=5019004&fmt=gif" />
-</noscript>
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
@@ -74,4 +102,3 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
-
