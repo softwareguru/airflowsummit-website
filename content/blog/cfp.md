@@ -2,6 +2,7 @@
 title: "CFP is open!"
 date: 2025-01-28T10:00:00
 description: "This year’s summit will bring exciting keynotes, in-depth technical content, use cases and hands-on workshops, with a big focus on Airflow 3. Join us!"
+summary: "This year’s summit will bring exciting keynotes, in-depth technical content, use cases and hands-on workshops, with a big focus on Airflow 3. Join us!"
 # post thumb
 images: ["images/blog/airflow-2025-cfp.png"]
 # author

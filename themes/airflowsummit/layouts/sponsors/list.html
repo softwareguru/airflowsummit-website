@@ -18,7 +18,7 @@
                 {{ range .sponsor }}
                 <div class="sponsor-item">
                     {{ if and (ne .link "") (ne .link "#") }}
-                    <a href="{{ .link }}"><img src="{{ .logo | absURL }}" alt="" class="img-fluid"></a>
+                    <a href="{{ .link }}"><img src="{{ .logo | relURL }}" alt="" class="img-fluid"></a>
                     {{ else }}
                     <img src="{{ .logo | absURL }}" alt="" class="img-fluid">
                     {{ end }}

@@ -1,5 +1,5 @@
 <article class="blog-article border border-secondary h-100">
-  {{ with .Params.image }}<img src="{{ . | absURL }}" alt="{{ .Title | markdownify }}" class="img-fluid">{{ end }}
+  {{ with .Params.image }}<img src="{{ . | relURL }}" alt="{{ .Title | markdownify }}" class="img-fluid">{{ end }}
   <div class="content py-5 px-4">
     <h4 class="my-3"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h4>
     <p><em>By {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em></p>

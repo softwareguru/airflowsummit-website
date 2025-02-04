@@ -35,7 +35,7 @@
 
         {{ if .Site.Params.navigation_button.enable }}
         <li class="nav-item d-lg-none">
-          <a id="nav-button" href="{{ .Site.Params.navigation_button.link | absURL }}" class="btn btn-menu text-white">{{
+          <a id="nav-button" href="{{ .Site.Params.navigation_button.link | relURL }}" class="btn btn-menu text-white">{{
             .Site.Params.navigation_button.label }}</a>
         </li>
         {{ end }}
@@ -44,7 +44,7 @@
     {{ if .Site.Params.navigation_button.enable }}
     <ul class="navbar-nav ms-auto align-items-center">
       <li class="nav-item d-none d-lg-block push-right">
-        <a id="nav-button" href="{{ .Site.Params.navigation_button.link | absURL }}" class="btn btn-menu btn-rounded text-uppercase">{{
+        <a id="nav-button" href="{{ .Site.Params.navigation_button.link | relURL }}" class="btn btn-menu btn-rounded text-uppercase">{{
       .Site.Params.navigation_button.label }}</a>
        </li>
     </ul>

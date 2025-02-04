@@ -18,7 +18,7 @@
       {{ range .pricing_table }}
       <div class="col-lg-4 col-md-6">
         <div class="package style-{{ .style }} bg-white mb-5 mb-lg-0">
-          <div class="price-header mb-4" style="background-image: url('{{ .bg_image | absURL }}');">
+          <div class="price-header mb-4" style="background-image: url('{{ .bg_image | relURL }}');">
             <i class="{{ .icon }}"></i>
             <h2 class="mt-4 text-white">{{ .price }}</h2>
           </div>
