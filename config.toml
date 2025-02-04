@@ -1,7 +1,7 @@
 
 baseURL = "https://airflowsummit.org/"
-title = "Airflow Summit"
-description = "Airflow summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
+title = "Airflow Summit 2025"
+description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 enableRobotsTXT = true
 RemovePathAccents = true
 DefaultContentLanguage = "en"
@@ -23,13 +23,13 @@ speaker = "speakers"
 [menu]
 
   [[menu.main]]
-    name = "ABOUT"
+    name = "About"
     URL = "/about"
     weight = 1
 
   [[menu.main]]
   identifier = "about-AS"
-  name = "ATTEND"
+  name = "Attend"
   URL = "/attend"
   weight = 2
 
@@ -47,7 +47,7 @@ speaker = "speakers"
     parent = "about-AS"
     weight = 3
 
-    [[menu.main]]
+  [[menu.main]]
     identifier = "scholarships2"
     name = "Visa letter request"
     url = "/visa-letter-request"
@@ -61,7 +61,7 @@ speaker = "speakers"
     parent = "about-AS"
     weight = 4
 
-    [[menu.main]]
+  [[menu.main]]
     identifier = "scholarships3"
     name = "Code of conduct"
     url = "/coc"
@@ -71,23 +71,38 @@ speaker = "speakers"
   [[menu.main]]
     name = "Sponsor"
     hrefTargetBlank = true
-    URL = "/docs/airflowsummit2025-prospectus-v1.1.pdf"
+    URL = "/partner-with-us"
     weight = 3
 
   [[menu.main]]
-    name = "Speakers"
-    URL = "/speakers/archive"
-    weight = 4
-
-  [[menu.main]]
-    name = "Sessions"
+    identifier="program"
+    name = "Program"
     URL = "/sessions/2024"
     weight = 5
 
-  #[[menu.main]]
-  #  name = "Venue"
-  #  URL = "/venue"
-  #  weight = 6
+  [[menu.main]]
+    identifier="cfp"
+    name = "Call for Papers 2025"
+    parent="program"
+    URL = "/blog/cfp"
+    weight = 1
+
+  [[menu.main]]
+    name = "Session archive"
+    URL = "/sessions/"
+    parent="program"
+    weight = 2
+
+  [[menu.main]]
+    name = "Speaker archive"
+    URL = "/speakers/"
+    parent="program"
+    weight = 3
+
+  [[menu.main]]
+    name = "Venue"
+    URL = "/venue"
+    weight = 6
 
   #[[menu.main]]
   #  name = "Jobs"
@@ -103,8 +118,8 @@ speaker = "speakers"
 # Everything below this are Site Params
 
 [params]
-description = "Airflow summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
-logo = "/images/logo-as2024-2.svg"
+description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
+logo = "/images/logo-pinwheel.svg"
 home = "Home"
 # privacy_policy = "/privacy"
 google_analytics_4 = "G-DQ3SEJY0LP"
@@ -128,8 +143,8 @@ link = "/sessions/2024"
 
 # Navigation button
 [params.navigation_button]
-enable = false
-label = "Tickets"
+enable = true
+label = "Register"
 link = "/tickets"
 
 

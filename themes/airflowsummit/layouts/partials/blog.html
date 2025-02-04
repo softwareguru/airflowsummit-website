@@ -12,24 +12,19 @@
             <p class="news-sub">WHAT'S NEW</p>
             <p class="latest-news-title">Latest news:</p>
             <p class="news-title">{{ .Title }}</p>
-            <p class="news-description mt-4 mb-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum ut
-              dolore fugit quis hic debitis?</p>
+            <p class="news-description mt-4 mb-4">{{.Summary}}</p>
 
               {{ with .Params.redirection }}
-              <a href="{{ . }}" class="text-decoration-none news-button-item ">
+              <a href="{{ . }}" class="text-decoration-none news-button-item"  target="_blank">
                 <button class="btn my-3 btn-rounded news-button">READ MORE</button>
               </a>
               {{ end }}
               
-              {{ with .Params.link}}
-              <a href="{{ . }}" class="text-decoration-none news-button-item ">
-                <button class="btn my-3 btn-rounded news-button">READ MORE</button>
-              </a>
-              {{ end }}
-
           </div>
           <div class="col-lg-7 col-md-6">
-            <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid venue-img">
+            <a href="{{ .Params.redirection }}" target="_blank">
+              <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid venue-img">
+            </a>
           </div>
         </div>
       </div>

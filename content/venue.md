@@ -2,7 +2,6 @@
 title: "Venue" 
 ---
 
-## About the venue
 
 The Hyatt Regency Seattle, situated in the heart of the Emerald City, Seattle 808 Howell Street, is the largest hotel in the Pacific Northwest. 
 This hotel provides spacious rooms and suites with a view to cityscapes of downtown including Washington’s Lake Union or Elliott Bay. It also has in-house restaurants and bars.
