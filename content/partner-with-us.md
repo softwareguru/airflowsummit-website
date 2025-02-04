@@ -9,7 +9,7 @@ draft: false
 
 <br>
 
-Join the leading companies in the data engineering ecosystem and sponsor Airflow Summit 2025 to engage with more than 600 data engineers from leading data organizations from all over the world.
+Join the leading companies in the data engineering ecosystem and sponsor Airflow Summit 2025 to engage with more than 600 data engineers from outstanding data organizations from all over the world.
 
 
 ### Why Partner with Airflow Summit?
