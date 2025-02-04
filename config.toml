@@ -126,7 +126,7 @@ google_analytics_4 = "G-DQ3SEJY0LP"
 google_ads = "AW-10857785820"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card-2025.png"]
+images = ["/images/card-as-2025.jpg"]
 start_date = "2025-10-07T09:00-05:00"
 end_date = "2025-10-09T17:00-05:00" 
 
