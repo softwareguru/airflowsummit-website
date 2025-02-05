@@ -1,5 +1,5 @@
 ---
-title: "CFP is open"
+title: "CFP is open!"
 date: 2025-02-05T13:23:08-06:00
 draft: false
 ---
