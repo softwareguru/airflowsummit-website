@@ -14,14 +14,13 @@ title: "Tickets"
 
 ### What's included in the Conference Pass?
 
-- Participant kit - Event t-shirt, lanyard, and tote bag.
 - Access to full conference program- Keynotes, panels, and talks. 
-- Event opening reception.
 - Breakfast, lunch, and coffee breaks.
+- Event opening reception.
+- Participant kit - Event t-shirt & tote bag.
 - Participation diploma. 
-- Access to recordings after the event. 
 
-### Discounts: (Available on the Regular price)
+### Discounts: (Available only on the Regular price)
 
 - 20% Groups of 5 or more
 - 25% Apache Airflow Committer
