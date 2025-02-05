@@ -1,5 +1,6 @@
 .event-info-section{
-    background-color: $black;  
+    background-color: $black; 
+    margin-top: 150px; 
   }
 
   .card-event-info{
@@ -19,4 +20,12 @@
   .event-info-icon{
     color: $blue-2025;
     margin-bottom: 10px;
+  }
+
+  .card-space-info-event{
+    margin-top: 90px;
+
+    @media (max-width:640px) {
+      margin-top: 20px;
+    }
   }

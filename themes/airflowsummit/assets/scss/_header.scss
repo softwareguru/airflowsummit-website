@@ -33,6 +33,13 @@
 
 .btn-menu{
 	background-color: $blue-2025 !important;
+  &:hover{
+    color: white;
+  }
+}
+
+.navbar-toggler-icon{
+  color: white;
 }
 
 .main-nav {

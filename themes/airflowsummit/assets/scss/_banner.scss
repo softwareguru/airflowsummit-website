@@ -4,15 +4,19 @@ section.hero-2025 {
     padding-top: 40px;
     padding-bottom: 80px;
   }
+  @media (max-width:640px) {
+    margin-top: -40px;
+  }
 }
 
 .hero-grid {
   padding: 2em;
   width: 75vw;
+  
   @media (min-width:992px) {
     padding: 0;
     display: grid;
-    grid-template-columns: 45% 30% 1fr;
+    grid-template-columns: 42% 30% 1fr;
   }
   @media (max-width:992px) {
     background-image: url(/images/3_0.svg);
@@ -25,13 +29,17 @@ section.hero-2025 {
 .hero-titles {
   color: white;
   text-align: center;
+  margin-top: 50px;
   @media (min-width:992px) {
-    text-align: left;
+    text-align: center;
   }
+
 }
 
 .hero3 {
   width: 35vw;
+  margin-top: 50px;
+
 }
 
 .hero-titles .date-place {
@@ -52,4 +60,5 @@ section.hero-2025 {
   padding: 10px 30px;
   font-weight: 700; 
   text-transform: uppercase;  
+  color: black;
 }
