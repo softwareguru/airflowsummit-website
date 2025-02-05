@@ -2,12 +2,8 @@
 
 
 section.blog-news-section {
-  position: relative;
-  height: 90vh;
-
-  @include tablet {
-	height: 100vh;
-  }
+  margin-top: 60px;
+  margin-bottom: 60px;
 }
 
 swiper-container {
