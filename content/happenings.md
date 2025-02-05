@@ -1,5 +1,5 @@
 ---
-title: "Hapennings"
+title: "Happenings"
 date: 2025-02-04T21:18:27-06:00
 draft: false
 ---

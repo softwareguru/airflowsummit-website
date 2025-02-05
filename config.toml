@@ -89,9 +89,9 @@ speaker = "speakers"
 
   [[menu.main]]
     identifier="hapennings"
-    name = "Hapennings"
+    name = "Happenings"
     parent="program"
-    URL = "/hapennings"
+    URL = "/happenings"
     weight = 2
 
   [[menu.main]]
