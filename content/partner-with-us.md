@@ -24,7 +24,7 @@ This in-person event is an opportunity to get in contact with users, committers,
 
 
 <div class="text-center">
-<h3>Take a look at our <a href="/docs/airflowsummit2025-prospectus-v1.1.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h3>
+<h3>Take a look at our <a href="/docs/airflowsummit2025-prospectus-v1.2.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h3>
 
 We are open to participation suggestions, feel free to [Contact Us!](mailto:info@airflowsummit.org)
 
