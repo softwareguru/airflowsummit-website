@@ -1,12 +1,10 @@
 ---
-title: "Diversity & Inclusion"
+title: "DEI"
 date: 2024-07-15T17:37:08-06:00
-url: /diversity-&-inclusion
-aliases: /diversity-and-inclusion
 draft: false
 ---
 
-<h1 class="text-center">Scaling to the next data era of Airflow 3.0 with D&I</h1>
+<h1 class="text-center">Scaling to the next data era of Airflow 3.0 with DEI</h1>
 
 <br>
 
