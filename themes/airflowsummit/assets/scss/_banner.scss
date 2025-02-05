@@ -23,14 +23,16 @@ section.hero-2025 {
     background-size: 50vw;
     background-repeat: no-repeat;
     background-position: 130% 40%;
+    margin: auto;
+    display: block;
   }
 }
 
 .hero-titles {
   color: white;
-  text-align: center;
+  text-align: left;
   margin-top: 50px;
-  @media (min-width:992px) {
+  @media (max-width:992px) {
     text-align: center;
   }
 
@@ -61,4 +63,8 @@ section.hero-2025 {
   font-weight: 700; 
   text-transform: uppercase;  
   color: black;
+
+  @media (max-width:492px) {
+    font-size: .7em;
+  }
 }
