@@ -33,8 +33,8 @@ We are looking for volunteers who can help us create an amazing event. Contact t
 
 
 <div class="text-center">
-<button data-tf-popup="PrHqp115" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Airflow Summit 2025 - Interested" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=,utm_medium=,utm_campaign=" class="btn text-white my-3 btn-rounded" style="font-size: 1.4em; background-color:#fd7e62;">Not ready to buy yet? Sign up for updates</button><script src="//embed.typeform.com/next/embed.js"></script>
+<button data-tf-popup="PrHqp115" data-tf-opacity="100" data-tf-size="100" data-tf-iframe-props="title=Airflow Summit 2025 - Interested" data-tf-transitive-search-params data-tf-medium="snippet" data-tf-hidden="utm_source=,utm_medium=,utm_campaign=" class="btn my-3 btn-rounded btn-primary hero-button">Not ready to buy yet? Sign up for updates</button><script src="//embed.typeform.com/next/embed.js"></script>
 </div>
-
+ 
 
          
