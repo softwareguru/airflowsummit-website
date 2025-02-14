@@ -6,6 +6,8 @@ title: "Venue"
 <div class="container">
   <div class=" row align-items-center">
     <div class="col-lg-8">
+
+  <h2>Stay at the event venue!</h2>
       
 <p>The Hyatt Regency Seattle, situated in the heart of the Emerald City, Seattle 808 Howell Street, is the largest hotel in the Pacific Northwest.
 This hotel provides spacious rooms and suites with a view to cityscapes of downtown including Washington’s Lake Union or Elliott Bay. It also has in-house restaurants and bars.</p>
@@ -15,7 +17,7 @@ Additionally, the Hyatt Regency Seattle is the city's first LEED Gold-Certified 
 
 <p>Book a room at the Hyatt Regency <a href="https://www.hyatt.com/en-US/group-booking/SEARS/G-AIRF" target="_blank">here!</a> Participants will have a special average rate of $309 USD per night.</p>
 
-
+<p>*Service and taxes not included.<p>
 </div>
 <div class="col-lg-4 mx-auto d-block">
 <img src="/images/venue/hyatt-seattle.jpg" class="img-fluid mx-auto d-block mb-4">
