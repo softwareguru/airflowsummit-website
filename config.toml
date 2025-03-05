@@ -28,45 +28,46 @@ speaker = "speakers"
     weight = 1
 
   [[menu.main]]
-  identifier = "about-AS"
+  identifier = "attend"
   name = "Attend"
   URL = "/attend"
   weight = 2
 
   [[menu.main]]
-    identifier = "scholarships"
+    identifier = "venue"
     name = "Venue + Travel"
     url = "/venue"
-    parent = "about-AS"
+    parent = "attend"
     weight = 2
 
   [[menu.main]]
-    identifier = "scholarships1"
+    identifier = "convince"
     name = "Convince your boss"
     url = "/convince-your-boss"
-    parent = "about-AS"
+    parent = "attend"
     weight = 3
 
   [[menu.main]]
-    identifier = "scholarships2"
+    identifier = "visa-letter"
     name = "Visa letter request"
     url = "/visa-letter-request"
-    parent = "about-AS"
+    parent = "attend"
     weight = 3
 
   [[menu.main]]
-    identifier = "scholarships3"
+    identifier = "dei"
     name = "DEI"
     url = "/dei"
-    parent = "about-AS"
+    parent = "attend"
     weight = 4
 
   [[menu.main]]
-    identifier = "scholarships3"
-    name = "Code of conduct"
-    url = "/coc"
-    parent = "about-AS"
-    weight = 4
+    identifier = "volunteer"
+    name = "Become a Volunteer!"
+    hrefTargetBlank = true
+    url = "https://docs.google.com/forms/d/e/1FAIpQLScN9MryENymGN-YFFYwAIGP5NGbIgS2uV3JA1Sdm4vsjfbscA/viewform"
+    parent = "attend"
+    weight = 5
 
   [[menu.main]]
     name = "Sponsor"
