@@ -180,7 +180,7 @@ link = "/tickets"
 
 [[params.links.footer]]
     name = "Prospectus"
-    url = "/docs/airflowsummit2025-prospectus-v1.1.pdf"
+    url = "/docs/airflowsummit2025-prospectus-v1.2.pdf"
     target="_blank"
 [[params.links.footer]]
     name = "Session archive"

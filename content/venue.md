@@ -13,6 +13,11 @@ This hotel provides spacious rooms and suites with a view to cityscapes of downt
 <p>It is within walking distance of several iconic attractions such as the Space Needle, Pike Place Market, and Lake Union Park, allowing attendees to explore the city during their visit as well as Seattle's rich culture and history.
 Additionally, the Hyatt Regency Seattle is the city's first LEED Gold-Certified hotel, reflecting a commitment to environmental sustainability.</p>
 
+<h2>Stay at the event venue!</h2>
+
+<p>Book a room at the Hyatt Regency <a href="https://www.hyatt.com/en-US/group-booking/SEARS/G-AIRF" target="_blank">here!</a> Participants will have a special average rate of $309 USD per night.</p>
+
+<p>*Service and taxes not included.<p>
 </div>
 <div class="col-lg-4 mx-auto d-block">
 <img src="/images/venue/hyatt-seattle.jpg" class="img-fluid mx-auto d-block mb-4">
