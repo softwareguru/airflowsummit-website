@@ -1,5 +1,5 @@
 ---
-title: "Become a volunteer for Airflow Summit 2025"
+title: "Become a volunteer"
 date: 2025-01-29T10:00:00
 description: "Are you interested in collaborating in the organization of Airflow Summit 2025? We invite you to join us as a volunteer! It's a great chance to interact with speakers, attend sessions and help grow the Apache Airflow community."
 summary: "Are you interested in collaborating in the organization of Airflow Summit 2025? We invite you to join us as a volunteer! It's a great chance to interact with speakers, attend sessions and help grow the Apache Airflow community."

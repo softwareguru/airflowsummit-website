@@ -65,7 +65,7 @@ speaker = "speakers"
     identifier = "volunteer"
     name = "Become a Volunteer!"
     hrefTargetBlank = true
-    url = "https://docs.google.com/forms/d/e/1FAIpQLScN9MryENymGN-YFFYwAIGP5NGbIgS2uV3JA1Sdm4vsjfbscA/viewform"
+    url = "/volunteer"
     parent = "attend"
     weight = 5
 
