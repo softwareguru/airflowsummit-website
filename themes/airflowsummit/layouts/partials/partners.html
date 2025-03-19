@@ -4,7 +4,7 @@
 
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum" }}
       {{ if eq $index 0 }}
-      <!--<h3 class="my-3">Platinum</h3>-->
+      <h3 class="my-3">Platinum</h3>
       <div class="sponsor-strip platinum">
       {{ end }}
         <div class="sponsor-item">
@@ -16,7 +16,7 @@
     </div>
 
     <br>
-    <!--
+    
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "gold" }}
       {{ if eq $index 0 }}
       <h3 class="my-3">Gold</h3>
@@ -57,7 +57,7 @@
         </a>
       </div>    
       {{ end }}
-  </div>-->
+  </div>
 
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
       {{ if eq $index 0 }}

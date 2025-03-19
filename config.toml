@@ -103,7 +103,7 @@ speaker = "speakers"
 
   [[menu.main]]
     name = "Speaker archive"
-    URL = "/speakers/"
+    URL = "/speakers/archive/"
     parent="program"
     weight = 4
 

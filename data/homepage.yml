@@ -10,7 +10,7 @@ event_info:
       content : "Get ready to step into the next era of data with Airflow 3.0! Over the course of three days, enjoy a full agenda of meetings, presentations, and hands-on workshops. "
       icon: bi-file-earmark
 
-    - number : "+500 In Person"
+    - number : "+600 In Person"
       content : "Connect with top industry professionals and immerse yourself in the Apache Airflow community. Don’t miss this unique chance!"
       icon: bi-broadcast
 

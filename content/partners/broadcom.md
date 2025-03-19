@@ -1,6 +1,6 @@
 ---
 title: "Broadcom"
-level: "gold"
+level: "silver"
 logo: "/images/partners/BROADCOM-logo.png"
 webUrl: "https://academy.broadcom.com/automation"
 weight: 1
