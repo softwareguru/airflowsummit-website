@@ -26,6 +26,14 @@
 
 }
 
+.keynotes-speakers{
+	background-color: $black;
+}
+
+.featured-keynote-title{
+	color: $white;
+}
+
 
 .speaker-info .thumb {
     text-align: center;
@@ -38,6 +46,15 @@
 
 .speaker-info a {
 	color: $primary-color;
+	text-decoration: none;
+}
+
+.speaker-info-description {
+	color: $white !important;
+}
+
+.speaker-info p {
+	color: $black;
 }
 
 .speaker-detail a {

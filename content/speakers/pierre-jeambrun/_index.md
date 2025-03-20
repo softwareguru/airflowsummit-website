@@ -2,12 +2,14 @@
 title: "Pierre Jeambrun"
 date: 2023-08-03T02:07:29-06:00
 images: 
- - /images/speakers/pierre-jeambrun.jpg
-designation : Airflow PMC member & Committer 
+ - /images/speakers/pierre-jeambrun.png
+designation : Airflow PMC member & Committer | Freelance Software Engineer
 twitter: 
 linkedin: https://www.linkedin.com/in/pierre-jeambrun/
 events:
  - 2023
+ - 2025
+featured: true
 ---
 
 Pierre is a freelance full stack software engineer with a focus on web development. He is also familiar with data pipeline conception, infrastructure and machine learning. From deep learning engineer to CTO of a startup, he gathered a wide set of skills.

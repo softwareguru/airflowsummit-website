@@ -50,6 +50,11 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 <br>
 
+### What should you do in case of a CoC violation during the event?
+
+Report it to a staff member (Airflow Summit t-shirt or staff at the registration desk), and we will help you. The violation of the CoC has zero tolerance.
+
+
 We are still working on this list but we are happy of keep adding to it, if you have any suggestion or comment, please contact us at mara@sg.com.mx
 
  

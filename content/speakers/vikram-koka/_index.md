@@ -1,14 +1,14 @@
 ---
 title: "Vikram Koka"
-designation: "Chief Strategy Officer at Astronomer"
+designation: "Chief Strategy Officer at Astronomer & PMC Member of Apache Airflow"
 images:
- - /images/speakers/vikram-koka.jpg
+ - /images/speakers/vikram-koka.png
 twitter: https://twitter.com/vikramvkoka
 linkedin: https://www.linkedin.com/in/vikramkoka/
 events:
  - 2024
+ - 2025
+featured: true
 ---
 
-Vikram is currently working as the Chief Strategy Officer at Astronomer. He is an experienced engineering executive having built global software teams for B2B SaaS and software applications. His technical background is in distributed systems and data infrastructure, having an extensive patent portfolio.
-
-Vikram’s open source background started as an early author of the GNU Debugger (GDB) co-contributing it’s remote debugging feature and he is an Apache Airflow Committer, starting with design contributions for Scheduler HA and followed by language features such as Data Driven Scheduling and Setup / Teardown.
+Vikram Koka is a passionate advocate for Apache Airflow and open-source data orchestration, with expertise in distributed computing and cryptographic applications. He has led global engineering teams and worked across R&D, Product, and Business Development. Vikram bridges open-source innovation with enterprise needs, helping organizations scale data workflows efficiently.

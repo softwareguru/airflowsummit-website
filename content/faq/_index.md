@@ -21,6 +21,10 @@ Yes, If that happens just send us the info about your visa being rejected and we
 
 Yes. Airflow Summit aims to provide a harassment-free experience to all participants. Please review our [Code of Conduct.](/coc)
 
+### What should you do in case of a CoC violation during the event?
+
+Report it to a staff member (Airflow Summit t-shirt or staff at the registration desk), and we will help you. The violation of the CoC has zero tolerance.
+
 ### Will there be live streaming?
 
 We will not have live streaming. We will, however, record sessions and make them available later.
