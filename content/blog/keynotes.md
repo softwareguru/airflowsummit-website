@@ -1,5 +1,5 @@
 ---
-title: "Featured Keynote Speakers"
+title: "Keynotes"
 date: 2025-03-19T10:00:00
 description: "Apache Airflow® 3 is here, bringing major improvements to data orchestration. In this keynote, core Airflow contributors will walk through key enhancements that boost flexibility, efficiency, and user experience."
 summary: "Apache Airflow® 3 is here, bringing major improvements to data orchestration. In this keynote, core Airflow contributors will walk through key enhancements that boost flexibility, efficiency, and user experience."
@@ -7,6 +7,7 @@ summary: "Apache Airflow® 3 is here, bringing major improvements to data orches
 images: ["images/blog/keynotes.png"]
 # author
 author: "Airflow Summit Team"
+url: keynotes
 draft: false
 ---
 

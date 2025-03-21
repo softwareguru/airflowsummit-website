@@ -96,8 +96,8 @@ speaker = "speakers"
     weight = 2
 
   [[menu.main]]
-    name = "Session archive"
-    URL = "/sessions/"
+    name = "Keynotes"
+    URL = "/keynotes/"
     parent="program"
     weight = 3
 
