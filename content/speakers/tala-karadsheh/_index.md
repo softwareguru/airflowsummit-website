@@ -3,7 +3,7 @@ title: "Tala Karadsheh"
 date: 2025-03-31T14:55:12-06:00
 images: 
  - /images/speakers/tala-karadsheh.png
-designation: 
+designation: Senior Director, Business Insights at GitHub
 twitter: 
 linkedin: https://www.linkedin.com/in/tala-karadsheh-62b58911/
 github: 
