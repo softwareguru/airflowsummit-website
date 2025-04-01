@@ -1,6 +1,6 @@
 ---
 title: "Brent Bovenzi"
-designation: "Staff Frontend Engineer | Astronomer"
+designation: "Staff Frontend Engineer at Astronomer"
 images:
  - /images/speakers/brent-bovenzi.png
 twitter: https://twitter.com/bbovenzi
