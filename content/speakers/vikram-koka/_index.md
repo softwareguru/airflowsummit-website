@@ -3,7 +3,7 @@ title: "Vikram Koka"
 designation: "Chief Strategy Officer at Astronomer & PMC Member of Apache Airflow"
 images:
  - /images/speakers/vikram-koka.png
-twitter: https://twitter.com/vikramvkoka
+twitter: 
 linkedin: https://www.linkedin.com/in/vikramkoka/
 events:
  - 2024
