@@ -8,7 +8,7 @@ draft: false
 
 <br>
 
-We want to scale to the next data era with Airflow 3.0 in a diverse and inclusive environment. Regardless of geography, gender, sexual orientation, dis/ability, race, ethnicity, age, religion, economic status or any other characteristic. We believe that every difference, even the smallest ones, not only make everyone unique, but also enrich the community. Diversity gives us the opportunity to keep learning and growing as human beings.
+We want to scale to the next data era with Airflow 3.0 in a diverse and inclusive environment. Regardless of geography, gender, sexual orientation, disability, race, ethnicity, age, religion, economic status or any other characteristic. We believe that every difference, even the smallest ones, not only make everyone unique, but also enrich the community. Diversity gives us the opportunity to keep learning and growing as human beings.
 
 We are proud to announce the diversity and inclusion setup in which we have been carefully working based on other models all over the world. We want this event to be comfortable and memorable for everyone. We want you to feel included, confident and free to share whatever is on your mind. These are some of the scopes that we are taking into consideration:
 

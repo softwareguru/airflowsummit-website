@@ -4,7 +4,7 @@ date: 2025-02-04T21:18:27-06:00
 draft: false
 ---
 
-Airflow Summit is also about connecting with the community, sharing ideas, and experiencing memorable moments. This section highlights all the special activities happening outside the main program. Stay tunned for further details.
+Airflow Summit is also about connecting with the community, sharing ideas, and experiencing memorable moments. This section highlights all the special activities happening outside the main program. Stay tuned for further details.
 
 🔹 Opening Reception
 
