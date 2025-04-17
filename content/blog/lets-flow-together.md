@@ -12,7 +12,7 @@ author: "Airflow Summit Team"
 
 ---
 
-As simple as it sounds, we want us all to flow **together.** Regardless of geography, gender, sexual orientation, dis/ability, race, ethnicity, age, religion, economic status or any other characteristic. We believe that every difference, even the smallest ones, not only make everyone unique, but also enrich the community. Diversity gives us the opportunity to keep learning and growing as human beings.
+As simple as it sounds, we want us all to flow **together.** Regardless of geography, gender, sexual orientation, disability, race, ethnicity, age, religion, economic status or any other characteristic. We believe that every difference, even the smallest ones, not only make everyone unique, but also enrich the community. Diversity gives us the opportunity to keep learning and growing as human beings.
 
 This Airflow Summit we are proud to announce the diversity and inclusion setup in which we have been carefully working based on other models all over the world, we want this event to be comfortable and memorable for everyone, specially after a long time of not seeing each other in person, we want you to feel included, confident and free to share whatever is in your mind. These are some of the scopes that we are taking into consideration:
 
