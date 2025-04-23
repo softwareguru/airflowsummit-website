@@ -18,13 +18,13 @@ Are you interested in speaking at Airflow Summit 2025? Check out the following i
 * Event date: October 7-9, 2025
 * Format: In-person
 * Location: Seattle, Washington (Hyatt Regency)
-* CFP deadline: March 22 (round 1) & May 31 (round 2)
+* CFP deadline: April 25 (round 1) & May 31 (round 2)
 * CFP rounds & dates
 
 ### Rounds and dates
 We will organize the CFP in 2 different rounds:
 
-1. Round 1: From January 29 to March 22 with all submitters informed of results by April 8.  
+1. Round 1: From January 29 to April 25 with all submitters informed of results by May 2. 
 2. Round 2: From April 15 to May 31 with all submitters informed of results by June 24.
 
 The reason for creating two rounds is to provide early confirmation to those speakers who need a long time in advance to plan their travel (for example in order to request a visa).
