@@ -1,6 +1,6 @@
 ---
 title: "Chirag Tailor"
-designation: "Tekmetric - Data Engineer"
+designation: "Data Engineer at Tekmetric"
 images:
  - /images/speakers/chirag-tailor.jpg
 twitter: 

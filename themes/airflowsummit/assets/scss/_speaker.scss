@@ -44,6 +44,10 @@
 	margin: 0.5em auto;
 }
 
+.img-session{
+	border-radius: 20px;
+}
+
 .speaker-info a {
 	color: $primary-color;
 	text-decoration: none;
@@ -64,9 +68,9 @@
 
 .speaker-detail .image-column img {
 	width: 100%;
-	margin-bottom: 1em;
-	border: 3px solid $primary-color;
 }
+
+
 .speaker-detail .image-column ul {
     padding: 0;
 }

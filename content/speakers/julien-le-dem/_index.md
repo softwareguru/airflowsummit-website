@@ -2,7 +2,7 @@
 title: "Julien Le Dem"
 designation: "Chief Architect at Astronomer, Datakin co-founder, co-creator of Parquet"
 images: 
- - /images/speakers/julien-ledem.jpg
+ - /images/speakers/julien-le-dem.jpg
 events:
  - 2021
  - 2023

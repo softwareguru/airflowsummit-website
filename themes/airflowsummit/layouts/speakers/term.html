@@ -1,58 +1,68 @@
 {{ define "main" }}
 
-<!-- Speaker Detail -->
-<section class="speaker-detail">
-  <div class="container">
-      <div class="row">
-          <div class="image-column col-md-4 col-lg-3 col-sm-12">
-                  <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-circle">
-                  <ul class="social-icon-two social-icon-colored text-center">
-                      {{ with .Params.twitter }}
-                      {{ if ne . "" }}
-                      <li><a href="{{ . }}" target="_blank"><span class="fab fa-twitter"></span></a></li>
-                      {{ end }}
-                      {{ end }} 
+<div class="container">
+    <div class="inner-column">
+        <div class="text-box mb-4">
+            {{ with .Params.designation }}<h3>{{.}}</h3>{{ end }}
+            <p class="mt-2">{{ .Content }}</p>
+        </div>
+    </div>
+</div>
 
-                      {{ with .Params.linkedin }}
-                      {{ if ne . "" }}
-                      <li><a href="{{ . }}" target="_blank"><span class="fab fa-linkedin-in"></span></a></li>
-                      {{ end }}
-                      {{ end }} 
+<div class="container">
+    <div class="row">
+      <div class="col-xl-3">
+        <div class="image-column">
+            <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="rounded-3 mx-auto d-flex mt-2" width="250">
 
-                      {{ with .Params.github }}
-                      {{ if ne . "" }}
-                      <li><a href="{{ . }}" target="_blank"><span class="fab fa-github"></span></a></li>
-                      {{ end }}
-                      {{ end }}
-
-                      {{ with .Params.facebook }}
-                      {{ if ne . "" }}
-                      <li><a href="{{ . }}" target="_blank"><span class="fab fa-facebook"></span></a></li>
-                      {{ end }}
-                      {{ end }}
-                  </ul>
-          </div>
-
-          <div class="info-column col-md-8 col-sm-12">
-              <div class="inner-column">
-                  <div class="text-box">
-                      {{ with .Params.designation }}<h3>{{.}}</h3>{{ end }}
-                      <p>{{ .Content }}</p>
-                      <h4>Sessions by {{ .Title }}</h4>
-
-                      <!-- Sessions speaker -->
-                      <ul>
-                      {{ range (.Data.Pages.ByParam "time_start").Reverse }}
-                        <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.time_start | time }} ({{ .Format "2006" }}){{ end }}</li>
-                      {{ end }}
-                      </ul>
-                      <!-- Sessions speaker end -->
-                  </div>
-              </div>
-          </div>
+            <div  style="display: flex;
+            justify-content: center;
+            align-items: center;">
+                <ul class="social-icon-two social-icon-colored  mt-3 mb-3 ">
+                    {{ with .Params.twitter }}
+                    {{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="fab fa-twitter"></span></a></li>
+                    {{ end }}
+                    {{ end }} 
+            
+                    {{ with .Params.linkedin }}
+                    {{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="fab fa-linkedin-in"></span></a></li>
+                    {{ end }}
+                    {{ end }} 
+            
+                    {{ with .Params.github }}
+                    {{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="fab fa-github"></span></a></li>
+                    {{ end }}
+                    {{ end }}
+            
+                    {{ with .Params.facebook }}
+                    {{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="fab fa-facebook"></span></a></li>
+                    {{ end }}
+                    {{ end }}
+                </ul>
+            
+            
+            </div>
+    </div>
       </div>
+
+      <div class="col-lg-9 mt-4">  
+   <!-- Sessions speaker -->
+
+   <h4 class="br-4">Sessions by {{ .Title }}</h4>
+   <ul>
+     {{ range (.Data.Pages.ByParam "time_start").Reverse }}
+       <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.time_start | time }} ({{ .Format "2006" }}){{ end }}</li>
+     {{ end }}
+     </ul>
+
+     <!-- Sessions speaker end -->
+      </div>
+    </div>
   </div>
-</section>
-<!--End Speker Detail -->
+
 
 {{ end }}

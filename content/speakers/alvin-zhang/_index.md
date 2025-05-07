@@ -1,6 +1,6 @@
 ---
 title: "Alvin Zhang"
-designation: "Doordash, Software Engineer"
+designation: "Software Engineer at Doordash"
 images:
  - /images/speakers/alvin-zhang.jpg
 twitter: 

@@ -11,4 +11,4 @@ events:
 featured: true
 ---
 
-Vikram Koka is a passionate advocate for Apache Airflow and open-source data orchestration, with expertise in distributed computing and cryptographic applications. He has led global engineering teams and worked across R&D, Product, and Business Development. Vikram bridges open-source innovation with enterprise needs, helping organizations scale data workflows efficiently.
+Vikram's contributions to Airflow started with Scheduler HA released as part of Airflow 2.0. He has worked on architecture, design, and proposals for  Data Driven Scheduling, Dynamic Tasks, Setup / Teardown, and now Airflow 3. His open source background started as an early author of the GNU Debugger (GDB) co-contributing it’s remote debugging feature.

@@ -1,6 +1,6 @@
 ---
 title: "Jonathan Leek"
-designation: "Astronomer Data Engineer"
+designation: "Senior Solutions Engineer at Astronomer"
 images:
  - /images/speakers/jonathan-leek.jpg
 twitter: 

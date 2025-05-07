@@ -1,6 +1,6 @@
 ---
 title: "Kengo Seki"
-designation: "NTT DATA Group Corporation"
+designation: "Data Engineer and OSS Developer at NTT DATA Group Corporation"
 images:
  - /images/speakers/kengo-seki.jpg
 twitter: https://x.com/sekikn39

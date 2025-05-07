@@ -12,4 +12,6 @@ events:
  - 2025
 ---
 
-Data Engineering and application development, 10 years. Extensive experience of design and development of production ready data engineering pipelines in AWS and tech product ownership.
+10 years of Data Engineering
+
+Extensive experience of data product designing, architecting and driving development of data pipelines in AWS.

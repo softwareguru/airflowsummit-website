@@ -1,6 +1,6 @@
 ---
 title: "Chirag Todarka"
-designation: "Doordash, Software Engineer"
+designation: "Software Engineer at Doordash"
 images:
  - /images/speakers/chirag-todarka.jpg
 twitter: 
