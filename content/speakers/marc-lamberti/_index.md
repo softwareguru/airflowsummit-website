@@ -7,6 +7,7 @@ twitter:
 linkedin: 
 events:
  - 2024
+ - 2025
 ---
 
 Marc Lamberti is a data engineer, head of customer education at Astronomer, and Udemy instructor with over 60,000 students.

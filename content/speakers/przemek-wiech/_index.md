@@ -7,6 +7,7 @@ images:
 description: 
 events:
  - 2022
+ - 2025
 twitter: 
 linkedin: https://www.linkedin.com/in/przemek-wiech/
 

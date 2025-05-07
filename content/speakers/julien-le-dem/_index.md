@@ -6,6 +6,7 @@ images:
 events:
  - 2021
  - 2023
+ - 2025
 twitter: "https://twitter.com/J_"
 linkedin: "https://www.linkedin.com/in/julienledem/"
 

@@ -7,6 +7,7 @@ events:
  - 2021
  - 2022
  - 2024
+ - 2025
 twitter: https://twitter.com/ephraimbuddy
 linkedin: https://www.linkedin.com/in/ephraimanierobi/
 

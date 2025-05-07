@@ -12,4 +12,3 @@ events:
 ---
 
 With over 12 years of experience in building tech communities, Briana Okyere leads all Airflow community activities at Astronomer. Her responsibilities include hosting global meetups, running the Airflow Monthly Town Hall, managing the annual Airflow User Survey, and overseeing the monthly newsletter, among other initiatives. Briana's dedication ensures a vibrant and engaged Airflow community.
-

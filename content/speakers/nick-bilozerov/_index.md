@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/nick-bilozerov/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 

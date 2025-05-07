@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/ipsatrivedi/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 Data Engineering and application development, 10 years. Extensive experience of design and development of production ready data engineering pipelines in AWS and tech product ownership.

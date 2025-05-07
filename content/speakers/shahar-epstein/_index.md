@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/shahar-epstein/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 Shahar has been an MLOps engineer working for the Retail Analytics AI team in NCR Voyix since 2021. As one of the founding members of his team, he has been involved in developing an Airflow-based platform to streamline and scale up the deployment of ML products. As part of his work, he has gained experience with Google Cloud services and GitHub Actions.

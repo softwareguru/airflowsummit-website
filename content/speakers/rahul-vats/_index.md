@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/vats-rahul/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 Rahul Vats, a seasoned Airflow contributor with 3+ years of experience, is passionate about testing Airflow features and new contributions using automated pipelines. His dedication ensures the platform's reliability and functionality, making significant contributions to Apache Airflow's advancement.

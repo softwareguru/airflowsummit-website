@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/nawfel-bacha/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 In a world driven by data, I strive to write the code that turns numbers into narratives.
