@@ -1,5 +1,5 @@
 ---
-title: "New Tools, Same Craft: The Developer's Toolbox in 2025New Tools, Same Craft: The Developer's Toolbox in 2025"
+title: "New Tools, Same Craft: The Developer's Toolbox in 2025"
 slug: new-tools-same-craft
 speakers:
  - Brooke Jamieson
