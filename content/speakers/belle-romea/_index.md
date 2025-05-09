@@ -2,7 +2,7 @@
 title: "Belle Romea"
 designation: "Software Engineer at Duolingo"
 images:
- - /images/speakers/belle-romea.jpg
+ - /images/speakers/belle-romea.png
 twitter: 
 linkedin: https://www.linkedin.com/in/isabel-romea/
 events:

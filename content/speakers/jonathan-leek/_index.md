@@ -2,7 +2,7 @@
 title: "Jonathan Leek"
 designation: "Senior Solutions Engineer at Astronomer"
 images:
- - /images/speakers/jonathan-leek.jpg
+ - /images/speakers/jonathan-leek.png
 twitter: 
 linkedin: https://www.linkedin.com/in/jonleek/
 events:

@@ -2,7 +2,7 @@
 title: "Snir Israeli"
 designation: "Senior Data Engineer at Next Insurace"
 images:
- - /images/speakers/snir-israeli.jpg
+ - /images/speakers/snir-israeli.png
 twitter: 
 linkedin: https://www.linkedin.com/in/snir-israeli/
 events:
