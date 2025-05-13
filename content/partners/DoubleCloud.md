@@ -1,8 +1,8 @@
 ---
 title: "DoubleCloud"
 level: "silver"
-logo: "/images/partners/doublecloud.png"
-webUrl: "https://double.cloud/"
-weight: 1
-draft: true
+logo: "/images/partners/databricks-logo.webp"
+webUrl: "https://www.databricks.com/"
+weight: 2
+draft: false
 ---

@@ -107,11 +107,17 @@ speaker = "speakers"
     weight = 4
 
   [[menu.main]]
+    name = "Workshops"
+    URL = "/workshops"
+    parent="program"
+    weight = 5
+
+  [[menu.main]]
     identifier="hapennings"
     name = "Happenings"
     parent="program"
     URL = "/happenings"
-    weight = 5
+    weight = 6
 
   #[[menu.main]]
   #  name = "Venue"

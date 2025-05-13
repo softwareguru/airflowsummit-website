@@ -1,10 +1,11 @@
 ---
-title: "Get started with Airflow 3.0"
+title: "Workshop: Get started with Airflow 3.0"
 slug: get-started-with-airflow-3-0
 speakers:
  - Kenten Danas
 topics:
  - Workshop
+workshop2025: true
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
 ---
