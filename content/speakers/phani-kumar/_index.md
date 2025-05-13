@@ -1,6 +1,6 @@
 ---
 title: "Phani Kumar"
-designation: "Astronomer, Senior Engineering Manager"
+designation: "Senior Engineering Manager at Astronomer"
 images:
  - /images/speakers/phani-kumar.jpg
 twitter: 

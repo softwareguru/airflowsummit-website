@@ -1,6 +1,6 @@
 ---
 title: "Karthik Dulam"
-designation: "EDB, Principal Engineer - Data Analytics and AI"
+designation: "Principal Data Analytics and AI Engineer at EDB"
 images:
  - /images/speakers/karthik-dulam.jpg
 twitter: 

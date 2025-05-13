@@ -1,6 +1,6 @@
 ---
 title: "Rakesh Kumar Tai"
-designation: "SDE ,Autodesk"
+designation: "Software Engineer at Autodesk"
 images:
  - /images/speakers/rakesh-kumar-tai.jpg
 twitter: 

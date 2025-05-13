@@ -1,6 +1,6 @@
 ---
 title: "Mili Tripathi"
-designation: "Software Development Manager"
+designation: "Software Development Manager at Autodesk"
 images:
  - /images/speakers/mili-tripathi.jpg
 twitter: 

@@ -1,6 +1,6 @@
 ---
 title: "Khadija Al Ahyane"
-designation: "SWE @ Google"
+designation: "Software Engineer at Google"
 images:
  - /images/speakers/khadija-al-ahyane.jpg
 twitter: 

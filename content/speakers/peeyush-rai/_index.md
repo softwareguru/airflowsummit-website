@@ -1,6 +1,6 @@
 ---
 title: "Peeyush Rai"
-designation: "CEO of weav.ai, the most advanced agentic AI platform for Insurance"
+designation: "CEO and Founder at Weav.ai"
 images:
  - /images/speakers/peeyush-rai.jpg
 twitter: 

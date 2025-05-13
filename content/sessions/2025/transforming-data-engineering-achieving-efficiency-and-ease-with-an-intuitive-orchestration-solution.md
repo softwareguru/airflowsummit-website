@@ -1,5 +1,5 @@
 ---
-title: "Transforming Data Engineering:Achieving Efficiency and Ease with an Intuitive Orchestration Solution"
+title: "Transforming Data Engineering: Achieving Efficiency and Ease with an Intuitive Orchestration Solution"
 slug: transforming-data-engineering-achieving-efficiency-and-ease-with-an-intuitive-orchestration-solution
 speakers:
  - Rakesh Kumar Tai
