@@ -1,6 +1,6 @@
 ---
 title: "Oscar Ligthart"
-designation: "Vinted, Senior Data Engineer"
+designation: "Senior Data Engineer at Vinted"
 images:
  - /images/speakers/oscar-ligthart.jpg
 twitter: 

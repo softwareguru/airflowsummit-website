@@ -6,7 +6,7 @@ speakers:
  - Rafal Biegacz
  - Leah Cole
  - Bartosz Jankiewicz
- - Przemek Więch
+ - Przemek Wiech
  - Filip Knapik
 time_start: 2022-05-27T14:30:00.000Z
 time_end: 2022-05-27T17:00:00.000Z

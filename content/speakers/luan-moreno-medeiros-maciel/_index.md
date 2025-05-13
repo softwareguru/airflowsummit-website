@@ -1,6 +1,6 @@
 ---
 title: "Luan Moreno Medeiros Maciel"
-designation: "Apache Kafka & Apache Spark"
+designation: "Lead Data Engineer at Pythian | Founder and CEO of Engenharia de Dados Academy"
 images:
  - /images/speakers/luan moreno-medeiros maciel.jpg
 twitter: https://twitter.com/luansql
@@ -11,4 +11,8 @@ events:
  - 2025
 ---
 
-A senior cloud Consultant at Pythian with more than seven years of experience working with Big data solutions, Luan Moreno is an avid Brazilian blogger and a constant speaker. He works for global clients to deliver data strategy and cloud solutions and speaks at conferences like TechEd, SQL Konferenz, SQL Nexus, TugaIT, DB Tech Showcase, Ignite, and SQL Pass Summit & Airflow Summit.
+A global authority on Apache Spark, and Databricks celebrated as the first Brazilian Databricks MVP and a key Databricks Product Advisory Board member.
+
+At Pythian, he leads scalable data solutions for clients like Rockstar Games and FIFA, driving efficiency and innovation. As founder of Engenharia de Dados Academy, he has mentored thousands of data professionals worldwide.
+
+A prominent speaker, he shares insights at top tech events across Mexico, the USA, Canada, Europe, and Japan.

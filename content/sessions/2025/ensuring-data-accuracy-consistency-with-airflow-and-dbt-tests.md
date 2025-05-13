@@ -9,7 +9,7 @@ time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
 ---
 
-As analytics engineers, ensuring data accuracy and consistency is critical-but how do we systematically catch errors before the impact stakeholders? This session will explore how to integrate Airflow with dbt tests to build reliable and automated data validation workflows. 
+As analytics engineers, ensuring data accuracy and consistency is critical, but how do we systematically catch errors before they impact stakeholders? This session will explore how to integrate Airflow with dbt tests to build reliable and automated data validation workflows.
 
 We'll cover: 
 - How to orchestrate dbt tests with Airflow DAGs for real-time data quality checks.

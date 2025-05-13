@@ -1,6 +1,6 @@
 ---
 title: "Sudarshan Chaudhari"
-designation: "Senior Solution Engineer"
+designation: "Senior Solutions Engineer at Astronomer"
 images:
  - /images/speakers/sudarshan-chaudhari.jpg
 twitter: https://x.com/sud_uc

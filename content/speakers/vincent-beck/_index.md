@@ -1,6 +1,6 @@
 ---
 title: "Vincent Beck"
-designation: "AWS - Software engineer"
+designation: "Software engineer at AWS"
 images:
  - /images/speakers/vincent-beck.png
 twitter: 

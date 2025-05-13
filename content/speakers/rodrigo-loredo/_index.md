@@ -1,6 +1,6 @@
 ---
 title: "Rodrigo Loredo"
-designation: "Lead Analytics Engineer @ Vinted"
+designation: "Lead Analytics Engineer at Vinted"
 images:
  - /images/speakers/rodrigo-loredo.jpg
 twitter: 

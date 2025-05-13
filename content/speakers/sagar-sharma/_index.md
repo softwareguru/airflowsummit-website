@@ -1,6 +1,6 @@
 ---
 title: "Sagar Sharma"
-designation: "SAP"
+designation: "Senior Software Engineer at SAP"
 images:
  - /images/speakers/sagar-sharma.jpg
 twitter: 

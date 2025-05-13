@@ -1,6 +1,6 @@
 ---
 title: "Yunhao Qing"
-designation: "LYFT SWE"
+designation: "Software Engineer at Lyft"
 images:
  - /images/speakers/yunhao-qing.jpg
 twitter: 

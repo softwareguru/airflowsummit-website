@@ -16,8 +16,8 @@ Airflow is wonderfully, frustratingly complex - and so is global finance! Stripe
 
 In this talk, you’ll learn:
 
-- how we support independent DAG change management for over 500 different teams running over 150k tasks
+- How we support independent DAG change management for over 500 different teams running over 150k tasks.
 
-- how we’ve customized Airflow’s Kubernetes integration to comply with Stripe’s unique compliance requirements
+- How we’ve customized Airflow’s Kubernetes integration to comply with Stripe’s unique compliance requirements.
 
-- how we’ve built on Airflow to support no-code data pipelines.
+- How we’ve built on Airflow to support no-code data pipelines.

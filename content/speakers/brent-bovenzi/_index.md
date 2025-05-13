@@ -12,4 +12,4 @@ events:
 featured: true
 ---
 
-Frontend Engineer since 2016, contributing to Airflow since 2020. Leading the UI redesign in Airflow 3
+Frontend Engineer since 2016, contributing to Airflow since 2020. Leading the UI redesign in Airflow 3.

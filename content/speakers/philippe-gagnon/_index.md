@@ -1,6 +1,6 @@
 ---
 title: "Philippe Gagnon"
-designation: "Senior Solutions Architect at Astronomer, Inc."
+designation: "Senior Solutions Architect at Astronomer"
 images:
  - /images/speakers/philippe-gagnon.jpg
 twitter: https://twitter.com/pgag_

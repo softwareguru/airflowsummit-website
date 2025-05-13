@@ -1,5 +1,5 @@
 ---
-title: "How Airflow solves the coordination of decentralised teams @Vinted"
+title: "How Airflow solves the coordination of decentralised teams at Vinted"
 slug: how-airflow-solves-the-coordination-of-decentralised-teams-vinted
 speakers:
  - Oscar Ligthart

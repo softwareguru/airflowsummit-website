@@ -1,6 +1,6 @@
 ---
 title: Przemek Więch
-designation: Software Engineer @ Google
+designation: Software Engineer at Google
 image: /images/speakers/przemek-wiech.jpg
 images: 
  - /images/speakers/przemek-wiech.jpg
@@ -13,4 +13,4 @@ linkedin: https://www.linkedin.com/in/przemek-wiech/
 
 ---
 
-Przemek Więch is a software engineer at Google in Warsaw. He has worked on Google’s internal infrastructure and the Google Cloud Platform Console for several cloud products. He holds a PhD in computer science at the Warsaw University of Technology.
+Przemek Więch is a software engineer at Google in Warsaw. Since 2019 he works in the Cloud Composer team. He has worked before on Google’s internal infrastructure and Google Cloud Platform Console. He holds a PhD in computer science at the Warsaw University of Technology.

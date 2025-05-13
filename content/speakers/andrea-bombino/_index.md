@@ -1,6 +1,6 @@
 ---
 title: "Andrea Bombino"
-designation: "Head of Data Engineer"
+designation: "Co-Founder & Lead Data Engineer at Astrafy"
 images:
  - /images/speakers/andrea-bombino.jpg
 twitter: 
@@ -11,4 +11,4 @@ events:
  - 2025
 ---
 
-Co-Founder&Lead Data Engineer @Astrafy. Implementation of large scale data projects at various companis. Passionate about data and IT in general.Sport lover with addiction for running and trail running.
+Implementation of large scale data projects at various companies. Passionate about data and IT in general. Sport with an addiction for running and trail running.

@@ -1,6 +1,6 @@
 ---
 title: "Jens Scheffler"
-designation: "Technical Architect Digital Testing Automation"
+designation: "Technical Architect of Digital Testing Automation at Bosch"
 images:
  - /images/speakers/jens-scheffler.png
 twitter: 
@@ -12,4 +12,4 @@ events:
 featured: true
 ---
 
-Jens Scheffler brings-in 25years of experience in IT industry as developer and architect for scale-out distributed systems. After working as an IT consultant in Automotive, Logistics and Aerospace industries he is working since 5 years for Bosch to automate testing workflows in the area of automated driving and assistance systems.
+Jens Scheffler has 25 years of experience in the IT industry as a developer and architect for scale-out distributed systems. Previously worked as an IT consultant in Automotive, Logistics, and Aerospace industries. Now, he has been at Bosch for 5 years working on automating testing workflows in the area of automated driving and assistance systems.

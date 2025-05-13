@@ -1,6 +1,6 @@
 ---
 title: "Zach Ward"
-designation: "Zachary Ward, Software Engineer @ Riot Games"
+designation: "Software Engineer at Riot Games"
 images:
  - /images/speakers/zach-ward.jpg
 twitter: 

@@ -1,6 +1,6 @@
 ---
 title: "Burak Özdemir"
-designation: "Trendyol-Senior Data Integration Developer"
+designation: "Senior Data Integration Developer at Trendyol"
 images:
  - /images/speakers/burak-ozdemir.jpg
 twitter: 

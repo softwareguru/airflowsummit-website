@@ -10,4 +10,4 @@ events:
  - 2025
 ---
 
-Works as a software architect in Financial company with around 19 years of experience in Data Engineering, responsible for solutioning airflow/cloud composer for entire organisation 
+Works as a software architect in a Financial Company with around 19 years of experience in Data Engineering and governance.

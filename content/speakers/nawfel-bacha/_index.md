@@ -3,7 +3,7 @@ title: "Nawfel Bacha"
 date: 2024-06-10T23:13:49-06:00
 images: 
  - /images/speakers/nawfel-bacha.jpg
-designation: Data Engineer @ Astrafy
+designation: Data Engineer at Astrafy
 twitter: 
 linkedin: https://www.linkedin.com/in/nawfel-bacha/
 github: 
