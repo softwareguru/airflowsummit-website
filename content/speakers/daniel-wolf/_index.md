@@ -2,7 +2,7 @@
 title: "Daniel Wolf"
 designation: "Data Engineer at Robert Bosch GmbH"
 images:
- - /images/speakers/daniel-wolf.jpg
+ - /images/speakers/daniel-wolf.png
 twitter: 
 linkedin: https://www.linkedin.com/in/daniel-wolf-54838a96/
 events:
