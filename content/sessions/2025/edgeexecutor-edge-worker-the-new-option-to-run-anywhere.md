@@ -3,7 +3,7 @@ title: "EdgeExecutor / Edge Worker - The new option to run anywhere"
 slug: edgeexecutor-edge-worker-the-new-option-to-run-anywhere
 speakers:
  - Jens Scheffler
- - Marco Kuttelwesch
+ - Daniel Wolf
 topics:
  - Airflow 3
 time_start: 2025-10-07 9:00:00
