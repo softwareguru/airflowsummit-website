@@ -21,7 +21,10 @@ Event Setup: Assist with setting up materials before the event starts each day.
 Registration Support: Help at the registration table by distributing badges and participant kits to attendees.
 Session Assistance: Introduce speakers, count attendees, facilitate Q&A sessions by running the microphone, display time cards during talks, and assist with other tasks as assigned by the track leads.
 Technical Support: Help speakers with any technical issues they may encounter during their sessions or provide tech support for session recordings.
-How to Apply
+
+<br>
+
+### How to Apply
 
 If you’d like to become a volunteer, please fill out this survey. While not all questions are mandatory, providing more details will help us evaluate your application more effectively.
 
