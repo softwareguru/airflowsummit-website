@@ -2,7 +2,99 @@
 <section class="info-block-section">
     <div class="info-block text-center">
         <p>Get ready for Airflow 3.0!</p>
+
+        <h3 class="text-center">Look back to the previous editions</h3>
     </div>
+
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
+
+  <!-- Demo styles -->
+  <style>
+    .swiper {
+      padding-top: 50px;
+    }
+
+    .swiper-slide {
+      background-position: center;
+      background-size: cover;
+      width: 400px;
+    }
+
+    .swiper-slide img {
+      display: block;
+      width: 100%;
+    }
+  </style>
+
+  <!-- Swiper -->
+  <div class="swiper mySwiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/1.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/2.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/3.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/4.jpeg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/5.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/6.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/7.png" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/8.png" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/9.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/10.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/11.jpg" />
+      </div>
+      <div class="swiper-slide">
+        <img src="images/carousel-2024/12.jpg" />
+      </div>
+    </div>
+    <div class="swiper-pagination"></div>
+  </div>
 </section>
+
+  <!-- Swiper JS -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+
+  <!-- Initialize Swiper -->
+  <script>
+    var swiper = new Swiper(".mySwiper", {
+      effect: "coverflow",
+      grabCursor: true,
+      centeredSlides: true,
+      slidesPerView: "auto",
+      autoplay: {
+        delay: 2500,
+        disableOnInteraction: false,
+      },
+      coverflowEffect: {
+        rotate: 50,
+        stretch: 0,
+        depth: 100,
+        modifier: 1,
+        slideShadows: true,
+      },
+      pagination: {
+        el: ".swiper-pagination",
+      },
+    });
+  </script>
 
 <img src="images/colors-line.png" style="width: 100%; margin-top: -30px;">
