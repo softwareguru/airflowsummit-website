@@ -20,5 +20,9 @@ Learn from Past Events: Airflow Summit previous editions have a strong track rec
 
 Join us in Seattle to connect, learn, and be part of the future of Apache Airflow. Because great things happen when the community comes together! 🚀
 
-With over 5,250 responses from 116 countries, check out the biggest data engineering survey out there [here](https://airflow.apache.org/blog/airflow-survey-2024/).
+With over 5,250 responses from 116 countries, check out the Apache Airflow survey 2024:
 
+
+<img src="/images/Airflow-Survey-2024-Results-v2.png" class="img-fluid mx-auto d-block mt-4" >
+
+<br>
