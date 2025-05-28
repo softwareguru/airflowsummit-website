@@ -3,6 +3,7 @@ title: "Linkedin's Journey on scaling airflow"
 slug: linkedin-s-journey-on-scaling-airflow
 speakers:
  - Rahul Gade
+ - Arun Kumar
 topics:
  - Airflow & ...
 time_start: 2025-10-07 9:00:00
