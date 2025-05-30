@@ -7,6 +7,7 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+draft: true
 ---
 
 Our team at Amazon's P13n faced a challenge: how to create experimental variants of ML workflows for A/B testing product recommendations on the website without sacrificing speed or resources. The solution we developed addresses this challenge while disrupting the conventional Airflow practices.

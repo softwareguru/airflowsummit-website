@@ -7,6 +7,8 @@ twitter:
 linkedin: 
 events:
  - 2025
+
+draft: true
 ---
 
 Software Development Engineer at Amazon for the past 8 years, worked at HP software before that.

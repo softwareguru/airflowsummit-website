@@ -2,7 +2,7 @@
 title: "Ivan Nikolov"
 date: 2025-05-29T16:03:09-06:00
 images: 
- - /images/speakers/ivan-nikolov.jpg
+ - /images/speakers/ivan-nikolov.png
 designation: Senior Software Engineer at the Financial Times
 twitter: 
 linkedin: 
