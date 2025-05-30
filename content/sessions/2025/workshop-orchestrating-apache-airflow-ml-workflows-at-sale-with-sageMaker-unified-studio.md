@@ -3,6 +3,9 @@ title: "Orchestrating Apache Airflow ML Workflows at Scale with SageMaker Unifie
 slug: orchestrating-apache-airflow-ml-workflows-at-sale-with-sagemaker-unified-studio
 speakers:
  - Vinod Jayendra
+ - Suba Palanisamy
+ - Sean Bjurstrom
+ - Anurag Srivastava
 topics:
  - Workshop
 workshop2025: true
