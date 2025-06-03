@@ -7,7 +7,8 @@ summary: "The second round of the CFP is closing this May 30th. Make sure to sub
 images: ["images/blog/airflow-2025-cfp.png"]
 # author
 author: "Airflow Summit Team"
-draft: false
+draft: true
+
 redirection: https://sessionize.com/airflow-summit-2025/
 ---
 
