@@ -7,6 +7,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/how-airflow-can-help.png
 ---
 
 Metadata management is a cornerstone of effective data governance, yet it presents unique challenges distinct from traditional data engineering. At scale, efficiently extracting metadata from relational and NoSQL databases demands specialized solutions. To address this, our team has developed custom Airflow operators that scan and extract metadata across various database technologies, orchestrating 100+ production jobs to ensure continuous and reliable metadata collection.

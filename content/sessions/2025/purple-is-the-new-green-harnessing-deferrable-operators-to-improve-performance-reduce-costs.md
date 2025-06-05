@@ -7,6 +7,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/purple-is-the-new-green.png
 ---
 
 Airflow’s traditional execution model often leads to wasted resources: worker nodes sitting idle, waiting on external systems. At Wix, we tackled this inefficiency head-on by refactoring our in-house operators to support Airflow’s deferrable execution model.

@@ -15,6 +15,8 @@ images:
 slides:
 video: 
 keynote2025: true
+images:
+ - /images/sessions/2025/new-tools-same-craft.png
 ---
 
 

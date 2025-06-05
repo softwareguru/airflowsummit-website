@@ -7,6 +7,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/event-driven-partition.png
 ---
 
 Datadog is a world-class data platform ingesting more than a 100 trillion events a day, providing real-time insights.

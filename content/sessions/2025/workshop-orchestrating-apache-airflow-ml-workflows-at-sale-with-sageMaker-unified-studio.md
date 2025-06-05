@@ -11,10 +11,10 @@ topics:
 workshop2025: true
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
-images: 
-
 slides:
 video: 
+images:
+ - /images/sessions/2025/orchestrating-apache-airflow.png
 ---
 
 As organizations increasingly rely on data-driven applications, managing the diverse tools, data, and teams involved can create challenges. Amazon SageMaker Unified Studio addresses this by providing an integrated, governed platform to orchestrate end-to-end data and AI/ML workflows.

@@ -8,6 +8,8 @@ topics:
 workshop2025: true
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/get-certified.png
 ---
 
 We're excited to offer Airflow Summit 2025 attendees an exclusive opportunity to earn their DAG Authoring certification in person, now updated to include all the latest Airflow 3.0 features. This certification workshop comes at no additional cost to summit attendees.

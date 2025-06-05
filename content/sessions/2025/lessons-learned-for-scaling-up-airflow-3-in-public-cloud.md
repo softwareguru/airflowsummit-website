@@ -7,6 +7,8 @@ topics:
  - Airflow 3
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/lessons-learned-for-scaling.png
 ---
 
 Apache Airflow 3 is a new state-of-the-art version of Airflow. For many users who plan to adopt Airflow 3 it's important to understand how Airflow 3 behaves from performance perspective compared to Airflow 2.

@@ -8,6 +8,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/data-quality.png
 ---
 
 Tekmetric is the largest cloud based auto shop management system in the United States. We process vast amounts of data from various integrations with internal and external systems. Data quality and governance are crucial for both our internal operations and the success of our customers.

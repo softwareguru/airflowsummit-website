@@ -8,6 +8,8 @@ topics:
  - Airflow 3
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/event-driven.png
 ---
 
 Traditional time-based scheduling in Airflow can lead to inefficiencies and delays. With Airflow 3.0, we can now leverage native event-driven DAG execution, enabling workflows to trigger instantly when data arrives—eliminating polling-based sensors and rigid schedules.

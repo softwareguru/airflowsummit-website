@@ -7,6 +7,8 @@ topics:
  - Best practices
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/common-provider.png
 ---
 
 Enterprises want the flexibility to operate across multiple clouds, whether to optimize costs, improve resiliency, to avoid vendor lock-in, or for data sovereignty. But for developers, that flexibility usually comes at the cost of extra complexity and redundant code. The goal here is simple: write once, run anywhere, with minimum boilerplate. 

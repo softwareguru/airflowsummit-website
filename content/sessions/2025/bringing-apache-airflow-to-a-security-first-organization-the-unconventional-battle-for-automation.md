@@ -7,6 +7,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/bringing-apache-airflow.png
 ---
 
 What happens when you introduce Apache Airflow in an organization where every change is scrutinized, every deployment must pass security hurdles, and cloud is not an option?

@@ -7,6 +7,8 @@ topics:
  - Roadmap
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/assets-past-present-future.png
 ---
 
 Airflow Asset originated from data lineage and evolved into its current state, being used as a scheduling concept (data-aware, event-based scheduling). It has even more potential. This talk discusses how other parts of Airflow, namely Connection and Object Storage, contain concepts related to Asset, and we can tie them all together to make task authoring flow even more naturally.

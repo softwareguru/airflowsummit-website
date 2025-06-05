@@ -7,6 +7,8 @@ topics:
  - Best practices
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/5-simple-strategies-to-enhance-your-dags-for-data-processing.png
 ---
 
 Take your DAGs in Apache Airflow to the next level? This is an insightful session where we'll uncover 5 transformative strategies to enhance your data workflows. Whether you're a data engineering pro or just getting started, this presentation is packed with practical tips and actionable insights that you can apply right away.

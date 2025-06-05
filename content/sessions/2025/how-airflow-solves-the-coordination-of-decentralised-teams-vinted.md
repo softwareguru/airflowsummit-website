@@ -8,6 +8,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/how-airflow-solves.png
 ---
 
 Vinted is the biggest second-hand marketplace in Europe with multiple business verticals. Our data ecosystem has over 20 decentralized teams responsible for generating, transforming, and building Data Products from petabytes of data. This creates a daring environment where inter-team dependencies, varied expertise with scheduling tools, and diverse use cases need to be managed efficiently. To tackle these challenges, we have centralized our approach by leveraging Apache Airflow to orchestrate data dependencies across teams.

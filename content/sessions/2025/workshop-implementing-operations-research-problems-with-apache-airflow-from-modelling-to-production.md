@@ -8,6 +8,8 @@ topics:
 workshop2025: true
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/implementing-operations.png
 ---
 
 This workshop will provide an overview of implementing operations research problems using Apache Airflow. This is a hands-on session where attendees will gain experience creating DAGs to define and manage workflows for classical operations research problems. The workshop will include several examples of how Airflow can be used to optimize and automate various decision-making processes, including:

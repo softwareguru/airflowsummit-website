@@ -8,6 +8,8 @@ topics:
  - Airflow & ...
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/linkedin-s-journey-on-scaling-airflow.png
 ---
 
 Last year, we shared how LinkedIn's continuous deployment platform (LCD) leveraged Apache Airflow to streamline and automate deployment workflows. LCD is the deployment platform inside Linkedin which is actively used by all engineers (10000+) at Likedin.

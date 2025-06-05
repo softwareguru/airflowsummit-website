@@ -7,6 +7,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/daglint-elevating-airflow.png
 ---
 
 Maintaining consistency, code quality, and best practices for writing Airflow DAGs between teams and individual developers can be a significant challenge. Trying to achieve it using manual code reviews is both time-consuming and error-prone.

@@ -8,6 +8,8 @@ topics:
  - Airflow & ...
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/model-context-protocol-with-airflow.png
 ---
 
 In today's data-driven world, effective workflow management and AI are crucial for success. However, there's a notable gap between Airflow and AI. Our presentation offers a solution to close this gap.

@@ -8,6 +8,8 @@ topics:
  - Airflow 3
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/edgeexecutor-edge-worker.png
 ---
 
 Airflow 3 extends the deployment options to run your workload anywhere. You don't need to bring your data to airflow but you can bring the execution where it needs to be.

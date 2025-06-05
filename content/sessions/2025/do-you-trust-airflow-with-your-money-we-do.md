@@ -9,6 +9,8 @@ topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+images:
+ - /images/sessions/2025/do-you-trust-airflow.png
 ---
 
 Airflow is wonderfully, frustratingly complex - and so is global finance! Stripe has very specific needs all over the planet, and we have customized Airflow to adapt to the variety and rigor that we need to grow the GDP of the internet.

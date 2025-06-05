@@ -15,6 +15,8 @@ images:
 slides:
 video: 
 keynote2025: true
+images:
+ - /images/sessions/2025/from-dags-to-insights.png
 ---
 
 Airflow is integral to GitHub's data and insight generation. This session dives into use cases from GitHub where key business decisions are driven, at the root, with the help of Airflow. The session will also highlight how both GitHub and Airflow celebrate, promote, and nurture OSS innovations in their own ways.
