@@ -16,8 +16,8 @@ tracks:
 
 days: 
 
-  - id: 20241
-    enabled: true
+  - id: 20251
+    enabled: false
     title_short: Tuesday
     title_full: Tuesday, September 10, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
@@ -90,8 +90,8 @@ days:
         timelabel: "17:35 - 19:40"
         gridaream: "39/1/40/2"
 
-  - id: 20242
-    enabled: true
+  - id: 20252
+    enabled: false
     title_short: Wednesday
     title_full: Wednesday, September 11, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
@@ -164,7 +164,7 @@ days:
         gridarea: "17/1/18/2"
 
   - id: 20243
-    enabled: true
+    enabled: false
     title_short: Thursday
     title_full: Thursday, September 12, 2024
     rooms: ["California East", "California West", "Elizabethan A+B", "Georgian"]
@@ -232,5 +232,7 @@ summary: "Welcome to the session program for Airflow Summit."
 description: "Welcome to the session program for Airflow Summit."
 ---
 
-<h4 class="mb-4">Welcome to the session program for Airflow Summit 2024. </h4>
+<h4 class="mb-4">The session program for Airflow Summit 2025 will soon be here. </h4>
+<!---
 <h5>If you prefer, you can also see this as <a style="color:#c04040; !important" href="/program-sessionize">sessionize layout</a> or <a style="color:#c04040; !important" href="/sessions/2024">list of sessions</a>.</h5>
+--->
