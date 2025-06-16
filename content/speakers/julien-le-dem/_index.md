@@ -1,6 +1,6 @@
 ---
 title: "Julien Le Dem"
-designation: "Chief Architect at Astronomer, Datakin co-founder, co-creator of Parquet"
+designation: "Principal Engineer at Datadog, co-creator of Parquet, Arrow and OpenLineage"
 images: 
  - /images/speakers/julien-le-dem.jpg
 events:
@@ -12,4 +12,5 @@ linkedin: "https://www.linkedin.com/in/julienledem/"
 
 ---
 
-Julien Le Dem is the Chief Architect of Astronomer and Co-Founder of Datakin. He co-created Apache Parquet and is involved in several open source projects including OpenLineage, Marquez (LFAI&Data), Apache Arrow, Apache Iceberg and a few others. Previously, he was a senior principal at Wework; principal architect at Dremio; tech lead for Twitter’s data processing tools, where he also obtained a two-character Twitter handle (@J_); and a principal engineer working on content platforms at Yahoo, where he received his Hadoop initiation. His French accent makes his talks particularly attractive.
+
+Julien Le Dem is a Principal Engineer at Datadog, serves as an officer of the ASF and is a member of the LFAI&Data Technical Advisory Council. He co-created the Parquet, Arrow and OpenLineage open source projects and is involved in several others. His career leadership began in Data Platforms at Yahoo! - where he received his Hadoop initiation - then continued at Twitter, Dremio and WeWork. He then co-founded Datakin (acquired by Astronomer) to solve Data Observability. His French accent makes his talks particularly attractive.
