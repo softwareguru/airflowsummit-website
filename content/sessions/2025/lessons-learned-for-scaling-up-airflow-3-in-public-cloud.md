@@ -3,6 +3,7 @@ title: "Lessons learned for scaling up Airflow 3 in Public Cloud"
 slug: lessons-learned-for-scaling-up-airflow-3-in-public-cloud
 speakers:
  - Przemek Wiech
+ - Augusto Hidalgo
 topics:
  - Airflow 3
 time_start: 2025-10-07 9:00:00
