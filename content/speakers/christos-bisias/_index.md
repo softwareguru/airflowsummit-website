@@ -1,6 +1,6 @@
 ---
 title: "Christos Bisias"
-designation: "G-Research, Open Source Software Engineer"
+designation: "Open Source Software Engineer at G-Research"
 images:
  - /images/speakers/christos-bisias.jpg
 twitter: 

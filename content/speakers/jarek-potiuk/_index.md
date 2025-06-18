@@ -2,7 +2,7 @@
 title: "Jarek Potiuk"
 designation: "Independent Open-Source Contributor and Advisor"
 images:
- - /images/speakers/jarek-potiuk.jpg
+ - /images/speakers/jarek-potiuk.png
 twitter: https://x.com/jarekpotiuk
 linkedin: https://www.linkedin.com/in/jarekpotiuk/
 events:

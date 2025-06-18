@@ -1,6 +1,6 @@
 ---
 title: "Ryan Singman"
-designation: "CarbonAware -- Founder and Lead Developer"
+designation: "Founder and Lead Developer at CarbonAware"
 images:
  - /images/speakers/ryan-singman.jpg
 twitter: 

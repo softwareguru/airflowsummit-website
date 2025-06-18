@@ -1,6 +1,6 @@
 ---
 title: "Scott Mitchell"
-designation: "Qbiz Inc. - Data Governance Practice Lead"
+designation: "Data Governance Practice Lead at Qbiz Inc."
 images:
  - /images/speakers/scott-mitchell.jpg
 twitter: https://twitter.com/qbizsf
