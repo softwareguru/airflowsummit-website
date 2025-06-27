@@ -3,7 +3,7 @@ title: "Daniel Standish"
 date: 2024-06-10T22:46:07-06:00
 images: 
  - /images/speakers/daniel-standish.png
-designation: Senior Software Engineer at Astronomer & PMC Member at Apache Airflow
+designation: Staff Software Engineer at Astronomer & PMC Member at Apache Airflow
 twitter: 
 linkedin: https://www.linkedin.com/in/daniel-standish-12197714/
 github: 

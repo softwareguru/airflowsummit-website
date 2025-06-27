@@ -1,6 +1,6 @@
 ---
 title: "Wei Lee"
-designation: "Astronomer.io"
+designation: "Senior Software Engineer at Astronomer & Airflow Committer"
 images:
  - /images/speakers/wei-lee.jpg
 twitter: 
