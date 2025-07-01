@@ -82,12 +82,13 @@ Your **booth number will be shared by email.**
 
 All tables will be dressed with a grey conference linen, and will have access to energy.
 
-* **Platinum:** 6’ x 30” table with/ 2 chairs, and cocktail table. Allowed to place a booth or back wall.
-* **Gold:** 6’ x 30” table with/ 2 chairs. Allowed to place a booth or back wall.
-* **Silver:** 6’ x 18” table w/ 2 chairs. Allowed to place a back wall.
-* **Bronze/Startup/Talent:** Cocktail table w/ 2 chairs. Allowed to place rollup banner.
+- **Platinum:** 12x10' floor space, 6’ x 30" table with/ 2 chairs, and cocktail table. Allowed to place a booth or back wall.
+- **Gold:** 10'x8' floor space, 6’ x 30" table with/ 2 chairs. Allowed to place a booth or back wall.
+- **Silver:** 8'x8' floor space, 6’ x 18" table w/ 2 chairs. Allowed to place a back wall.
+- **Bronze/Startup/Talent:** Cocktail table w/ 2 chairs. Allowed to place rollup banner.
 
-<img src="/images/partners/sponsors-page/f2.png" class="img-fluid mx-auto d-block mt-4" width="550px" >
+
+<img src="/images/partners/sponsors-page/prepare-your-participation.png" class="img-fluid mx-auto d-block mt-4" width="550px" >
 
 <br>
 
