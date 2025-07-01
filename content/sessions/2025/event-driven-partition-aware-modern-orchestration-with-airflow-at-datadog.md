@@ -3,6 +3,7 @@ title: "Event-Driven, Partition-Aware: Modern Orchestration with Airflow at Data
 slug: event-driven-partition-aware-modern-orchestration-with-airflow-at-datadog
 speakers:
  - Julien Le Dem
+ - Zach Gottesman
 topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
