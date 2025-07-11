@@ -2,7 +2,7 @@
 title: "Ivan Sayapin"
 designation: "Bloomberg, Software Engineer, Data Pipelines, Data Platform"
 images:
- - /images/speakers/ivan-sayapin.jpg
+ - /images/speakers/ivan-sayapin.png
 twitter: 
 linkedin: https://uk.linkedin.com/in/ivan-sayapin-575647127
 events:

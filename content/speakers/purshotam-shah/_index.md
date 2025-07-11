@@ -9,4 +9,4 @@ events:
  - 2025
 ---
 
-I work on the Low Latency team at Yahoo, where we manage Storm, ZooKeeper, and Flink deployments both on-premises and in AWS and GCP. I also serve as a PMC member for Oozie and Storm.
+Software Engineer on Yahoo’s Low Latency team, responsible for overseeing deployments of Apache Storm, ZooKeeper, and Flink, and serving as a PMC member for both Apache Storm and Oozie.

@@ -1,6 +1,6 @@
 ---
-title: "Uses in an on Prem Research Setting"
-slug: uses-in-an-on-prem-research-setting
+title: "Airflow Uses in an on-prem Research Setting"
+slug: airflow-uses-in-an-on-prem-research-setting
 speakers:
  - Lawrence Gerstley
 time_start: 2025-10-07 09:10:00

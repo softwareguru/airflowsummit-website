@@ -1,5 +1,5 @@
 ---
-title: "Enhancing Small Retailer Visibility"
+title: "Enhancing Small Retailer Visibility: Machine Learning Pipelines with Apache Airflow"
 slug: enhancing-small-retailer-visibility
 speakers:
  - Hannah Lundrigan

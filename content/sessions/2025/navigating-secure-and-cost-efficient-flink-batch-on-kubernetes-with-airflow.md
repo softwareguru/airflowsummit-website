@@ -3,7 +3,7 @@ title: "Navigating Secure and Cost-Efficient Flink Batch on Kubernetes with Airf
 slug: navigating-secure-and-cost-efficient-flink-batch-on-kubernetes-with-airflow
 speakers:
  - Purshotam Shah
- - David Scherba
+ - Prakash Nandha Mukunthan
 topics:
  - Use cases
 time_start: 2025-10-07 9:00:00
