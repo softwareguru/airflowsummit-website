@@ -13,4 +13,4 @@ Migrating from Airflow 2 to the newly released Airflow 3 may seem intimidating d
 
 To support this transition, we worked with Ruff to establish rules that automatically identify removed or deprecated features and even assist in fixing them. In this presentation, I will outline our current Ruff features, the migration rules from Airflow 2 to 3, and how this experience opens the door for us to promote best practices in Airflow through Ruff in the future.
 
-After this session, Airflow users will understand how Ruff can facilitate a smooth transition to Airflow 3. As developers of Airflow, we will delve into the detail of how these migration rules were implemented and discuss how we can leverage this knowledge to introduce linting rules that encourage Airflow users to adopt best practices.
+After this session, Airflow users will understand how Ruff can facilitate a smooth transition to Airflow 3. As developers of Airflow, we will delve into the details of how these migration rules were implemented and discuss how we can leverage this knowledge to introduce linting rules that encourage Airflow users to adopt best practices.

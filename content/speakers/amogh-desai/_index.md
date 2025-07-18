@@ -1,5 +1,5 @@
 ---
-title: "Amogh Desai"
+title: "Amogh Rajesh Desai"
 designation: "Senior Software Engineer at Astronomer"
 images:
  - /images/speakers/amogh-desai.png

@@ -1,6 +1,6 @@
 ---
 title: "Yunhao Qing"
-designation: "Software Engineer at Lyft"
+designation: "Senior SWE @ Notion Data Platform"
 images:
  - /images/speakers/yunhao-qing.jpg
 twitter: 
@@ -9,4 +9,4 @@ events:
  - 2025
 ---
 
-Software Engineer at Lyft Data Platform, experienced Airflow engineer optimizing DAG governance, performance, and scalability at scale.
+Senior SWE @ Notion Data Platform, ex SWE @ Lyft Data Platform, experienced Airflow engineer optimizing DAG governance, performance, and scalability at scale.

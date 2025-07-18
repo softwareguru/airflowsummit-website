@@ -1,6 +1,6 @@
 ---
 title: "Justin Wang"
-designation: "Software Engineer at Zoox"
+designation: "Senior Software Engineer at Zoox"
 images:
  - /images/speakers/justin-wang.jpg
 twitter: 

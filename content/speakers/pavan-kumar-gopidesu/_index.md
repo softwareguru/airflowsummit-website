@@ -1,6 +1,6 @@
 ---
 title: "Pavan kumar Gopidesu"
-designation: "Technical Lead at Tavant, Member of The Apache Software Foundation & Apache Airflow"
+designation: "Technical Lead at Tavant, Member of The Apache Software Foundation & Apache Airflow Committer"
 images:
  - /images/speakers/pavan-kumar-gopidesu.jpg
 twitter: 
