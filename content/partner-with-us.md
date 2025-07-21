@@ -37,13 +37,13 @@ Check out why Apache Airflow has the most impact on the Engineering Data industr
         <div class="card h-100 card-event-info">
           <div class="card-body text-center">
             <h5 class="card-title event-info-title">
-            3 Days
+            650 Participants
             <br>
-            7 Workshops
+            142 Speakers
             <br>
-            105 Talks
+            15 Sponsors & partners
             <br>
-            189 CFP Submissions
+            182 Participant Organizations
             </h5>
           </div>
         </div>
@@ -52,13 +52,13 @@ Check out why Apache Airflow has the most impact on the Engineering Data industr
         <div class="card h-100 card-event-info">
           <div class="card-body text-center">
             <h5 class="card-title event-info-title">
-            3 Days
+            +30 Countries reached
             <br>
-            7 Workshops
+            +3k Recordings views
             <br>
-            105 Talks
+            +12k Twitter followers
             <br>
-            189 CFP Submissions
+            98.8k LinkedIn reach
             </h5>
           </div>
         </div>
