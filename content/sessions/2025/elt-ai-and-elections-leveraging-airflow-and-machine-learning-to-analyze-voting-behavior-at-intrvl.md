@@ -8,7 +8,7 @@ topics:
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
 images:
- - /images/sessions/2025/elt-ai-and-elections-leveraging.png
+ - /images/sessions/2025/elt-ai-and-elections.png
 ---
 
 Discover how Apache Airflow powers scalable ELT pipelines, enabling seamless data ingestion, transformation, and machine learning-driven insights. This session will walk through:
