@@ -88,7 +88,7 @@ All tables will be dressed with a grey conference linen, and will have access to
 - **Bronze/Startup/Talent:** Cocktail table w/ 2 chairs. Allowed to place rollup banner.
 
 
-<img src="/images/partners/sponsors-page/prepare-your-participation.png" class="img-fluid mx-auto d-block mt-4" width="550px" >
+<img src="/images/partners/sponsors-page/ex-floor.png" class="img-fluid mx-auto d-block mt-4" width="550px" >
 
 <br>
 
