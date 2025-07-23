@@ -81,12 +81,13 @@ speaker = "speakers"
     URL = "/sessions/2024"
     weight = 5
 
-  #[[menu.main]]
-  #  identifier="cfp"
-  #  name = "Call for Papers 2025"
-  #  parent="program"
-  #  URL = "/blog/cfp"
-  #  weight = 1
+  [[menu.main]]
+    identifier="program-sessionize"
+    name = "Full schedule"
+    URL = "/program-sessionize"
+    parent="program"
+    weight = 1
+
 
   [[menu.main]]
     name = "Keynotes"
