@@ -96,7 +96,7 @@ All tables will be dressed with a grey conference linen, and will have access to
 
 * **If you need to print material or produce swag**, the FedEx office that is located at the Hyatt Regency (event venue) can help you: fedex.com/businesssolutions. Please contact: Jill Jones, jill.jones@fedex.com, mobile: 206.491.5545  
 
-* **If you need to rent audio or video equipment**, you can order it from our AV vendor. Click <a href="https://eventnow.encoreglobal.com/myevents/result/index/show_id/8c6df34a-2158-f011-877a-000d3a9c67a2/" target="_target">here</a> to order from Encore. For any questions, please contact: Daniel Coch, daniel.koch@encoreglobal.com, mobile: 206.734.9295
+* **If you need to rent audio or video equipment**, you can order it from our AV vendor. Click <a href="https://eventnow.encoreglobal.com/myevents/result/index/show_id/8c6df34a-2158-f011-877a-000d3a9c67a2/" target="_target">here</a> to order from Encore. For any questions, please contact: Daniel Koch, daniel.koch@encoreglobal.com, mobile: 206.734.9295
 
 * **Ship your swag and/or equipment.**
 
