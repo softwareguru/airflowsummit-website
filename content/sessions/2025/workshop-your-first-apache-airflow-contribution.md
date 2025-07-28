@@ -5,6 +5,7 @@ speakers:
  - Ryan Hatter
  - Amogh Desai
  - Phani Kumar
+ - Kalya Reddy
 topics:
  - Workshop
 workshop2025: true
