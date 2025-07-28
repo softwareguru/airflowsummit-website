@@ -2,7 +2,7 @@
 title: "Gurmeet Saran"
 designation: "Anthropic|Member of Technical Staff|Data Enthusiast"
 images:
- - /images/speakers/gurmeet-saran.jpg
+ - /images/speakers/gurmeet-saran.png
 twitter: 
 linkedin: https://www.linkedin.com/in/gurmeetsaran/
 events:
