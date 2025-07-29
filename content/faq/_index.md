@@ -30,7 +30,7 @@ Report it to a staff member (Airflow Summit t-shirt or staff at the registration
 We will not have live streaming. We will, however, record sessions and make them available later.
 
 ### Can I join as sponsor?
-Yes! Please review our [Prospectus](/docs/airflowsummit2025-prospectus-v1.2.pdf) or contact us at info@airflowsummit.org
+Yes! Please review our [Prospectus](/docs/airflowsummit2025-prospectus-v1_3.pdf) or contact us at info@airflowsummit.org
 
 ### Accessibility
 
