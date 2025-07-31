@@ -1,15 +1,14 @@
 ---
 title: "Airflow and Optimised Data Platform: Setup & Customisations"
-slug: airflow-and-optimised-data-platform
+slug: optimised-data-platform
 speakers:
  - M Waqas Shahid
-time_start: 2025-10-07 09:10:00
-time_end: 2025-10-07 10:05:00
-room: 
-topics:
- - Workshop
+time_start: 2025-10-09 14:00:00
+time_end: 2025-10-09 16:30:00
+workshop2025: true
+room: 305
 track: 
-day: 
+day: 202503
 timeslot: 
 gridarea: 
 images: 

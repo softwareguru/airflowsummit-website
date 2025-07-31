@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Get started with Airflow 3.0"
+title: "Get started with Airflow 3.0"
 slug: get-started-with-airflow-3-0
 speakers:
  - Kenten Danas
