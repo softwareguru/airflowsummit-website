@@ -2,7 +2,8 @@
 title: "Agentic AI Automating Semantic Layer Updates with Airflow 3"
 slug: agentic-ai-automating-semantic-layer-updates-with-airflow-3
 speakers:
- - Scott Mitchell
+ - Andres Astorga Espriella
+ - Soren Archibald
 topics:
  - Airflow 3
 time_start: 2025-10-07 9:00:00
