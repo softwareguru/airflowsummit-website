@@ -9,26 +9,19 @@ title: "Venue"
 <p>The Hyatt Regency Seattle, situated in the heart of the Emerald City, Seattle 808 Howell Street, is the largest hotel in the Pacific Northwest. This hotel provides spacious rooms and suites with a view to cityscapes of downtown including Washington’s Lake Union or Elliott Bay. It also has in-house restaurants and bars.
 </p>
 
-<br>
+<p>It is within walking distance of several iconic attractions such as the Space Needle, Pike Place Market, and Lake Union Park, allowing attendees to explore the city during their visit as well as Seattle's rich culture and history. Additionally, the Hyatt Regency Seattle is the city's first LEED Gold-Certified hotel, reflecting a commitment to environmental sustainability.<p>
 
-<h2>Stay at the event venue!</h2>
-
-<p class="mb-4">Participants will have a special average rate of $309 USD per night. (Service and taxes not included).</p>
-
-
-<a href="https://www.hyatt.com/en-US/group-booking/SEARS/G-AIRF" target="_blank">
+<a href="https://www.hyatt.com/shop/rooms/sears?location=Hyatt%20Regency%20Seattle&checkinDate=2025-10-06&checkoutDate=2025-10-09&rooms=1&adults=1&kids=0" target="_blank">
   <button class="btn mb-4 btn-rounded btn-primary hero-button mx-auto d-block">Book a room</button>
 </a>
 
 </div>
+
 <div class="col-lg-6">
-
-<img src="/images/venue/hyatt-seattle.jpg" class="img-fluid">
-
+  <img src="/images/venue/hyatt-seattle.jpg" class="img-fluid">
 </div>
 </div>
 <br>
-<p>It is within walking distance of several iconic attractions such as the Space Needle, Pike Place Market, and Lake Union Park, allowing attendees to explore the city during their visit as well as Seattle's rich culture and history. Additionally, the Hyatt Regency Seattle is the city's first LEED Gold-Certified hotel, reflecting a commitment to environmental sustainability.<p>
 </div>
 
 <br>
