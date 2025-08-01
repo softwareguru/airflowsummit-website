@@ -6,8 +6,11 @@ speakers:
 topics:
  - Workshop
 workshop2025: true
-time_start: 2025-10-07 9:00:00
-time_end: 2025-10-07 9:45:00
+time_start: 2025-10-09 10:30:00
+time_end: 2025-10-09 13:00:00
+room: 306
+day: 202503
+summary: "Transform your data pipelines with event-driven scheduling in Airflow 3."
 ---
 
 Transform your data pipelines with event-driven scheduling in Airflow 3. In this hands-on workshop, you’ll:

@@ -6,8 +6,11 @@ speakers:
 topics:
  - Workshop
 workshop2025: true
-time_start: 2025-10-07 9:00:00
-time_end: 2025-10-07 9:45:00
+time_start: 2025-10-08 10:30:00
+time_end: 2025-10-08 13:00:00
+room: 301
+day: 202502
+summary: "Get hands-on experience with the new release and learn how to leverage new features like DAG versioning, backfills, data assets, and a new react-based UI."
 ---
 
 Airflow 3.0 is the most significant release in the project’s history, and brings a better user experience, stronger security, and the ability to run tasks anywhere, at any time. In this workshop, you’ll get hands-on experience with the new release and learn how to leverage new features like DAG versioning, backfills, data assets, and a new react-based UI. 

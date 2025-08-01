@@ -5,28 +5,44 @@
         {{ .Content }}
     </p>
 
-    <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
-      <thead>
-        <tr>
-          <th data-field="title" data-sortable="true">Title</th>
-        </tr>
-      </thead>
-        <tbody>
-            {{ range where (where .Site.Pages.ByTitle "Type" "sessions") ".Params.workshop2025" true }}
-              
-            <tr>
-                <td data-toggle="collapse" data-target="#abs-{{.File.TranslationBaseName}}" class="session-toggler">
-                    <h4 class="mb-0">
-                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
-                    </h4>
+    <h3>Wednesday, Oct-8th</h3>
+    <div class="row">
+    {{ range sort (where (where (where .Site.Pages "Type" "sessions") ".Params.workshop2025" true) ".Params.day" 202502) ".Params.time_start" }}              
+      {{ $time_start := .Params.time_start | time }}
+      {{ $time_end := .Params.time_end | time }}
+ 
+      <div class="col-12 col-lg-4">
+        <div class="card mx-2 my-3">
+          <div class="card-body">
+            <h6><em>{{ $time_start.Format "15:04" }}-{{ $time_end.Format "15:04" }}</em></h6>
+            <h5 class="card-title">{{.Title}}</h4>
+            <h6 class="card-stubtitle">by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</h5>
+            <div class="card-text">{{.Summary}}</div>
+            <a class="card-link" href="{{.Permalink}}">More details</a>
+          </div>
+        </div>
+      </div>
+    {{ end }}  
 
-                    <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
-                
-                  </td>
-            </tr>
-            {{ end }}
-        </tbody>
-    </table>
+    <h3>Thursday, Oct-9th</h3>
+    <div class="row">
+    {{ range sort (where (where (where .Site.Pages "Type" "sessions") ".Params.workshop2025" true) ".Params.day" 202503) ".Params.time_start" }}              
+      {{ $time_start := .Params.time_start | time }}
+      {{ $time_end := .Params.time_end | time }}
+ 
+      <div class="col-12 col-lg-4">
+        <div class="card mx-2 my-3">
+          <div class="card-body">
+            <h6><em>{{ $time_start.Format "15:04" }}-{{ $time_end.Format "15:04" }}</em></h6>
+            <h5 class="card-title">{{.Title}}</h4>
+            <h6 class="card-stubtitle">by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</h5>
+            <div class="card-text">{{.Summary}}</div>
+            <a class="card-link" href="{{.Permalink}}">More details</a>
+          </div>
+        </div>
+      </div>
+
+      {{ end }}
 
 </div>
 

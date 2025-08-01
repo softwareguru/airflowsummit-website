@@ -17,6 +17,7 @@ images:
 
 slides:
 video: 
+summary: "This workshop will cover a step-by-step guide to Cosmos, an open-source package that helps you quickly run your dbt Core projects as Airflow DAGs and Task Groups."
 ---
 
 As a popular open-source library for analytics engineering, dbt is often combined with Airflow. Orchestrating and executing dbt models as DAGs ensures an additional layer of control over tasks, observability, and provides a reliable, scalable environment to run dbt models.
