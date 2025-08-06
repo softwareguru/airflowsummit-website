@@ -9,6 +9,7 @@ topics:
  - Airflow & ...
 time_start: 2025-10-07 9:00:00
 time_end: 2025-10-07 9:45:00
+draft: true
 ---
 
 As a popular open-source library for analytics engineering, dbt is often combined with Airflow. Orchestrating and executing dbt models as DAGs ensures an additional layer of control over tasks, observability, and provides a reliable, scalable environment to run dbt models. 
