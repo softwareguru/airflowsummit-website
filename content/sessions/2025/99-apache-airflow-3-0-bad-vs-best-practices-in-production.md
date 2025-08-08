@@ -1,21 +1,17 @@
 ---
-title: "Make sure bullet points show up as list of bullet points"
-slug: make-sure-bullet-points-show-up-as-list-of-bullet-points
-aliases: apache-airflow-3-bad-vs-best-practices
+title: "Apache Airflow 3.0 - Bad vs. Best Practices In Production"
+slug: apache-airflow-3-0-bad-vs-best-practices-in-production
 speakers:
  - Bhavani Ravi
-time_start: 2025-10-07 09:10:00
-time_end: 2025-10-07 10:05:00
-room: 
-track: 
-day: 
-timeslot: 
-gridarea: 
-images: 
-
+time_start: 2025-10-08 15:45:00
+time_end: 2025-10-08 16:10:00
+room: Columbia C
+track: Best practices
+day: 20252
+timeslot: 99
+gridarea: 14/3/15/4
 slides:
-video: 
-draft: true
+video:
 ---
 
 The general-purpose nature of Airflow has always left us questioning, "Is this the right way"? While the existing resources and community cover them, the new Airflow releases always leave us wondering if there is more

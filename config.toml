@@ -84,7 +84,7 @@ speaker = "speakers"
   [[menu.main]]
     identifier="program-sessionize"
     name = "Full schedule"
-    URL = "/program-sessionize"
+    URL = "/program"
     parent="program"
     weight = 1
 

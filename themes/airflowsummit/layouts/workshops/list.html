@@ -7,7 +7,7 @@
 
     <h3>Wednesday, Oct-8th</h3>
     <div class="row">
-    {{ range sort (where (where (where .Site.Pages "Type" "sessions") ".Params.workshop2025" true) ".Params.day" 202502) ".Params.time_start" }}              
+    {{ range sort (where (where (where .Site.Pages "Type" "sessions") ".Params.workshop2025" true) ".Params.day" 20252) ".Params.time_start" }}              
       {{ $time_start := .Params.time_start | time }}
       {{ $time_end := .Params.time_end | time }}
  
@@ -26,7 +26,7 @@
 
     <h3>Thursday, Oct-9th</h3>
     <div class="row">
-    {{ range sort (where (where (where .Site.Pages "Type" "sessions") ".Params.workshop2025" true) ".Params.day" 202503) ".Params.time_start" }}              
+    {{ range sort (where (where (where .Site.Pages "Type" "sessions") ".Params.workshop2025" true) ".Params.day" 20253) ".Params.time_start" }}              
       {{ $time_start := .Params.time_start | time }}
       {{ $time_end := .Params.time_end | time }}
  
