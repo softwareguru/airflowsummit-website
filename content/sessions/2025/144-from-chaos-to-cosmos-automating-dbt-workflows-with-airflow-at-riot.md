@@ -16,6 +16,7 @@ timeslot: 144
 gridarea: 8/3/9/4
 slides:
 video:
+draft: true
 ---
 
 Breaking Barriers in Data Orchestration:
