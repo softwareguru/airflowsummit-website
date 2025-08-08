@@ -11,7 +11,9 @@ title: "Venue"
 
 <p>It is within walking distance of several iconic attractions such as the Space Needle, Pike Place Market, and Lake Union Park, allowing attendees to explore the city during their visit as well as Seattle's rich culture and history. Additionally, the Hyatt Regency Seattle is the city's first LEED Gold-Certified hotel, reflecting a commitment to environmental sustainability.<p>
 
-<a href="https://www.hyatt.com/shop/rooms/sears?location=Hyatt%20Regency%20Seattle&checkinDate=2025-10-06&checkoutDate=2025-10-09&rooms=1&adults=1&kids=0" target="_blank">
+<p>You can get a 15% discount from the standard rate by using the discount code "SEASOC" or by clicking on the following button.</p>
+
+<a href="https://www.hyatt.com/shop/rooms/sears?checkinDate=2025-10-06&checkoutDate=2025-10-09&rooms=1&adults=1&kids=0&offercode=SEASOC&accessibilityCheck=false" target="_blank">
   <button class="btn mb-4 btn-rounded btn-primary hero-button mx-auto d-block">Book a room</button>
 </a>
 
