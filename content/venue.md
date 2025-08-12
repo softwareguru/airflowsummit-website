@@ -1,8 +1,35 @@
 ---
-title: "Venue"
+title: ""
 ---
 
-<div class="container">
+<div class="" style="margin-top: -40px">
+  <div class="row align-items-center mt-4">
+   
+<h2 style="color: #0eb6ff">About Seattle</h2>
+      
+  <div class="row">
+    <div class="col-lg-8">
+
+<p>Seattle is an exceptional choice for hosting Airflow Summit 2025 due to its position as a thriving hub for technology, innovation, and sustainability. As home to major tech giants, the city fosters a vibrant ecosystem of data-driven solutions and forward-thinking companies, perfectly aligning with the ethos of the Airflow community. Its proximity to renowned academic institutions also ensures access to cutting-edge ideas and collaboration opportunities, further enriching the summit experience.</p>
+
+<p class="mt-3">Additionally, Seattle's scenic beauty, cultural vibrancy, and accessibility make it an attractive destination for attendees worldwide. Nestled between Puget Sound and the Cascade Mountains, the city offers breathtaking views and abundant opportunities for outdoor activities, providing the perfect balance of work and leisure. With its excellent infrastructure, international airport, and eco-conscious initiatives, Seattle underscores its role as a global leader in innovation and sustainability, key values that resonate with the Airflow community.</p>
+
+</div>
+
+<div class="col-lg-4 text-center">
+  <div class="row mx-auto d-block">
+    <div class="col">
+      <img src="/images/venue/seattle-4.jpg" class="mx-auto d-block" width="400px">
+      <p>Artwork © Chihuly Studio</p>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="mt-2">
+
+<h2 style="color: #0eb6ff">Venue</h2>
   <div class="row">
     <div class="col-lg-6">
       
@@ -27,26 +54,7 @@ title: "Venue"
 <br>
 </div>
 
-
-For other hotel options, we recommend for you to stay in one of the following:
-* <a href="https://www.guestreservations.com/the-paramount-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=988696232&gad_source=1&gad_campaignid=988696232&gbraid=0AAAAADiMQMbSDY6Tdv01RRTXoqq5eMSN1&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfw0MNRjeUJ5h49H_BF-CgcdChzkQuPVfBYZFuZhZkFK7XF4C222UEYaApztEALw_wcB" target="_blank">The Paramount Hotel</a>: 724 Pine Street, Seattle, WA, 98101, US
-
-3 minute walk from the venue.
-
-
-* <a href="https://www.guestreservations.com/hyatt-at-olive-8/booking?utm_source=google&utm_medium=cpc&utm_campaign=989756590&gad_source=1&gad_campaignid=989756590&gbraid=0AAAAADiMQMbZyttb-eA19Vi655Mw2uJv_&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfw7pYY8UR-_149X1WFImTpvdPklfu1oRIXyOiQ_ZzfA1DiuFRvprXYaAuJpEALw_wcB" target="_blank">Hyatt at Olive 8</a>:
-1635 8th Avenue, Seattle, WA, 98101, US
-
-2 minute walk from the venue.
-
-* <a href="https://www.guestreservations.com/residence-inn-by-marriott-seattle-downtownconvention-center/booking?utm_source=google&utm_medium=cpc&utm_campaign=16981602887&gad_source=1&gad_campaignid=16981602887&gbraid=0AAAAADiMQMaZDwsUYprysLv9aQkEq9DZv&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfwlCUitC-R0jSQZrYWif9sFOJKWBCittOYAftxRHvehsFbLbirW534aAiImEALw_wcB" target="_blank">Residence Inn by Marriott Seattle Downtown/Convention Center</a>:
-1815 Terry Avenue, Seattle, WA, 98101, US 
-
-2 minute walk from the venue. 
-
-<br>
-
-<div class="container text-center">
+<div class="container text-center mb-4">
   <div class="row">
     <div class="col">
       <img src="/images/venue/seattle-1.jpg" class="img-fluid">
@@ -61,13 +69,27 @@ For other hotel options, we recommend for you to stay in one of the following:
 </div>
 
 
-<div class="container">
-  <div class=" row align-items-center mt-4">
-   
-<h2 style="color: #0eb6ff">About Seattle</h2>
-      
-<p class="mt-3">Seattle is an exceptional choice for hosting Airflow Summit 2025 due to its position as a thriving hub for technology, innovation, and sustainability. As home to major tech giants, the city fosters a vibrant ecosystem of data-driven solutions and forward-thinking companies, perfectly aligning with the ethos of the Airflow community. Its proximity to renowned academic institutions also ensures access to cutting-edge ideas and collaboration opportunities, further enriching the summit experience.</p>
+<div class="mt-4">
+  <div class="row">
+    <div class="col-md-8">
+      <h3>For other hotel options, we recommend for you to stay in one of the following:</h3>
 
-<p>Additionally, Seattle's scenic beauty, cultural vibrancy, and accessibility make it an attractive destination for attendees worldwide. Nestled between Puget Sound and the Cascade Mountains, the city offers breathtaking views and abundant opportunities for outdoor activities, providing the perfect balance of work and leisure. With its excellent infrastructure, international airport, and eco-conscious initiatives, Seattle underscores its role as a global leader in innovation and sustainability, key values that resonate with the Airflow community.</p>
+* <a href="https://www.guestreservations.com/the-paramount-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=988696232&gad_source=1&gad_campaignid=988696232&gbraid=0AAAAADiMQMbSDY6Tdv01RRTXoqq5eMSN1&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfw0MNRjeUJ5h49H_BF-CgcdChzkQuPVfBYZFuZhZkFK7XF4C222UEYaApztEALw_wcB" target="_blank">The Paramount Hotel</a> (3 minute walk from the venue.)
+
+
+* <a href="https://www.guestreservations.com/hyatt-at-olive-8/booking?utm_source=google&utm_medium=cpc&utm_campaign=989756590&gad_source=1&gad_campaignid=989756590&gbraid=0AAAAADiMQMbZyttb-eA19Vi655Mw2uJv_&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfw7pYY8UR-_149X1WFImTpvdPklfu1oRIXyOiQ_ZzfA1DiuFRvprXYaAuJpEALw_wcB" target="_blank">Hyatt at Olive 8</a> (2 minute walk from the venue.)
+
+* <a href="https://www.guestreservations.com/residence-inn-by-marriott-seattle-downtownconvention-center/booking?utm_source=google&utm_medium=cpc&utm_campaign=16981602887&gad_source=1&gad_campaignid=16981602887&gbraid=0AAAAADiMQMaZDwsUYprysLv9aQkEq9DZv&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfwlCUitC-R0jSQZrYWif9sFOJKWBCittOYAftxRHvehsFbLbirW534aAiImEALw_wcB" target="_blank">Residence Inn by Marriott Seattle Downtown/Convention Center</a> <br>(2 minute walk from the venue.)
+
+    </div>
+
+    <div class="col-md-4 text-center">
+      <img src="/images/venue/seattle-5.jpg" class="img-fluid mx-auto d-block">
+      <p>Artwork © Chihuly Studio</p>
+    </div>
+
+  </div>
 </div>
+
+
 </div>
