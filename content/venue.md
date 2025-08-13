@@ -31,7 +31,7 @@ title: ""
 
 <h2 style="color: #0eb6ff">Venue</h2>
   <div class="row">
-    <div class="col-lg-6">
+    <div class="col-lg-8">
       
 <p>The Hyatt Regency Seattle, situated in the heart of the Emerald City, Seattle 808 Howell Street, is the largest hotel in the Pacific Northwest. This hotel provides spacious rooms and suites with a view to cityscapes of downtown including Washington’s Lake Union or Elliott Bay. It also has in-house restaurants and bars.
 </p>
@@ -47,9 +47,15 @@ title: ""
 </div>
 
 
-<div class="col-lg-6">
-  <img src="/images/venue/hyatt-seattle.jpg" class="img-fluid">
+<div class="col-lg-4 text-center">
+  <div class="row mx-auto d-block">
+    <div class="col">
+       <img src="/images/venue/hyatt-seattle.jpg" class="mx-auto d-block" width="400px">
+    </div>
+  </div>
 </div>
+
+
 </div>
 <br>
 </div>
@@ -71,7 +77,7 @@ title: ""
 
 <div class="mt-4">
   <div class="row">
-    <div class="col-md-8">
+    <div class="col-md-9">
       <h3>For other hotel options, we recommend for you to stay in one of the following:</h3>
 
 * <a href="https://www.guestreservations.com/the-paramount-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=988696232&gad_source=1&gad_campaignid=988696232&gbraid=0AAAAADiMQMbSDY6Tdv01RRTXoqq5eMSN1&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfw0MNRjeUJ5h49H_BF-CgcdChzkQuPVfBYZFuZhZkFK7XF4C222UEYaApztEALw_wcB" target="_blank">The Paramount Hotel</a> (3 minute walk from the venue.)
@@ -83,7 +89,7 @@ title: ""
 
     </div>
 
-    <div class="col-md-4 text-center">
+    <div class="col-md-3 text-center">
       <img src="/images/venue/seattle-5.jpg" class="img-fluid mx-auto d-block">
       <p>Artwork © Chihuly Studio</p>
     </div>
