@@ -132,7 +132,7 @@ days:
       - type: activity
         label: "Sponsored talk"
         gridarea: "4/4/5/5"
-        timelabel: "10:00 - 10:30"
+        timelabel: "10:30 - 10:55"
         gridaream: "6/1/7/2"
 
       - type: timelabel
@@ -142,7 +142,7 @@ days:
       - type: activity
         label: "Sponsored talk"
         gridarea: "5/4/6/5"
-        timelabel: "10:00 - 10:30"
+        timelabel: "11:00 - 11:25"
         gridaream: "13/1/14/2"
 
       - type: timelabel
@@ -152,8 +152,8 @@ days:
       - type: activity
         label: "Sponsored talk"
         gridarea: "6/4/7/5"
-        timelabel: "10:00 - 10:30"
-        gridaream: "20/1/21/2"
+        timelabel: "11:30 - 11:55"
+        gridaream: "17/1/18/2"
 
       - type: timelabel
         label: "12:30"
@@ -165,8 +165,8 @@ days:
       - type: activity
         label: "Lunch"
         gridarea: "8/2/9/9"
-        timelabel: "13:30 - 14:30"
-        gridaream: "32/1/33/2"
+        timelabel: "13:00 - 14:00"
+        gridaream: "23/1/24/2"
 
       - type: timelabel
         label: "14:00"
@@ -176,7 +176,7 @@ days:
         label: "Workshop TBD"
         gridarea: "9/6/14/7"
         timelabel: "14:00 - 16:30"
-        gridaream: "37/1/38/2"
+        gridaream: "28/1/29/2"
 
       - type: timelabel
         label: "14:30"
@@ -193,7 +193,7 @@ days:
         label: "Coffee break"
         gridarea: "12/2/13/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "54/1/55/2"
+        gridaream: "39/1/40/2"
 
       - type: timelabel
         label: "15:45"
@@ -262,7 +262,7 @@ days:
         label: "Lunch"
         gridarea: "9/2/10/9"
         timelabel: "13:00 - 14:00"
-        gridaream: "39/1/40/2"
+        gridaream: "26/1/27/2"
 
       - type: timelabel
         label: "14:00"
@@ -272,7 +272,7 @@ days:
         label: "Invited talk"
         gridarea: "10/4/11/5"
         timelabel: "14:00 - 14:25"
-        gridaream: "42/1/43/2"
+        gridaream: "29/1/30/2"
 
       - type: timelabel
         label: "14:30"
@@ -289,7 +289,7 @@ days:
         label: "Coffee break"
         gridarea: "14/2/15/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "61/1/62/2"
+        gridaream: "42/1/43/2"
       
       - type: timelabel
         label: "15:45"
@@ -315,7 +315,7 @@ days:
         label: "Lightning talk"
         gridarea: "19/2/20/9"
         timelabel: "17:35 - 17:40"
-        gridaream: "84/1/85/2"
+        gridaream: "54/1/55/2"
 
       - type: timelabel
         label: "17:40"
@@ -324,7 +324,7 @@ days:
         label: "Lightning talk"
         gridarea: "20/2/21/9"
         timelabel: "16:40 - 17:45"
-        gridaream: "85/1/86/2"
+        gridaream: "55/1/56/2"
 
       - type: timelabel
         label: "17:45"
@@ -333,7 +333,7 @@ days:
         label: "Lightning talk"
         gridarea: "21/2/22/9"
         timelabel: "17:45 - 17:50"
-        gridaream: "86/1/87/2"
+        gridaream: "56/1/57/2"
 
       - type: timelabel
         label: "17:50"
@@ -342,7 +342,7 @@ days:
         label: "Lightning talk"
         gridarea: "22/2/23/9"
         timelabel: "17:50 - 17:55"
-        gridaream: "87/1/88/2"
+        gridaream: "57/1/88/2"
 
       - type: timelabel
         label: "18:00"
@@ -351,7 +351,7 @@ days:
         label: "Event wrap-up"
         gridarea: "23/2/24/9"
         timelabel: "18:00 - 18:15"
-        gridaream: "88/1/89/2"
+        gridaream: "58/1/59/2"
         
 
 
