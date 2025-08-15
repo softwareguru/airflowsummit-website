@@ -3,6 +3,7 @@ title: "Airflow & Bigtop: Modernize and integrate time-proven OSS stack with Apa
 slug: airflow-bigtop-modernize-and-integrate-time-proven-oss-stack-with-apache-airflow
 speakers:
  - Kengo Seki
+ - Masatake Iwasaki
 topics:
  - Airflow & ...
 time_start: 2025-10-08 12:30:00

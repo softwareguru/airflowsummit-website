@@ -3,7 +3,7 @@ title: "Simplifying Data Lineage: How OpenLineage Empowers Airflow and Beyond"
 slug: simplifying-data-lineage-how-openlineage-empowers-airflow-and-beyond
 speakers:
  - Harel Shein
- - Maciej Obuchowski
+ - Julien Le Dem
 topics:
  - Airflow & ...
 time_start: 2025-10-08 15:00:00

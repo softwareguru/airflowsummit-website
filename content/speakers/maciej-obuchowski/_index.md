@@ -8,7 +8,6 @@ linkedin: https://www.linkedin.com/in/maciejobuchowski/
 events:
  - 2023
  - 2024
- - 2025
 ---
 
 Maciej is a Senior Software Engineer at Datadog, Apache Airflow and OpenLineage committer. 
