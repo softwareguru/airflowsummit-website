@@ -1,5 +1,5 @@
 ---
-title: "Jon Hiett"
+title: "John Hiett"
 date: 2025-08-07T22:59:07-06:00
 images: 
  - /images/speakers/jon-hiett.png

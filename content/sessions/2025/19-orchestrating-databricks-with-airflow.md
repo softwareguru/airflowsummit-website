@@ -2,7 +2,8 @@
 title: "Orchestrating Databricks with Airflow: Unlocking the Power of MVs, Streaming Tables, and AI"
 slug: orchestrating-databricks-with-airflow
 speakers:
- - Denny Lee
+ - Shanelle Roman
+ - Tahir Fayyaz
 time_start: 2025-10-07 14:30:00
 time_end: 2025-10-07 14:55:00
 room: Columbia D
