@@ -129,11 +129,7 @@ days:
         label: "10:30"
         gridarea: "4/1/5/2"
 
-      - type: activity
-        label: "Sponsored talk"
-        gridarea: "4/4/5/5"
-        timelabel: "10:30 - 10:55"
-        gridaream: "6/1/7/2"
+
 
       - type: timelabel
         label: "11:00"

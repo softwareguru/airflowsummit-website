@@ -1,14 +1,14 @@
 ---
 title: "Julian LaNeve"
-designation: "CTO, Astronomer"
+designation: "Chief Technology Officer at Astronomer"
 images: 
- - /images/speakers/julian-laneve.jpg
+ - /images/speakers/julian-laneve.png
 events:
  - 2023
  - 2024
+ - 2025
 linkedin: https://www.linkedin.com/in/julianlaneve
 twitter: https://www.twitter.com/julianlaneve
-
 ---
 
-CTO at Astronomer driving product and technology for our commercial and open-source projects. Lives in NYC.
+Julian LaNeve is the Chief Technology Officer at Astronomer, where he leads product and engineering efforts. He works closely with the open-source community, advancing Airflow’s reliability and scalability, and frequently shares insights on building modern data and AI workflows.
