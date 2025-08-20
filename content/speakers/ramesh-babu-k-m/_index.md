@@ -2,15 +2,17 @@
 title: "Ramesh Babu K M"
 date: 2024-06-10T23:00:32-06:00
 images: 
- - /images/speakers/ramesh-babu-k-m.jpg
-designation: Engineering Manager, Analytics Data Team - Autodesk
+ - /images/speakers/ramesh-babu-k-m.png
+designation: Procore, Sr Engineering Manager
 twitter: 
 linkedin: https://www.linkedin.com/in/rameshbabukm
 github: 
 events:
  - 2024
+ - 2025
 ---
 
-Ramesh an experienced Software professional with 18+yrs of experience coming from Software Engineering background and worked in different roles as a Developer, Architect and Engineering Leader. In my current role I lead Design and development of Data Ingestion team within Autodesk Data Engineering platform, spear heading architecture, design and product delivery.​
+Seasoned engineering leader with over 19+ years into the Software industry and been part part of building platform for IAM, Data Engineering domains. Have lead Data Ingestion and processing teams in my prior experience.
 
-
+Have also lead E&U Cloud at Salesforce, and focussed on Digital Transformation & driving agile values across teams.
+I have been developer, lead, architect at my previous roles.

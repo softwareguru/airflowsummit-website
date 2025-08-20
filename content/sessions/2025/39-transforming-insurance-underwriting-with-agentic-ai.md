@@ -5,13 +5,13 @@ speakers:
  - Peeyush Rai
 topics:
  - Airflow & ...
-time_start: 2025-10-09 12:00:00
-time_end: 2025-10-09 12:25:00
-room: Columbia C
+time_start: 2025-10-09 09:30:00
+time_end: 2025-10-09 10:00:00
+room: Columbia A
 track: Airflow & ...
-day: 20253
-timeslot: 137
-gridarea: 7/3/8/4
+day: 20252
+timeslot: 39
+gridarea: 2/2/3/9
 slides:
 video:
 ---
