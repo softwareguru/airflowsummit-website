@@ -13,7 +13,8 @@ track: Use cases
 day: 20251
 timeslot: 30
 gridarea: 12/2/13/3
-images: 
+images:
+ - /images/sessions/2025/airflow-at-zoox-a-journey-to-orchestrate-heterogeneous-workflows.png 
 slides:
 video: 
 ---

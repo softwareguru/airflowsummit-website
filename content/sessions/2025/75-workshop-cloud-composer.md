@@ -14,6 +14,8 @@ gridarea: 9/8/14/9
 slides:
 video:
 summary: "Learn the latest features published within Cloud Composer which is a managed service for Apache Airflow on Google Cloud Platform."
+images:
+ - /images/sessions/2025/cloud-composer.png
 ---
 
 During this workshop you are going to learn the latest features published within Cloud Composer which is a managed service for Apache Airflow on Google Cloud Platform.

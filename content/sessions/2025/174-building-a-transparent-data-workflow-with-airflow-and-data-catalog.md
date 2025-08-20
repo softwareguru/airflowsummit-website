@@ -14,6 +14,8 @@ timeslot: 174
 gridarea: 15/3/16/4
 slides:
 video:
+images:
+ - /images/sessions/2025/building-a-transparent-data-workflow-with-airflow-and-data-catalog.png
 ---
 
 As modern data ecosystems grow in complexity, ensuring transparency, discoverability, and governance in data workflows becomes critical. Apache Airflow, a powerful workflow orchestration tool, enables data engineers to build scalable pipelines, but without proper visibility into data lineage, ownership, and quality, teams risk operating in a black box.

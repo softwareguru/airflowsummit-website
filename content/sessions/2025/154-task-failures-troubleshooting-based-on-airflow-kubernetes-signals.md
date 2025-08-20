@@ -14,6 +14,8 @@ timeslot: 154
 gridarea: 10/5/11/6
 slides:
 video:
+images:
+ - /images/sessions/2025/task-failures-troubleshooting-based-on-airflow-kubernetes-signals.png
 ---
 
 Per Airflow community survey, Kubernetes is the most popular compute platform used to run Airflow and when run on Kubernetes, Airflow gains, out of the box, lots of benefits like monitoring, reliability, ease of deployment, scalability and autoscaling. On the other hand, running Airflow on Kubernetes means running a sophisticated distributed system on another distributed system which makes troubleshooting of Airflow tasks and DAGs failures harder. 

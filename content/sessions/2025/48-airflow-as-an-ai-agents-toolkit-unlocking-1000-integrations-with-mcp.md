@@ -13,6 +13,7 @@ day: 20252
 timeslot: 48
 gridarea: 5/2/6/3
 images:
+ - /images/sessions/2025/airflow-as-an-ai-agents-toolkit.png
 slides:
 video:
 ---

@@ -14,6 +14,8 @@ timeslot: 106
 gridarea: 15/3/16/4
 slides:
 video:
+images:
+ - /images/sessions/2025/run-airflow-tasks-on-your-coffee-machine.png
 ---
 
 Airflow 3 comes with two new features: Edge execution and the task SDK. Powered by a HTTP API, these make it possible to write and execute Airflow tasks in any language from anywhere.

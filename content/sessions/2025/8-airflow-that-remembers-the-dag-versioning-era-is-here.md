@@ -14,6 +14,7 @@ day: 20251
 timeslot: 8
 gridarea: 5/2/6/3
 images: 
+ - /images/sessions/2025/airflow-that-remembers-the-dag-versioning-era-is-here.png
 slides:
 video:
 ---

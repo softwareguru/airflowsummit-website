@@ -16,6 +16,8 @@ timeslot: 61
 gridarea: 7/2/8/3
 slides:
 video:
+images:
+ - /images/sessions/2025/airflow-3-ui-is-not-enough-add-a-plugin.png
 ---
 
 In Airflow 2 there was a plugin mechanism to extend the UI for new functions as well as be able to add hooks and other features.

@@ -13,6 +13,7 @@ day: 20251
 timeslot: 5
 gridarea: 4/3/5/4
 images: 
+ - /images/sessions/2025/why-aws-chose-apache-airflow-to-power-workflows-for-the-next-generation-of-amazon-sagemaker.png
 slides:
 video:
 ---

@@ -15,6 +15,8 @@ timeslot: 76
 gridarea: 10/2/11/3
 slides:
 video:
+images:
+ - /images/sessions/2025/airflow-3s-trigger-ui-evolution-of-params.png
 ---
 
 Are you looking to build slick, dynamic trigger forms for your DAGs? It all starts with mastering params.

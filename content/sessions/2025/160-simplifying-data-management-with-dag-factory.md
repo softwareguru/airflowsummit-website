@@ -15,6 +15,8 @@ timeslot: 160
 gridarea: 11/4/12/5
 slides:
 video:
+images:
+ - /images/sessions/2025/simplifying-data-management-with-dag-factory.png
 ---
 
 At OLX, we connect millions of people daily through our online marketplace while relying on robust data pipelines. In this talk, we explore how the DAG Factory concept elevates data governance, lineage, and discovery by centralizing operator logic and restricting direct DAG creation. This approach enforces code quality, optimizes resources, maintains infrastructure hygiene and enables smooth version upgrades. We then leverage consistent naming conventions in Airflow to build targeted namespaces, aligning teams with global policies while preserving autonomy. Integrating external tools like AWS Lake Formation and Open Metadata further unifies governance, making it straightforward to manage and secure data. This is critical when handling hundreds or even thousands of active DAGs.

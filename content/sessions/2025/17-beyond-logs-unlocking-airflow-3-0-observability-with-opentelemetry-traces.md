@@ -13,6 +13,7 @@ day: 20251
 timeslot: 17
 gridarea: 8/2/9/3
 images: 
+ - /images/sessions/2025/beyond-logs-unlocking-airflow-3-0-observability-with-opentelemetry-traces.png
 slides:
 video:
 ---

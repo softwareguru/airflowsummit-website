@@ -14,6 +14,8 @@ timeslot: 156
 gridarea: 10/7/16/8
 slides:
 video: 
+images:
+ - /images/sessions/2025/optimised-data-platform.png
 ---
 
 Airflow has been used by many companies as a core part of their internal data platform. Would you be interested in finding out how Airflow could play a pivotal role in achieving data engineering excellence and efficiency using modern data architecture. The best practices, tools and setup to achieve a stable but yet cost effective way of running small or big workloads, let's find out!

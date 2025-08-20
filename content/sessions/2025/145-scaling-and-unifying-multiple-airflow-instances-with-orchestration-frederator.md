@@ -15,6 +15,8 @@ timeslot: 145
 gridarea: 8/4/9/5
 slides:
 video:
+images:
+ - /images/sessions/2025/scaling-and-unifying-multiple-airflow-instances.png
 ---
 
 In large organizations, multiple Apache Airflow instances often arise organically—driven by team-specific needs, distinct use cases, or tiered workloads. This fragmentation introduces complexity, operational overhead, and higher infrastructure costs. To address these challenges, we developed the "Orchestration Frederator," a solution designed to unify and horizontally scale multiple Airflow deployments seamlessly.

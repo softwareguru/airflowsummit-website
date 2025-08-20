@@ -15,6 +15,8 @@ timeslot: 71
 gridarea: 9/4/10/5
 slides:
 video:
+images:
+ - /images/sessions/2025/beyond-execution-dates.png
 ---
 
 In legacy Airflow 2.x, each DAG run was tied to a unique "execution_date." By removing this requirement, Airflow can now directly support a variety of new use cases, such as model training and generative AI inference, without the need for hacks and workarounds typically used by machine learning and AI engineers. 

@@ -15,6 +15,8 @@ timeslot: 123
 gridarea: 5/3/6/4
 slides:
 video:
+images:
+ - /images/sessions/2025/building-an-airflow-center.png
 ---
 
 As organizations scale their data infrastructure, Apache Airflow becomes a mission-critical component for orchestrating workflows efficiently. But scaling Airflow successfully isn’t just about running pipelines—it’s about building a Center of Excellence (CoE) that empowers teams with the right strategy, best practices, and long-term enablement.

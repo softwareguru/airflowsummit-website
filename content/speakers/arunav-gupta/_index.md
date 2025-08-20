@@ -9,7 +9,7 @@ linkedin:
 github: 
 events:
  - 2025
-draft: true
+draft: false
 ---
 
 Arunav is a Software Engineer at AWS, focusing on the SageMaker Unified Studio platform's Workflows and Orchestration feature. He holds a Masters in Data Science from NYU and has a background in Data Science and AI/ML. In his free time, he explores recent AI advancements and works on side projects.

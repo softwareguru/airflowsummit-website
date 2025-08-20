@@ -13,6 +13,7 @@ day: 20252
 timeslot: 42
 gridarea: 4/3/5/4
 images:
+ - /images/sessions/2025/airflow-3-an-open-heart-surgery.png
 slides:
 video:
 ---

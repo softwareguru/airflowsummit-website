@@ -16,6 +16,8 @@ timeslot: 78
 gridarea: 10/4/11/5
 slides:
 video:
+images:
+ - /images/sessions/2025/building-mlops-platform.png
 ---
 
 As your organization scales to 20+ data science teams and 300+ DS/ML/DE engineers, you face a critical challenge: how to build a secure, reliable, and scalable orchestration layer that supports both fast experimentation and stable production workflows. We chose Airflow — and didn’t regret it! But to make it truly work at our scale, we had to rethink its architecture from the ground up.

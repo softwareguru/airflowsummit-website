@@ -16,7 +16,7 @@ gridarea: 7/5/8/6
 slides:
 video:
 images:
- - /images/sessions/2025/airflow-bigtop.png
+ - /images/sessions/2025/airflow-bigtop-modernize-and-integrate-time-proven-oss-stack-with-apache-airflow.png
 ---
 
 Apache Bigtop is a time-proven open-source software stack for building data platform, which has been built around the Hadoop and Spark ecosystem since 2011. Its software composition has been changed during such a long period, and recently job scheduler is removed mainly due to the inactivity of its development. The speaker believes that Airflow perfectly fits into this gap and is proposing incorporating it in the Bigtop stack. This presentation will introduce how easily users can build a data platform with Bigtop including Airflow, and how Airflow can integrate those software with its wide range of providers and enterprise-readiness such as the Kerberos support.

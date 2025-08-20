@@ -9,7 +9,7 @@ linkedin:
 github: 
 events:
  - 2025
-draft: true
+draft: fa;se
 ---
 
 Yuhang Huang is a Software Development Manager on the Amazon SageMaker Unified Studio team at AWS. He leads the engineering team to design, build, and operate scheduling and orchestration capabilities in SageMaker Unified Studio. In his free time, he enjoys playing tennis.

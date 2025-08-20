@@ -10,12 +10,12 @@ room: Columbia C
 track: Community
 day: 20253
 timeslot: 188
-gridarea: 17/2/18/3
+gridarea: 17/3/18/4
 images: 
 
 slides:
 video: 
-draft: true
+draft: false
 ---
 
 In this talk, we'll share our journey and lessons learned from developing a new open-source Airflow operator that integrates a newly-launched AWS service with the Airflow ecosystem. This real-world case study will illuminate the complete lifecycle of building an Airflow operator, from initial design to successful community contribution.

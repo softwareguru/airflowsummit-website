@@ -14,6 +14,8 @@ timeslot: 84
 gridarea: 11/3/12/4
 slides:
 video:
+images:
+ - /images/sessions/2025/building-airflow-3-setups-resilient.png
 ---
 
 Want to be resilient to any zonal/regional down events when building Airflow in a cloud environment? Unforeseen disruptions in cloud infrastructure, whether isolated to specific zones or impacting entire regions, pose a tangible threat to the continuous operation of critical data workflows managed by Airflow. These outages, though often technical in nature, translate directly into real-world consequences, potentially causing interruptions in essential services, delays in crucial information delivery, and ultimately impacting the reliability and efficiency of various operational processes that businesses and individuals depend upon daily. The inability to process data reliably due to infrastructure instability can cascade into tangible setbacks across diverse sectors, highlighting the urgent need for resilient and robust Airflow deployments.

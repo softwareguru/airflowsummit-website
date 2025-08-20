@@ -14,6 +14,8 @@ timeslot: 72
 gridarea: 9/5/10/6
 slides:
 video:
+images:
+ - /images/sessions/2025/seamless-integration-building-applications-that-leverage-airflow.png
 ---
 
 This session presents a comprehensive guide to building applications that integrate with Apache Airflow's database migration system. We'll explore how to harness Airflow's robust Alembic-based migration toolchain to maintain schema compatibility between Airflow and custom applications, enabling developers to create solutions that evolve alongside the Airflow ecosystem without disruption.
