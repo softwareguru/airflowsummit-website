@@ -14,6 +14,8 @@ timeslot: 85
 gridarea: 11/4/12/5
 slides:
 video:
+images:
+ - /images/sessions/2025/why-data-teams-keep-reinventing-the-wheel.png
 ---
 
 Data teams have a bad habit: reinventing the wheel. Despite the explosion of open-source tooling, best practices, and managed services, teams still find themselves building bespoke data platforms from scratch—often hitting the same roadblocks as those before them. Why does this keep happening, and more importantly, how can we break the cycle?

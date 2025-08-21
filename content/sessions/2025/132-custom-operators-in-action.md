@@ -12,6 +12,8 @@ timeslot: 132
 gridarea: 6/5/7/6
 slides:
 video:
+images:
+ - /images/sessions/2025/custom-operators-in-action.png
 ---
 
 Custom operators are the secret weapon for solving Airflow's unique & challenging orchestration problems.

@@ -11,6 +11,7 @@ day: 20251
 timeslot: 27
 gridarea: 11/3/12/4
 images: 
+ - /images/sessions/2025/airflow-without-borders.png
 slides:
 video: 
 ---

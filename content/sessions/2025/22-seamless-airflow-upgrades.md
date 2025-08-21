@@ -13,6 +13,7 @@ day: 20251
 timeslot: 22
 gridarea: 9/3/10/4
 images: 
+ - /images/sessions/2025/seamless-airflow-upgrades.png
 slides:
 video:
 ---

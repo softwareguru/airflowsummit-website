@@ -14,6 +14,8 @@ timeslot: 159
 gridarea: 11/3/12/4
 slides:
 video: 
+images:
+ - /images/sessions/2025/applyings-airflow-to-drive-the-digital.png
 ---
 
 Red Hat's unified data and AI platform relies on Apache Airflow for orchestration, alongside Snowflake, Fivetran, and Atlan. The platform prioritizes building a dependable data foundation, recognizing that effective AI depends on quality data. Airflow was selected for its predictability, extensive connectivity, reliability, and scalability.

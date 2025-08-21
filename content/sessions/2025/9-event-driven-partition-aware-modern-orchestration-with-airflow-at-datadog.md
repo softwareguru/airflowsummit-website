@@ -16,6 +16,7 @@ day: 20251
 timeslot: 9
 gridarea: 5/3/6/4
 images: 
+ - /images/sessions/2025/event-driven-partition-aware.png
 slides:
 video:
 ---

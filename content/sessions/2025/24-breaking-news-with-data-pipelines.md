@@ -12,6 +12,7 @@ day: 20251
 timeslot: 24
 gridarea: 9/5/10/6
 images: 
+ - /images/sessions/2025/breaking-news-with-data-pipelines.png
 slides:
 video:
 ---

@@ -14,6 +14,7 @@ day: 20251
 timeslot: 7
 gridarea: 4/5/5/6
 images: 
+ - /images/sessions/2025/benchmarking-the-performance-of-dynamically.png
 slides:
 video:
 ---

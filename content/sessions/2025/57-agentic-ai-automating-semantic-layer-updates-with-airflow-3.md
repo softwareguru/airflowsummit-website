@@ -15,6 +15,8 @@ timeslot: 57
 gridarea: 6/5/7/6
 slides:
 video:
+images:
+ - /images/sessions/2025/agentic-ai-automating-semantic-layer-updates.png
 ---
 
 In today’s dynamic data environments, tables and schemas are constantly evolving and keeping semantic layers up to date has become a critical operational challenge. Manual updates don't scale, and delays can quickly lead to broken dashboards, failed pipelines, and lost trust.

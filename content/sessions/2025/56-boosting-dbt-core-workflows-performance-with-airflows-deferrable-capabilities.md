@@ -16,6 +16,8 @@ timeslot: 56
 gridarea: 6/3/7/4
 slides:
 video:
+images:
+ - /images/sessions/2025/boosting-dbt-core-workflows-performance.png
 ---
 
 Efficiently handling long-running workflows is crucial for scaling modern data pipelines. Apache Airflow’s deferrable operators help offload tasks during idle periods — freeing worker slots while tracking progress.
