@@ -2,7 +2,7 @@
 title: "Airflow as a workflow for Self Service Based Ingestion"
 slug: airflow-as-a-workflow-for-self-service-based-ingestion
 speakers:
- - Ramesh Babu K M
+ - Ramesh Babu
 track: Best practices
 
 time_start: 2024-09-11 10:30:00
