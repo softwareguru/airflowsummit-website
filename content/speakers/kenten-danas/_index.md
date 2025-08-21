@@ -1,6 +1,6 @@
 ---
 title: "Kenten Danas"
-designation: "Manager, Developer Relations at Astronomer"
+designation: "Senior Manager of Developer Relations at Astronomer"
 images:
  - /images/speakers/kenten-danas.jpg
 twitter: 
