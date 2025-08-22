@@ -14,6 +14,8 @@ timeslot: 168
 gridarea: 12/5/13/6
 slides:
 video:
+images:
+ - /images/sessions/2025/aws-lambda-executor.png
 ---
 
 Apache Airflow's executor landscape has traditionally presented users with a clear trade-off: choose either the speed of local execution or the scalability, isolation and configurability of remote execution. The AWS Lambda Executor introduces a new paradigm that bridges this gap, offering near-local execution speeds with the benefits of remote containerization.

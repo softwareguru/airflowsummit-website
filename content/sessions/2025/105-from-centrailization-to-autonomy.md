@@ -12,6 +12,8 @@ timeslot: 105
 gridarea: 15/2/16/3
 slides:
 video:
+images:
+ - /images/sessions/2025/from-centrailization-to-autonomy.png
 ---
 
 At the enterprise level, managing Airflow deployments across multiple teams can become complex, leading to bottlenecks and slowed development cycles. We will share our journey of decentralizing Airflow repositories to empower data engineering teams with multi-tenancy, clean folder structures, and streamlined DevOps processes.

@@ -14,6 +14,7 @@ day: 20252
 timeslot: 47
 gridarea: 4/8/8/9
 images:
+ - /images/sessions/2025/unleash-airflows-potential-with-hands.png
 slides:
 video:
 summary: "This interactive workshop session empowers you to unlock the full potential of Apache Airflow through performance optimization techniques."

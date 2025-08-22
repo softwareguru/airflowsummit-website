@@ -13,6 +13,8 @@ timeslot: 183
 gridarea: 16/5/17/6
 slides:
 video:
+images:
+ - /images/sessions/2025/lessons-from-airflow-gone-wrong.png
 ---
 
 Ever seen a DAG go rogue and deploy itself? Or try to time travel back to 1999? Join us for a light-hearted yet painfully relatable look at how not to scale your Airflow deployment to avoid chaos and debugging nightmares.

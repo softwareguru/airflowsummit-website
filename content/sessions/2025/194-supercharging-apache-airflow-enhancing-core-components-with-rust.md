@@ -14,6 +14,8 @@ timeslot: 194
 gridarea: 18/2/19/9
 slides:
 video:
+images:
+ - /images/sessions/2025/supercharging-apache-airflow.png
 ---
 
 Apache Airflow is a powerful workflow orchestrator, but as workloads grow, its Python-based components can become performance bottlenecks. This talk explores how Rust, with its speed, safety, and concurrency advantages, can enhance Airflow's core components (e.g, scheduler, DAG processor, etc).

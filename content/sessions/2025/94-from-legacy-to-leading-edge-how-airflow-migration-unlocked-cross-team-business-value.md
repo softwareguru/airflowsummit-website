@@ -14,6 +14,8 @@ timeslot: 94
 gridarea: 13/5/14/6
 slides:
 video:
+images:
+ - /images/sessions/2025/from-legacy-to-leading-edge.png
 ---
 
 At TrueCar, migrating hundreds of legacy Oozie workflows and in-house orchestration tools to Apache Airflow required key technical decisions that transformed our data platform architecture and organizational capabilities.

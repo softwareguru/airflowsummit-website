@@ -14,6 +14,8 @@ timeslot: 118
 gridarea: 4/5/5/6
 slides:
 video:
+images:
+ - /images/sessions/2025/becoming-an-apache-airflow-committer-from-0.png
 ---
 
 How a Complete Beginner in Data Engineering / Junior Computer Science Student Became an Apache Airflow Committer in Just 5 Months—With 70+ PRs and 300 Hours of Contributions

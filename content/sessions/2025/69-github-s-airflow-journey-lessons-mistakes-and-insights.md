@@ -14,6 +14,8 @@ timeslot: 69
 gridarea: 9/2/10/3
 slides:
 video:
+images:
+ - /images/sessions/2025/githubs-airflow-journey.png
 ---
 
 This session explores how GitHub uses Apache Airflow for efficient data engineering. We will share nearly 9 years of experiences, including lessons learnt, mistakes made, and the ways we reduced our on-call and engineering burden. We'll demonstrate how we keep data flowing smoothly while continuously evolving Airflow and other components of our data platform, ensuring safety and reliability. The session will touch on how we migrate Airflow between cloud without user impact. We'll also cover how we cut down the time from idea to running a DAG in production, despite our Airflow repo being among the top 15 by number of PRs within GitHub.

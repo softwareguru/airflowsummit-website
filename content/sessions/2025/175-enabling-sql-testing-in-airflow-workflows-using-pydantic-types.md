@@ -15,6 +15,8 @@ timeslot: 175
 gridarea: 15/4/16/5
 slides:
 video:
+images:
+ - /images/sessions/2025/enabling-sql-testing-in-airflow-workflows.png
 ---
 
 This session explores how to bring unit testing to SQL pipelines using Airflow. I’ll walk through the development of a SQL testing library that allows isolated testing of SQL logic by injecting mock data into base tables. To support this, we built a type system for AWS Glue tables using Pydantic, enabling schema validation and mock data generation. Over time, this type system also powered production data quality checks via a custom Airflow operator. Learn how this approach improves reliability, accelerates development, and scales testing across data workflows.

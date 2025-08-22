@@ -9,13 +9,12 @@ topics:
 time_start: 2025-10-07 11:30:00
 time_end: 2025-10-07 12:10:00
 images:
- - /images/sessions/2025/linkedin-s-journey-on-scaling-airflow.png
+ - /images/sessions/2025/linkedins-journey-on-scaling-airflow.png
 room: Columbia D
 track: Airflow & ...
 day: 20251
 timeslot: 6
 gridarea: 4/4/5/5
-images: 
 slides:
 video:
 ---

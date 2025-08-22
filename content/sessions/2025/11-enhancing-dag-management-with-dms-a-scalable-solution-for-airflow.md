@@ -14,6 +14,7 @@ day: 20251
 timeslot: 11
 gridarea: 5/5/6/6
 images: 
+ - /images/sessions/2025/enhancing-dag-management-with-dms.png
 slides:
 video:
 ---

@@ -8,8 +8,6 @@ topics:
  - Airflow 3
 time_start: 2025-10-07 12:15:00
 time_end: 2025-10-07 12:55:00
-images:
- - /images/sessions/2025/lessons-learned-for-scaling.png
 room: Columbia D
 track: Airflow 3
 day: 20251

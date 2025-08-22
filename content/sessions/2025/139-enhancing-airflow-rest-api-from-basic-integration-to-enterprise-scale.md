@@ -14,6 +14,8 @@ timeslot: 139
 gridarea: 7/5/8/6
 slides:
 video:
+images:
+ - /images/sessions/2025/enhacing-airflow-rest-api.png
 ---
 
 Apache Airflow's REST API has evolved to support diverse orchestration needs, with managed services like MWAA introducing custom enhancements. One such feature, InvokeRestApi, enables dynamic interactions with external services while maintaining Airflow's core orchestration capabilities.

@@ -15,6 +15,8 @@ timeslot: 146
 gridarea: 8/5/9/6
 slides:
 video:
+images:
+ - /images/sessions/2025/transforming-data-engineering.png
 ---
 
 In the rapidly evolving field of data engineering and data science, efficiency and ease of use are crucial. Our innovative solution offers a user-friendly interface to manage and schedule custom PySpark, PySQL, Python, and SQL code, streamlining the process from development to production. Using Airflow at the backend, this tool eliminates the complexities of infrastructure management, version control, CI/CD processes, and workflow orchestration.The intuitive UI allows users to upload code, configure job parameters, and set schedules effortlessly, without the need for additional scripting or coding. Additionally, users have the flexibility to bring their own custom artifactory solution and run their code.

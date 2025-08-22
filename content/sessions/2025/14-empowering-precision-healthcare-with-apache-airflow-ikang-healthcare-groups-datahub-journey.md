@@ -14,6 +14,7 @@ day: 20251
 timeslot: 14
 gridarea: 7/3/8/4
 images: 
+ - /images/sessions/2025/empowering-precision-healthcare.png
 slides:
 video:
 ---

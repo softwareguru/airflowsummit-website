@@ -14,6 +14,8 @@ timeslot: 83
 gridarea: 11/2/12/3
 slides:
 video:
+images:
+ - /images/sessions/2025/how-airflow-runs-the-weather.png
 ---
 
 Forecasting the weather and air quality is a logistical challenge. Numerical simulations are complex, resource-hungry, and sometimes fail without warning. Yet, our clients depend on accurate forecasts delivered daily and on time. At the heart of this operation is Airflow: the orchestration engine that keeps everything running.
