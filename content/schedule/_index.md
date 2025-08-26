@@ -257,12 +257,6 @@ days:
         label: "14:00"
         gridarea: "10/1/11/2"
 
-      - type: activity
-        label: "Invited talk"
-        gridarea: "10/4/11/5"
-        timelabel: "14:00 - 14:25"
-        gridaream: "29/1/30/2"
-
       - type: timelabel
         label: "14:30"
         gridarea: "11/1/12/2"
