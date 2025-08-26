@@ -1,6 +1,6 @@
 ---
 title: "Kenten Danas"
-designation: "Sr Engineering Manager at Procore"
+designation: "Sr Manager of Developer Relations at Astronomer"
 images:
  - /images/speakers/kenten-danas.jpg
 twitter: 
