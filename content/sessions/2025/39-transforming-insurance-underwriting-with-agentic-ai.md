@@ -1,5 +1,5 @@
 ---
-title: "Airflow as a platform for Agentic AI applications products within Enterprises"
+title: "Airflow as a Platform for Agentic AI Digital Products Within Enterprises"
 slug: airflow-as-a-platform-for-agentic-ai
 speakers:
  - Peeyush Rai
