@@ -5,13 +5,16 @@ speakers:
  - M Waqas Shahid
 workshop2025: true
 summary: "This workshop should be suitable for any Architect, Data Engineer or Devops aiming to build/enhance their internal Data Platform. At the end of this workshop you would have solid understanding of initial setup and ways to optimise further getting most out of the tool for your own organisation."
-time_start: 2025-10-09 14:00:00
-time_end: 2025-10-09 16:30:00
+
+time_start: 2025-10-08 14:00:00
+time_end: 2025-10-08 16:30:00
 room: 305
+
 track: Workshop
-day: 20253
-timeslot: 156
-gridarea: 10/7/16/8
+day: 20252
+timeslot: 74
+
+gridarea: 9/7/14/8
 slides:
 video: 
 images:

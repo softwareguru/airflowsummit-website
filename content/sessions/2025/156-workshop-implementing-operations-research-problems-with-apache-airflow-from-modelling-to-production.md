@@ -6,13 +6,16 @@ speakers:
 topics:
  - Workshop
 workshop2025: true
-time_start: 2025-10-08 14:00:00
-time_end: 2025-10-08 16:30:00
+time_start: 2025-10-09 14:00:00
+time_end: 2025-10-09 16:30:00
 room: 305
+
 track: Workshop
-day: 20252
-timeslot: 74
-gridarea: 9/7/14/8
+day: 20253
+
+gridarea: 10/7/16/8
+timeslot: 156
+
 slides:
 video:
 images:

@@ -16,6 +16,7 @@ gridarea: 4/8/8/9
 slides:
 video:
 summary: "Transform your data pipelines with event-driven scheduling in Airflow 3."
+draft: true
 ---
 
 Transform your data pipelines with event-driven scheduling in Airflow 3. In this hands-on workshop, you’ll:
