@@ -1,10 +1,13 @@
 ---
-title: "Transforming Insurance underwriting with Agentic AI"
-slug: transforming-insurance-underwriting-with-agentic-ai
+title: "Airflow as a platform for Agentic AI applications products within Enterprises"
+slug: airflow-as-a-platform-for-agentic-ai
 speakers:
  - Peeyush Rai
+ - Vikram Koka
 topics:
  - Airflow & ...
+aliases:
+ - /sessions/2025/transforming-insurance-underwriting-with-agentic-ai
 time_start: 2025-10-09 09:30:00
 time_end: 2025-10-09 10:00:00
 room: Columbia A
@@ -17,6 +20,8 @@ video:
 images:
  - /images/sessions/2025/transforming-insurance-underwriting-with-agentic-ai.png
 ---
+In this keynote, Peeyush Rai and Vikram Koka will be walking through how Airflow is being used as part of a Agentic AI platform servicing insurance companies, which runs on all the major public clouds, leveraging models from Open AI, Google (Gemini), AWS (Claude and Bedrock). 
 
-The weav.ai platform is built on top of Apache Airflow, chosen for its deterministic, predictable execution coupled with extreme developer customizability. weav.ai has seamlessly integrated its AI agents with Airflow to enable a unified AI orchestration to bring the power of scalability, robustness and the intelligence of AI in a single process. This talk will focus on the use cases being served, an architecture overview of the key Airflow capabilities being leveraged, and how Agentic AI has been seamlessly integrated to deliver the AI powered workflows. 
-Weav.ai’s platform is agnostic to any specific cloud or LLM and can orchestrate across those based on the use case. 
+This talk walks through the details of the actual end user business workflow including gathering relevant financial data to make a decision, as well as the tricky challenge of handling AI hallucinations, with new Airflow capabilities such as “Human in the loop”. 
+
+This talk offers something for both business and technical audiences. Business users will get a clear view of what it takes to bring an AI application into production and how to align their operations and business teams with an AI enabled workflow. Meanwhile, technical users will walk away with practical insights on how to orchestrate complex business processes enabling a seamless collaboration between Airflow, AI Agents and Human in the loop.
