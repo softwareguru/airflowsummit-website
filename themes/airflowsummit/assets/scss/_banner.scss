@@ -28,6 +28,27 @@ section.hero-2025 {
   }
 }
 
+
+
+.hero-grid-online {
+  padding: 2em;
+  width: 75vw;
+  
+  @media (min-width:992px) {
+    padding: 0;
+    display: grid;
+    grid-template-columns: 42% 30% 1fr;
+  }
+  @media (max-width:992px) {
+    background-image: url(/images/3-0-green.svg);
+    background-size: 50vw;
+    background-repeat: no-repeat;
+    background-position: 130% 40%;
+    margin: auto;
+    display: block;
+  }
+}
+
 .hero-titles {
   color: white;
   text-align: left;

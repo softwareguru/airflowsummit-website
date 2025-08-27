@@ -5,6 +5,8 @@ images:
  - /images/speakers/jarek-potiuk.png
 twitter: https://x.com/jarekpotiuk
 linkedin: https://www.linkedin.com/in/jarekpotiuk/
+bluesky: https://bsky.app/profile/jarek.potiuk.com
+mastodon: https://fosstodon.org/@jarekpotiuk
 events:
  - 2020
  - 2021

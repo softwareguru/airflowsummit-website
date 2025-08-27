@@ -3,6 +3,7 @@ title: "Deadline Alerts in Airflow 3.1"
 slug: deadline-alerts-in-airflow-3-1
 speakers:
  - Dennis Ferruzzi
+ - Ramit Kataria
 topics:
  - Airflow 3
 time_start: 2025-10-07 15:00:00

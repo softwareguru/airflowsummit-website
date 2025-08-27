@@ -1,6 +1,7 @@
 ---
-title: "When Airflow Meets Yunikorn: Enhancing Airflow with Yunikorn for Higher Efficiency"
-slug: when-airflow-meets-yunikorn-enhancing-airflow-with-yunikorn-for-higher-efficiency
+title: "When Airflow Meets Yunikorn: Enhancing Airflow on Kubernetes with Yunikorn for Higher Efficiency"
+slug: when-airflow-meets-yunikorn
+aliases: sessions/2025/when-airflow-meets-yunikorn-enhancing-airflow-with-yunikorn-for-higher-efficiency
 speakers:
  - Xiaodong Deng
  - Chaoran Yu
