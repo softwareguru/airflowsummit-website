@@ -120,6 +120,13 @@ speaker = "speakers"
     URL = "/happenings"
     weight = 6
 
+  [[menu.main]]
+    identifier="hapennings"
+    name = "Online Reconnect"
+    parent="program"
+    URL = "/onlinereconnect"
+    weight = 7
+
   #[[menu.main]]
   #  name = "Venue"
   #  URL = "/venue"

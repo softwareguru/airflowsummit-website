@@ -7,7 +7,7 @@ summary: "The wait is over, the full program for Airflow Summit 2025 is now live
 images: ["images/blog/program-2025.png"]
 # author
 author: "Airflow Summit Team"
-redirection: /program-sessionize
+redirection: /program
 draft: false
 ---
 
