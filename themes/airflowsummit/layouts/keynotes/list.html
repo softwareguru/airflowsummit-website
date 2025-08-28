@@ -5,7 +5,7 @@
     <div class="container text-center">
         
         <div class="row">
-            {{ range where (where .Site.Pages.ByTitle "Type" "sessions") ".Params.keynote2025" true }}
+            {{ range sort (where (where .Site.Pages.ByTitle "Type" "sessions") ".Params.keynote2025" true) ".Params.time_start" }}
           <div class="col-md-4">
             <div class="mb-3">
                 <a href="{{.Permalink}}">

@@ -11,14 +11,14 @@ aliases:
 time_start: 2025-10-09 09:30:00
 time_end: 2025-10-09 10:00:00
 room: Columbia A
-track: Airflow & ...
+keynote2025: true
 day: 20252
 timeslot: 39
 gridarea: 2/2/3/9
 slides:
 video:
 images:
- - /images/sessions/2025/transforming-insurance-underwriting-with-agentic-ai.png
+ - /images/sessions/2025/airflow-as-a-platform.png
 ---
 In this keynote, Peeyush Rai and Vikram Koka will be walking through how Airflow is being used as part of a Agentic AI platform servicing insurance companies, which runs on all the major public clouds, leveraging models from Open AI, Google (Gemini), AWS (Claude and Bedrock). 
 
