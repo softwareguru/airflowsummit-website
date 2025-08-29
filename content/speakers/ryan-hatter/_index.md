@@ -1,6 +1,6 @@
 ---
 title: "Ryan Hatter"
-designation: "Senior Airflow Engineer at Astronomer"
+designation: "Airflow Committer and Sales Engineer at Astronomer"
 images: 
  - /images/speakers/ryan-hatter.jpg
 events:
