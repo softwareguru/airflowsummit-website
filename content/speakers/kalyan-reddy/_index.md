@@ -1,8 +1,8 @@
 ---
-title: "Kalya Reddy"
+title: "Kalyan Reddy"
 date: 2025-07-23T13:28:35-06:00
 images: 
- - /images/speakers/kalya-reddy.png
+ - /images/speakers/kalyan-reddy.png
 designation: Senior Airflow Engineer at Astronomer
 twitter: 
 linkedin: https://www.linkedin.com/in/kalyanreddykasireddy/
@@ -15,7 +15,7 @@ Kalyan is an Airflow Engineer on Astronomer's Customer Reliability Engineering t
 
 Currently an active Apache Airflow contributor.
 
-Outside work, he love to play chess and table tennis.
+Outside work, he loves to play chess and table tennis.
 
 
 
