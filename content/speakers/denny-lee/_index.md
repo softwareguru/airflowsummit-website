@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/dennyglee/
 github: 
 events:
  - 2025
+draft: true
 ---
 
 Denny Lee is a Developer Advocate at Databricks. He is a hands-on distributed systems and data sciences engineer with extensive experience developing internet-scale infrastructure, data platforms, and predictive analytics systems for both on-premise and cloud environments. He also has a Masters of Biomedical Informatics from Oregon Health and Sciences University. His current technical focuses include Distributed Systems, Apache Spark, AI, Machine Learning, and Genomics.
