@@ -8,7 +8,6 @@ linkedin: https://www.linkedin.com/in/luanmoreno/
 events:
  - 2023
  - 2024
- - 2025
 ---
 
 A global authority on Apache Spark, and Databricks celebrated as the first Brazilian Databricks MVP and a key Databricks Product Advisory Board member.
