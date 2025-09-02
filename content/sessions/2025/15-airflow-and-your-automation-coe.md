@@ -2,7 +2,7 @@
 title: "Airflow & Your Automation CoE: Streamlining Integration for Enterprise-Wide Governance and Value"
 slug: airflow-and-your-automation-coe
 speakers:
- - John Hiett
+ - Jon Hiett
 time_start: 2025-10-07 14:00:00
 time_end: 2025-10-07 14:25:00
 room: Columbia D
