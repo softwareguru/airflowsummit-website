@@ -11,8 +11,7 @@ events:
  - 2025
 ---
 
-Ramit started his Airflow journey almost a year ago as a Software Engineer at AWS working on the Apache AIrflow OSS team.
 
-He has about 2 years of internship experience across 5 companies in various industries during his undergraduate studies in Computer Science at UBC. He has participated and mentored at various hackathons and is passionate about open-source and writing clean, secure and efficient code.
+Ramit began his Airflow journey nearly a year ago as a Software Engineer at AWS on the Apache Airflow OSS team. He previously gained about two years of internship experience across five companies in various industries, during his Computer Science studies at UBC.
 
-
+He has participated in and mentored at many hackathons, and is passionate about open source as well as writing clean, secure, and efficient code.
