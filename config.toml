@@ -70,6 +70,13 @@ speaker = "speakers"
     weight = 5
 
   [[menu.main]]
+    identifier="hapennings"
+    name = "Happenings"
+    parent="attend"
+    URL = "/happenings"
+    weight = 6
+
+  [[menu.main]]
     name = "Sponsor"
     hrefTargetBlank = true
     URL = "/partner-with-us"
@@ -114,18 +121,11 @@ speaker = "speakers"
     weight = 5
 
   [[menu.main]]
-    identifier="hapennings"
-    name = "Happenings"
-    parent="program"
-    URL = "/happenings"
-    weight = 6
-
-  [[menu.main]]
-    identifier="hapennings"
+    identifier="onlinereconnect"
     name = "Online Reconnect"
     parent="program"
     URL = "/onlinereconnect"
-    weight = 7
+    weight = 6
 
   #[[menu.main]]
   #  name = "Venue"
