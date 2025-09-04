@@ -3,7 +3,7 @@ title: "Buğra Öztürk"
 date: 2025-03-20T11:30:30-06:00
 images: 
  - /images/speakers/bugra-ozturk.png
-designation: Data Engineer at Mollie
+designation: Apache Airflow Committer & Senior Data Engineer at Mollie
 twitter: 
 linkedin: https://www.linkedin.com/in/bugraozturk93/
 github: 

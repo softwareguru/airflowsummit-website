@@ -11,4 +11,4 @@ events:
  - 2025
 ---
 
-Implementation of large scale data projects at various companies. Passionate about data and IT in general. Sport with an addiction for running and trail running.
+Co-Founder&Lead Data Analytics Engineer@Astrafy. Implementation of large scale data projects at various companis. Passionate about data and IT in general.Sport lover with addiction for running and trail running.

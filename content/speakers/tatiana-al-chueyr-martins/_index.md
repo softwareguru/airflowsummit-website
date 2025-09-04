@@ -1,6 +1,6 @@
 ---
 title: "Tatiana Al-Chueyr Martins"
-designation: "Staff Software Engineer, Astronomer"
+designation: "Staff Software Engineer at Astronomer"
 images:
  - /images/speakers/tatiana-al-chueyr-martins.jpg
 twitter: https://twitter.com/tati_alchueyr

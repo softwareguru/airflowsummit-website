@@ -12,10 +12,8 @@ events:
  - 2025
 ---
 
-In a world driven by data, I strive to write the code that turns numbers into narratives.
-
 Passionate about enhancing data through automation and AI. My expertise lies in data modeling and crafting efficient data pipelines to ensure data is always right where it needs to be. 
-
+ 
+Certified in Data Vault 2.0 and dbt, I transform complex data challenges into straightforward, effective solutions.
+ 
 Having had the opportunity to be a speaker in the data community, I value the power of sharing knowledge and insights to foster growth and innovation.
-
-

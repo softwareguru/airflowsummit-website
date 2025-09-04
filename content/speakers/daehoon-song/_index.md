@@ -1,6 +1,6 @@
 ---
 title: "DaeHoon Song"
-designation: "Coupang, Backend Engineer"
+designation: "Backend Engineer at Coupang"
 images:
  - /images/speakers/daehoon-song.jpg
 twitter: 

@@ -1,6 +1,6 @@
 ---
 title: "Dheeraj Turaga"
-designation: "Senior Staff CAD Engineer, Qualcomm"
+designation: "Senior Staff CAD Engineer at Qualcomm"
 images:
  - /images/speakers/dheeraj-turaga.jpg
 twitter: 

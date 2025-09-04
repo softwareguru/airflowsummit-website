@@ -1,6 +1,6 @@
 ---
 title: "Roman Khomenko"
-designation: "Senior MLOps Engineer, WildBerries"
+designation: "Senior MLOps Engineer at WildBerries"
 images:
  - /images/speakers/roman-khomenko.jpg
 twitter: 

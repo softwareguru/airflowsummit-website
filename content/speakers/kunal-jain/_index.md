@@ -1,6 +1,6 @@
 ---
 title: "Kunal Jain"
-designation: "Software Architect"
+designation: "Software Architect at American Express"
 images:
  - /images/speakers/kunal-jain.jpg
 twitter: 

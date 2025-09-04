@@ -3,7 +3,7 @@ title: "Caitlin Petro"
 date: 2025-08-07T22:20:54-06:00
 images: 
  - /images/speakers/caitlin-petro.png
-designation: Sales Engineer, Astronomer
+designation: Sales Engineer at Astronomer
 twitter: 
 linkedin: 
 github: 

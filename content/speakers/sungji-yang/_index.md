@@ -1,6 +1,6 @@
 ---
 title: "Sungji Yang"
-designation: "Coupang, Staff Backend Engineer"
+designation: "Staff Backend Engineer at Coupang"
 images:
  - /images/speakers/sungji-yang.jpg
 twitter: 

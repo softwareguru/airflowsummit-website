@@ -1,6 +1,6 @@
 ---
 title: "Maggie Stark"
-designation: "Staff Data Engineer Astronomer"
+designation: "Staff Data Engineer at Astronomer"
 images:
  - /images/speakers/maggie-stark.jpg
 twitter: 

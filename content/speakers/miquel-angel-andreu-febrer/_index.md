@@ -1,6 +1,6 @@
 ---
 title: "Miquel Angel Andreu Febrer"
-designation: "Okta, Staff Data Engineer"
+designation: "Staff Data Engineer at Okta"
 images:
  - /images/speakers/miquel-angel-andreu-febrer.jpg
 twitter: 

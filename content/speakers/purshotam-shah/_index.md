@@ -1,6 +1,6 @@
 ---
 title: "Purshotam Shah"
-designation: "Yahoo, Sr Principal Software Dev Engineer"
+designation: "Sr Principal Software Dev Engineer at Yahoo"
 images:
  - /images/speakers/purshotam-shah.jpg
 twitter: 

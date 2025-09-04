@@ -116,7 +116,7 @@ Establish your thought leadership by presenting cutting-edge solutions, hosting 
 
 <h3 class="sub-color-partner">Sponsorship packages</h3>
 
-<img src="/images/partners/sponsors-page/s1.png" class="img-fluid mx-auto d-block mt-4" >
+<img src="/images/partners/sponsors-page/sp-1-1.png" class="img-fluid mx-auto d-block mt-4" >
 
 <br>
 <p class="text-center">Platinum and Gold clients will have access to the "Ask me anything" round table with Airflow PMCs.</p>

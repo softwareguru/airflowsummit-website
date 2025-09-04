@@ -1,6 +1,6 @@
 ---
 title: "Chaoran Yu"
-designation: "Engineering Manager, Apple"
+designation: "Engineering Manager at Apple"
 images:
  - /images/speakers/chaoran-yu.jpg
 twitter: https://twitter.com/yuchaoran

@@ -10,4 +10,4 @@ events:
  - 2025
 ---
 
-Jonathan Leek is an Astro Data Engineer at Astronomer, member of the steering Committee for the Saint Louis Regional Data Alliance, and co-founder of OpenSTL.
+Jonathan Leek is a Senior Solution Engineer at Astronomer, Board Member of the Arch Data Network, and co-founder of OpenSTL.

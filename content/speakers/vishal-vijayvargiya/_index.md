@@ -1,6 +1,6 @@
 ---
 title: "Vishal Vijayvargiya"
-designation: "Sr. Software Engineer - AWS"
+designation: "Sr. Software Engineer at AWS"
 images:
  - /images/speakers/vishal-vijayvargiya.jpg
 twitter: 

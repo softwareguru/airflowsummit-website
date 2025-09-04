@@ -95,6 +95,16 @@ days:
         label: "16:45"
         gridarea: "13/1/14/2"
 
+      #- type: timelabel
+      #  label: "16:50"
+      #  gridarea: "14/1/15/2"
+      #- type: activity
+      #  label: "Reception"
+      #  gridarea: "14/2/15/6"
+      #  timelabel: "16:50 - 18:50"
+      #  gridaream: "29/1/30/2"
+
+
 
   - id: 20252
     enabled: true

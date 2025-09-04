@@ -1,6 +1,6 @@
 ---
 title: "Khaled Hassan"
-designation: "Software Engineer, Google"
+designation: "Software Engineer at Google"
 images:
  - /images/speakers/khaled-hassan.jpg
 twitter: 

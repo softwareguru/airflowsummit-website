@@ -3,7 +3,7 @@ title: "Ramesh Babu"
 date: 2024-06-10T23:00:32-06:00
 images: 
  - /images/speakers/ramesh-babu-k-m.png
-designation: Procore, Sr Engineering Manager
+designation: Sr Engineering Manager at Procore
 twitter: 
 linkedin: https://www.linkedin.com/in/rameshbabukm
 github: 

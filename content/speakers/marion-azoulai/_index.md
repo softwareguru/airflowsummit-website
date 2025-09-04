@@ -1,6 +1,6 @@
 ---
 title: "Marion Azoulai"
-designation: "Senior Data Scientist, Astronomer"
+designation: "Senior Data Scientist at Astronomer"
 images:
  - /images/speakers/marion-azoulai.jpg
 twitter: 

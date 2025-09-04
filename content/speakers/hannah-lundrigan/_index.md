@@ -3,7 +3,7 @@ title: "Hannah Lundrigan"
 date: 2025-07-02T14:38:52-06:00
 images: 
  - /images/speakers/hannah-lundrigan.png
-designation: Trackfly, Senior Software Engineer
+designation: Senior Software Engineer at Trackfly
 twitter: 
 linkedin: https://www.linkedin.com/in/hannahlundrigan/
 github: 

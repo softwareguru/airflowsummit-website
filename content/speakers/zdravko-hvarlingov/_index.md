@@ -1,6 +1,6 @@
 ---
 title: "Zdravko Hvarlingov"
-designation: "Financial Times, Senior Data Engineer"
+designation: "Senior Data Engineer at Financial Times"
 images:
  - /images/speakers/zdravko-hvarlingov.png
 twitter: 

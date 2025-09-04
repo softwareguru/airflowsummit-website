@@ -1,6 +1,6 @@
 ---
 title: "Dennis Ferruzzi"
-designation: "OSS Developer - AWS"
+designation: "OSS Developer at AWS"
 images:
  - /images/speakers/dennis-ferruzzi.jpg
 twitter: 

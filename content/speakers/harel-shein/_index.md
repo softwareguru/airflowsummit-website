@@ -1,6 +1,6 @@
 ---
 title: "Harel Shein"
-designation: "Senior Engineering Manager, Datadog"
+designation: "Senior Engineering Manager at Datadog"
 images:
  - /images/speakers/harel-shein.jpg
 twitter: https://x.com/HarelShein

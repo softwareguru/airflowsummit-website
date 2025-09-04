@@ -1,6 +1,6 @@
 ---
 title: "Pankaj Koti"
-designation: "Astronomer, Software Engineer"
+designation: "Software Engineer at Astronomer"
 images:
  - /images/speakers/pankaj-koti.jpg
 twitter: 

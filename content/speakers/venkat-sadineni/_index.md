@@ -1,6 +1,6 @@
 ---
 title: "Venkat Sadineni"
-designation: "Salesforce , Sr Engineering Manager"
+designation: "Sr Engineering Manager at Salesforce"
 images:
  - /images/speakers/venkat-sadineni.jpg
 twitter: 

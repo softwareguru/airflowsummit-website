@@ -1,6 +1,6 @@
 ---
 title: "Shoubhik Bose"
-designation: "Senior Principal Software Engineer"
+designation: "Senior Principal Software Engineer at Red Hat"
 images:
  - /images/speakers/shoubhik-bose.jpg
 twitter: 
