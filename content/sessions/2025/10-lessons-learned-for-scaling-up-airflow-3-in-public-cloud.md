@@ -14,7 +14,7 @@ day: 20251
 timeslot: 10
 gridarea: 5/4/6/5
 images: 
- - /images/sessions/2025/lessons-learned-for-scaling-up-airflow-3.png
+ - /images/sessions/2025/lessons-learned-for-scaling-up-airflow-3-1.png
 slides:
 video:
 ---

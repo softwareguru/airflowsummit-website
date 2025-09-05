@@ -12,7 +12,7 @@ day: 20253
 timeslot: 188
 gridarea: 17/3/18/4
 images: 
-
+ - /images/sessions/2025/lessons-learned-for-building-open.png
 slides:
 video: 
 draft: false

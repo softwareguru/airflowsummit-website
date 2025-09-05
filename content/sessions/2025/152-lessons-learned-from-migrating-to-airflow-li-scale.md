@@ -16,6 +16,8 @@ timeslot: 152
 gridarea: 10/3/11/4
 slides:
 video:
+images:
+ - /images/sessions/2025/lessons-learned-from-migrating-to-airflow.png
 ---
 
 At LinkedIn, our data pipelines process exabytes of data, with our offline infrastructure executing 300K ETL workflows daily and 10K concurrent executions. Historically, these workloads ran on our legacy system, Azkaban, which faced UX, scalability, and operational challenges. To modernize our infra, we built a managed Airflow service, leveraging its enhanced developer & operator experience, rich feature set, and strong OSS community support. That initiated LinkedIn’s largest-ever infrastructure migration—transitioning thousands of legacy workflows to Airflow.
