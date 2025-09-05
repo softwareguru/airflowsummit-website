@@ -25,8 +25,7 @@ title: "Tickets"
 <ul>
 
  <li> 20% Groups of 5 or more (It will be automatically added to your purchase order once you select more than 5 tickets)</li>
- <li> 25% Apache Airflow Committer: <a style="color: #0eb6ff">25DISC_COMMITTER</a></li>
- <li> 20% Women and non-binary: <a style="color: #0eb6ff">22DISC_WNB</a></li>
+ <li> 22% Women and non-binary: <a style="color: #0eb6ff">22DISC_WNB</a></li>
  <li> <p>20% Students: <a style="color: #0eb6ff">20DISC_STUDENT</a></li>
 
 </ul>
