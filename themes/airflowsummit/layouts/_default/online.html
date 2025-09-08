@@ -1,3 +1,7 @@
+{{ define "headextra" }}
+    <script src="https://js.tito.io/v2/with/ga4,hits"></script>
+{{ end }}
+
 {{ define "main" }}
 
 <section class="hero-2025" style="margin-top: -70px; background-image: url(/images/back-world.png); background-repeat: no-repeat;
@@ -9,10 +13,12 @@
           Oct 15-16, 2025 Free access
         </p>
         <img src="/images/logo-hero-online.svg" class="img-fluid">
+<!---
         <a href="#register-online">
           <button class="btn my-3 btn-rounded btn-primary hero-button"
             style="background-color: #00D658 !important;">Register for online reconnect</button>
         </a>
+--->
       </div>
       <div class="hero-spacer d-none d-lg-block">
       </div>
@@ -21,13 +27,18 @@
       </div>
     </div>
     <br>
-    <div class="mt-4" style="color: white; font-size: 1.3rem;">
+    <div id="register-online" class="mt-4" style="color: white; font-size: 1.3rem;">
       <p>Airflow Summit Online Reconnect is a special edition designed for everyone. Whether you joined us in Seattle
         and want to extend the experience or couldn’t make it in person this year, this is your chance to reconnect. On
         October 15–16, join us online from anywhere in the world. Let's keep the Airflow spirit going!</p>
     </div>
-  </div>
+    <div>
+      <h2 class="text-center mt-4" style="color:#00d658">Register now!</h2>
+      <tito-widget event="airflowsummit/2025-online"></tito-widget>
+    </div>
 
+  </div>
+  </section>
 
   <section class="event-info-section mt-4">
     <div class="container">
@@ -61,7 +72,6 @@
             <p class="event-info-icon">&nbsp;&nbsp;&nbsp;<i class="bi-clipboard-check"
                 style="color: #00D658 !important;"></i></p>
             <div class="card-body">
-              <a name="register-online"></a>
               <h5 class="card-title event-info-title">Features for participants</h5>
               <p class="card-text event-info-content mt-3">
                 <li class="event-info-content">Global focus</li>
@@ -72,11 +82,6 @@
             </div>
           </div>
         </div>
-      </div>
-      <div>
-        <h2 class="text-white text-center mt-4">Register now!</h2>
-        <script src="https://js.tito.io/v2/with/ga4,hits" async></script>
-        <tito-widget event="airflowsummit/2025-online"></tito-widget>
       </div>
       <br>
       <p class="mt-4" style="color: white; font-size: 1.3rem;">Airflow Summit Online Reconnect will consist of new
@@ -89,12 +94,6 @@
       <button class="btn my-3 btn-rounded btn-primary hero-button mx-auto d-block"
         style="background-color: #00D658 !important; pointer-events: none; text-decoration: none;">Program is coming soon</button>
     </div>
-
-    <br>
   </section>
-
-
-
-</section>
 
 {{ end }}
