@@ -290,10 +290,17 @@ a.read-more {
 
 .daygrid {
 	display: grid;
-	grid-template-columns: 100px 1fr 1fr 1fr 1fr;
 	grid-template-rows: auto;
 	grid-column-gap: 1em;
 	grid-row-gap: 0px;
+}
+
+.daygrid {
+	grid-template-columns: 100px 2fr 2fr 2fr 2fr 1fr 1fr 1fr;
+}
+
+#dayblock-20251 .daygrid {
+	grid-template-columns: 100px 1fr 1fr 1fr 1fr;
 }
 
 .daygrid-xs {
