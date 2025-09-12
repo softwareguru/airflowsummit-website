@@ -8,13 +8,16 @@ topics:
  - Airflow & ...
 aliases:
  - /sessions/2025/transforming-insurance-underwriting-with-agentic-ai
-time_start: 2025-10-09 09:30:00
-time_end: 2025-10-09 10:00:00
+
+time_start: 2025-10-09 09:00:00
+time_end: 2025-10-09 09:25:00
 room: Columbia A
+track: Keynote
 keynote2025: true
-day: 20252
-timeslot: 39
-gridarea: 2/2/3/9
+day: 20253
+timeslot: 112
+gridarea: 1/2/2/9
+
 slides:
 video:
 images:

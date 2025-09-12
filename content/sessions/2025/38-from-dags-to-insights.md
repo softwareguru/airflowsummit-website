@@ -9,7 +9,7 @@ keynote2025: true
 time_start: 2025-10-08 09:10:00
 time_end: 2025-10-08 09:25:00
 room: Columbia A
-track: Use cases
+track: Keynote
 day: 20252
 timeslot: 38
 gridarea: 1/2/2/9

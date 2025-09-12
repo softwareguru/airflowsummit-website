@@ -8,13 +8,16 @@ images:
 keynote2025: true
 images:
  - /images/sessions/2025/new-tools-same-craft.png
-time_start: 2025-10-09 09:00:00
-time_end: 2025-10-09 09:25:00
-room: Columbia A
+
 track: Keynote
-day: 20253
-timeslot: 112
-gridarea: 1/2/2/9
+time_start: 2025-10-09 09:30:00
+time_end: 2025-10-09 10:00:00
+room: Columbia A
+day: 20252
+timeslot: 39
+gridarea: 2/2/3/9
+
+
 slides:
 video:
 ---

@@ -18,7 +18,7 @@ speakers:
 time_start: 2025-09-10 09:00:00
 time_end: 2025-09-10 11:00:00
 room: Columbia A
-track: keynote
+track: Keynote
 day: 20251
 timeslot: 2
 gridarea: 2/2/3/6
