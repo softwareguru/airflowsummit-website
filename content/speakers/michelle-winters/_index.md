@@ -1,6 +1,6 @@
 ---
 title: "Michelle Winters"
-designation: "Director of Service Delivery"
+designation: "Director of Service Delivery at Astronomer"
 images:
  - /images/speakers/michelle-winters.jpg
 twitter: 

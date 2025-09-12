@@ -10,7 +10,7 @@ time_start: 2025-10-07 14:00:00
 time_end: 2025-10-07 14:25:00
 room: Columbia C
 track: Use cases
-day: 20251
+day: 20254
 timeslot: 14
 gridarea: 7/3/8/4
 images: 

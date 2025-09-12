@@ -20,11 +20,11 @@ title: "Tickets"
 - Participant kit - Event t-shirt & tote bag.
 - Participation diploma. 
 
-### Discounts: (Available only on the Regular price)
+### Discounts: 
 
 <ul>
 
- <li>20% Groups of 5 or more (It will be automatically added to your purchase order once you select more than 5 tickets)</li>
+ <li>20% Groups of 5 or more (It will be automatically added to your purchase order once you select more than 5 tickets). If you need a discount code for your company because you need to make multiple orders, contact us.</li>
  <li>22% Women and non-binary: <a style="color: #0eb6ff">22DISC_WNB</a></li>
  <li>20% Students: <a style="color: #0eb6ff">20DISC_STUDENT</a>(you need to register with a university email)</li>
 

@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/rajeshwar-bishundeo/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 I have over 20 years of experience in the Software Development across many industries. I currently work for AWS leading the open-source team working on the Apache Airflow project.

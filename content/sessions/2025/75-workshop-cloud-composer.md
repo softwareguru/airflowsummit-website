@@ -2,7 +2,9 @@
 title: "Cloud Composer : Introduction into Advanced Features"
 slug: cloud-composer
 speakers:
- - Eugene Kosteev
+ - Piotr Leśniak
+ - Michał Modras
+ 
 workshop2025: true
 time_start: 2025-10-08 14:00:00
 time_end: 2025-10-08 16:30:00

@@ -5,13 +5,13 @@ speakers:
  - Philippe Gagnon
 topics:
  - Airflow & ...
-time_start: 2025-10-09 15:00:00
-time_end: 2025-10-09 15:25:00
-room: Columbia D
+time_start: 2025-10-09 12:00:00
+time_end: 2025-10-09 12:25:00
+room: Columbia C
 track: Airflow & ...
 day: 20253
-timeslot: 167
-gridarea: 12/4/13/5
+timeslot: 137
+gridarea: 7/3/8/4
 slides:
 video:
 ---

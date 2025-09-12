@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/piotr-le%C5%9Bniak-902b376a/
 github: 
 events:
  - 2024
+ - 2025
 ---
 
 Staff Software Engineer, ex-Akamai, ex-Qualtrics currently working in Google, experienced in distributed and microservice architecture. Focusing on scalability, operational excellence and high quality of delivered software regardless of programming language/technology stack.
