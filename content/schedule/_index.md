@@ -211,16 +211,11 @@ days:
         gridarea: "1/1/2/2"
 
       - type: timelabel
-        label: "09:30"
+        label: "09:15"
         gridarea: "2/1/3/2"
-      - type: activity
-        label: "Keynote TBC"
-        gridarea: "2/2/3/9"
-        timelabel: "9:30 - 10:00"
-        gridaream: "2/1/3/2"
 
       - type: timelabel
-        label: "10:10"
+        label: "10:00"
         gridarea: "3/1/4/2"
       - type: activity
         label: "Coffee break"

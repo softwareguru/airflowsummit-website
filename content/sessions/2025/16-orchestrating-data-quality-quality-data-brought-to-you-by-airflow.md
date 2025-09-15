@@ -3,7 +3,7 @@ title: "Orchestrating Data Quality - Quality Data Brought To You By Airflow"
 slug: orchestrating-data-quality-quality-data-brought-to-you-by-airflow
 speakers:
  - Maggie Stark
- - Marion Azoulai
+
 topics:
  - Best practices
 time_start: 2025-10-07 14:00:00
