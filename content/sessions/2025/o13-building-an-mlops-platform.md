@@ -7,13 +7,13 @@ speakers:
  - Tarasov Alexey
 topics:
  - Airflow & ...
-time_start: 2025-10-15 14:30:00
-time_end: 2025-10-15 14:55:00
+time_start: 2025-10-16 16:00:00
+time_end: 2025-10-16 16:30:00
 room: 
 track: Airflow & ...
-day: 20254
-timeslot: 78
-gridarea: 10/4/11/5
+day: 20255
+timeslot: 13
+gridarea: 5/2/6/3
 slides:
 video:
 images:

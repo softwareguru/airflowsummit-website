@@ -1,6 +1,6 @@
 ---
 title: "Introducing Apache Airflow® 3 – The Next Evolution in Orchestration"
-slug: introducing-apache-airflow-3
+slug: airflow-3-online
 speakers:
  - Amogh Desai
  - Ash Berlin-Taylor
@@ -15,13 +15,13 @@ speakers:
  - Vikram Koka
  - Vincent Beck
  - Constance Martineau
-time_start: 2025-10-07 09:00:00
-time_end: 2025-10-07 11:00:00
-room: Columbia A
+time_start: 2025-10-15 14:00:00
+time_end: 2025-10-15 16:00:00
+room: Online
 track: Keynote
-day: 20251
-timeslot: 2
-gridarea: 2/2/3/6
+day: 20254
+timeslot: 1
+gridarea: 1/2/3/3
 images: 
  - /images/sessions/2025/keynotes/IntroducingApaAirf3.png
 slides:

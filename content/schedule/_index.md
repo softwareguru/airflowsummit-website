@@ -142,12 +142,6 @@ days:
         label: "12:00"
         gridarea: "6/1/7/2"
 
-      - type: activity
-        label: "Sponsored talk"
-        gridarea: "6/4/7/5"
-        timelabel: "11:30 - 11:55"
-        gridaream: "17/1/18/2"
-
       - type: timelabel
         label: "12:30"
         gridarea: "7/1/8/2"

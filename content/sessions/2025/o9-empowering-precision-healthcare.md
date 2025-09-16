@@ -6,13 +6,13 @@ speakers:
  - Huiliang Zhang
 topics:
  - Use cases
-time_start: 2025-10-07 14:00:00
-time_end: 2025-10-07 14:25:00
-room: Columbia C
+time_start: 2025-10-16 14:00:00
+time_end: 2025-10-16 14:30:00
+room: Online
 track: Use cases
-day: 20254
-timeslot: 14
-gridarea: 7/3/8/4
+day: 20255
+timeslot: 9
+gridarea: 1/2/2/3
 images: 
  - /images/sessions/2025/empowering-precision-healthcare.png
 slides:

@@ -11,7 +11,7 @@ time_end: 2025-10-08 12:25:00
 room: Beckler
 track: Airflow & ...
 day: 20252
-timeslot: 57
+timeslot: 58
 gridarea: 6/5/7/6
 slides:
 video:

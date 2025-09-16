@@ -239,7 +239,11 @@
 	background-color: #5653f810;
 	border: 2px solid #5653f8;
 }
-  
+
+.track-online {
+	background-color: #f4f4f4;
+	border: 2px solid #404040;
+}
   
 
 .session-item.lightning {
@@ -302,6 +306,11 @@ a.read-more {
 #dayblock-20251 .daygrid {
 	grid-template-columns: 100px 1fr 1fr 1fr 1fr;
 }
+
+#dayblock-20254 .daygrid, #dayblock-20255 .daygrid {
+	grid-template-columns: 100px 1fr 10px;
+}
+
 
 .daygrid-xs {
 	display: grid;
