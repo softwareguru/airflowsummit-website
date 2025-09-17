@@ -1,0 +1,35 @@
+{{ with .GetPage "/schedule/online"}}
+<section class="online-schedule">
+    <div>
+        <h2 class="text-center">Online schedule</h2>
+    </div>
+ 
+    <div class="container">
+      {{ range .Params.days }}
+        {{ if not .enabled }}{{ continue }}{{ end }}
+        {{ $curr_day :=  .id }}
+
+        <div id="dayblock-{{.id}}" class="dayblock">
+        <h3 class="mb-3 text-white">{{.title_full}}</h3>
+
+        <table>
+          {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day )  ".Params.time_start" }}
+          <tr>
+            <td class="session-time hour">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }} {{ end }}</td>
+            <td class="session-title">
+                <a class="session-title" data-bs-toggle="collapse" href="#abs-{{.Params.slug}}">{{ .Params.title }}</a>
+                <div class="session-speakers names mb-2">{{ with .Params.speakers }}By {{ delimit . ", " " & " }}{{ end }}</div>
+                <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
+                  <div>{{ .Summary }}</div>
+                  <div class="mt-0 pt-0 pb-2"><a href="{{.Permalink}}" class="read-more">Read more ...</a></div>
+                </div>
+            </td>
+          </tr>
+          {{ end }}            
+        </table>
+        </div> 
+      {{ end }}
+    </div>
+</section>
+
+{{ end }}  

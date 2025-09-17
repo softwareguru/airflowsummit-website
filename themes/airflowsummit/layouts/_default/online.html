@@ -13,12 +13,12 @@
           Oct 15-16, 2025 Free access
         </p>
         <img src="/images/logo-hero-online.svg" class="img-fluid">
-<!---
-        <a href="#register-online">
+
+        <a href="#program">
           <button class="btn my-3 btn-rounded btn-primary hero-button"
-            style="background-color: #00D658 !important;">Register for online reconnect</button>
+            style="background-color: #00D658 !important;">Program</button>
         </a>
---->
+
       </div>
       <div class="hero-spacer d-none d-lg-block">
       </div>
@@ -40,7 +40,7 @@
   </div>
   </section>
 
-  <section class="event-info-section mt-4">
+  <section class="event-info-section">
     <div class="container">
       <div class="row row-cols-1 row-cols-lg-3 g-4">
         <div class="col mb-4 card-space-info-event">
@@ -52,6 +52,7 @@
               <p class="card-text event-info-content mt-3">Content will consist of new sessions by speakers who were not
                 able to travel for Airflow Summit, complemented with a few selected sessions from the in-person event.
               </p>
+              <a name="program"></a>
             </div>
           </div>
         </div>
@@ -83,17 +84,9 @@
           </div>
         </div>
       </div>
-      <br>
-      <p class="mt-4" style="color: white; font-size: 1.3rem;">Airflow Summit Online Reconnect will consist of new
-        sessions by speakers who were not able to travel for Airflow Summit, complemented with a few selected sessions
-        from the in-person event. If you already attended Airflow Summit in Seattle, there’s no need to register again,
-        your access to the Online Reconnect edition is already included.
-      </p>
-
-      <br>
-      <button class="btn my-3 btn-rounded btn-primary hero-button mx-auto d-block"
-        style="background-color: #00D658 !important; pointer-events: none; text-decoration: none;">Program is coming soon</button>
     </div>
   </section>
+
+  {{ partial "online-schedule.html" . }}
 
 {{ end }}

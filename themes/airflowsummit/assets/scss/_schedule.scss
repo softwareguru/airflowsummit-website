@@ -324,3 +324,33 @@ a.read-more {
 	background-color: #ffffff50;
 	line-height: 40px;
 }
+
+section.online-schedule {
+	background-color: #0c0d0f;
+
+	.session-time {
+		color: #c0c0c0;
+	}
+
+	td {
+		vertical-align: top;
+		padding-right: 1em;
+	}
+
+	.session-title a {
+		color: white;
+	}
+
+	.session-speakers {
+		color: #d0d0d0;
+		font-weight: normal;
+	}
+
+	.card-abstract {
+		color: #d0d0d0;
+		font-weight: normal;
+		font-size:0.9em;
+	}
+
+}
+
