@@ -13,6 +13,7 @@ day: 20252
 timeslot: 44
 gridarea: 4/5/5/6 
 images:
+ - images/sessions/2025/dynamic-data-pipelines.png
 slides:
 video:
 ---

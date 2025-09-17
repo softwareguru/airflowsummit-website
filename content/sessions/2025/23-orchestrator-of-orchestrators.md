@@ -11,6 +11,7 @@ day: 20251
 timeslot: 23
 gridarea: 9/4/10/5
 images: 
+ - /images/sessions/2025/orchestrator-of-orchestrators.png
 slides:
 video:
 ---

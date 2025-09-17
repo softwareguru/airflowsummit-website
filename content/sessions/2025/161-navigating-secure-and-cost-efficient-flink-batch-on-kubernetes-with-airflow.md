@@ -15,6 +15,8 @@ timeslot: 161
 gridarea: 11/5/12/6
 slides:
 video:
+images:
+ - images/sessions/2025/navigating-secure-and-cost-efficient.png
 ---
 
 At Yahoo, we built a secure, scalable, and cost-efficient batch processing platform using Amazon MWAA to orchestrate Apache Flink jobs on EKS, managed by the Flink Kubernetes Operator. This setup enables dynamic job orchestration while meeting strict enterprise compliance standards.

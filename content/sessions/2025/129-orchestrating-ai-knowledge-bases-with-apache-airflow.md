@@ -14,6 +14,8 @@ timeslot: 129
 gridarea: 6/2/7/3
 slides:
 video:
+images:
+ - images/sessions/2025/orchestrating-ai-knowledge-bases-with-apache-airflow.png
 ---
 
 In the age of Generative AI, knowledge bases are the backbone of intelligent systems, enabling them to deliver accurate and context-aware responses. But how do you ensure that these knowledge bases remain up-to-date and relevant in a rapidly changing world? Enter Apache Airflow, a robust orchestration tool that streamlines the automation of data workflows.

@@ -14,6 +14,8 @@ timeslot: 180
 gridarea: 16/2/17/3
 slides:
 video:
+images:
+ - images/sessions/2025/no-more-missed-beats.png
 ---
 
 Before Airflow, our BigQuery pipelines at Create Music Group operated like musicians without a conductor—each playing on its own schedule, regardless of whether upstream data was ready. As our data platform grew, this chaos led to spiralling costs, performance bottlenecks, and became utterly unsustainable.

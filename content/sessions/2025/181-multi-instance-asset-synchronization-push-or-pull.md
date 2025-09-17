@@ -14,6 +14,8 @@ timeslot: 181
 gridarea: 16/3/17/4
 slides:
 video:
+images:
+ - images/sessions/2025/multi-instance-asset-synchronization.png
 ---
 
 As Data Engineers, our jobs regularly include scheduling or scaling workflows.

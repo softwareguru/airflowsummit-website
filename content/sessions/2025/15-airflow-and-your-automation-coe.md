@@ -11,6 +11,7 @@ day: 20251
 timeslot: 15
 gridarea: 7/4/8/5
 images: 
+ - images/sessions/2025/airflow-&-your-automation-coe.png
 slides:
 video:
 ---

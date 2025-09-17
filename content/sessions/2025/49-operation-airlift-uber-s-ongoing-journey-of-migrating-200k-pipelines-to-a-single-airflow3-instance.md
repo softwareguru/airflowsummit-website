@@ -13,6 +13,7 @@ day: 20252
 timeslot: 49
 gridarea: 5/3/6/4
 images:
+ - images/sessions/2025/operation-airlift.png
 slides:
 video:
 ---
