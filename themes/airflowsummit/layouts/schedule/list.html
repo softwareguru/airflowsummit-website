@@ -45,7 +45,7 @@
                     <div class="track-name">{{ with .Params.room }}Room: {{ . }}{{ end }}</div>
                   </div>
                   <div title="Add to Calendar" class="addeventatc" data-styling="none">
-                    <img src="https://cdn.addevent.com/libs/imgs/icon-calendar-t1.svg" alt="" style="width:18px;" />
+                    <i class="fas fa-calendar-plus"></i>
                     <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                     <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                     <span class="timezone">America/Los_Angeles</span>

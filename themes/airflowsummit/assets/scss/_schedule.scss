@@ -330,6 +330,7 @@ section.online-schedule {
 
 	.session-time {
 		color: #c0c0c0;
+		font-size: 0.9em;
 	}
 
 	td {
@@ -350,6 +351,16 @@ section.online-schedule {
 		color: #d0d0d0;
 		font-weight: normal;
 		font-size:0.9em;
+	}
+
+	.addeventatc {
+		background-color: #0c0d0f;
+		line-height: 100%;
+	}
+
+	i {
+		color: #0eb6ff;
+		font-size: 1.4em;
 	}
 
 }

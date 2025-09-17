@@ -10,15 +10,29 @@
         {{ $curr_day :=  .id }}
 
         <div id="dayblock-{{.id}}" class="dayblock">
-        <h3 class="mb-3 text-white">{{.title_full}}</h3>
+        <h3 class="mb-2 mt-4 text-white">{{.title_full}}</h3>
 
         <table>
           {{ range sort (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day )  ".Params.time_start" }}
           <tr>
-            <td class="session-time hour">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }} {{ end }}</td>
+            <td class="text-center">
+                <div class="session-time hour">
+                {{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }} {{ end }}
+                </div>
+                <div title="Add to Calendar" class="addeventatc text-center" data-styling="none">
+                    <i class="fas fa-calendar-plus"></i>
+                    <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                    <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
+                    <span class="timezone">UTC</span>
+                    <span class="title">AS24: {{.Title}}</span>
+                    <span class="description">{{.Content}}</span>
+                    <span class="location">{{.Params.room}}</span>
+                </div>
+            </td>
             <td class="session-title">
                 <a class="session-title" data-bs-toggle="collapse" href="#abs-{{.Params.slug}}">{{ .Params.title }}</a>
                 <div class="session-speakers names mb-2">{{ with .Params.speakers }}By {{ delimit . ", " " & " }}{{ end }}</div>
+
                 <div class="collapse card-abstract" id="abs-{{.Params.slug}}">
                   <div>{{ .Summary }}</div>
                   <div class="mt-0 pt-0 pb-2"><a href="{{.Permalink}}" class="read-more">Read more ...</a></div>

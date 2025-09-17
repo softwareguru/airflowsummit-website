@@ -1,6 +1,23 @@
 {{ define "headextra" }}
     <script src="https://js.tito.io/v2/with/ga4,hits"></script>
+  <link rel="stylesheet" href="https://cdn.addevent.com/libs/atc/themes/fff-theme-7/theme.css" type="text/css" media="all" />
+  <script type="text/javascript" src="https://cdn.addevent.com/libs/atc/1.6.1/atc.min.js"></script>
+  <script type="text/javascript">
+    window.addeventasync = function(){
+        addeventatc.settings({
+            appleical  : {show:true, text:"Apple Calendar"},
+            google     : {show:true, text:"Google <em>(online)</em>"},
+            office365  : {show:true, text:"Office 365 <em>(online)</em>"},
+            outlook    : {show:true, text:"Outlook"},
+            outlookcom : {show:false, text:"Outlook.com <em>(online)</em>"},
+            yahoo      : {show:false, text:"Yahoo <em>(online)</em>"}
+        });
+    };
+    </script>
+
 {{ end }}
+
+
 
 {{ define "main" }}
 
@@ -16,7 +33,7 @@
 
         <a href="#program">
           <button class="btn my-3 btn-rounded btn-primary hero-button"
-            style="background-color: #00D658 !important;">Program</button>
+            style="background-color: #00D658 !important;">Check the schedule</button>
         </a>
 
       </div>
@@ -32,9 +49,10 @@
         and want to extend the experience or couldn’t make it in person this year, this is your chance to reconnect. On
         October 15–16, join us online from anywhere in the world. Let's keep the Airflow spirit going!</p>
     </div>
-    <div>
+    <div class="text-center">
       <h2 class="text-center mt-4" style="color:#00d658">Register now!</h2>
       <tito-widget event="airflowsummit/2025-online"></tito-widget>
+      <em class="text-white text-center">(if the registration widget didn't load, please refresh this page)</em>
     </div>
 
   </div>
