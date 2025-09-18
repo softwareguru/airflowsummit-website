@@ -2,11 +2,12 @@
 title: "Rafal Biegacz"
 designation: "Senior Engineering Manager (Cloud Composer, Google)"
 images:
- - /images/speakers/rafal-biegacz.jpg
+ - /images/speakers/rafal-biegacz.png
 twitter: https://twitter.com/rbiegacz
 linkedin: https://www.linkedin.com/in/rbiegacz/
 events:
  - 2024
+ - 2025
 ---
 
 Rafal Biegacz is Senior Engineering Manager working within Google Cloud group where he is responsible for Cloud Composer (managed workflows service based on Apache Airflow).

@@ -3,7 +3,7 @@ title: "Rajesh Bishundeo"
 date: 2024-06-10T22:50:29-06:00
 images: 
  - /images/speakers/rajesh-bishundeo.jpg
-designation: AWS - Software Development Manager for the Open-Source Airflow Team
+designation: Software Development Manager for the Open-Source Airflow Team at AWS
 twitter: 
 linkedin: https://www.linkedin.com/in/rajeshwar-bishundeo/
 github: 

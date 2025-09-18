@@ -33,6 +33,6 @@ Apache Airflow® 3 is here, bringing major improvements to data orchestration. I
 
 Vikram Koka will kick things off with an overview of Airflow 3, followed by deep dives into DAG versioning (Jed Cunningham), enhanced backfilling (Daniel Standish), and a modernized UI (Brent Bovenzi & Pierre Jeambrun).
 
-Next, Ash Berlin-Taylor, Kaxil Naik, and Amogh Desai will introduce the Task Execution Interface and Task SDK, enabling tasks in any environment and language. Jens Scheffler will showcase the Edge Executor, while Tzu-ping Chung and Vincent Beck will demo event-driven scheduling and data assets. Finally, Buğra Öztürk will unveil CLI enhancements for automation and debugging.
+Next, Ash Berlin-Taylor, Kaxil Naik, and Amogh Desai will introduce the Task Execution Interface and Task SDK, enabling tasks in any environment and language. Jens Scheffler will showcase the Edge Executor, while Constance Martineau, Tzu-ping Chung and Vincent Beck will demo event-driven scheduling and data assets. Finally, Buğra Öztürk will unveil CLI enhancements for automation and debugging.
 
 This keynote sets the stage for Airflow 3—don’t miss the chance to learn from the experts shaping the future of workflow orchestration!

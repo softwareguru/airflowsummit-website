@@ -3,6 +3,7 @@ title: "Semiconductor (Chip) Design Workflow Orchestration with Airflow"
 slug: semiconductor-chip-design-workflow-orchestration-with-airflow
 speakers:
  - Dheeraj Turaga
+ - Nicholas Redd
 topics:
  - Use cases
 time_start: 2025-10-08 15:45:00

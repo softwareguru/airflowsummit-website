@@ -3,6 +3,7 @@ title: "Managed Workflow for Apache Airflow (MWAA): What's New?"
 slug: aws-online
 speakers:
  - Rajesh Bishundeo
+ - Krystal Nzeadibe
 time_start: 2025-10-15 19:00:00
 time_end: 2025-10-15 19:30:00
 room: Online

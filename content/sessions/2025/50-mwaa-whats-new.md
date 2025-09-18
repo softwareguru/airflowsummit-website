@@ -3,6 +3,7 @@ title: "Managed Workflow for Apache Airflow (MWAA): What's New?"
 slug: mwaa-whats-new
 speakers:
  - Rajesh Bishundeo
+ - Krystal Nzeadibe
 time_start: 2025-10-08 11:00:00
 time_end: 2025-10-08 11:25:00
 room: Columbia D
