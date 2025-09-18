@@ -1,6 +1,6 @@
 ---
 title: "Kyle McCluskey"
-designation: "Director of Data Engineering at INTRVL"
+designation: "Data and AI Solutions Lead at TXI Digital"
 images:
  - /images/speakers/kyle-mccluskey.jpg
 twitter: https://x.com/KyleMMcC
