@@ -8,7 +8,7 @@ time_end: 2025-10-09 17:10:00
 room: Beckler
 track: Best practices
 day: 20253
-timeslot: 189
+timeslot: 190
 gridarea: 17/5/18/6
 slides:
 video:

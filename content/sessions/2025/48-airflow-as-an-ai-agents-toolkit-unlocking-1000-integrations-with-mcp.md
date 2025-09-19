@@ -3,6 +3,7 @@ title: "Airflow as an AI Agent’s Toolkit: Unlocking 1000+ Integrations with MC
 slug: airflow-as-an-ai-agents-toolkit-unlocking-1000-integrations-with-mcp
 speakers:
  - Kaxil Naik
+ - Pavan Kumar Gopidesu
 topics:
  - Roadmap
 time_start: 2025-10-08 11:15:00
@@ -18,12 +19,10 @@ slides:
 video:
 ---
 
-AI agents transform conversational prompts into actionable automation provided they have reliable access to essential tools like data warehouses, cloud storage, and APIs. 
+What if your Airflow tasks could understand natural language AND adapt to schema changes automatically, while maintaining the deterministic, observable workflows we rely on? This talk introduces practical patterns for AI-native orchestration that preserve Airflow's strengths while adding intelligence where it matters most.
 
-Now imagine exposing Airflow’s rich integration layer directly to AI agents via the emerging Model Context Protocol (MCP). This isn’t just gluing AI into Airflow; it’s turning Airflow into a structured execution layer for adaptive, agentic logic with full observability, retries, and audit trails built in. 
+Through a real-world example, we'll demonstrate AI-powered tasks that detect schema drift across multi-cloud systems and perform context-aware data quality checks that go beyond simple validation—understanding business rules, detecting anomalies, and generating validation queries from prompts like "check data quality across regions." All within static DAG structures you can test and debug normally.
 
-We’ll demonstrate a real-world fraud detection pipeline powered by agents: suspicious transactions are analyzed, enriched dynamically with external customer data via MCP, and escalated based on validated, structured outputs. Every prompt, decision, and action is auditable and compliant.
+We'll show how AI becomes a first-class citizen by combining Airflow's features, assets for schema context, Human-in-the-Loop for approvals, and AssetWatchers for automated triggers, with engines such as Apache DataFusion for high-performance query execution and support for cross-cloud data processing with unified access to multiple storage formats. These patterns apply directly to schema validation and similar cases where natural language can simplify complex operations.
 
-We will then explore how Airflow can be extended into a conversational future - such as querying Snowflake from natural language, inspecting AWS S3 files, or executing BigQuery operations directly via agent prompts.
-
-Explore the next potential evolution of Airflow - going beyond scheduling DAGs and empowering conversational AI agents with a toolkit of over 1,000 integrations you already use and trust.
+This isn't about bolting AI onto Airflow. It's about evolving how we build workflows, from brittle rules to intelligent adaptation, while keeping everything testable, auditable, and production-ready.

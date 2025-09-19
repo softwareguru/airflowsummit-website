@@ -5,13 +5,15 @@ speakers:
  - Bao Nguyen
 topics:
  - Best practices
-time_start: 2025-10-07 15:45:00
-time_end: 2025-10-07 16:10:00
-room: Beckler
-track: Best practices
+
+time_start: 2025-10-07 16:45:00
+time_end: 2025-10-07 17:10:00
+room: Columbia D
+track: Use cases
 day: 20251
-timeslot: 29
-gridarea: 11/5/12/6
+timeslot: 36
+gridarea: 13/4/14/5 
+
 slides:
 video: 
 images:

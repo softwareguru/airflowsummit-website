@@ -15,6 +15,7 @@ gridarea: 13/5/14/6
 images:
 slides:
 video: 
+draft: true
 ---
 
 As the climate impact of cloud computing grows, carbon aware computing offers a promising way to cut emissions without compromising performance. By shifting workloads to times of lower carbon intensity on the power grid, we can achieve significant emissions reductions—often 10–30%—with no code changes to the underlying task.
