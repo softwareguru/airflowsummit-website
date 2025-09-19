@@ -3,6 +3,7 @@ title: "Dynamic DAGs and Data Quality using DAGFactory"
 slug: dynamic-dags-data-quality
 speakers:
  - Ashir Alam
+ - Gangfeng Huang
 topics:
  - Use cases
 images:

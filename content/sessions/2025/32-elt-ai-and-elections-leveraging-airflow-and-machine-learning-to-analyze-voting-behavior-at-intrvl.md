@@ -1,6 +1,6 @@
 ---
-title: "ELT, AI, and Elections: Leveraging Airflow and Machine Learning to Analyze Voting Behavior at INTRVL"
-slug: elt-ai-and-elections-leveraging-airflow-and-machine-learning-to-analyze-voting-behavior-at-intrvl
+title: "ELT and Elections: Cloud-agnostic patterns for real-time analysis"
+slug: elt-and-elections
 speakers:
  - Kyle McCluskey
 topics:
@@ -16,6 +16,7 @@ slides:
 video: 
 images:
  - /images/sessions/2025/elt-ai-and-elections.png
+aliases: sessions/2025/elt-ai-and-elections-leveraging-airflow-and-machine-learning-to-analyze-voting-behavior-at-intrvl
 ---
 
 Discover how Apache Airflow powers scalable ELT pipelines, enabling seamless data ingestion, transformation, and machine learning-driven insights. This session will walk through:
