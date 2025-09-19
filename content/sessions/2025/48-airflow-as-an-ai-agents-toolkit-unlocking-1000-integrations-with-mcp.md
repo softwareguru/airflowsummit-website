@@ -1,5 +1,5 @@
 ---
-title: "Airflow as an AI Agent’s Toolkit: Unlocking 1000+ Integrations with MCP"
+title: "Airflow as an AI Agent's toolkit: Going beyond MCPs and unlocking Airflow's 1000+ Integrations"
 slug: airflow-as-an-ai-agents-toolkit-unlocking-1000-integrations-with-mcp
 speakers:
  - Kaxil Naik
