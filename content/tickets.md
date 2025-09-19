@@ -14,10 +14,10 @@ title: "Tickets"
 
 ### What's included in the Conference Pass?
 
-- Access to full conference program- Keynotes, panels, and talks. 
+- Access to full conference program: Keynotes, panels, and talks. 
 - Breakfast, lunch, and coffee breaks.
 - Event opening reception.
-- Participant kit - Event t-shirt & tote bag.
+- Participant kit: Event t-shirt & tote bag (not guaranteed for late registrations).
 - Participation diploma. 
 
 ### Discounts: 
