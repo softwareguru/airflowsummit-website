@@ -3,8 +3,8 @@ title: "Apache Airflow 3.0 - Bad vs. Best Practices In Production"
 slug: apache-airflow-3-0-bad-vs-best-practices-in-production
 speakers:
  - Bhavani Ravi
-time_start: 2025-10-08 15:45:00
-time_end: 2025-10-08 16:10:00
+time_start: 2025-10-08 16:15:00
+time_end: 2025-10-08 16:40:00
 room: Columbia C
 track: Best practices
 day: 20252

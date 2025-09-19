@@ -8,7 +8,7 @@ topics:
  - Use cases
 time_start: 2025-10-08 15:45:00
 time_end: 2025-10-08 16:10:00
-room: Columbia C
+room: Columbia D
 track: Use cases
 day: 20252
 timeslot: 93

@@ -6,8 +6,8 @@ speakers:
  - Saurabh Gupta
 topics:
  - Use cases
-time_start: 2025-10-07 14:15:00
-time_end: 2025-10-07 14:40:00
+time_start: 2025-10-07 16:15:00
+time_end: 2025-10-07 16:40:00
 room: Columbia A
 track: Use cases
 day: 20251

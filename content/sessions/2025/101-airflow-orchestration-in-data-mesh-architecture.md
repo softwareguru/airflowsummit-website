@@ -3,8 +3,8 @@ title: "Airflow Orchestration in Data Mesh Architecture"
 slug: airflow-orchestration-in-data-mesh-architecture
 speakers:
  - Ramesh Babu
-time_start: 2025-10-08 15:45:00
-time_end: 2025-10-08 16:10:00
+time_start: 2025-10-08 16:15:00
+time_end: 2025-10-08 16:40:00
 room: Beckler
 track: Use cases
 day: 20252

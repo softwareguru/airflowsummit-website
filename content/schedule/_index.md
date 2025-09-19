@@ -149,21 +149,16 @@ days:
       - type: timelabel
         label: "13:00"
         gridarea: "8/1/9/2"
+
       - type: activity
         label: "Lunch"
         gridarea: "8/2/9/9"
         timelabel: "13:00 - 14:00"
-        gridaream: "23/1/24/2"
+        gridaream: "22/1/23/2"
 
       - type: timelabel
         label: "14:00"
         gridarea: "9/1/10/2"
-
-      - type: activity
-        label: "Workshop TBD"
-        gridarea: "9/6/14/7"
-        timelabel: "14:00 - 16:30"
-        gridaream: "28/1/29/2"
 
       - type: timelabel
         label: "14:30"
@@ -176,11 +171,12 @@ days:
       - type: timelabel
         label: "15:30"
         gridarea: "12/1/13/2"
+
       - type: activity
         label: "Coffee break"
         gridarea: "12/2/13/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "39/1/40/2"
+        gridaream: "37/1/38/2"
 
       - type: timelabel
         label: "15:45"
@@ -201,21 +197,19 @@ days:
     rooms: ["Columbia A", "Columbia C", "Columbia D", "Beckler", "301", "305", "306"]
     schedule_items: 
       - type: timelabel
-        label: "09:00"
+        label: "09:15"
         gridarea: "1/1/2/2"
 
-      - type: timelabel
-        label: "09:15"
-        gridarea: "2/1/3/2"
-
-      - type: timelabel
-        label: "10:00"
-        gridarea: "3/1/4/2"
       - type: activity
         label: "Coffee break"
         gridarea: "3/2/4/9"
         timelabel: "10:00 - 10:30"
-        gridaream: "3/1/4/2"
+        gridaream: "2/1/3/2"
+
+      - type: timelabel
+        label: "10:00"
+        gridarea: "3/1/4/2"
+
 
       - type: timelabel
         label: "10:30"
@@ -240,11 +234,12 @@ days:
       - type: timelabel
         label: "13:00"
         gridarea: "9/1/10/2"
+
       - type: activity
         label: "Lunch"
         gridarea: "9/2/10/9"
         timelabel: "13:00 - 14:00"
-        gridaream: "26/1/27/2"
+        gridaream: "25/1/26/2"
 
       - type: timelabel
         label: "14:00"
@@ -261,11 +256,12 @@ days:
       - type: timelabel
         label: "15:30"
         gridarea: "14/1/15/2"
+
       - type: activity
         label: "Coffee break"
         gridarea: "14/2/15/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "42/1/43/2"
+        gridaream: "41/1/42/2"
       
       - type: timelabel
         label: "15:45"

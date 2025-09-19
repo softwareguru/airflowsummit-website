@@ -9,8 +9,8 @@ topics:
 aliases:
  - /sessions/2025/transforming-insurance-underwriting-with-agentic-ai
 
-time_start: 2025-10-09 09:00:00
-time_end: 2025-10-09 09:25:00
+time_start: 2025-10-09 09:15:00
+time_end: 2025-10-09 10:00:00
 room: Columbia A
 track: Keynote
 keynote2025: true
