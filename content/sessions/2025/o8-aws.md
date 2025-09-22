@@ -11,8 +11,8 @@ track: Sponsored
 day: 20254
 timeslot: 8
 gridarea: 9/2/10/3
-
 images:
+ - /images/sessions/2025/mwaa-whats-new.png
 slides:
 video:
 ---

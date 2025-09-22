@@ -15,6 +15,7 @@ gridarea: 12/5/14/6
 slides:
 video: 
 images:
+ - /images/sessions/2025/airflow-openai.png
 ---
 
 This talk shares how we scaled and hardened OpenAI’s Airflow deployment to orchestrate thousands of workflows on Kubernetes.

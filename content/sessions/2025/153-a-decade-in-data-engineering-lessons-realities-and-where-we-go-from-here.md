@@ -11,7 +11,7 @@ day: 20253
 timeslot: 153
 gridarea: 10/4/11/5 
 images: 
-
+ - /images/sessions/2025/a-decade-in-data-engineering-lessons-realities-and-where-we-go-from-here.png
 slides:
 video: 
 ---

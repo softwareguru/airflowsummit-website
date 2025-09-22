@@ -12,6 +12,7 @@ day: 20252
 timeslot: 57
 gridarea: 6/4/7/5
 images:
+ - /images/sessions/2025/enterprise-auditing.png
 slides:
 video:
 ---

@@ -12,6 +12,7 @@ day: 20252
 timeslot: 50
 gridarea: 5/4/6/5
 images:
+ - /images/sessions/2025/mwaa-whats-new.png
 slides:
 video:
 ---

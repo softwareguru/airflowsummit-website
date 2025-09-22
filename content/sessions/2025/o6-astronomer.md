@@ -12,6 +12,8 @@ timeslot: 6
 gridarea: 7/2/8/3
 slides:
 video: 
+images:
+ - /images/sessions/2025/simplifying-dag-creation-online.png
 ---
 
 As the demand for data products grows, data engineering teams face mounting pressure to deliver more and even faster, often becoming bottlenecks. Astro IDE changes the game.

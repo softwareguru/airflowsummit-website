@@ -14,6 +14,8 @@ timeslot: 62
 gridarea: 7/3/8/4
 slides:
 video:
+images: 
+ - /images/sessions/2025/llmops-with-airflow-3-0-and-the-airflow-ai-sdk.png
 ---
 
 Airflow 3 brings several exciting new features that better support MLOps:

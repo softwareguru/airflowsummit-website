@@ -15,7 +15,7 @@ gridarea: 15/5/16/6
 slides:
 video:
 images:
-
+ - /images/sessions/2025/from-repetition-to-refactor.png
 ---
 
 We will explore how Apache Airflow 3 unlocks new possibilities for smarter, more flexible DAG design. We’ll start by breaking down common anti-patterns in early DAG implementations, such as hardcoded operators, duplicated task logic, and rigid sequencing, that lead to brittle, unscalable workflows. From there, we’ll show how refactoring with the D.R.Y. (Don’t Repeat Yourself) principle, using techniques like task factories, parameterization, dynamic task mapping, and modular DAG construction, transforms these workflows into clean, reusable patterns.

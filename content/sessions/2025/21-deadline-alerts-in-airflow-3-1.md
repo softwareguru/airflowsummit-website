@@ -14,7 +14,7 @@ day: 20251
 timeslot: 21
 gridarea: 9/2/10/3
 images: 
- - /images/sessions/2025/deadline-alerts-in-airflow.png
+ - /images/sessions/2025/deadline-alerts-in-airflow-3-1.png
 slides:
 video:
 ---
