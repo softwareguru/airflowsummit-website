@@ -14,6 +14,8 @@ images:
 
 slides:
 video: 
+draft: true
+
 ---
 
 Airflow has become default orchestration tool in our day to day business. Here I want to focus on the Data Mesh Architecture and how we can plug airflow orchestration to our major workflows.

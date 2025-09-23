@@ -18,6 +18,9 @@ slides:
 video: 
 images:
  - /images/sessions/2025/ensuring-data.png
+
+draft: true
+
 ---
 
 As analytics engineers, ensuring data accuracy and consistency is critical, but how do we systematically catch errors before they impact stakeholders? This session will explore how to integrate Airflow with dbt tests to build reliable and automated data validation workflows.

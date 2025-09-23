@@ -8,13 +8,16 @@ topics:
  - Airflow & ...
 images:
  - /images/sessions/2025/from-complexity-to-simplicity.png
-time_start: 2025-10-09 12:00:00
-time_end: 2025-10-09 12:25:00
-room: Columbia D
+
+time_start: 2025-10-16 15:00:00
+time_end: 2025-10-16 15:30:00
+room: Online
 track: Airflow & ...
-day: 20253
-timeslot: 138
-gridarea: 7/4/8/5
+day: 20255
+timeslot: 11
+gridarea: 3/2/4/3
+
+
 slides:
 video:
 ---

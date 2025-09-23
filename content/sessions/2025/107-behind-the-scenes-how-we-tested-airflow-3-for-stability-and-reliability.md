@@ -8,11 +8,11 @@ topics:
  - Airflow 3
 time_start: 2025-10-08 16:45:00
 time_end: 2025-10-08 17:10:00
-room: Beckler
+room: Columbia D
 track: Airflow 3
 day: 20252
-timeslot: 108
-gridarea: 15/5/16/6
+timeslot: 107
+gridarea: 15/4/16/5
 slides:
 video:
 images:

@@ -6,13 +6,13 @@ speakers:
 topics:
  - Best practices
 
-time_start: 2025-10-09 16:45:00
-time_end: 2025-10-09 17:10:00
+time_start: 2025-10-09 12:00:00
+time_end: 2025-10-09 12:25:00
 room: Columbia D
 track: Best practices
 day: 20253
-timeslot: 189
-gridarea: 17/4/18/5
+timeslot: 138
+gridarea: 7/4/8/5
 
 slides:
 video: 

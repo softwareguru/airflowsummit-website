@@ -6,13 +6,16 @@ speakers:
  - Venkat Sadineni
 topics:
  - Use cases
-time_start: 2025-10-08 16:45:00
-time_end: 2025-10-08 17:10:00
-room: Columbia D
+
+
+time_start: 2025-10-08 16:15:00
+time_end: 2025-10-08 16:40:00
+room: Beckler
 track: Use cases
 day: 20252
-timeslot: 107
-gridarea: 15/4/16/5
+timeslot: 101
+gridarea: 14/5/16/6
+
 slides:
 video:
 ---
