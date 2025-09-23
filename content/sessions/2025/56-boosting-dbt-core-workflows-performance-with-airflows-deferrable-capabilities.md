@@ -9,7 +9,7 @@ topics:
  - Airflow & ...
 time_start: 2025-10-08 12:00:00
 time_end: 2025-10-08 12:25:00
-room: Columbia A
+room: Columbia C
 track: Airflow & ...
 day: 20252
 timeslot: 56

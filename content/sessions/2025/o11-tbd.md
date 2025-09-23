@@ -7,17 +7,20 @@ speakers:
 
 topics:
  - Use cases
-time_start: 2025-10-16 14:30:00
-time_end: 2025-10-16 15:00:00
+
+time_start: 2025-10-16 15:00:00
+time_end: 2025-10-16 15:30:00
 room: Online
-track: Use cases
+track: Airflow & ...
 day: 20255
-timeslot: 10
-gridarea: 2/2/3/3
+timeslot: 11
+gridarea: 3/2/4/3
+
 images: 
 
 slides:
 video:
+draft: true
 ---
 
 We've all watched our Airflow DAGs grow from simple pipelines into complex beasts that nobody wants to touch. But what if AI could be your DAG whisperer? In this session, I'll show you how we're teaching machines to speak Airflow.

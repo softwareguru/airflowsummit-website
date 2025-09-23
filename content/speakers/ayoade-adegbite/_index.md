@@ -3,7 +3,7 @@ title: "Ayoade Adegbite"
 date: 2025-09-15T17:06:12-05:00
 images: 
  - /images/speakers/ayoade-adegbite.png
-designation: Data Analytics Engineer at WirePick
+designation: Data Analytics Engineer at Wirepick
 twitter: 
 linkedin: https://www.linkedin.com/in/tripleaceme/
 github: 

@@ -9,7 +9,7 @@ topics:
  - Community
 time_start: 2025-10-08 10:30:00
 time_end: 2025-10-08 11:10:00
-room: Columbia C
+room: Columbia A
 track: Community
 day: 20252
 timeslot: 41
