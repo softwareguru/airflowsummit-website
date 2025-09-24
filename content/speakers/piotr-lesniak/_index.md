@@ -2,7 +2,7 @@
 title: "Piotr Leśniak"
 date: 2024-08-18T17:07:02-05:00
 images: 
- - /images/speakers/piotr-lesniak.jpg
+ - /images/speakers/piotr-lesniak.png
 designation: Sr Staff Software Engineer at Google
 twitter: 
 linkedin: https://www.linkedin.com/in/piotr-le%C5%9Bniak-902b376a/
