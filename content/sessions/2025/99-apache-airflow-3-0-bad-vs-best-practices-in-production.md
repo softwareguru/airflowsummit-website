@@ -12,6 +12,8 @@ timeslot: 99
 gridarea: 14/3/15/4
 slides:
 video:
+images:
+ - /images/sessions/2025/apache-airflow-3-0-bad-vs-best-practices-in-production.png
 ---
 
 The general-purpose nature of Airflow has always left us questioning, "Is this the right way"? While the existing resources and community cover them, the new Airflow releases always leave us wondering if there is more

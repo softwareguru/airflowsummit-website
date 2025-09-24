@@ -2,7 +2,7 @@
 title: "Michał Modras"
 date: 2024-06-10T23:18:56-06:00
 images: 
- - /images/speakers/michał-modras.jpg
+ - /images/speakers/michał-modra.png
 designation: Cloud Composer Engineering Manager @ Google
 twitter: 
 linkedin: 

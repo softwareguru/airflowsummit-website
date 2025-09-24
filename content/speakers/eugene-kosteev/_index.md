@@ -1,6 +1,6 @@
 ---
 title: "Eugene Kosteev"
-designation: "Google, SWE"
+designation: "Software Engineer at Google"
 image: /images/speakers/eugene-kosteev.jpg
 images: 
  - /images/speakers/eugene-kosteev.png
@@ -9,7 +9,7 @@ events:
  - 2025
 twitter: ""
 linkedin: ""
-draft: true
+draft: false
 ---
 
 N/A
