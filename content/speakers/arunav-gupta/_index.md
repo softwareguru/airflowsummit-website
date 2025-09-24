@@ -5,7 +5,7 @@ images:
  - /images/speakers/arunav-gupta.png
 designation: Software Development Engineer at AWS
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/arunav-gupta/
 github: 
 events:
  - 2025

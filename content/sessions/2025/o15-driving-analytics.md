@@ -11,6 +11,7 @@ day: 20255
 timeslot: 15
 gridarea: 7/2/8/3
 images: 
+ - /images/sessions/2025/driving-analytics.png
 slides:
 video:
 ---

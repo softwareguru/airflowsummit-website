@@ -15,7 +15,7 @@ gridarea: 12/4/13/5
 slides:
 video: 
 images:
- - /images/sessions/2025/elt-ai-and-elections.png
+ - /images/sessions/2025/elt-and-elections.png
 aliases: sessions/2025/elt-ai-and-elections-leveraging-airflow-and-machine-learning-to-analyze-voting-behavior-at-intrvl
 ---
 

@@ -19,6 +19,8 @@ gridarea: 10/8/16/9
 slides:
 video: 
 summary: Whether you're writing code, enhancing documentation, or offering feedback, there's a place for you. Let's get started and see your name among Airflow contributors!"
+images:
+ - /images/sessions/2025/your-first-apache-airflow-contribution.png
 ---
 
 Ready to contribute to Apache Airflow? In this hands-on workshop, you'll be expected to come prepared with your development environment already configured (Breeze installed is strongly recommended, but Codespaces works if you can't install Docker). We'll dive straight into finding issues that match your skills and walk you through the entire contribution process—from creating your first pull request to receiving community feedback. Whether you're writing code, enhancing documentation, or offering feedback, there's a place for you. Let's get started and see your name among Airflow contributors!

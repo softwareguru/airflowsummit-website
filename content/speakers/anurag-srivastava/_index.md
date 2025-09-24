@@ -4,8 +4,8 @@ date: 2024-09-01T14:39:41-05:00
 images: 
  - /images/speakers/anurag-srivastava.png
 designation: Sr. Cloud Support Engineer at AWS
-twitter: 
-linkedin: 
+twitter: https://x.com/AnuragSri2024
+linkedin: https://www.linkedin.com/in/srivastava-anurag321/
 github: 
 events:
  - 2024

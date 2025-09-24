@@ -5,7 +5,7 @@ images:
  - /images/speakers/annie-friedman.png
 designation: Resident Solutions Architect @ Astronomer
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/anniewfriedman/
 github: 
 events:
  - 2025

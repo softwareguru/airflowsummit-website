@@ -5,7 +5,7 @@ images:
  - /images/speakers/caitlin-petro.png
 designation: Sales Engineer at Astronomer
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/caitlin-petro/
 github: 
 events:
  - 2025

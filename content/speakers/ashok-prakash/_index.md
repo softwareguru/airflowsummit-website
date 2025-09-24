@@ -5,7 +5,7 @@ images:
  - /images/speakers/ashok-prakash.png
 designation: Senior Principal Engineer - Oracle
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/ashok-prakash/
 github: 
 events:
  - 2025
