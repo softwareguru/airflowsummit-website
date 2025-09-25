@@ -4,7 +4,7 @@ date: 2025-09-15T17:06:12-05:00
 images: 
  - /images/speakers/ayoade-adegbite.png
 designation: Data Analytics Engineer at Wirepick
-twitter: 
+twitter: https://x.com/abel_analytics
 linkedin: https://www.linkedin.com/in/tripleaceme/
 github: 
 events:

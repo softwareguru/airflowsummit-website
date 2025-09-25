@@ -2,7 +2,6 @@
 title: "Data & AI Orchestration at GoDaddy"
 slug: data-and-ai-orchestration-at-godaddy
 speakers:
- - Ankit Sahu
  - Brandon Abear
 time_start: 2025-10-09 11:30:00
 time_end: 2025-10-09 11:55:00

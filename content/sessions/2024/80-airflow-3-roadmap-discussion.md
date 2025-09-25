@@ -4,7 +4,7 @@ slug: airflow-3-roadmap-discussion
 speakers:
  - Madison Swain-Bowden
  - Kaxil Naik
- - Michał Modras
+ - Michal Modras
  - Constance Martineau
  - Shubham Mehta
 time_start: 2024-09-12 09:25:00
