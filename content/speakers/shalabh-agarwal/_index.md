@@ -5,7 +5,7 @@ images:
  - /images/speakers/shalabh-agarwal.png
 designation: Senior Data Engineer @ Walmart
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/shalabh-agarwal/
 github: 
 events:
  - 2025

@@ -5,7 +5,7 @@ images:
  - /images/speakers/yuhang-huang.png
 designation: Software Development Manager at AWS
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/yuhang-huang-3b3267b9/
 github: 
 events:
  - 2025

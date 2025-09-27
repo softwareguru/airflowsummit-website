@@ -9,7 +9,7 @@ events:
  - 2025
 twitter: ""
 linkedin: ""
-draft: false
+draft: true
 ---
 
 N/A
