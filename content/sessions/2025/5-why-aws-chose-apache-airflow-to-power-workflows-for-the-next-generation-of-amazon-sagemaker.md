@@ -3,6 +3,7 @@ title: "Why AWS chose Apache Airflow to power workflows for the next generation 
 slug: why-aws-chose-apache-airflow-to-power-workflows-for-the-next-generation-of-amazon-sagemaker
 speakers:
  - John Jackson
+ - Kamen Sharlandjiev
 topics:
  - Use cases
 time_start: 2025-10-07 11:30:00
