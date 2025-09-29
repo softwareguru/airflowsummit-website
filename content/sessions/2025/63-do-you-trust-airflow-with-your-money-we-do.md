@@ -3,7 +3,6 @@ title: "Do you trust Airflow with your money? (We do!)"
 slug: do-you-trust-airflow-with-your-money-we-do
 speakers:
  - Nick Bilozerov
- - Daniel Melchor
  - Sabrina Liu
 topics:
  - Use cases
