@@ -4,7 +4,7 @@ slug: when-airflow-meets-yunikorn
 aliases: sessions/2025/when-airflow-meets-yunikorn-enhancing-airflow-with-yunikorn-for-higher-efficiency
 speakers:
  - Xiaodong Deng
- - Chaoran Yu
+
 topics:
  - Airflow & ...
 time_start: 2025-10-09 10:30:00
