@@ -8,13 +8,13 @@ summary: "This workshop should be suitable for any Architect, Data Engineer or D
 
 time_start: 2025-10-08 14:00:00
 time_end: 2025-10-08 16:30:00
-room: 305
+room: 301
 
 track: Workshop
 day: 20252
-timeslot: 74
+timeslot: 73
 
-gridarea: 9/7/14/8
+gridarea: 9/6/14/7
 slides:
 video: 
 images:
