@@ -10,7 +10,7 @@ time_end: 2025-10-08 16:30:00
 room: 305
 track: Workshop
 day: 20252
-timeslot: 75
+timeslot: 74
 gridarea: 9/7/14/8
 slides:
 video:

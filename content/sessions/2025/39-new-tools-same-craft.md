@@ -10,8 +10,8 @@ images:
  - /images/sessions/2025/new-tools-same-craft.png
 
 track: Keynote
-time_start: 2025-10-09 09:30:00
-time_end: 2025-10-09 10:00:00
+time_start: 2025-10-08 09:30:00
+time_end: 2025-10-08 10:00:00
 room: Columbia A
 day: 20252
 timeslot: 39
