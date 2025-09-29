@@ -3,8 +3,8 @@ title: "A Decade in Data Engineering - Lessons Realities and Where We Go From He
 slug: a-decade-in-data-engineering-lessons-realities-and-where-we-go-from-here
 speakers:
  - Ben Rogojan
-time_start: 2025-10-07 14:00:00
-time_end: 2025-10-07 14:25:00
+time_start: 2025-10-09 14:00:00
+time_end: 2025-10-09 14:25:00
 room: Columbia D
 track: Community
 day: 20253
