@@ -5,6 +5,7 @@ company: "VinkOS"
 location: Remote (Mexico)
 extlink: https://mx.indeed.com/job/data-scientist-2881d4bcd421400c
 weight: 
+draft: true
 ---
 
 

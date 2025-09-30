@@ -7,13 +7,21 @@
     </div>
     <div class="row">
         {{ range .Data.Pages.ByWeight }}
-      <div class="col-12 col-md-4 px-3 mb-3">
+      <div class="col-12 col-md-6 px-3 mb-3">
         <div class="card h-100 shadow p-4 border-card " style="margin-bottom: -35px;">
           <div class="card-body">
-            <h3 class="card-title"><a href="{{ .Params.extlink }}" target="_blank">{{ .Title }}</a></h3>
-            <h5 class="card-subtitle mb-2 text-body-secondary">{{with .Params.company}}{{.}}{{end}}{{with .Params.location}}<br>{{.}}{{end}}</h5>
-            <div class="card-text">{{ .Summary }}</div>
-            <a href="{{ .Params.extlink }}" class="card-link" target="_blank"></a>
+            <h3 class="card-title text-center"><a href="{{ .Params.extlink }}">{{ .Title }}</a></h3>
+
+            <h5 class="card-subtitle mb-2 text-body-secondary text-center mb-4">
+              {{with .Params.image}}
+              <img src="{{.}}">
+              {{end}}
+              {{with .Params.location}}
+              <br>
+              {{.}}
+              {{end}}</h5>
+            <!--<div class="card-text">{{ .Summary }}</div>-->
+            <a href="{{ .Params.extlink }}" class="card-link"></a>
           </div>
         </div>
       </div>  

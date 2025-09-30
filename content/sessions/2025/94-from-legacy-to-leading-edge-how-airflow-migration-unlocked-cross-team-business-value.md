@@ -18,7 +18,10 @@ images:
  - /images/sessions/2025/from-legacy-to-leading-edge.png
 ---
 
-At TrueCar, migrating hundreds of legacy Oozie workflows and in-house orchestration tools to Apache Airflow required key technical decisions that transformed our data platform architecture and organizational capabilities.
+At TrueCar, migrating hundreds of legacy workflows from in-house orchestration tools to Apache Airflow required key technical decisions that transformed our data platform architecture and organizational capabilities.
+
 We consolidated individual chained tasks into optimized DAGs leveraging native Airflow functionality to trigger compute across cloud environments. A crucial breakthrough was developing DAG generators to scale migration—essential for efficiently migrating hundreds of workflows while maintaining consistency.
+
 By decoupling orchestration from compute, we gained flexibility to select optimal tools for specific outcomes—programmatic processing, analytics, batch jobs, or AI/ML pipelines. This resulted in cost reductions, performance improvements, and team agility. We also gained unprecedented visibility into DAG performance and dependency patterns previously invisible across fragmented systems.
+
 Attendees will learn how we redesigned complex workflows into efficient DAGs using dynamic task generation, architectural decisions that enabled platform innovation and the decision framework that made our migration transformational.

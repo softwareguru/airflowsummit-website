@@ -62,10 +62,10 @@ speaker = "speakers"
     weight = 4
 
   [[menu.main]]
-    identifier = "volunteer"
-    name = "Become a Volunteer!"
+    identifier = "jobs"
+    name = "Jobs"
     hrefTargetBlank = true
-    url = "/volunteer"
+    url = "/jobs"
     parent = "attend"
     weight = 5
 
