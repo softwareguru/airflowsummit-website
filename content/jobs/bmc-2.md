@@ -8,9 +8,9 @@ url: /jobs/principal-product-developer-bmc
 extlink: "/jobs/principal-product-developer-bmc"
 ---
 
-Location: [U.S. - Remote]
+**Location:** [U.S. - Remote]
 
-Company Overview:
+**Company Overview:**
 
 BMC is a leading enterprise software company dedicated to delivering innovative solutions in
 automation and IT infrastructure management, that empower businesses to thrive in a digital-
@@ -19,38 +19,38 @@ growth, and create exceptional user experiences for many of the largest and most
 global enterprises, government agencies across geographies and mid-tier, high-growth
 companies.
 
-Position Overview:
+**Position Overview:**
 
-We are seeking a Principal Product Developer to guide the design, development, and delivery
+We are seeking a **Principal Product Developer** to guide the design, development, and delivery
 of innovative data automation and data management software products. This role combines
 deep technical expertise, hands-on development, and strong leadership to ensure our solutions
 are scalable, secure, and enterprise-ready. The ideal candidate will be passionate about
 building software platforms that enable automation, observability, and resilience at scale, while
 leading a team of engineers in bringing modern data management solutions to life.
 
-Key Responsibilities
+**Key Responsibilities**
 
-* Architecture &amp; Design – Lead the design and development of enterprise-grade data
+* **Architecture & Design** – Lead the design and development of enterprise-grade data
 automation and management products built on top of open-source and cloud-native
 platforms.
-* Scalability – Architect solutions that are secure, reliable, and fault-tolerant to meet the
+* **Scalability** – Architect solutions that are secure, reliable, and fault-tolerant to meet the
 demands of enterprise environments.
-* Engineering Practices – Guide the team in adopting best practices in software
+* **Engineering Practices** – Guide the team in adopting best practices in software
 engineering, including CI/CD pipelines, automated testing, and DevOps.
-* Product Alignment – Collaborate with product management to define technical
+* **Product Alignment** – Collaborate with product management to define technical
 roadmaps, product requirements, and release strategies.
-* Hands-on Development – Contribute directly to coding, code reviews, and system
+* **Hands-on Development** – Contribute directly to coding, code reviews, and system
 design, ensuring code quality and maintainability.
-* Integration – Build and manage integrations with cloud platforms (AWS, Azure, GCP)
+* **Integration** – Build and manage integrations with cloud platforms (AWS, Azure, GCP)
 and enterprise systems to deliver seamless automation.
-* Mentorship – Coach and mentor engineers, fostering knowledge sharing, collaboration,
+* **Mentorship** – Coach and mentor engineers, fostering knowledge sharing, collaboration,
 and professional growth.
-* Thought Leadership – Act as a technical authority, staying ahead of industry trends in
+* **Thought Leadership** – Act as a technical authority, staying ahead of industry trends in
 workflow orchestration, automation, and open-source ecosystems.
-* Stakeholder Collaboration – Partner with stakeholders across engineering, operations,
+* **Stakeholder Collaboration** – Partner with stakeholders across engineering, operations,
 and customer success to ensure successful adoption and deployment.
 
-Qualifications
+**Qualifications**
 
 * Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field (or
 equivalent experience).
@@ -77,7 +77,7 @@ they can be applied to enhance automation and data management solutions.
 * Excellent communication and leadership skills, with the ability to collaborate across
 technical and business stakeholders.
 
-Why Join Us?
+**Why Join Us?**
 
 At BMC, you will have the opportunity to shape the future of workload automation and data
 management in the enterprise, and to deliver compelling solutions to our customers. BMC has a
