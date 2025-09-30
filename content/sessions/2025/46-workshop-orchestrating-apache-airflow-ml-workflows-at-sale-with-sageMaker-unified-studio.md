@@ -6,6 +6,7 @@ speakers:
  - Suba Palanisamy
  - Sean Bjurstrom
  - Anurag Srivastava
+ - Jonathan Lee
 topics:
  - Workshop
 workshop2025: true

@@ -97,5 +97,10 @@ title: ""
   </div>
 </div>
 
+## Event floor plan:
+
+<div class="container">
+<img src="/images/partners/sponsors-page/f1.png" class="img-fluid mx-auto d-block mt-4">
+</div>
 
 </div>
