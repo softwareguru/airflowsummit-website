@@ -1,5 +1,5 @@
 ---
-title: "Event-Driven, Partition-Aware: Modern Orchestration with Airflow at Datadog"
+title: "Why Datadog Chose Airflow 3: Multi-Tenancy, Observability, and the Future of Event-Driven Workflows"
 slug: event-driven-partition-aware-modern-orchestration-with-airflow-at-datadog
 speakers:
  - Julien Le Dem
