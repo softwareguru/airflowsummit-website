@@ -15,11 +15,11 @@
                 <p class="my-1" style="color: #ff6600">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</p>
                 <h3>{{ .Title }}</h3>
                 <div class="d-flex flex-wrap">
-                    {{ range .Params.speakers }}                                
+                    {{ range .Params.speakers }}
                         {{ $speaker_url := print "/speakers/" . | urlize }}
                           {{ with $.Site.GetPage $speaker_url }}
-                            <div class="d-flex col">
-                                <div style="max-width:180px">{{ with .Params.images}}
+                            <div class="d-flex flex-wrap col">
+                                <div style="max-width:180px; min-width: 80px">{{ with .Params.images}}
                                     <img class="img-fluid" src="{{ index . 0 }}" alt="">
                                     {{ end }}
                                 </div>
