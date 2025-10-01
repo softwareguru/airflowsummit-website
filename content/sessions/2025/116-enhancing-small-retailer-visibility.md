@@ -3,7 +3,6 @@ title: "Enhancing Small Retailer Visibility: Machine Learning Pipelines with Apa
 slug: enhancing-small-retailer-visibility
 speakers:
  - Hannah Lundrigan
- - Alberto Hernandez
 time_start: 2025-10-09 10:30:00
 time_end: 2025-10-09 10:55:00
 room: Columbia C

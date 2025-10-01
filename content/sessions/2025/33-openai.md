@@ -3,6 +3,7 @@ title: "Scaling Airflow at OpenAI"
 slug: airflow-openai
 speakers:
  - Ping Zhang
+ - Howie Wang
 topics:
  - Use cases
 time_start: 2025-10-07 16:15:00

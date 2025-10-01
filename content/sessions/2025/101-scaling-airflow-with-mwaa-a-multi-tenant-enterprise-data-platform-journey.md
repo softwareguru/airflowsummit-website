@@ -18,6 +18,7 @@ gridarea: 14/5/16/6
 
 slides:
 video:
+draft: true
 ---
 
 We use Amazon MWAA to orchestrate our enterprise data warehouse and MDM solutions. Our DAGs extract data from Salesforce, Oracle, Workday, and SFTP, transform it using Mulesoft, Informatica, and DBT, and load it into Salesforce Data Cloud and Snowflake. MWAA is configured as a multi-tenant platform, supporting more than 10 teams and managing thousands of DAGs per environment. Each team follows a full SDLC and has a dedicated Git repo integrated with Jenkins-based CI/CD pipelines for independent deployments.
