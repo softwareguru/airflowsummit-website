@@ -2,7 +2,7 @@
 title: "Ping Zhang"
 date: 2023-03-03T02:07:29-06:00
 images: 
- - /images/speakers/ping-zhang.jpg
+ - /images/speakers/ping-zhang.png
 designation : Member of Technical Staff at OpenAI
 twitter: 
 linkedin: https://www.linkedin.com/in/pingzhang/
