@@ -1,5 +1,5 @@
 ---
-title: "Supercharging Apache Airflow: Enhancing Core Components with Rust"
+title: "Lightning talk: Supercharging Apache Airflow: Enhancing Core Components with Rust"
 slug: supercharging-apache-airflow-enhancing-core-components-with-rust
 speakers:
  - Shahar Epstein

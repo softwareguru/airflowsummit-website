@@ -284,7 +284,7 @@ days:
         label: "17:35"
         gridarea: "19/1/20/2"
       - type: activity
-        label: "Lightning talk"
+        label: "Lightning talk (sign up for this slot at registration desk)"
         gridarea: "19/2/20/9"
         timelabel: "17:35 - 17:40"
         gridaream: "54/1/55/2"
@@ -293,7 +293,7 @@ days:
         label: "17:40"
         gridarea: "20/1/21/2"
       - type: activity
-        label: "Lightning talk"
+        label: "Lightning talk (sign up for this slot at registration desk)"
         gridarea: "20/2/21/9"
         timelabel: "16:40 - 17:45"
         gridaream: "55/1/56/2"
@@ -302,7 +302,7 @@ days:
         label: "17:45"
         gridarea: "21/1/22/2"
       - type: activity
-        label: "Lightning talk"
+        label: "Lightning talk (sign up for this slot at registration desk)"
         gridarea: "21/2/22/9"
         timelabel: "17:45 - 17:50"
         gridaream: "56/1/57/2"
@@ -311,7 +311,7 @@ days:
         label: "17:50"
         gridarea: "22/1/23/2"
       - type: activity
-        label: "Lightning talk"
+        label: "Lightning talk (sign up for this slot at registration desk)"
         gridarea: "22/2/23/9"
         timelabel: "17:50 - 17:55"
         gridaream: "57/1/88/2"
