@@ -3,15 +3,13 @@ title: "LLM-Powered Review Analysis: Optimising Data Engineering using Airflow"
 slug: llm-powered-review-analysis
 speakers:
  - Naseem Shah
-
 time_start: 2025-10-07 15:45:00
 time_end: 2025-10-07 16:10:00
 room: Beckler
-track: Best practices
+track: Use cases
 day: 20251
 timeslot: 29
 gridarea: 11/5/12/6
-
 slides:
 video: 
 images:
