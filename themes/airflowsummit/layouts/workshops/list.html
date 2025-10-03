@@ -14,7 +14,7 @@
       <div class="col-12 col-lg-4">
         <div class="card mx-2 my-3">
           <div class="card-body">
-            <h6><em>{{ $time_start.Format "15:04" }}-{{ $time_end.Format "15:04" }}</em></h6>
+            <h6><em>{{ $time_start.Format "15:04" }}-{{ $time_end.Format "15:04" }}. Room {{.Params.room}}.</em></h6>
             <h5 class="card-title">{{.Title}}</h4>
             <h6 class="card-stubtitle">by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</h5>
             <div class="card-text">{{.Summary}}</div>
@@ -33,7 +33,7 @@
       <div class="col-12 col-lg-4">
         <div class="card mx-2 my-3">
           <div class="card-body">
-            <h6><em>{{ $time_start.Format "15:04" }}-{{ $time_end.Format "15:04" }}</em></h6>
+            <h6><em>{{ $time_start.Format "15:04" }}-{{ $time_end.Format "15:04" }}. Room {{.Params.room}}.</em></h6>
             <h5 class="card-title">{{.Title}}</h4>
             <h6 class="card-stubtitle">by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</h5>
             <div class="card-text">{{.Summary}}</div>
