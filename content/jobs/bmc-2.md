@@ -1,6 +1,6 @@
 ---
 title: "Principal Product Developer"
-date: 2024-09-08T02:17:52
+date: 2025-10-01T10:17:52
 company: BMC
 image: /images/partners/logo-bmc.png
 location: U.S. - Remote
