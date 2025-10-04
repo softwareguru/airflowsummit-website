@@ -3,13 +3,16 @@ title: "Scaling ML Infrastructure: Lessons from Building Distributed Systems"
 slug: scaling-ml-infrastructure
 speakers:
  - Ashok Prakash
-time_start: 2025-10-09 16:45:00
-time_end: 2025-10-09 17:10:00
-room: Columbia D
+
 track: Best practices
+
+time_start: 2025-10-09 10:30:00
+time_end: 2025-10-09 10:55:00
+room: Columbia D
 day: 20253
-timeslot: 189
-gridarea: 17/4/18/5
+timeslot: 117
+gridarea: 4/4/5/5
+
 slides:
 video:
 ---

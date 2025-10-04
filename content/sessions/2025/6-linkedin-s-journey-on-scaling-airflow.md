@@ -1,5 +1,5 @@
 ---
-title: "Linkedin's Journey on scaling airflow"
+title: "Linkedin's journey on scaling Airflow"
 slug: linkedin-s-journey-on-scaling-airflow
 speakers:
  - Rahul Gade
