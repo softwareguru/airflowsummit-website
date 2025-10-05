@@ -14,6 +14,7 @@ gridarea: 8/4/9/5
 images: 
 slides:
 video:
+summary: "We'll showcase how Airflow can automate and optimize Databricks workflows, reducing costs and improving performance for large-scale data processing."
 ---
 
 As data workloads grow in complexity, teams need seamless orchestration to manage pipelines across batch, streaming, and AI/ML workflows. Apache Airflow provides a flexible and open-source way to orchestrate Databricks' entire platform, from SQL analytics with Materialized Views (MVs) and Streaming Tables (STs) to AI/ML model training and deployment.

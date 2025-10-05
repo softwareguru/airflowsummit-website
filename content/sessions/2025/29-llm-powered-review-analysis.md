@@ -14,6 +14,7 @@ slides:
 video: 
 images:
  - /images/sessions/2025/llm-powered-review-analysis.png
+summary: "A real-world journey of how a small team at Xena Intelligence built robust data pipelines for our enterprise customers using Airflow. Learn how we orchestrated a complex workflow to process millions of public reviews."
 ---
 
 A real-world journey of how my small team at Xena Intelligence built robust data pipelines for our enterprise customers using Airflow. If you’re a data engineer, or part of a small team, this talk is for you. Learn how we orchestrated a complex workflow to process millions of public reviews.

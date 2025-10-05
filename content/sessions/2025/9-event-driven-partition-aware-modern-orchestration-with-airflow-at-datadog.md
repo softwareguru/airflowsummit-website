@@ -19,6 +19,7 @@ images:
  - /images/sessions/2025/event-driven-partition-aware.png
 slides:
 video:
+sumary: "This talk follows Datadog's journey from building a custom orchestrator to adopting and contributing to Airflow 3. We’ll share our thought process, our asset partitions use case, and how we’re working with the community to materialize the Data Awareness (AIP-73) vision. "
 ---
 
 Datadog is a world-class data platform ingesting more than a 100 trillion events a day, providing real-time insights.

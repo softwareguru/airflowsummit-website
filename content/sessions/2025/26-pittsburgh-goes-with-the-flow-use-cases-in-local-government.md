@@ -13,6 +13,7 @@ gridarea: 11/2/12/3
 images: 
 slides:
 video: 
+summary: "Come and learn how the City of Pittsburgh uses Airflow for a variety of tasks, from employee-focused use cases to publication of public-facing information. Airflow acts as a funnel point and is an essential tool for Pittsburgh's Data Services team." 
 ---
 
 The City of Pittsburgh utilizes Airflow (via Astronomer) for a wide variety of tasks. From employee-focused use cases, like time bank balancing and internal dashboards, to public-facing publication, the City's data flows through our DAGs from many sources to many sources. Airflow acts as a funnel point and is an essential tool for Pittsburgh's Data Services team.

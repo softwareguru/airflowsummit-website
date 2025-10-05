@@ -16,6 +16,7 @@ gridarea: 7/3/8/4
 images: 
 slides:
 video:
+summary: "This session dives into how Apache Airflow serves as a unifying force in MLOps. We will start by analyzing the broader MLOps trends and how Airflow is evolving to meet these challenges and then we will share a case study of the MLOps transformation at Priceline."
 ---
 
 The journey from ML model development to production deployment and monitoring is often complex and fragmented. How can teams overcome the chaos of disparate tools and processes? This session dives into how Apache Airflow serves as a unifying force in MLOps.

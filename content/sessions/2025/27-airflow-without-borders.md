@@ -14,6 +14,7 @@ images:
  - /images/sessions/2025/airflow-without-borders.png
 slides:
 video: 
+summary: "This talk will highlight the UI changes made to support different languages, including locale-aware adjustments. We’ll discuss how translations are contributed and managed — including the use of LLMs to accelerate the process — and why human review remains an essential part of it. We’ll present the i18n policy designed to ensure long-term maintainability, along with the tooling developed to support it."
 ---
 
 One of the exciting new features in Airflow 3 is internationalization (i18n), bringing multilingual support to the UI and making Airflow more accessible to users worldwide. This talk will highlight the UI changes made to support different languages, including locale-aware adjustments. We’ll discuss how translations are contributed and managed — including the use of LLMs to accelerate the process — and why human review remains an essential part of it. We’ll present the i18n policy designed to ensure long-term maintainability, along with the tooling developed to support it. Finally, you’ll learn how to get involved and contribute to Airflow’s global reach by translating or reviewing content in your language.

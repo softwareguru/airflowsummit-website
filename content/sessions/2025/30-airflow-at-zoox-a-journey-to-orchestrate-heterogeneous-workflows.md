@@ -16,7 +16,8 @@ gridarea: 12/2/13/3
 images:
  - /images/sessions/2025/airflow-at-zoox-a-journey-to-orchestrate-heterogeneous-workflows.png 
 slides:
-video: 
+video:
+summary: "This presentation will detail how a small team at Zoox has managed to address the challenge of using Airflow for orchestrating heterogeneous workflows encompassing data, ML, and QA pipelines. We will share our strategies for simplifying the Airflow DAG creation process and enhancing user experience."
 ---
 
 The workflow orchestration team at Zoox aims to build a solution for orchestrating heterogeneous workflows encompassing data, ML, and QA pipelines. We have encountered two primary challenges: first, the steep learning curve for new Airflow users and the need for a user-friendly yet scalable development process; second, integrating and migrating existing pipelines with established solutions.

@@ -16,6 +16,7 @@ images:
  - /images/sessions/2025/seamless-airflow-upgrades.png
 slides:
 video:
+summary: "Join this session for live demos and practical examples that will empower you to confidently upgrade from Airflow 2, minimise downtime, and achieve optimal performance in Airflow 3."
 ---
 
 Airflow 3 has officially arrived! In this session, we’ll start by discussing prerequisites for a smooth upgrade from Airflow 2.x to Airflow 3, including airflow version requirements, removing deprecated SubDAGs, and backing up and cleaning your metadata database prior to migration. We'll then explore the new CLI utility: airflow config update [—-fix] for auto-applying configuration changes. We’ll demo cleaning old XCom data to speed up schema migration.

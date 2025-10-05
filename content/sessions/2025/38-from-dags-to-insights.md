@@ -15,6 +15,7 @@ timeslot: 38
 gridarea: 1/2/2/9
 slides:
 video: 
+summary: "This session dives into use cases from GitHub where key business decisions are driven, at the root, with the help of Airflow."
 ---
 
 Airflow is integral to GitHub's data and insight generation. This session dives into use cases from GitHub where key business decisions are driven, at the root, with the help of Airflow. The session will also highlight how both GitHub and Airflow celebrate, promote, and nurture OSS innovations in their own ways.

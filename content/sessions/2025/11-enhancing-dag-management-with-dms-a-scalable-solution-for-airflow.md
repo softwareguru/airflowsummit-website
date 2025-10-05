@@ -17,6 +17,7 @@ images:
  - /images/sessions/2025/enhancing-dag-management-with-dms.png
 slides:
 video:
+summary: "We introduce the DAG Management Service (DMS), developed to address critical challenges in managing Airflow clusters. We will also discuss how DMS streamlines Airflow version upgrades. Upgrading from an old Airflow version to the latest requires sequential updates and code modifications for over 10,000 DAGs. DMS proposes an efficient upgrade method, reducing dependency on users."
 ---
 
 In this talk, we will introduce the DAG Management Service (DMS), developed to address critical challenges in managing Airflow clusters. With over 10,000 active DAGs, a single Airflow cluster faces scaling limits and noisy neighbor issues, impacting task scheduling SLAs. DMS enhances reliability by distributing DAGs across multiple clusters and enforcing proper configurations.

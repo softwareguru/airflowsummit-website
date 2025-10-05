@@ -17,6 +17,7 @@ images:
  - /images/sessions/2025/security-made-us-do-it.png
 slides:
 video: 
+summary: "Join us to explore how AIP-72 transforms Airflow task execution, paving the way for a more secure, flexible, and futuristic task orchestration!"
 ---
 
 Airflow v2 architecture has strong coupling between the Airflow core & the User Code running in an Airflow task. This poses barriers in security, maintenance, and adoption. One such threat is that user code can access the source of truth of Airflow - the metadata DB and run any query against it! From a scalability angle, ‘n’ tasks create ‘n’ DB connections, limiting Airflow’s ability to scale effectively.

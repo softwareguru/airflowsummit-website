@@ -16,6 +16,7 @@ gridarea: 7/5/8/6
 images: 
 slides:
 video:
+summary: "We’ll explore how the Astronomer data team leverages Airflow to uphold data quality across complex pipelines; minimizing firefighting and maximizing confidence in reported metrics."
 ---
 
 Ensuring high-quality data is essential for building user trust and enabling data teams to work efficiently. In this talk, we’ll explore how the Astronomer data team leverages Airflow to uphold data quality across complex pipelines; minimizing firefighting and maximizing confidence in reported metrics.

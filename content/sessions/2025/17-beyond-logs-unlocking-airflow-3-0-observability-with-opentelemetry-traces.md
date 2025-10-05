@@ -16,6 +16,7 @@ images:
  - /images/sessions/2025/beyond-logs-unlocking-airflow-3-0-observability-with-opentelemetry-traces.png
 slides:
 video:
+summary: "his presentation will explain the basics: what OpenTelemetry is and how it works – perfect for someone with no prior familiarity with tracing or with the use of OpenTelemetry. It will demonstrate how Airflow users can leverage the new tracing support to achieve deeper observability into DAG runs."
 ---
 
 Using OpenTelemetry tracing, users can gain full visibility into tasks and calls to outside services. This is an increasingly important skill, especially as tasks in an Airflow DAG involve multiple complex computations which take hours or days to complete. Airflow allows users to easily monitor how long entire DAG runs or individual tasks take, but preserves the anonymity of internal actions. OpenTelemetry gives users much more operational awareness and metrics they can use to improve operations.

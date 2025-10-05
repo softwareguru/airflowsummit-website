@@ -17,6 +17,7 @@ images:
  - /images/sessions/2025/why-aws-chose-apache-airflow-to-power-workflows-for-the-next-generation-of-amazon-sagemaker.png
 slides:
 video:
+summary: "This talk will go into details around the motivations for choosing Airflow for Amazon SageMaker, the main challenges we faced, the key role that open-source plays, how we’re leveraging GenAI to make that open source development experience better, and the goals for the future of Airflow in SageMaker Unified Studio." 
 ---
 
 On March 13th, 2025, Amazon Web Services announced General Availability of Amazon SageMaker Unified Studio, bringing together AWS machine learning and analytics capabilities. At the heart of this next generation of Amazon SageMaker sits Apache Airflow. All SageMaker Unified Studio users have a personal, open-source Airflow deployment, running alongside their Jupyter notebook, enabling those users to easily develop Airflow DAGs that have unified access to all of their data. 
