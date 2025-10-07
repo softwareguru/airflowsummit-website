@@ -1,5 +1,5 @@
 ---
-title: "DAG Upgrade Agent"
+title: "Airflow DAG Upgrade Agent: Using Google ADK, Gemini, and Vertex AI RAG Engine to Accelerate Upgrades"
 slug: dag-upgrade-agent
 speakers:
  - Christian Yarros
