@@ -102,7 +102,7 @@ days:
         label: "Reception (at exhibition floor)"
         gridarea: "14/2/15/6"
         timelabel: "17:30 - 19:00"
-        gridaream: "29/1/30/2"
+        gridaream: "38/1/39/2"
 
 
 
