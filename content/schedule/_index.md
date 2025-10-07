@@ -75,12 +75,12 @@ days:
         gridarea: "9/1/10/2"
 
       - type: timelabel
-        label: "15:35"
+        label: "15:25"
         gridarea: "10/1/11/2"
       - type: activity
         label: "Coffee break"
         gridarea: "10/2/11/6"
-        timelabel: "15:35 - 16:00"
+        timelabel: "15:25 - 15:45"
         gridaream: "25/1/26/2"
 
       - type: timelabel
