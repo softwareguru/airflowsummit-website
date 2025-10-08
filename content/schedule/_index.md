@@ -17,7 +17,7 @@ tracks:
 days: 
 
   - id: 20251
-    enabled: true
+    enabled: false
     title_short: Tuesday
     title_full: Tuesday, October 7, 2025
     rooms: ["Columbia A", "Columbia C", "Columbia D", "Beckler"]
@@ -103,8 +103,6 @@ days:
         gridarea: "14/2/15/6"
         timelabel: "17:30 - 19:00"
         gridaream: "38/1/39/2"
-
-
 
   - id: 20252
     enabled: true
