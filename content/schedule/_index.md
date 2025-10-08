@@ -152,7 +152,7 @@ days:
         label: "Lunch"
         gridarea: "8/2/9/9"
         timelabel: "13:00 - 14:00"
-        gridaream: "22/1/23/2"
+        gridaream: "23/1/24/2"
 
       - type: timelabel
         label: "14:00"
@@ -174,7 +174,7 @@ days:
         label: "Coffee break"
         gridarea: "12/2/13/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "37/1/38/2"
+        gridaream: "38/1/39/2"
 
       - type: timelabel
         label: "15:45"
