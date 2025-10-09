@@ -6,11 +6,11 @@ speakers:
  - Arunav Gupta
 time_start: 2025-10-09 16:45:00
 time_end: 2025-10-09 17:10:00
-room: Columbia C
+room: Columbia A
 track: Community
 day: 20253
 timeslot: 188
-gridarea: 17/3/18/4
+gridarea: 17/2/18/3
 images: 
  - /images/sessions/2025/lessons-learned-for-building-open.png
 slides:
