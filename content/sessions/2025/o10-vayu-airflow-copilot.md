@@ -23,9 +23,8 @@ video:
 Vayu is a conversational copilot for Apache Airflow, developed at Prevalent AI to help data engineers manage, troubleshoot, and fix pipelines using natural language. Deployments often fail silently due to misconfigurations, missing connections, or runtime issues impossible to identify in unit tests. Vayu tackles these via a troubleshooting agent that inspects logs, metrics, configs, and runtime state to find root causes and suggest fixes saving engineers significant troubleshooting time. It can also apply approved fixes to DAG code and commit them to your version control system.
 
 Key Capabilities:
- - Troubleshooting Agent: Inspects logs, configs, variables, and connections to find root causes and suggest fixes.
- - Pipeline Mechanic Agent: Suggests code-level fixes e.g., missing connections or bad imports and, once approved, commits them to version control.
- - DAG Manager Agent: Understands DAG logic, suggests improvements, and can trigger DAGs conversationally.
+ * Troubleshooting Agent: Inspects logs, configs, variables, and connections to find root causes and suggest fixes.
+ * Pipeline Mechanic Agent: Suggests code-level fixes e.g., missing connections or bad imports and, once approved, commits them to version control.
+ * DAG Manager Agent: Understands DAG logic, suggests improvements, and can trigger DAGs conversationally.
 
-Architecture:
-Built with LangGraph and the open-source Airflow MCP server, ensuring secure, audited interactions. LLMs never access Airflow directly. Full codebase will be open-sourced.
+Architecture: Built with open-source tools including Google ADK as the orchestration layer and a custom Airflow MCP server based on the FastMCP framework. LLMs never access Airflow directly. The full codebase will be open-sourced.
