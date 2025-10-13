@@ -172,8 +172,8 @@ link = "/sessions/2024"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Register"
-link = "/tickets"
+label = "Online Reconnect"
+link = "/onlinereconnect/"
 
 
 [params.links]
