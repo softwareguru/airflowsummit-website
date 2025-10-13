@@ -105,7 +105,7 @@ days:
         gridaream: "38/1/39/2"
 
   - id: 20252
-    enabled: true
+    enabled: false
     title_short: Wednesday
     title_full: Wednesday, October 8, 2025
     rooms: ["Columbia A", "Columbia C", "Columbia D", "Beckler", "301", "305", "306"]
@@ -152,7 +152,7 @@ days:
         label: "Lunch"
         gridarea: "8/2/9/9"
         timelabel: "13:00 - 14:00"
-        gridaream: "22/1/23/2"
+        gridaream: "23/1/24/2"
 
       - type: timelabel
         label: "14:00"
@@ -174,7 +174,7 @@ days:
         label: "Coffee break"
         gridarea: "12/2/13/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "37/1/38/2"
+        gridaream: "38/1/39/2"
 
       - type: timelabel
         label: "15:45"
@@ -237,7 +237,7 @@ days:
         label: "Lunch"
         gridarea: "9/2/10/9"
         timelabel: "13:00 - 14:00"
-        gridaream: "25/1/26/2"
+        gridaream: "24/1/25/2"
 
       - type: timelabel
         label: "14:00"
@@ -259,7 +259,7 @@ days:
         label: "Coffee break"
         gridarea: "14/2/15/6"
         timelabel: "15:30 - 15:45"
-        gridaream: "41/1/42/2"
+        gridaream: "40/1/41/2"
       
       - type: timelabel
         label: "15:45"
@@ -312,7 +312,7 @@ days:
         label: "Lightning talk (sign up for this slot at registration desk)"
         gridarea: "22/2/23/9"
         timelabel: "17:50 - 17:55"
-        gridaream: "57/1/88/2"
+        gridaream: "57/1/58/2"
 
       - type: timelabel
         label: "18:00"
