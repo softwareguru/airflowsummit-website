@@ -2,19 +2,7 @@
 title: "Introducing Apache Airflow® 3 – The Next Evolution in Orchestration"
 slug: airflow-3-online
 speakers:
- - Amogh Desai
- - Ash Berlin-Taylor
- - Brent Bovenzi
- - Bugra Ozturk
- - Daniel Standish
- - Jed Cunningham
- - Jens Scheffler
- - Kaxil Naik
- - Pierre Jeambrun
- - Tzu-ping Chung
- - Vikram Koka
- - Vincent Beck
- - Constance Martineau
+ - Multiple speakers
 time_start: 2025-10-15 14:00:00
 time_end: 2025-10-15 16:00:00
 room: Online
@@ -27,6 +15,8 @@ images:
 slides:
 video: 
 keynote2025: true
+summary: "In this keynote, core Airflow contributors will walk through key enhancements that boost flexibility, efficiency, and user experience."
+
 ---
 
 Apache Airflow® 3 is here, bringing major improvements to data orchestration. In this keynote, core Airflow contributors will walk through key enhancements that boost flexibility, efficiency, and user experience.

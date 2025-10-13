@@ -14,6 +14,7 @@ gridarea: "3/2/4/3"
 images:
 slides:
 video:
+summary: "This talk will explore the key changes introduced by AIP-81, focusing on security enhancements and user experience improvements across the entire software development lifecycle."
 ---
 
 This talk will explore the key changes introduced by AIP-81, focusing on security enhancements and user experience improvements across the entire software development lifecycle.

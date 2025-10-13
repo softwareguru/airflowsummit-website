@@ -1,9 +1,10 @@
 ---
-title: "Enterprise Auditing: \"The Verifiable Data Pipeline\""
+title: "Cloud Composer - update on what's new!"
 slug: google-online
 speakers:
  - Rafal Biegacz
  - Piotr Wieczorek
+ - Michal Modras
 time_start: 2025-10-15 16:30:00
 time_end: 2025-10-15 17:00:00
 room: Online
@@ -17,6 +18,6 @@ slides:
 video:
 ---
 
-In this session we will dive deep into leveraging the robust logging and audit capabilities of Google Cloud Platform, Cloud Composer and Apache Airflow to establish a fully transparent and verifiable data orchestration layer.
+During this sessions audience is going to learn about newest feature of managed Airflow offering provided by Google Cloud.
 
-We'll demonstrate how to track and attribute every change—from environment configuration to individual task execution—essential for meeting stringent enterprise governance, compliance, and auditing requirements.
+If you would like to operate Airflow at scale or in regulated environments then this session is for you.
