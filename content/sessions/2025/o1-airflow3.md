@@ -1,5 +1,5 @@
 ---
-title: "Introducing Apache Airflow® 3 – The Next Evolution in Orchestration"
+title: "[Online Reconnect] Introducing Apache Airflow® 3 – The Next Evolution in Orchestration"
 slug: airflow-3-online
 speakers:
  - Multiple speakers
