@@ -13,6 +13,7 @@ gridarea: 8/2/9/3
 images: 
 slides:
 video:
+draft: true
 ---
 
 Upgrading Airflow can be challenging, small change may trigger pipeline failures and long fixing. This session presents solution that simplifies migrations across multiple Airflow releases version by automate analyzing code repositories, change notes, best practices, and other essential documentation using LLM Guardian that identifies potential issues. It scans DAGs and dependency to predict incompatibilities, and generate fixes (e.g., deprecated operator replacements).
