@@ -15,7 +15,7 @@ timeslot: 16
 gridarea: 7/5/8/6
 images: 
 slides:
-video:
+video: https://youtu.be/Y4xM5TpF7lo
 summary: "We’ll explore how the Astronomer data team leverages Airflow to uphold data quality across complex pipelines; minimizing firefighting and maximizing confidence in reported metrics."
 ---
 

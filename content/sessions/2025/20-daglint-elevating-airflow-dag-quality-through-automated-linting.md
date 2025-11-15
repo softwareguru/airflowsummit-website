@@ -13,7 +13,7 @@ day: 20251
 timeslot: 20
 gridarea: 8/5/9/6
 slides:
-video:
+video: https://youtu.be/AgAz5SHey24
 images:
  - /images/sessions/2025/daglint-elevating-airflow.png
 summary: "We will share why we decided to build a custom, internally developed linting tool for Airflow DAGs, how we built it and how we use it to elevate our code quality."

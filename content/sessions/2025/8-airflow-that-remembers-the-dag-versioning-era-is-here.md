@@ -16,7 +16,7 @@ gridarea: 5/2/6/3
 images: 
  - /images/sessions/2025/airflow-that-remembers-the-dag-versioning-era-is-here.png
 slides:
-video:
+video: https://youtu.be/N6cj9955qRo
 summary: "DAG versioning is one of the most important features introduced in Airflow 3. In this talk we will cover how DAG code is versioned, how to visualize changes over time in the UI, choosing versions to run a DAG and how to handle dynamic DAGs."
 ---
 

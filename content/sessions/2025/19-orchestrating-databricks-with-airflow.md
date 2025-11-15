@@ -13,7 +13,7 @@ timeslot: 19
 gridarea: 8/4/9/5
 images: 
 slides:
-video:
+video: https://youtu.be/rt9uhQI-8Og
 summary: "We'll showcase how Airflow can automate and optimize Databricks workflows, reducing costs and improving performance for large-scale data processing."
 ---
 

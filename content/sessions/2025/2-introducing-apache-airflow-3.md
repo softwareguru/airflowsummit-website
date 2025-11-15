@@ -25,7 +25,7 @@ gridarea: 2/2/3/6
 images: 
  - /images/sessions/2025/keynotes/IntroducingApaAirf3.png
 slides:
-video: 
+video: https://youtu.be/nGklMyALNbQ
 keynote2025: true
 ---
 

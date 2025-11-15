@@ -16,7 +16,7 @@ gridarea: 4/3/5/4
 images: 
  - /images/sessions/2025/why-aws-chose-apache-airflow-to-power-workflows-for-the-next-generation-of-amazon-sagemaker.png
 slides:
-video:
+video: https://youtu.be/V3UYYQ_O1cc
 summary: "This talk will go into details around the motivations for choosing Airflow for Amazon SageMaker, the main challenges we faced, the key role that open-source plays, how we’re leveraging GenAI to make that open source development experience better, and the goals for the future of Airflow in SageMaker Unified Studio." 
 ---
 

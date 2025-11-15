@@ -13,7 +13,7 @@ day: 20251
 timeslot: 18
 gridarea: 8/3/9/4
 slides:
-video:
+video: https://youtu.be/8w_LXyRBv1c
 images:
  - /images/sessions/2025/automating-business-intelligence-with-airflow-a-practical-guide.png
 summary: "This session offers a practical guide to automating business intelligence processes using Apache Airflow. We’ll walk through real-world examples of automating data extraction, transformation, dashboard refreshes, and report distribution."

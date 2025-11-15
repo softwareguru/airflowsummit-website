@@ -13,7 +13,7 @@ gridarea: 7/4/8/5
 images: 
  - images/sessions/2025/airflow-&-your-automation-coe.png
 slides:
-video:
+video: https://youtu.be/F7HFJb1HqZo
 summary: "This session explores common challenges faced when bringing specialized tools like Airflow into a broader Automation Center of Excellence framework."
 ---
 

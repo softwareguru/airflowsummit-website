@@ -14,7 +14,7 @@ gridarea: 9/5/10/6
 images: 
  - /images/sessions/2025/breaking-news-with-data-pipelines.png
 slides:
-video:
+video: https://youtu.be/NCEfZL2Aqss
 summary: "We will share how we use Airflow at the Financial Times to process and analyze text, documents, and other difficult-to-structure data sources combining AI, machine learning, and advanced computational techniques to extract meaningful entities, relationships, and patterns."
 ---
 

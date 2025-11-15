@@ -15,7 +15,7 @@ gridarea: 9/3/10/4
 images: 
  - /images/sessions/2025/seamless-airflow-upgrades.png
 slides:
-video:
+video: https://youtu.be/u-Ce_VWumoA
 summary: "Join this session for live demos and practical examples that will empower you to confidently upgrade from Airflow 2, minimise downtime, and achieve optimal performance in Airflow 3."
 ---
 

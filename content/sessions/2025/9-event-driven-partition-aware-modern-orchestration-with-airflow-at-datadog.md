@@ -18,7 +18,7 @@ gridarea: 5/3/6/4
 images: 
  - /images/sessions/2025/event-driven-partition-aware.png
 slides:
-video:
+video: https://youtu.be/wJJMNeFN-E8
 sumary: "This talk follows Datadog's journey from building a custom orchestrator to adopting and contributing to Airflow 3. We’ll share our thought process, our asset partitions use case, and how we’re working with the community to materialize the Data Awareness (AIP-73) vision. "
 ---
 

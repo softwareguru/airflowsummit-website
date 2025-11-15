@@ -15,7 +15,7 @@ gridarea: 8/2/9/3
 images: 
  - /images/sessions/2025/beyond-logs-unlocking-airflow-3-0-observability-with-opentelemetry-traces.png
 slides:
-video:
+video: https://youtu.be/mZ6xbNDQz3k
 summary: "his presentation will explain the basics: what OpenTelemetry is and how it works – perfect for someone with no prior familiarity with tracing or with the use of OpenTelemetry. It will demonstrate how Airflow users can leverage the new tracing support to achieve deeper observability into DAG runs."
 ---
 

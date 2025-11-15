@@ -16,7 +16,7 @@ gridarea: 4/2/5/3
 images: 
  - /images/sessions/2025/security-made-us-do-it.png
 slides:
-video: 
+video: https://youtu.be/ome8BUtD_n0
 summary: "Join us to explore how AIP-72 transforms Airflow task execution, paving the way for a more secure, flexible, and futuristic task orchestration!"
 ---
 
