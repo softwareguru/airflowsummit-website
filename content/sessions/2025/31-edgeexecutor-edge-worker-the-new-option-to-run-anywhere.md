@@ -14,7 +14,7 @@ day: 20251
 timeslot: 31
 gridarea: 12/3/14/4 
 slides:
-video: 
+video: https://youtu.be/WsI1lGc0X_c
 images:
  - /images/sessions/2025/edgeexecutor-edge-worker.png
 ---

@@ -13,7 +13,7 @@ gridarea: 11/3/12/4
 images: 
  - /images/sessions/2025/airflow-without-borders.png
 slides:
-video: 
+video: https://youtu.be/FuvpRKtB7ho
 summary: "This talk will highlight the UI changes made to support different languages, including locale-aware adjustments. We’ll discuss how translations are contributed and managed — including the use of LLMs to accelerate the process — and why human review remains an essential part of it. We’ll present the i18n policy designed to ensure long-term maintainability, along with the tooling developed to support it."
 ---
 

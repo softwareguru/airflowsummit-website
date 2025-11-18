@@ -15,7 +15,7 @@ timeslot: 14
 gridarea: 7/3/8/4
 images: 
 slides:
-video:
+video: https://youtu.be/mB2lZLIVGHE
 summary: "This session dives into how Apache Airflow serves as a unifying force in MLOps. We will start by analyzing the broader MLOps trends and how Airflow is evolving to meet these challenges and then we will share a case study of the MLOps transformation at Priceline."
 ---
 

@@ -14,7 +14,7 @@ day: 20251
 timeslot: 34
 gridarea: 13/2/14/3
 slides:
-video: 
+video: https://youtu.be/21JjGq-lv8I
 images:
  - /images/sessions/2025/allegros-airflow-journey.png
 summary: "his session will detail Allegro's, a leading e-commerce company in Poland, journey with Apache Airflow. It will chart our evolution from a custom, on-premises Airflow-as-a-Service solution through a significant expansion to over 300 Cloud Composer instances in Google Cloud, culminating in Airflow becoming the core of our data processing."

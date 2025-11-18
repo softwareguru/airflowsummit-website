@@ -12,7 +12,7 @@ timeslot: 26
 gridarea: 11/2/12/3
 images: 
 slides:
-video: 
+video: https://youtu.be/lCGjH2YLG-4
 summary: "Come and learn how the City of Pittsburgh uses Airflow for a variety of tasks, from employee-focused use cases to publication of public-facing information. Airflow acts as a funnel point and is an essential tool for Pittsburgh's Data Services team." 
 ---
 

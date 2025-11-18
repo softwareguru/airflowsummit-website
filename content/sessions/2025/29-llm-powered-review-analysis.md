@@ -11,7 +11,7 @@ day: 20251
 timeslot: 29
 gridarea: 11/5/12/6
 slides:
-video: 
+video: https://youtu.be/iw4PFPX7KdY
 images:
  - /images/sessions/2025/llm-powered-review-analysis.png
 summary: "A real-world journey of how a small team at Xena Intelligence built robust data pipelines for our enterprise customers using Airflow. Learn how we orchestrated a complex workflow to process millions of public reviews."

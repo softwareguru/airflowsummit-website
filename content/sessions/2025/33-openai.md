@@ -14,7 +14,7 @@ day: 20251
 timeslot: 33
 gridarea: 12/5/14/6
 slides:
-video: 
+video: https://youtu.be/VoXTY_Xc4bE
 images:
  - /images/sessions/2025/scaling-airflow-openai.png
 summary: "This talk shares how we scaled and hardened OpenAI’s Airflow deployment to orchestrate thousands of workflows on Kubernetes."
