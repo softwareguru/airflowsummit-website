@@ -10,7 +10,7 @@ track: Use cases
 day: 20251
 timeslot: 29
 gridarea: 11/5/12/6
-slides:
+slides: 2025/llm-powered-review-analysis_-optimising-data-engineering-using-airflow.pdf
 video: https://youtu.be/iw4PFPX7KdY
 images:
  - /images/sessions/2025/llm-powered-review-analysis.png

@@ -12,7 +12,7 @@ track: Use cases
 day: 20253
 timeslot: 129
 gridarea: 6/2/7/3
-slides:
+slides: 2025/orchestrating-ai-knowledge-bases-with-apache-airflow.pdf
 video:
 images:
  - images/sessions/2025/orchestrating-ai-knowledge-bases-with-apache-airflow.png

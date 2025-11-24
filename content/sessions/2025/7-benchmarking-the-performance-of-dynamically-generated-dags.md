@@ -15,7 +15,7 @@ timeslot: 7
 gridarea: 4/5/5/6
 images: 
  - /images/sessions/2025/benchmarking-the-performance-of-dynamically.png
-slides:
+slides: 2025/benchmarking-the-performance-of-dynamically-generated-dags.pdf
 video: https://youtu.be/CxfXwEebK-M
 summary: "In this talk, we’ll share our approach to benchmarking dynamically generated DAGs with Astronomer Cosmos. By the end of this session, you will have practical benchmarks and strategies for making informed decisions about evaluating the performance of DAGs in Airflow."
 ---

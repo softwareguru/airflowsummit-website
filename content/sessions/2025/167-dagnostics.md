@@ -12,7 +12,7 @@ timeslot: 167
 gridarea: 12/4/13/5
 images: 
  - /images/sessions/2025/dagnostics.png
-slides:
+slides: 2025/dagnostics_-shift-left-airflow-governance-with-policy-enforcement-framework.pdf
 video: 
 ---
 

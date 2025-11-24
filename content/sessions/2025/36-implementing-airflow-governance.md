@@ -13,9 +13,8 @@ room: Columbia D
 day: 20251
 timeslot: 36
 gridarea: 13/4/14/5 
-
-slides:
-video: 
+slides: 2025/implementing-airflow-governance-with-cluster-policies.pdf
+video: https://youtu.be/4EDL4JML01k
 images:
 summary: "In this talk, Karen will take a more scenario-based approach, and talk about how cluster policies can be used to do things like prevent a Data Engineer from inserting/deleting data from a production database, or make sure that Tasks are always assigned to the right sized worker."
 ---

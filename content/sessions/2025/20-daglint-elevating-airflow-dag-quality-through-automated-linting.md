@@ -12,7 +12,7 @@ track: Use cases
 day: 20251
 timeslot: 20
 gridarea: 8/5/9/6
-slides:
+slides: 2025/daglint_-elevating-airflow-dag-quality-through-automated-linting.pdf
 video: https://youtu.be/AgAz5SHey24
 images:
  - /images/sessions/2025/daglint-elevating-airflow.png

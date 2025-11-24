@@ -13,7 +13,7 @@ track: Use cases
 day: 20251
 timeslot: 33
 gridarea: 12/5/14/6
-slides:
+slides: 2025/scaling-airflow-at-openai.pdf
 video: https://youtu.be/VoXTY_Xc4bE
 images:
  - /images/sessions/2025/scaling-airflow-openai.png

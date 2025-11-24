@@ -14,7 +14,7 @@ day: 20251
 timeslot: 16
 gridarea: 7/5/8/6
 images: 
-slides:
+slides: 2025/orchestrating-data-quality---quality-data-brought-to-you-by-airflow.pdf
 video: https://youtu.be/Y4xM5TpF7lo
 summary: "We’ll explore how the Astronomer data team leverages Airflow to uphold data quality across complex pipelines; minimizing firefighting and maximizing confidence in reported metrics."
 ---

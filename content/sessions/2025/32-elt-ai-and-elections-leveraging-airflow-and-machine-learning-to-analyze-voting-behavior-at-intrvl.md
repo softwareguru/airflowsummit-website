@@ -13,7 +13,7 @@ day: 20251
 timeslot: 32
 gridarea: 12/4/13/5
 slides:
-video: 
+video: https://youtu.be/MASlKilrgtE
 images:
  - /images/sessions/2025/elt-and-elections.png
 aliases: 

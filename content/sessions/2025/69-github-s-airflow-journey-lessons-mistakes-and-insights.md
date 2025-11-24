@@ -13,7 +13,7 @@ day: 20252
 timeslot: 69
 gridarea: 9/2/10/3
 slides:
-video:
+video: https://youtu.be/IdHEyWxxdGU
 images:
  - /images/sessions/2025/githubs-airflow-journey.png
 ---

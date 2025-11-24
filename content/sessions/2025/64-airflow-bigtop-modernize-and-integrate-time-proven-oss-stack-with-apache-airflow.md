@@ -13,7 +13,7 @@ track: Airflow & ...
 day: 20252
 timeslot: 64
 gridarea: 7/5/8/6
-slides:
+slides: 2025/airflow-&-bigtop_-modernize-and-integrate-time-proven-oss-stack-with-apache-airflow.pdf
 video:
 images:
  - /images/sessions/2025/airflow-bigtop-modernize-and-integrate-time-proven-oss-stack-with-apache-airflow.png

@@ -16,7 +16,7 @@ day: 20251
 timeslot: 6
 gridarea: 4/4/5/5
 slides:
-video:
+video: https://youtu.be/xFqKFcx74WQ
 summary: "Following up from our session last year, we will take a deeper dive into the challenges, solutions, and engineering innovations that helped us scale Airflow to support thousands of concurrent tasks while maintaining usability and reliability."
 ---
 

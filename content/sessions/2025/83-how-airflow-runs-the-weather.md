@@ -12,7 +12,7 @@ track: Use cases
 day: 20252
 timeslot: 83
 gridarea: 11/2/12/3
-slides:
+slides: 2025/how-airflow-runs-the-weather.pdf
 video:
 images:
  - /images/sessions/2025/how-airflow-runs-the-weather.png

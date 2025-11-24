@@ -15,8 +15,8 @@ timeslot: 48
 gridarea: 5/2/6/3
 images:
  - /images/sessions/2025/airflow-as-an-ai-agents-toolkit.png
-slides:
-video:
+slides: 2025/airflow-as-an-ai-agent_s-toolkit_-going-beyond-mcps-and-unlocking-airflow_s-1000+-integrations.pdf
+video: https://youtu.be/XSAzSDVUi2o
 ---
 
 What if your Airflow tasks could understand natural language AND adapt to schema changes automatically, while maintaining the deterministic, observable workflows we rely on? This talk introduces practical patterns for AI-native orchestration that preserve Airflow's strengths while adding intelligence where it matters most.

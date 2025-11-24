@@ -14,7 +14,7 @@ day: 20252
 timeslot: 38
 gridarea: 1/2/2/9
 slides:
-video: 
+video: https://youtu.be/CqCRDdtjQ5M
 summary: "This session dives into use cases from GitHub where key business decisions are driven, at the root, with the help of Airflow."
 ---
 

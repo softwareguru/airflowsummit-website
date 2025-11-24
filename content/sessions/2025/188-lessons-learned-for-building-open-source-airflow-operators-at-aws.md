@@ -14,7 +14,7 @@ gridarea: 17/2/18/3
 images: 
  - /images/sessions/2025/lessons-learned-for-building-open.png
 slides:
-video: 
+video: https://youtu.be/vfmpJnsV4Qk
 draft: false
 ---
 

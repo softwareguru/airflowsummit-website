@@ -11,7 +11,7 @@ track: Use cases
 day: 20253
 timeslot: 173
 gridarea: 15/2/16/3
-slides:
+slides: 2025/fine-tuning-airflow_-parameters-you-may-not-know-about.pdf
 video:
 images:
  - /images/sessions/2025/fine-tuning-airflow.png

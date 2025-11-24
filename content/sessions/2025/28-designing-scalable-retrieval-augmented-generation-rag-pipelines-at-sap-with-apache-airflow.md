@@ -13,7 +13,7 @@ day: 20251
 timeslot: 28
 gridarea: 11/4/12/5 
 slides:
-video: 
+video: https://youtu.be/5EowstvMaqk
 images:
  - /images/sessions/2025/designing-scalable.png
 summary: "Join our session to discover how SAP Business AI developed a cutting-edge system based on Airflow that effectively grounds Large Language Models (LLMs) with rich SAP enterprise data, enabling us to transform RAG pipelines into enterprise-grade powerhouses."

@@ -13,7 +13,7 @@ track: Airflow & ...
 day: 20253
 timeslot: 175
 gridarea: 15/4/16/5
-slides:
+slides: 2025/enabling-sql-testing-in-airflow-workflows-using-pydantic-types.pdf
 video:
 images:
  - /images/sessions/2025/enabling-sql-testing-in-airflow-workflows.png

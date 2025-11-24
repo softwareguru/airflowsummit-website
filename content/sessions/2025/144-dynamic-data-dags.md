@@ -15,7 +15,7 @@ track: Use cases
 day: 20253
 timeslot: 144
 gridarea: 8/3/9/4
-slides:
+slides: 2025/dynamic-dags-and-data-quality-using-dagfactory.pdf
 video:
 
 ---

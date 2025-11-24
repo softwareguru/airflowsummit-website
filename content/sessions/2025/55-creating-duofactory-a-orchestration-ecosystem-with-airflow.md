@@ -12,8 +12,8 @@ track: Use cases
 day: 20252
 timeslot: 55
 gridarea: 6/2/7/3
-slides:
-video:
+slides: 2025/creating-duofactory--a-orchestration-ecosystem-with-airflow.pdf
+video: https://youtu.be/eTyvwTXWPuw
 images:
  - /images/sessions/2025/creating-duofactory.png
 ---

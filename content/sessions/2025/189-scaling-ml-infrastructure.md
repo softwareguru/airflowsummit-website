@@ -12,8 +12,7 @@ room: Columbia D
 day: 20253
 timeslot: 117
 gridarea: 4/4/5/5
-
-slides:
+slides: 2025/scaling-ml-infrastructure_-lessons-from-building-distributed-systems.pdf
 video:
 ---
 

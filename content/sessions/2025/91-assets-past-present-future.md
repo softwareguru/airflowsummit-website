@@ -12,7 +12,7 @@ track: Roadmap
 day: 20252
 timeslot: 91
 gridarea: 13/2/14/3
-slides:
+slides: 2025/assets-past-present-future.pdf
 video:
 images:
  - /images/sessions/2025/assets-past-present-future.png

@@ -15,8 +15,8 @@ day: 20252
 timeslot: 41
 gridarea: 4/2/5/3
 images:
-slides:
-video: 
+slides: 2025/the-secret-to-airflow_s-evergreen-build_-ci_cd-magic.pdf
+video: https://youtu.be/-L3NKga6HsI
 ---
 
 Have you ever wondered why Apache Airflow builds are asymptotically(*) green? That thrive for “perennial green build” is not magic, it’s the result of continuous, often unseen engineering effort within our CI/CD pipelines & dev environments. This dedication ensures that maintainers can work efficiently & contributors can onboard smoothly.

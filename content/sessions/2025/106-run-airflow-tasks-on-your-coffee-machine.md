@@ -12,7 +12,7 @@ track: Airflow 3
 day: 20252
 timeslot: 106
 gridarea: 15/3/16/4
-slides:
+slides: 2025/run-airflow-tasks-on-your-coffee-machine.pdf
 video:
 images:
  - /images/sessions/2025/run-airflow-tasks-on-your-coffee-machine.png
