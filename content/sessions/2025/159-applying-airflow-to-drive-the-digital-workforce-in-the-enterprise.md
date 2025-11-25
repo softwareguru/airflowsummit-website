@@ -13,7 +13,7 @@ day: 20253
 timeslot: 159
 gridarea: 11/3/12/4
 slides:
-video: 
+video: https://youtu.be/FGzWD9ouYRQ
 images:
  - /images/sessions/2025/applyings-airflow-to-drive-the-digital.png
 ---

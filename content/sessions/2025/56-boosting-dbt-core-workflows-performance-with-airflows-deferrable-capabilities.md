@@ -15,7 +15,7 @@ day: 20252
 timeslot: 56
 gridarea: 6/3/7/4
 slides: 2025/boosting-dbt-core-workflows-performance-with-airflow’s-deferrable-capabilities.pdf
-video:
+video: https://youtu.be/iCA9V2HSR-M
 images:
  - /images/sessions/2025/boosting-dbt-core-workflows-performance.png
 ---

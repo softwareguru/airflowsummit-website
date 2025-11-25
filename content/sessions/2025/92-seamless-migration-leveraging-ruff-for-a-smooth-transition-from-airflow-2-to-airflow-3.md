@@ -13,7 +13,7 @@ day: 20252
 timeslot: 92
 gridarea: 13/3/14/4
 slides:
-video:
+video: https://youtu.be/_jx-A3BdhZA
 ---
 
 Migrating from Airflow 2 to the newly released Airflow 3 may seem intimidating due to numerous breaking changes and the introduction of new features. Although a backward compatibility layer has been implemented and most of the existing dags should work fine, some features—such as subdags and execution_date—have been removed based on community consensus.

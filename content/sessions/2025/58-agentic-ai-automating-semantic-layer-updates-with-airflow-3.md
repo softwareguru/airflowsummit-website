@@ -14,7 +14,7 @@ day: 20252
 timeslot: 58
 gridarea: 6/5/7/6
 slides: 2025/agentic-ai-automating-semantic-layer-updates-with-airflow-3.pdf
-video:
+video: https://youtu.be/mUgCOjpmohs
 images:
  - /images/sessions/2025/agentic-ai-automating-semantic-layer-updates.png
 ---

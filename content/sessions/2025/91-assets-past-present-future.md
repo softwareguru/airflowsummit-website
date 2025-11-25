@@ -13,7 +13,7 @@ day: 20252
 timeslot: 91
 gridarea: 13/2/14/3
 slides: 2025/assets-past-present-future.pdf
-video:
+video: https://youtu.be/KA6iDX5MVi4
 images:
  - /images/sessions/2025/assets-past-present-future.png
 ---

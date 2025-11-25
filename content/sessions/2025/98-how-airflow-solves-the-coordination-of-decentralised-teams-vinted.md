@@ -14,7 +14,7 @@ day: 20252
 timeslot: 98
 gridarea: 14/2/15/3
 slides:
-video:
+video: https://youtu.be/YU-4My_dneM
 images:
  - /images/sessions/2025/how-airflow-solves.png
 ---

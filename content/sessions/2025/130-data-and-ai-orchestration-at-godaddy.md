@@ -11,7 +11,7 @@ day: 20253
 timeslot: 130
 gridarea: 6/3/7/4
 slides:
-video:
+video: https://youtu.be/xTnGb6DM9Qc
 images:
  - /images/sessions/2025/data-and-ai-orchestration-at-godaddy.png
 ---

@@ -13,7 +13,7 @@ day: 20253
 timeslot: 154
 gridarea: 10/5/11/6
 slides:
-video:
+video: https://youtu.be/bzbXC4DtflQ
 images:
  - /images/sessions/2025/task-failures-troubleshooting-based-on-airflow-kubernetes-signals.png
 ---

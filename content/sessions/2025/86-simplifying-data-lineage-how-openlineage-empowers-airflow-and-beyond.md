@@ -14,7 +14,7 @@ day: 20252
 timeslot: 86
 gridarea: 11/5/12/6
 slides:
-video:
+video: https://youtu.be/Rti6RVDqrzk
 ---
 
 OpenLineage has simplified collecting lineage metadata across the data ecosystem by standardizing its representation in an extensible model. It enabled a whole ecosystem improving data pipeline reliability and ease of troubleshooting in production environments. 

@@ -13,7 +13,7 @@ gridarea: 12/4/13/5
 images: 
  - /images/sessions/2025/dagnostics.png
 slides: 2025/dagnostics_-shift-left-airflow-governance-with-policy-enforcement-framework.pdf
-video: 
+video: https://youtu.be/CwVvEIUcSUs
 ---
 
 DAGnostics seamlessly integrates Airflow Cluster Policy hooks to enforce governance from local DAG authoring through CI pipelines to production runtime. Learn how it closes validation gaps, collapses feedback loops from hours to seconds, and ensures consistent policies across stages.

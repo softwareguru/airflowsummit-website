@@ -13,7 +13,7 @@ day: 20253
 timeslot: 174
 gridarea: 15/3/16/4
 slides:
-video:
+video: https://youtu.be/8yFvt7uLwNo
 images:
  - /images/sessions/2025/building-a-transparent-data-workflow-with-airflow-and-data-catalog.png
 ---

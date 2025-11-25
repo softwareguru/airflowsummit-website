@@ -13,7 +13,7 @@ day: 20252
 timeslot: 72
 gridarea: 9/5/10/6
 slides: 2025/seamless-integration_-building-applications-that-leverage-airflow_s-database-migration-framework.pdf
-video:
+video: https://youtu.be/gd_0PkbO-DE
 images:
  - /images/sessions/2025/seamless-integration-building-applications-that-leverage-airflow.png
 ---

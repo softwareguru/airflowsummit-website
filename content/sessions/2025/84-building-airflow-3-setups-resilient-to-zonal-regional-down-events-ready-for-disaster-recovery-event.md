@@ -13,7 +13,7 @@ day: 20252
 timeslot: 84
 gridarea: 11/3/12/4
 slides:
-video:
+video: https://youtu.be/A_lR4ekx0DY
 images:
  - /images/sessions/2025/building-airflow-3-setups-resilient.png
 ---

@@ -13,7 +13,7 @@ day: 20253
 timeslot: 118
 gridarea: 4/5/5/6
 slides: 2025/becoming-an-apache-airflow-committer-from-0.pdf
-video:
+video: https://youtu.be/PWWj-pdIgsk
 images:
  - /images/sessions/2025/becoming-an-apache-airflow-committer-from-0.png
 ---

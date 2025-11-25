@@ -12,7 +12,7 @@ day: 20253
 timeslot: 136
 gridarea: 7/2/8/3
 slides:
-video:
+video: https://youtu.be/5i79rY_FYcQ
 images:
  - /images/sessions/2025/airflow-uses-in-an-on-prem.png
 ---

@@ -14,7 +14,7 @@ gridarea: 6/4/7/5
 images:
  - /images/sessions/2025/enterprise-auditing.png
 slides:
-video:
+video: https://youtu.be/HcjNubkJ1G8
 ---
 
 This session will dive deep into leveraging the robust logging and audit capabilities of Google Cloud Platform, Cloud Composer and Apache Airflow to establish a fully transparent and verifiable data orchestration layer.

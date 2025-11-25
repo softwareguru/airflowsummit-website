@@ -11,7 +11,7 @@ day: 20252
 timeslot: 43
 gridarea: 4/4/5/5
 slides:
-video: 
+video: https://youtu.be/2QOQlqaA49E
 images:
  - /images/sessions/2025/simplifying-dag-creation-online.png
 ---

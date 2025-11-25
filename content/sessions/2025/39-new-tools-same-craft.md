@@ -16,10 +16,8 @@ room: Columbia A
 day: 20252
 timeslot: 39
 gridarea: 2/2/3/9
-
-
 slides:
-video:
+video: https://youtu.be/4N58PPwiSIg
 summary: "In this keynote  I'll share observations about how even though our development workflow and toolchain of is changing dramatically, the core skills of a good software engineer like problem-solving, collaborative debugging and systems thinking, remain as crucial as ever."
 ---
 

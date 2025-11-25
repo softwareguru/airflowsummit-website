@@ -13,7 +13,7 @@ day: 20252
 timeslot: 100
 gridarea: 14/4/15/5
 slides:
-video:
+video: https://youtu.be/vqH6dsPPlgw
 images:
  - /images/sessions/2025/purple-is-the-new-green.png
 ---

@@ -16,7 +16,7 @@ gridarea: 5/4/6/5
 images: 
  - /images/sessions/2025/lessons-learned-for-scaling-up-airflow-3-1.png
 slides:
-video:
+video: https://youtu.be/vfmpJnsV4Qk
 summary: "This talk shares performance results for various Airflow 3 configurations and provides potential Airflow 3 adopters good understanding of its performance."
 ---
 

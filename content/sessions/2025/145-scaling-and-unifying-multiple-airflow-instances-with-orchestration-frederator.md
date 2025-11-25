@@ -14,7 +14,7 @@ day: 20253
 timeslot: 145
 gridarea: 8/4/9/5
 slides:
-video:
+video: https://youtu.be/pdxlkV2hcrQ
 images:
  - /images/sessions/2025/scaling-and-unifying-multiple-airflow-instances.png
 ---

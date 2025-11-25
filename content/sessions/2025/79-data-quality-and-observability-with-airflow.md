@@ -14,7 +14,7 @@ day: 20252
 timeslot: 79
 gridarea: 10/5/11/6
 slides:
-video:
+video: https://youtu.be/cHggWcOxe0o
 images:
  - /images/sessions/2025/data-quality.png
 ---

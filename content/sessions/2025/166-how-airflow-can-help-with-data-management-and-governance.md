@@ -15,7 +15,7 @@ day: 20253
 timeslot: 166
 gridarea: 12/3/13/4
 slides:
-video:
+video: https://youtu.be/VW2_wTsz_X0
 ---
 
 Metadata management is a cornerstone of effective data governance, yet it presents unique challenges distinct from traditional data engineering. At scale, efficiently extracting metadata from relational and NoSQL databases demands specialized solutions. To address this, our team has developed custom Airflow operators that scan and extract metadata across various database technologies, orchestrating 100+ production jobs to ensure continuous and reliable metadata collection.

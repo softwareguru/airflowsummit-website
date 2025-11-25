@@ -13,7 +13,7 @@ day: 20253
 timeslot: 180
 gridarea: 16/2/17/3
 slides:
-video:
+video: https://youtu.be/8sTRCdrGAVo
 images:
  - images/sessions/2025/no-more-missed-beats.png
 ---

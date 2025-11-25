@@ -14,7 +14,7 @@ day: 20253
 timeslot: 160
 gridarea: 11/4/12/5
 slides:
-video:
+video: https://youtu.be/MJBGCcWpLbY
 images:
  - /images/sessions/2025/simplifying-data-management-with-dag-factory.png
 ---

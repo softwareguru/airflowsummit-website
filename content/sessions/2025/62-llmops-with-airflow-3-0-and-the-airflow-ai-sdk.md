@@ -13,7 +13,7 @@ day: 20252
 timeslot: 62
 gridarea: 7/3/8/4
 slides:
-video:
+video: https://youtu.be/0r4YLRrN6d0
 images: 
  - /images/sessions/2025/llmops-with-airflow-3-0-and-the-airflow-ai-sdk.png
 ---

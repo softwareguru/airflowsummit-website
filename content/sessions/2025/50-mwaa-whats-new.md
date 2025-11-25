@@ -14,7 +14,7 @@ gridarea: 5/4/6/5
 images:
  - /images/sessions/2025/mwaa-whats-new.png
 slides: 2025/managed-workflow-for-apache-airflow-(mwaa)_-what_s-new_.pdf
-video:
+video: https://youtu.be/tdGNNJ7RuJk
 ---
 
 MWAA is an AWS-managed service that simplifies the deployment and maintenance of the open-source Apache Airflow data orchestration platform. MWAA has recently introduced several new features to enhance the experience for data engineering teams. Features such as Graceful Worker Replacement Strategy that enable seamless MWAA environment updates with zero downtime, IPv6 support, and in place minor Airflow Version Downgrade are some of the many new improvements MWAA has brought to their users in 2025. Last, but not the least, the release of Airflow 3.0 support brings the latest open-source features introducing a new web-server UI, better isolation and security for environments. These enhancements demonstrate Amazon's continued investment in making Airflow more accessible and scalable for enterprises through the MWAA service.

@@ -13,7 +13,7 @@ day: 20252
 timeslot: 85
 gridarea: 11/4/12/5
 slides:
-video:
+video: https://youtu.be/RQMNJtOmd6E
 images:
  - /images/sessions/2025/why-data-teams-keep-reinventing-the-wheel.png
 ---

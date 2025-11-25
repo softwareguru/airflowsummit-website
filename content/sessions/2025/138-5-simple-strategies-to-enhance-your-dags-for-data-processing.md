@@ -13,9 +13,8 @@ track: Best practices
 day: 20253
 timeslot: 138
 gridarea: 7/4/8/5
-
 slides:
-video: 
+video: https://youtu.be/bwhM9kxnvdo
 images:
  - /images/sessions/2025/5-simple-strategies-to-enhance-your-dags-for-data-processing.png
 ---

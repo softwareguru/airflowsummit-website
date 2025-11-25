@@ -13,7 +13,7 @@ day: 20253
 timeslot: 168
 gridarea: 12/5/13/6
 slides: 2025/aws-lambda-executor_-the-speed-of-local-execution-with-the-advantages-of-remoteaws-lambda-executor_-the-speed-of-local-execution-with-the-advantages-of-remote.pdf
-video:
+video: https://youtu.be/iYkTEAre70E
 images:
  - /images/sessions/2025/aws-lambda-executor.png
 ---

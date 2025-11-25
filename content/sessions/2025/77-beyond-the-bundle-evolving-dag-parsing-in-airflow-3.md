@@ -13,7 +13,7 @@ day: 20252
 timeslot: 77
 gridarea: 10/3/11/4
 slides:
-video:
+video: https://youtu.be/hXPWArMszwM
 images:
  - /images/sessions/2025/beyond-the-bundle.png
 ---

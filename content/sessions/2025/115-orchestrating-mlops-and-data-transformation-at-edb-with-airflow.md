@@ -15,7 +15,7 @@ day: 20253
 timeslot: 115
 gridarea: 4/2/5/3
 slides:
-video:
+video: https://youtu.be/Ohea9_gYOJY
 ---
 
 This talk explores EDB's journey from siloed reporting to a unified data platform, powered by Airflow. We'll delve into the architectural evolution, showcasing how Airflow orchestrates a diverse range of use cases, from Analytics Engineering to complex MLOps pipelines.

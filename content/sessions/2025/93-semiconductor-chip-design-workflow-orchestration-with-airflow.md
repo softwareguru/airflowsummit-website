@@ -14,7 +14,7 @@ day: 20252
 timeslot: 93
 gridarea: 13/4/14/5
 slides: 2025/semiconductor-(chip)-design-workflow-orchestration-with-airflow.pdf
-video:
+video: https://youtu.be/QjB7NWjujfw
 ---
 
 The design of Qualcomm's Snapdragon System-On-Chip (SoCs) involves several hundred complex workflows orchestrated across multiple data centers, taking the design from RTL to GDS. In the Snapdragon Oryon Custom CPU team, we introduced Airflow about 2 years ago to orchestrate design, verification, emulation, CI/CD, and physical implementation of our CPUs.

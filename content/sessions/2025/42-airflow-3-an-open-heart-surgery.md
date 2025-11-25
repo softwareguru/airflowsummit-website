@@ -15,7 +15,7 @@ gridarea: 4/3/5/4
 images:
  - /images/sessions/2025/airflow-3-an-open-heart-surgery.png
 slides:
-video:
+video: https://youtu.be/zZN38hQkMpI
 ---
 
 Curious how code truly flows inside Airflow? Join me for a unique visualisation journey into Airflow’s inner workings (first of its kind) — code blocks and modules called when certain operations are running.

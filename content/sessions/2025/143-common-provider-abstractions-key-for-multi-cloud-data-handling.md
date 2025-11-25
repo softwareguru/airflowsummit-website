@@ -15,7 +15,7 @@ day: 20253
 timeslot: 143
 gridarea: 8/2/9/3
 slides:
-video:
+video: https://youtu.be/NVDASIt-1LM
 ---
 
 Enterprises want the flexibility to operate across multiple clouds, whether to optimize costs, improve resiliency, to avoid vendor lock-in, or for data sovereignty. But for developers, that flexibility usually comes at the cost of extra complexity and redundant code. The goal here is simple: write once, run anywhere, with minimum boilerplate. 

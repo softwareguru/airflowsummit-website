@@ -13,7 +13,7 @@ day: 20252
 timeslot: 63
 gridarea: 7/4/8/5
 slides:
-video:
+video: https://youtu.be/mMcQWBbR19o
 images:
  - /images/sessions/2025/do-you-trust-airflow.png
 ---

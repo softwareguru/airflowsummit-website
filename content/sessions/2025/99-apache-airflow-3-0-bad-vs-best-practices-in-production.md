@@ -11,7 +11,7 @@ day: 20252
 timeslot: 99
 gridarea: 14/3/15/4
 slides: 2025/apache-airflow-3.0---bad-vs.-best-practices-in-production.pdf
-video:
+video: https://youtu.be/6ZXQZnrU_fw
 images:
  - /images/sessions/2025/apache-airflow-3-0-bad-vs-best-practices-in-production.png
 ---

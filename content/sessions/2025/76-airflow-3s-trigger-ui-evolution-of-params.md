@@ -14,7 +14,7 @@ day: 20252
 timeslot: 76
 gridarea: 10/2/11/3
 slides:
-video:
+video: https://youtu.be/sEVPldfeDtY
 images:
  - /images/sessions/2025/airflow-3s-trigger-ui-evolution-of-params.png
 ---

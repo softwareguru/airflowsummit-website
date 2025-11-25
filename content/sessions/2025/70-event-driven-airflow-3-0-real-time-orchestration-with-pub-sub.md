@@ -14,7 +14,7 @@ day: 20252
 timeslot: 70
 gridarea: 9/3/10/4
 slides:
-video:
+video: https://youtu.be/d2Ln5qIkLI0
 images:
  - /images/sessions/2025/event-driven.png
 ---

@@ -14,7 +14,7 @@ day: 20253
 timeslot: 123
 gridarea: 5/3/6/4
 slides:
-video:
+video: https://youtu.be/1hIET8-nxlk
 images:
  - /images/sessions/2025/building-an-airflow-center.png
 ---

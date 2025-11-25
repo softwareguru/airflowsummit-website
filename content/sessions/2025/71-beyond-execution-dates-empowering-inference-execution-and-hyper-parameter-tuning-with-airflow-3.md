@@ -14,7 +14,7 @@ day: 20252
 timeslot: 71
 gridarea: 9/4/10/5
 slides: 2025/beyond-execution-dates_-empowering-inference-execution-and-hyper-parameter-tuning-with-airflow-3.pdf
-video:
+video: https://youtu.be/a_OUOllCBmA
 images:
  - /images/sessions/2025/beyond-execution-dates.png
 ---

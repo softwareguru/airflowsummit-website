@@ -13,7 +13,7 @@ day: 20253
 timeslot: 137
 gridarea: 7/3/8/4
 slides:
-video:
+video: https://youtu.be/NRbB3FuvVBg
 ---
 
 Trino is incredibly effective at enabling users to extract insights quickly and effectively from large amount of data located in dispersed and heterogeneous federated data systems.

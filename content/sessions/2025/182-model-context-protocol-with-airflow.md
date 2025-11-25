@@ -16,7 +16,7 @@ day: 20253
 timeslot: 182
 gridarea: 16/4/17/5
 slides:
-video:
+video: https://youtu.be/JYT5XsG5DEo
 ---
 
 In today's data-driven world, effective workflow management and AI are crucial for success. However, there's a notable gap between Airflow and AI. Our presentation offers a solution to close this gap.

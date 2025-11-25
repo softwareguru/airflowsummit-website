@@ -13,7 +13,7 @@ day: 20253
 timeslot: 139
 gridarea: 7/5/8/6
 slides: 2025/enhancing-airflow-rest-api_-from-basic-integration-to-enterprise-scale.pdf
-video:
+video: https://youtu.be/an1SD4v4lRk
 images:
  - /images/sessions/2025/enhacing-airflow-rest-api.png
 ---

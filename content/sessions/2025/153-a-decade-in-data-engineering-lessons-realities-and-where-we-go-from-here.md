@@ -13,7 +13,7 @@ gridarea: 10/4/11/5
 images: 
  - /images/sessions/2025/a-decade-in-data-engineering-lessons-realities-and-where-we-go-from-here.png
 slides:
-video: 
+video: https://youtu.be/PRwJP8AnBLE
 ---
 
 There was a post on the data engineering subreddit recently that discussed how difficult it is to keep up with the data engineering world.
