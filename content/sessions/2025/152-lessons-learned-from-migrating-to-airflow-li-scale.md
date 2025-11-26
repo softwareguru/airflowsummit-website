@@ -14,7 +14,7 @@ track: Airflow & ...
 day: 20253
 timeslot: 152
 gridarea: 10/3/11/4
-slides:
+slides: 2025/lessons-learned-from-migrating-to-airflow-@-li-scale.pdf
 video:
 images:
  - /images/sessions/2025/lessons-learned-from-migrating-to-airflow.png

@@ -12,7 +12,7 @@ day: 20253
 timeslot: 183
 gridarea: 16/5/17/6
 slides:
-video:
+video: https://youtu.be/O7aVtRJKQIk
 images:
  - /images/sessions/2025/lessons-from-airflow-gone-wrong.png
 ---

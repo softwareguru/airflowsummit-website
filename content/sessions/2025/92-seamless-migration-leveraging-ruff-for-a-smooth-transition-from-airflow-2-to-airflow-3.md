@@ -12,7 +12,7 @@ track: Airflow 3
 day: 20252
 timeslot: 92
 gridarea: 13/3/14/4
-slides:
+slides: 2025/seamless-migration_-leveraging-ruff-for-a-smooth-transition-from-airflow-2-to-airflow-3.pdf
 video: https://youtu.be/_jx-A3BdhZA
 ---
 

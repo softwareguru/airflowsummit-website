@@ -13,7 +13,7 @@ track: Use cases
 day: 20253
 timeslot: 161
 gridarea: 11/5/12/6
-slides:
+slides: 2025/navigating-secure-and-cost-efficient-flink-batch-on-kubernetes-with-airflow.pdf
 video: https://youtu.be/rYyVHzFEyM8
 images:
  - images/sessions/2025/navigating-secure-and-cost-efficient.png

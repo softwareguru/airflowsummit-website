@@ -12,7 +12,7 @@ track: Airflow 3
 day: 20252
 timeslot: 84
 gridarea: 11/3/12/4
-slides:
+slides: 2025/building-airflow-3-setups-resilient-to-zonal_regional-down-events,-ready-for-disaster-recovery-event.pdf
 video: https://youtu.be/A_lR4ekx0DY
 images:
  - /images/sessions/2025/building-airflow-3-setups-resilient.png

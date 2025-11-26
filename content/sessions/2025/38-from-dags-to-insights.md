@@ -13,7 +13,7 @@ track: Keynote
 day: 20252
 timeslot: 38
 gridarea: 1/2/2/9
-slides:
+slides: 2025/from-dags-to-insights_-business-driven-airflow-use-cases.pdf
 video: https://youtu.be/CqCRDdtjQ5M
 summary: "This session dives into use cases from GitHub where key business decisions are driven, at the root, with the help of Airflow."
 ---

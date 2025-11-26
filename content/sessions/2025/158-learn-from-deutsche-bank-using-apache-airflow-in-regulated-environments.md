@@ -12,7 +12,7 @@ track: Use cases
 day: 20253
 timeslot: 158
 gridarea: 11/2/12/3
-slides:
+slides: 2025/learn-from-deutsche-bank_-using-apache-airflow-in-regulated-environments.pdf
 video: https://youtu.be/Pzbin55GJgU
 images:
  - /images/sessions/2025/learn-from-deutsche-bank.png
