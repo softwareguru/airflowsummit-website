@@ -33,12 +33,12 @@ speaker = "speakers"
   URL = "/attend"
   weight = 2
 
-  [[menu.main]]
-    identifier = "venue"
-    name = "Venue + Travel"
-    url = "/venue"
-    parent = "attend"
-    weight = 2
+  #[[menu.main]]
+  #  identifier = "venue"
+  #  name = "Venue + Travel"
+  #  url = "/venue"
+  #  parent = "attend"
+  #  weight = 2
 
   [[menu.main]]
     identifier = "convince"
@@ -61,71 +61,26 @@ speaker = "speakers"
     parent = "attend"
     weight = 4
 
-  [[menu.main]]
-    identifier = "jobs"
-    name = "Jobs"
-    hrefTargetBlank = true
-    url = "/jobs"
-    parent = "attend"
-    weight = 5
+  #[[menu.main]]
+  #  identifier = "jobs"
+  #  name = "Jobs"
+  #  hrefTargetBlank = true
+  #  url = "/jobs"
+  #  parent = "attend"
+  #  weight = 5
 
-  [[menu.main]]
-    identifier="hapennings"
-    name = "Happenings"
-    parent="attend"
-    URL = "/happenings"
-    weight = 6
+  #[[menu.main]]
+  #  identifier="hapennings"
+  #  name = "Happenings"
+  #  parent="attend"
+  #  URL = "/happenings"
+  #  weight = 6
 
-  [[menu.main]]
-    name = "Sponsor"
-    hrefTargetBlank = true
-    URL = "/partner-with-us"
-    weight = 3
-
-  [[menu.main]]
-    identifier="program"
-    name = "Program"
-    URL = "/sessions/2024"
-    weight = 5
-
-  [[menu.main]]
-    identifier="program-sessionize"
-    name = "Full schedule"
-    URL = "/program"
-    parent="program"
-    weight = 1
-
-
-  [[menu.main]]
-    name = "Keynotes"
-    URL = "/keynotes/"
-    parent="program"
-    weight = 2
-
-    [[menu.main]]
-    name = "Speakers"
-    URL = "/speakers/"
-    parent="program"
-    weight = 3
-
-  [[menu.main]]
-    name = "Sessions"
-    URL = "/sessions/2025"
-    parent="program"
-    weight = 4
-
-  [[menu.main]]
-    name = "Workshops"
-    URL = "/workshops"
-    parent="program"
-    weight = 5
-
-  [[menu.main]]
-    identifier="onlinereconnect"
-    name = "Online Reconnect"
-    parent="program"
-    URL = "/onlinereconnect"
-    weight = 6
+  #[[menu.main]]
+  #  name = "Sponsor"
+  #  hrefTargetBlank = true
+  #  URL = "/partner-with-us"
+  #  weight = 3
 
   #[[menu.main]]
   #  name = "Venue"
@@ -172,8 +127,8 @@ link = "/sessions/2024"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Online Reconnect"
-link = "/onlinereconnect/"
+label = "2025 Sessions"
+link = "/sessions/2025"
 
 
 [params.links]

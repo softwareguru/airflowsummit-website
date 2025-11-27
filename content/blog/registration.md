@@ -7,7 +7,7 @@ summary: ""
 images: ["/images/blog/registration-2024.png"]
 # author
 author: "Airflow Summit Team"
-draft: false
+
 ---
 
 Apache Airflow is turning 10 years in 2024 and we want to properly celebrate it with you! Join us next September 10-12th in San Francisco, California to keep learning and sharing all the improvements around Airflow for the past decade. The registration is now open, get your early bird tickets at https://airflowsummit.org/tickets 

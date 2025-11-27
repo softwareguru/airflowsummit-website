@@ -7,7 +7,7 @@ summary: ""
 images: ["images/blog/Scholarships.png"]
 # author
 author: "Airflow Summit Team"
-draft: false
+
 ---
 
 <h2 class="text-center">Airflow Summit 2024 - Scholarship application</h2>

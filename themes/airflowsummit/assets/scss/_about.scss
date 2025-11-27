@@ -50,3 +50,9 @@
 }
 
   
+.card-title-decoration {
+	color: white;
+	    &:hover{
+        color: rgb(202, 202, 202);
+}
+}

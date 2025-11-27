@@ -1,19 +1,22 @@
 ############################## Event ##############################
 event_info:
-  enable : false
+  enable : true
   title : "Get ready for Airflow 3.0!"
   description : "Join us in Seattle, USA, this October 7-9, 2025, as we scale to the next data era with Airflow 3.0! This year’s summit will bring exciting keynotes, hands-on workshops, and networking opportunities with the vibrant Apache Airflow community. Save your spot and prepare to connect, learn, and celebrate in the Emerald City!"
   #cta_text: "Tickets available now!"
   #cta_link: "/tickets"
   features: 
-    - number : "3 days"
+    - number : "2025 Recordings"
+      link: https://www.youtube.com/playlist?list=PLGudixcDaxY3A4P-wmH1wBHqLUU6c1DOU
       content : "Get ready to step into the next era of data with Airflow 3.0! Over the course of three days, enjoy a full agenda of meetings, presentations, and hands-on workshops. "
-      icon: bi-file-earmark
+      icon: bi bi-youtube
 
-    - number : "+600 In Person"
+    - number : "2025 Photo Album"
+      link: 
       content : "Connect with top industry professionals and immerse yourself in the Apache Airflow community. Don’t miss this unique chance!"
-      icon: bi-broadcast
+      icon: bi bi-image
 
-    - number : "+100 Sessions"
+    - number : "Airflow Summit 2025 Blog"
+      link: /blog/airflow-summit-2025
       content : "Explore over 100 captivating sessions hosted by industry experts—your ultimate source of knowledge and inspiration!"
-      icon: bi-clipboard-check
+      icon: bi bi-card-heading

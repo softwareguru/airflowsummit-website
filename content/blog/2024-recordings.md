@@ -1,6 +1,6 @@
 ---
 title: "2024 Recordings!"
-date: 2025-01-20T10:00:00
+date: 2025-11-27T10:00:00
 description: "Watch the recordings of the 2024 edition of Airflow Summit where we celebrated the 10th Anniversary of Apache Airflow."
 summary: "Watch the recordings of the 2024 edition of Airflow Summit where we celebrated the 10th Anniversary of Apache Airflow. Start preparing to join us for Airflow Summit 2025 in Seattle this year to learn everything about Airflow 3.0! "
 

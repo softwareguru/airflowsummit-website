@@ -10,8 +10,11 @@
         <div class="card h-100 card-event-info">
           <p class="event-info-icon">&nbsp;&nbsp;&nbsp;<i class="bi {{ .icon }}"></i></p>
           <div class="card-body">
-            <h5 class="card-title event-info-title">{{ .number }}</h5>
-            <p class="card-text event-info-content mt-3">{{ .content }}</p>
+            <a href="{{ .link }}" target="_blank" class="text-decoration-none">
+              <h5 class="card-title card-title-decoration event-info-title">{{ .number }}</h5>
+            </a>
+            
+            <!--<p class="card-text event-info-content mt-3">{{ .content }}</p>-->
           </div>
         </div>
       </div>
