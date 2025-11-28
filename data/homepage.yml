@@ -7,7 +7,7 @@ event_info:
   #cta_link: "/tickets"
   features: 
     - number : "2025 Recordings"
-      link: https://www.youtube.com/playlist?list=PLGudixcDaxY3A4P-wmH1wBHqLUU6c1DOU
+      link: 
       content : "Get ready to step into the next era of data with Airflow 3.0! Over the course of three days, enjoy a full agenda of meetings, presentations, and hands-on workshops. "
       icon: bi bi-youtube
 
