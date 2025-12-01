@@ -13,7 +13,7 @@ gridarea: 7/2/8/3
 images: 
  - /images/sessions/2025/driving-analytics.png
 slides:
-video:
+video: https://youtu.be/xm8My1aceBw
 ---
 
 In this talk, I’ll walk through how we built an end-to-end analytics pipeline using open-source tools ( Airbyte, dbt, Airflow, and Metabase). At WirePick, we extract data from multiple sources using Airbyte OSS into PostgreSQL, transform it into business-specific data marts with dbt, and automate the entire workflow using Airflow. Our Metabase dashboards provide real-time insights, and we integrate Slack notifications to alert stakeholders when key business metrics change.

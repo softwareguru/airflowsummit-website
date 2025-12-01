@@ -6,19 +6,16 @@ speakers:
 topics:
  - Airflow & ...
 track: Airflow & ...
-
 time_start: 2025-10-16 17:30:00
 time_end: 2025-10-16 18:00:00
 room: Online
 day: 20255
 timeslot: 16
 gridarea: 8/2/9/3
-
 slides:
-video:
+video: https://youtu.be/K5EDFthOAyg
 images:
  - /images/sessions/2025/automating-threat-intelligence-with-airflow-xdr-and-llms-using-the-mitre-att-ck-framework.png
-
 ---
 
 Security teams often face alert fatigue from massive volumes of raw log data. This session demonstrates how to combine Apache Airflow, Wazuh, and LLMs to build automated pipelines for smarter threat triage—grounded in the MITRE ATT&CK framework.

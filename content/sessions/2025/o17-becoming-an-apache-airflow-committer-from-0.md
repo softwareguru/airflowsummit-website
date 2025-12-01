@@ -6,7 +6,6 @@ speakers:
 topics:
  - Airflow intro/overview
 track: Airflow intro/overview
-
 time_start: 2025-10-16 18:00:00
 time_end: 2025-10-16 18:30:00
 room: Online
@@ -14,7 +13,6 @@ track: Best practices
 day: 20255
 timeslot: 17
 gridarea: 9/2/10/3
-
 slides:
 video:
 images:

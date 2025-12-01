@@ -16,10 +16,8 @@ track: Airflow & ...
 day: 20255
 timeslot: 11
 gridarea: 3/2/4/3
-
-
 slides:
-video:
+video: https://youtu.be/qZI82VVL7FE
 ---
 
 At Trendyol, Turkey's leading e-commerce company, Apache Airflow powers our task orchestration, handling DAGs with 500+ tasks, complex interdependencies, and diverse environments. Managing on-prem Airflow instances posed challenges in scalability, maintenance, and deployment. To address these, we built TaskHarbor, a fully managed orchestration platform with a hybrid architecture—combining Airflow on GKE with on-prem resources for optimal performance and efficiency.

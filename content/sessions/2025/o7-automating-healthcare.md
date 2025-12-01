@@ -11,7 +11,7 @@ day: 20254
 timeslot: 7
 gridarea: 8/2/9/3
 slides:
-video: 
+video: https://youtu.be/BgKrX3UGP-0
 ---
 
 I will talk about how Apache Airflow is used in the healthcare sector with the integration of LLMs to enhance efficiency.

@@ -10,10 +10,9 @@ track: Airflow 3
 day: 20254
 timeslot: 2
 gridarea: "3/2/4/3"
-
 images:
 slides:
-video:
+video: https://youtu.be/kiHbPkH2aD8
 summary: "This talk will explore the key changes introduced by AIP-81, focusing on security enhancements and user experience improvements across the entire software development lifecycle."
 ---
 

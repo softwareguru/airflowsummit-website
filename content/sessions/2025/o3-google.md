@@ -15,7 +15,7 @@ gridarea: 4/2/5/3
 images:
  - /images/sessions/2025/enterprise-auditing.png
 slides:
-video:
+video: https://youtu.be/-6lVhmEzW-M
 ---
 
 During this sessions audience is going to learn about newest feature of managed Airflow offering provided by Google Cloud.

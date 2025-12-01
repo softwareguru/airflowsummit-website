@@ -7,12 +7,12 @@ event_info:
   #cta_link: "/tickets"
   features: 
     - number : "2025 Recordings"
-      link: 
+      link: https://www.youtube.com/playlist?list=PLGudixcDaxY3A4P-wmH1wBHqLUU6c1DOU
       content : "Get ready to step into the next era of data with Airflow 3.0! Over the course of three days, enjoy a full agenda of meetings, presentations, and hands-on workshops. "
       icon: bi bi-youtube
 
     - number : "2025 Photo Album"
-      link: 
+      link: https://photos.google.com/share/AF1QipPiWGEdA0ibto0fSTX18T-4g6W8vI3kIuPgu3Vq3wLiQQ41bjj7bN-T5-0EDBqsDg?key=N2o5ZUwySkJGT3VtSVZ5dGJQZjlZejhLVjY3OFNn
       content : "Connect with top industry professionals and immerse yourself in the Apache Airflow community. Don’t miss this unique chance!"
       icon: bi bi-image
 

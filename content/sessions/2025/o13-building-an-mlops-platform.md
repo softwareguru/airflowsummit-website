@@ -15,7 +15,7 @@ day: 20255
 timeslot: 13
 gridarea: 5/2/6/3
 slides:
-video:
+video: https://youtu.be/W5VDk_g6e3k
 images:
  - /images/sessions/2025/building-mlops-platform.png
 ---
