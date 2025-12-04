@@ -18,14 +18,15 @@ images:
  - /images/sessions/2025/automating-threat-intelligence-with-airflow-xdr-and-llms-using-the-mitre-att-ck-framework.png
 ---
 
-Security teams often face alert fatigue from massive volumes of raw log data. This session demonstrates how to combine Apache Airflow, Wazuh, and LLMs to build automated pipelines for smarter threat triage—grounded in the MITRE ATT&CK framework.
+Security teams often face alert fatigue from massive volumes of raw log data. This session demonstrates how to combine Apache Airflow, XDR, and LLMs to build automated pipelines for smarter threat triage—grounded in the MITRE ATT&CK framework.
 
-We’ll explore how Airflow can orchestrate a full workflow: ingesting Wazuh alerts, using LLMs to summarize log events, matching behavior to ATT&CK tactics and techniques, and generating enriched incident summaries. With AI-powered interpretation layered on top of structured threat intelligence, teams can reduce manual effort while increasing context and clarity.
+We’ll explore how Airflow can orchestrate a full workflow: ingesting XDR alerts, using LLMs to summarize log events, matching behavior to ATT&CK tactics and techniques, and generating enriched incident summaries. With AI-powered interpretation layered on top of structured threat intelligence, teams can reduce manual effort while increasing context and clarity.
 
-You’ll learn how to build modular DAGs that automate:
-	•	Parsing and routing Wazuh alerts,
-	•	Querying LLMs for human-readable summaries,
-	•	Mapping IOCs to ATT&CK using vector similarity or prompt templates,
-	•	Outputting structured threat reports for analysts.
+You’ll learn how to build modular DAGs that automate: 
 
-The session includes a real-world example integrating open-source tools and public ATT&CK data, and will provide reusable components for rapid adoption. If you’re a SecOps engineer or ML practitioner in cybersecurity, this talk gives you a practical blueprint to deploy intelligent, scalable threat automation.
+* Parsing and routing XDR alerts, 
+* Querying LLMs for human-readable summaries, 
+* Mapping IOCs to ATT&CK using vector similarity or prompt templates, 
+* Outputting structured threat reports for analysts.
+
+The session includes a Case study integrating open-source tools and public ATT&CK data, and will provide reusable components for rapid adoption. If you’re a SecOps engineer or ML practitioner in cybersecurity, this talk gives you a practical blueprint to deploy intelligent, scalable threat automation.

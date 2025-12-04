@@ -10,10 +10,10 @@ track: Sponsored
 day: 20254
 timeslot: 4
 gridarea: 5/2/6/3
-
 images: 
 slides:
 video:
+draft: true
 ---
 
 Airflow powers thousands of data and ML pipelines—but in the enterprise, these pipelines often need to interact with business-critical systems like ERPs, CRMs, and core banking platforms.
