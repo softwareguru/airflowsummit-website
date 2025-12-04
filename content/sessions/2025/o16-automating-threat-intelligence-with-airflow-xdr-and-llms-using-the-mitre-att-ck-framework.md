@@ -16,6 +16,7 @@ slides:
 video: https://youtu.be/K5EDFthOAyg
 images:
  - /images/sessions/2025/automating-threat-intelligence-with-airflow-xdr-and-llms-using-the-mitre-att-ck-framework.png
+draft: false
 ---
 
 Security teams often face alert fatigue from massive volumes of raw log data. This session demonstrates how to combine Apache Airflow, XDR, and LLMs to build automated pipelines for smarter threat triage—grounded in the MITRE ATT&CK framework.
