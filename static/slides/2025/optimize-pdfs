@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# Compression level: choose one of the following
+#   /screen   (low quality, smallest size)
+#   /ebook    (medium quality)
+#   /printer  (high quality)
+#   /prepress (higher quality)
+QUALITY=/ebook
+
+for file in *.pdf; do
+    # Skip if no PDF files exist
+    [ -e "$file" ] || continue
+
+    outfile="${file%.pdf}-optimized.pdf"
+    originalfile="${file%.pdf}-original.pdf"
+
+    echo "Compressing: $file → $outfile"
+
+    gs -sDEVICE=pdfwrite \
+       -dCompatibilityLevel=1.4 \
+       -dPDFSETTINGS=$QUALITY \
+       -dNOPAUSE -dQUIET -dBATCH \
+       -sOutputFile="$outfile" "$file"
+    mv "$file" "$originalfile"
+    mv "$outfile" "$file"
+done
+
+echo "Done."
