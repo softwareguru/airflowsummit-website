@@ -10,8 +10,6 @@ timeslot: 5
 timeorder: 1
 room: Ballroom crush
 track: Airflow & ...
-day: 2
-timeslot: 5
 images:
  - /images/sessions/2023/LuanMoreno.jpg
 video: https://youtu.be/c7Bl_UBD3OY

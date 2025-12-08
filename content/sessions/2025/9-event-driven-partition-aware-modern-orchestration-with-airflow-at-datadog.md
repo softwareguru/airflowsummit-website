@@ -8,8 +8,6 @@ topics:
  - Use cases
 time_start: 2025-10-07 12:15:00
 time_end: 2025-10-07 12:55:00
-images:
- - /images/sessions/2025/event-driven-partition.png
 room: Columbia C
 track: Use cases
 day: 20251

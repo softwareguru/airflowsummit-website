@@ -5,7 +5,6 @@ speakers:
  - Zhe-You Liu
 topics:
  - Airflow intro/overview
-track: Airflow intro/overview
 time_start: 2025-10-16 18:00:00
 time_end: 2025-10-16 18:30:00
 room: Online
