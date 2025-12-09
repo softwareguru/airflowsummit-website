@@ -14,7 +14,7 @@ timeslot: 49
 gridarea: 5/3/6/4
 images:
  - images/sessions/2025/operation-airlift.png
-slides: 2025/operation-airlift_-uber_s-ongoing-journey-of-migrating-200k-pipelines-to-a-single-airflow3-instance.pdf
+slides: 2025/operation-airlift-ubers-ongoing-journey.pdf
 video: https://youtu.be/60qAfdkI5_U
 ---
 

@@ -12,7 +12,7 @@ track: Best practices
 day: 20253
 timeslot: 176
 gridarea: 15/5/16/6
-slides: 2025/from-repetition-to-refactor_-smarter-dag-design-in-airflow-3.pdf
+slides: 2025/from-repetition-to-refactor-smarter-dag-design-in-airflow-3.pdf
 video: https://youtu.be/XeHzkkJd8J8
 images:
  - /images/sessions/2025/from-repetition-to-refactor.png

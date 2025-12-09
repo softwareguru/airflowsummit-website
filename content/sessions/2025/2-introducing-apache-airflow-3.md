@@ -24,7 +24,7 @@ timeslot: 2
 gridarea: 2/2/3/6
 images: 
  - /images/sessions/2025/keynotes/IntroducingApaAirf3.png
-slides: 2025/introducing-apache-airflow®-3-–-the-next-evolution-in-orchestration.pdf
+slides: 2025/introducing-apache-airflow-3-the-next-evolution-in-orchestration.pdf
 video: https://youtu.be/nGklMyALNbQ
 keynote2025: true
 ---

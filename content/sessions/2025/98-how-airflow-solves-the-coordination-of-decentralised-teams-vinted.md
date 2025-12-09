@@ -13,7 +13,7 @@ track: Use cases
 day: 20252
 timeslot: 98
 gridarea: 14/2/15/3
-slides: 2025/how-airflow-solves-the-coordination-of-decentralised-teams-@vinted.pdf
+slides: 2025/how-airflow-solves-the-coordination-of-decentralised-teams-vinted.pdf
 video: https://youtu.be/YU-4My_dneM
 images:
  - /images/sessions/2025/how-airflow-solves.png

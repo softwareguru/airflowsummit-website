@@ -14,7 +14,7 @@ track: Airflow 3
 day: 20252
 timeslot: 61
 gridarea: 7/2/8/3
-slides: 2025/airflow-3-ui-is-not-enough_-add-a-plugin!.pdf
+slides: 2025/airflow-3-ui-is-not-enough-add-a-plugin.pdf
 video: https://youtu.be/qVG5ioC7Qbk
 images:
  - /images/sessions/2025/airflow-3-ui-is-not-enough-add-a-plugin.png

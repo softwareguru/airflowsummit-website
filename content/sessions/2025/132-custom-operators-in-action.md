@@ -10,7 +10,7 @@ track: Airflow & ...
 day: 20253
 timeslot: 132
 gridarea: 6/5/7/6
-slides: 2025/Custom-Operators-in-Action-A-Guide-to-Extending-Airflows-Capabilities-PPT.pdf
+slides: 2025/custom-operators-in-action.pdf
 video: https://youtu.be/Qb4zY5kSjOM
 images:
  - /images/sessions/2025/custom-operators-in-action.png

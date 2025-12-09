@@ -12,7 +12,7 @@ track: Use cases
 day: 20253
 timeslot: 181
 gridarea: 16/3/17/4
-slides: 2025/multi-instance-asset-synchronization---push-or-pull-_.pdf
+slides: 2025/multi-instance-asset-synchronization-push-or-pull.pdf
 video: https://youtu.be/QP_b60bKlFs
 images:
  - images/sessions/2025/multi-instance-asset-synchronization.png

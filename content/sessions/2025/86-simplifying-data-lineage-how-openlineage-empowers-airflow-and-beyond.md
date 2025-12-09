@@ -13,7 +13,7 @@ track: Airflow & ...
 day: 20252
 timeslot: 86
 gridarea: 11/5/12/6
-slides: 2025/simplifying-data-lineage_-how-openlineage-empowers-airflow-and-beyond.pdf
+slides: 2025/simplifying-data-lineage-how-openlineage-empowers-airflow-and-beyond.pdf
 video: https://youtu.be/Rti6RVDqrzk
 ---
 

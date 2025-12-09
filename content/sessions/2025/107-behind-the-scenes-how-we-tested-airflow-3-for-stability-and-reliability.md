@@ -13,7 +13,7 @@ track: Airflow 3
 day: 20252
 timeslot: 107
 gridarea: 15/4/16/5
-slides: 2025/behind-the-scenes_-how-we-tested-airflow-3-for-stability-and-reliability.pdf
+slides: 2025/behind-the-scenes-how-we-tested-airflow-3-for-stability-and-reliability.pdf
 video: https://youtu.be/xm9KCgeQTKs
 images:
  - /images/sessions/2025/behind-the-scenes.png

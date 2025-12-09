@@ -13,7 +13,7 @@ track: Airflow 3
 day: 20251
 timeslot: 31
 gridarea: 12/3/14/4 
-slides: 2025/edgeexecutor-_-edge-worker---the-new-option-to-run-anywhere.pdf
+slides: 2025/edgeexecutor-edge-worker.pdf
 video: https://youtu.be/WsI1lGc0X_c
 images:
  - /images/sessions/2025/edgeexecutor-edge-worker.png

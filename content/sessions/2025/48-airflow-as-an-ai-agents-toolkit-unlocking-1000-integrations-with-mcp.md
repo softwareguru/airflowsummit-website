@@ -15,7 +15,7 @@ timeslot: 48
 gridarea: 5/2/6/3
 images:
  - /images/sessions/2025/airflow-as-an-ai-agents-toolkit.png
-slides: 2025/airflow-as-an-ai-agent_s-toolkit_-going-beyond-mcps-and-unlocking-airflow_s-1000+-integrations.pdf
+slides: 2025/airflow-as-an-ai-agent-toolkit-going-beyond-mcps.pdf
 video: https://youtu.be/XSAzSDVUi2o
 ---
 

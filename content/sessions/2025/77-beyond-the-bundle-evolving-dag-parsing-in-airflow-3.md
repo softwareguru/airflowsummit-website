@@ -12,7 +12,7 @@ room: Columbia C
 day: 20252
 timeslot: 77
 gridarea: 10/3/11/4
-slides: 2025/beyond-the-bundle---evolving-dag-parsing-in-airflow-3.pdf
+slides: 2025/beyond-the-bundle-evolving-dag-parsing-in-airflow-3.pdf
 video: https://youtu.be/hXPWArMszwM
 images:
  - /images/sessions/2025/beyond-the-bundle.png

@@ -12,7 +12,7 @@ track: Use cases
 day: 20252
 timeslot: 63
 gridarea: 7/4/8/5
-slides: 2025/do-you-trust-airflow-with-your-money_-(we-do!).pdf
+slides: 2025/do-you-trust-airflow-with-your-money.pdf
 video: https://youtu.be/mMcQWBbR19o
 images:
  - /images/sessions/2025/do-you-trust-airflow.png

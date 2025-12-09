@@ -15,7 +15,7 @@ timeslot: 21
 gridarea: 9/2/10/3
 images: 
  - /images/sessions/2025/deadline-alerts-in-airflow-3-1.png
-slides: 2025/deadline-alerts-in-airflow-3.1.pdf
+slides: 2025/deadline-alerts-in-airflow-3_1.pdf
 video: https://youtu.be/ZtYKWoK9QKI
 summary: "Come learn about the all-new Deadline Alerts feature in Airflow 3.1 which replaces SLA. We will discuss how Deadline Alerts work and how they improve on the retired SLA feature."
 ---

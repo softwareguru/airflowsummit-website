@@ -10,7 +10,7 @@ track: Use cases
 day: 20252
 timeslot: 105
 gridarea: 15/2/16/3
-slides: 2025/from-centrailization-to-autonomy_-managing-airflow-pipeline-through-multi-tenancy.pdf
+slides: 2025/from-centrailization-to-autonomy-managing-airflow-pipeline-through-multi-tenancy.pdf
 video: https://youtu.be/nYhGEq6mguA
 images:
  - /images/sessions/2025/from-centrailization-to-autonomy.png

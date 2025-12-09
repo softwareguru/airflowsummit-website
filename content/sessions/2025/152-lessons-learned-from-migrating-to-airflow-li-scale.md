@@ -1,10 +1,9 @@
 ---
-title: "Lessons learned from migrating to Airflow @ LI Scale"
+title: "Lessons learned from migrating to Airflow @ LinkedIn"
 slug: lessons-learned-from-migrating-to-airflow-li-scale
 speakers:
  - Arthur Chen
  - Trevor DeVore
- - Deng Pan
 topics:
  - Airflow & ...
 time_start: 2025-10-09 14:00:00
@@ -14,8 +13,8 @@ track: Airflow & ...
 day: 20253
 timeslot: 152
 gridarea: 10/3/11/4
-slides: 2025/lessons-learned-from-migrating-to-airflow-@-li-scale.pdf
-video:
+slides: 2025/lessons-learned-from-migrating-to-airflow-li-scale.pdf
+video: https://youtu.be/_Xr5zguWHs4
 images:
  - /images/sessions/2025/lessons-learned-from-migrating-to-airflow.png
 ---

@@ -10,7 +10,7 @@ track: Use cases
 day: 20253
 timeslot: 116
 gridarea: 4/3/5/4
-slides: 2025/enhancing-small-retailer-visibility_-machine-learning-pipelines-with-apache-airflow.pdf
+slides: 2025/enhancing-small-retailer-visibility-machine-learning-pipelines-with-apache-airflow.pdf
 video: https://youtu.be/8SzFZUP-hM0
 images:
  - /images/sessions/2025/enhancing-small-retailer.png

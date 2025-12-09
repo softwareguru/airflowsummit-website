@@ -12,7 +12,7 @@ timeslot: 23
 gridarea: 9/4/10/5
 images: 
  - /images/sessions/2025/orchestrator-of-orchestrators.png
-slides: 2025/orchestrator-of-orchestrators_-uniting-airflow-pipelines-with-business-applications-in-production.pdf
+slides: 2025/orchestrator-of-orchestrators-uniting-airflow-pipelines.pdf
 video: https://youtu.be/HhNagnNMLOU
 summary: "In this demo-driven session we will connect Airflow with Control-M from BMC and showcase how Airflow can participate in end-to-end workflows that span not just data platforms but also transactional business applications."
 ---

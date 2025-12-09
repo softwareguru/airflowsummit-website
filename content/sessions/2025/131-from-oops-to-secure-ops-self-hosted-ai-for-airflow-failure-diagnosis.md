@@ -14,7 +14,7 @@ track: Airflow & ...
 day: 20253
 timeslot: 131
 gridarea: 6/4/7/5
-slides: 2025/from-oops-to-secure-ops_-self-hosted-ai-for-airflow-failure-diagnosis.pdf
+slides: 2025/from-oops-to-secure-ops-self-hosted-ai-for-airflow-failure-diagnosis.pdf
 video: https://youtu.be/dgZF3UM4W4k
 ---
 

@@ -13,7 +13,7 @@ day: 20251
 timeslot: 13
 gridarea: 7/2/8/3
 images: 
-slides: 2025/unlocking-event-driven-scheduling-in-airflow-3_-a-new-era-of-reactive-data-pipelines.pdf
+slides: 2025/unlocking-event-driven-scheduling-in-airflow-3-a-new-era-of-reactive-data-pipelines.pdf
 video: https://youtu.be/GT6BBdSwwt8
 summary: "Airflow 3 introduces a major evolution in orchestration: native support for external event-driven scheduling. In this talk, I’ll share the journey behind AIP-82—why we needed it, how we built it, and what it unlocks."
 ---

@@ -14,7 +14,7 @@ timeslot: 22
 gridarea: 9/3/10/4
 images: 
  - /images/sessions/2025/seamless-airflow-upgrades.png
-slides: 2025/seamless-airflow-upgrades_-migrating-from-2.x-to-3.pdf
+slides: 2025/seamless-airflow-upgrades-migrating-from-2_x-to-3.pdf
 video: https://youtu.be/u-Ce_VWumoA
 summary: "Join this session for live demos and practical examples that will empower you to confidently upgrade from Airflow 2, minimise downtime, and achieve optimal performance in Airflow 3."
 ---

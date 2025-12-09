@@ -13,7 +13,7 @@ track: Use cases
 day: 20251
 timeslot: 34
 gridarea: 13/2/14/3
-slides: 2025/allegro's-airflow-journey_-from-on-prem-to-cloud-orchestration-at-scale.pdf
+slides: 2025/allegros-airflow-journey-from-on-prem-to-cloud-orchestration-at-scale.pdf
 video: https://youtu.be/21JjGq-lv8I
 images:
  - /images/sessions/2025/allegros-airflow-journey.png

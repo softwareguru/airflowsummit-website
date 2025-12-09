@@ -15,7 +15,7 @@ day: 20252
 timeslot: 41
 gridarea: 4/2/5/3
 images:
-slides: 2025/the-secret-to-airflow_s-evergreen-build_-ci_cd-magic.pdf
+slides: 2025/the-secret-to-airflows-evergreen-build-ci_cd-magic.pdf
 video: https://youtu.be/-L3NKga6HsI
 ---
 

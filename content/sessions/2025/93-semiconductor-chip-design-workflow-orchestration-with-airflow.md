@@ -13,7 +13,7 @@ track: Use cases
 day: 20252
 timeslot: 93
 gridarea: 13/4/14/5
-slides: 2025/semiconductor-(chip)-design-workflow-orchestration-with-airflow.pdf
+slides: 2025/semiconductor-chip-design-workflow-orchestration-with-airflow.pdf
 video: https://youtu.be/QjB7NWjujfw
 ---
 

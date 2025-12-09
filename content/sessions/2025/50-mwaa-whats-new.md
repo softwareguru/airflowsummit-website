@@ -13,7 +13,7 @@ timeslot: 50
 gridarea: 5/4/6/5
 images:
  - /images/sessions/2025/mwaa-whats-new.png
-slides: 2025/managed-workflow-for-apache-airflow-(mwaa)_-what_s-new_.pdf
+slides: 2025/managed-workflow-for-apache-airflow-mwaa-whats-new.pdf
 video: https://youtu.be/tdGNNJ7RuJk
 ---
 

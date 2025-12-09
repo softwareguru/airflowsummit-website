@@ -12,7 +12,7 @@ track: Use cases
 day: 20252
 timeslot: 69
 gridarea: 9/2/10/3
-slides: 2025/github's-airflow-journey_-lessons,-mistakes,-and-insights.pdf
+slides: 2025/githubs-airflow-journey-lessons-mistakes-and-insights.pdf
 video: https://youtu.be/IdHEyWxxdGU
 images:
  - /images/sessions/2025/githubs-airflow-journey.png
