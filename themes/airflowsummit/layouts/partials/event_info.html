@@ -2,19 +2,19 @@
 
 {{ with $data.homepage.event_info }}
  {{ if eq .enable true }}
-<section class="event-info-section mt-4">
+<section class="event-info-section">
   <div class="container">
     <div class="row row-cols-1 row-cols-lg-3 g-4">
       {{ range .features}}
       <div class="col mb-4 card-space-info-event">
         <div class="card h-100 card-event-info">
-          <p class="event-info-icon">&nbsp;&nbsp;&nbsp;<i class="bi {{ .icon }}"></i></p>
+          <!--<p class="event-info-icon">&nbsp;&nbsp;&nbsp;<i class="bi {{ .icon }}"></i></p>-->
           <div class="card-body">
             <a href="{{ .link }}" target="_blank" class="text-decoration-none">
               <h5 class="card-title card-title-decoration event-info-title">{{ .number }}</h5>
             </a>
             
-            <!--<p class="card-text event-info-content mt-3">{{ .content }}</p>-->
+            <p class="card-text event-info-content mt-3">{{ .content }}</p>
           </div>
         </div>
       </div>

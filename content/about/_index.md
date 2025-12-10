@@ -14,15 +14,21 @@ Airflow Summit is the annual conference for the worldwide community of [Apache A
 
 Apache Airflow thrives because of its vibrant, global community. From open-source contributors and maintainers to data engineers and companies using Airflow at scale, every member plays a crucial role in keeping the project evolving. Airflow Summit is the place where this community comes together to share knowledge, solve challenges, and drive innovation forward.
 
-The 2025 edition will take place on October 7-9 at the Hyatt Regency in Seattle, USA, making it exceptional with the launch of Airflow 3.0, bringing together the brightest minds in workflow orchestration. Expect insightful talks, hands-on workshops, and plenty of opportunities to meet and collaborate with fellow Airflow enthusiasts. Whether you're contributing code, shaping best practices, or just starting your Airflow journey, this event is for you.
+The 2026 edition will take place from August 31st to September 2nd at the Hyatt Regency Austin, USA, bringing together the brightest minds in workflow orchestration. Expect insightful talks, hands-on workshops, and plenty of opportunities to meet and collaborate with fellow Airflow enthusiasts. Whether you’re contributing code, shaping best practices, or just starting your Airflow journey, this event is for you.
 
-Learn from Past Events: Airflow Summit previous editions have a strong track record of success, and we’re excited to build on that for 2025. If you’re looking for sessions and recordings from previous years, you can find them [here](/sessions/).
+The tracks are designed to better support the growing and diverse Airflow user community and to help every data team operate Airflow more effectively, no matter where they are in their journey. In 2025, we saw tremendous engagement from practitioners, ML teams, data leaders, and Airflow power users. Talks like OpenAI’s deep dive on scaling Airflow and Duolingo’s session on ML-driven pipelines showed us how important it is to create dedicated spaces for the different roles that rely on Airflow every day. Based on that feedback, we’re introducing three focused tracks for 2026:
 
-Join us in Seattle to connect, learn, and be part of the future of Apache Airflow. Because great things happen when the community comes together! 🚀
+* Builder Track: For data engineers, DAG authors, DevOps, and platform teams who build and operate Airflow at scale
 
-With over 5,250 responses from 116 countries, check out the Apache Airflow survey 2024:
+* Data & AI Application Track: For ML engineers, data scientists, and analysts working with data products, ML pipelines, and analytics workflows
+
+* Data Strategy Track: For managers, directors, and executives making decisions about Airflow adoption, team structure, governance, and observability
+
+Each track is built to give attendees practical guidance, proven patterns, and real-world insights they can take back to their teams. 
 
 
-<img src="/images/Airflow-Survey-2024-Results-v2.png" class="img-fluid mx-auto d-block mt-4" >
+<h2 style="color: #0eb6ff!important;">Join us in Austin to orchestrate the future!</h2>
+
+<!--<img src="/images/Airflow-Survey-2024-Results-v2.png" class="img-fluid mx-auto d-block mt-4">-->
 
 <br>

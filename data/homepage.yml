@@ -6,17 +6,14 @@ event_info:
   #cta_text: "Tickets available now!"
   #cta_link: "/tickets"
   features: 
-    - number : "2025 Recordings"
-      link: https://www.youtube.com/playlist?list=PLGudixcDaxY3A4P-wmH1wBHqLUU6c1DOU
-      content : "Get ready to step into the next era of data with Airflow 3.0! Over the course of three days, enjoy a full agenda of meetings, presentations, and hands-on workshops. "
+    - number : "3 days"
+      content : "Get ready to orchestrate the future! Learn to use the latest features of Apache Airflow, explore emerging technologies, and unlock the full potential of machine learning, data engineering, and business intelligence."
       icon: bi bi-youtube
 
-    - number : "2025 Photo Album"
-      link: https://photos.google.com/share/AF1QipPiWGEdA0ibto0fSTX18T-4g6W8vI3kIuPgu3Vq3wLiQQ41bjj7bN-T5-0EDBqsDg?key=N2o5ZUwySkJGT3VtSVZ5dGJQZjlZejhLVjY3OFNn
-      content : "Connect with top industry professionals and immerse yourself in the Apache Airflow community. Don’t miss this unique chance!"
+    - number : "+500 In Person"
+      content : "Connect with top industry professionals and contribute to the growth of the Apache Airflow community. Don't miss this unique chance to network, share ideas, and collaborate."
       icon: bi bi-image
 
-    - number : "Airflow Summit 2025 Blog"
-      link: /blog/airflow-summit-2025
-      content : "Explore over 100 captivating sessions hosted by industry experts—your ultimate source of knowledge and inspiration!"
+    - number : "+100 Sessions"
+      content : "Explore over 100 captivating sessions, presented by industry-leading experts. Discover valuable insights, learn best practices, and get the knowledge and inspiration you need to excel in your data projects."
       icon: bi bi-card-heading

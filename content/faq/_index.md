@@ -6,7 +6,7 @@ linkTitle: "FAQ"
 
 ### Where is Airflow Summit?
 
-We will meet on October 7-9th, 2025 at The Hyatt Regency Seattle, situated in the heart of the Emerald City, Seattle 808 Howell Street.
+We will meet from August 31st to September 2nd at The Hyatt Regency Austin, 208 Barton Springs Rd, Austin, TX 78704
 
 ### Do I need a visa to travel to USA?
 
@@ -30,7 +30,7 @@ Report it to a staff member (Airflow Summit t-shirt or staff at the registration
 We will not have live streaming. We will, however, record sessions and make them available later.
 
 ### Can I join as sponsor?
-Yes! Please review our [Prospectus](/docs/airflow-summit-2026-prospectus.pdf) or contact us at info@airflowsummit.org
+Yes! Please review our [Prospectus](/docs/airflow-summit-2026-prospectus-v1.pdf) or contact us at info@airflowsummit.org
 
 ### Accessibility
 
