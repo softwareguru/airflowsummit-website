@@ -6,6 +6,6 @@ designation : Community Manager
 twitter:
 linkedin: 
 group: sg
-draft: false
+draft: true
 ---
 
