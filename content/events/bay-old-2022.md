@@ -8,7 +8,8 @@ partners:
 rsvp_link: https://airflowsummit2022-sfo.eventbrite.com
 venue_name: Airbnb
 venue_address: 888 Brannan St. 1st floor (Eatrium). San Francisco, CA 94103
-
+slug: bay-2022-old
+draft: true
 ---
 
 The San Francisco Bay Airflow meetup joins the Airflow Summit to present in person talks and networking. 
