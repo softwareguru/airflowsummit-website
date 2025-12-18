@@ -5,7 +5,6 @@ speakers:
  - William Orgertrice
 topics:
  - Best practices
-
 time_start: 2025-10-09 12:00:00
 time_end: 2025-10-09 12:25:00
 room: Columbia D
@@ -13,7 +12,7 @@ track: Best practices
 day: 20253
 timeslot: 138
 gridarea: 7/4/8/5
-slides:
+slides: 
 video: https://youtu.be/bwhM9kxnvdo
 images:
  - /images/sessions/2025/5-simple-strategies-to-enhance-your-dags-for-data-processing.png
