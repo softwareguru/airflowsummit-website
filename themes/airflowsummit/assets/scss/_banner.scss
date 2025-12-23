@@ -1,5 +1,7 @@
 section.hero-2025 { 
-  background-color: $black;
+  background-image: url(/images/stars-bg-2026.png);
+	background-size: cover;
+	background-position: center;
   @media (min-width:1600px) {
     padding-top: 40px;
     padding-bottom: 40px;
@@ -51,7 +53,7 @@ section.hero-2025 {
 
 .hero-titles {
   color: white;
-  text-align: left;
+  text-align: center;
   margin-top: 90px;
   @media (max-width:992px) {
     text-align: center;
@@ -91,5 +93,13 @@ section.hero-2025 {
 
   @media (max-width:492px) {
     font-size: .9em;
+  }
+}
+
+.logo-2026{
+  margin-top: 40px;
+    @media (max-width:640px) {
+      margin-top: 75px;
+      width: 400px;
   }
 }
