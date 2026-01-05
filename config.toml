@@ -1,6 +1,6 @@
 
 baseURL = "https://airflowsummit.org/"
-title = "Airflow Summit 2025"
+title = "Airflow Summit 2026"
 description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 enableRobotsTXT = true
 RemovePathAccents = true
@@ -109,20 +109,20 @@ google_analytics_4 = "G-DQ3SEJY0LP"
 google_ads = "AW-10857785820"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card-as-2025.jpg"]
-start_date = "2025-10-07T09:00-05:00"
-end_date = "2025-10-09T17:00-05:00" 
+images = ["/images/card2026-tmp.jpg"]
+start_date = "2026-08-31T09:00-05:00"
+end_date = "2026-09-02T17:00-05:00" 
 
 [params.hero]
-text = "October 7 - 9, 2025."
+text = "August 31st - September 2nd, 2026."
 
 # [params.hero.cta1]
 # text = "Submit to our CFP"
 # link = "https://sessionize.com/airflow-summit-2024/"
 
 [params.hero.cta2]
-text = "2024 Sessions"
-link = "/sessions/2024"
+text = "2025 Sessions"
+link = "/sessions/2025"
 
 # Navigation button
 [params.navigation_button]
