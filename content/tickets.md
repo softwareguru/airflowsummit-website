@@ -6,7 +6,7 @@ title: "Tickets"
 
 
 <script src="https://js.tito.io/v2/with/ga4,hits" async></script>
-<tito-widget event="airflowsummit/2025"></tito-widget>
+<tito-widget event="airflowsummit/2026"></tito-widget>
 
 ****Ticket prices are in US dollars.****
 
@@ -20,6 +20,8 @@ title: "Tickets"
 - Participant kit: Event t-shirt & tote bag (not guaranteed for late registrations).
 - Participation diploma. 
 
+
+<!--- 
 ### Discounts: 
 
 <ul>
@@ -29,6 +31,7 @@ title: "Tickets"
  <li>20% Students: <a style="color: #0eb6ff">20DISC_STUDENT</a>(you need to register with a university email)</li>
 
 </ul>
+--->
 
 ### Additional Information:
 
