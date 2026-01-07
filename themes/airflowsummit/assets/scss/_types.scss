@@ -12,16 +12,17 @@ body{
 }
 
 a {
-  color: $primary-color;
+  color: #ff7557;
   transition: .3s all;
   &:hover{
     color: $black-lighter;
   }
 }
 
-// h1 a,h2 a,h3 a,h4 a,h5 a,h6 a{
-//  color: inherit;
-// }
+
+h1, h2 {
+    color: #ff7557;
+}
 
 h1, .h1 {
   font-size: 42px;
