@@ -27,7 +27,7 @@ The tracks are designed to better support the growing and diverse Airflow user c
 Each track is built to give attendees practical guidance, proven patterns, and real-world insights they can take back to their teams. 
 
 
-<h2 style="color: #0eb6ff!important;">Join us in Austin to orchestrate the future!</h2>
+<h2 style="color: #e43921!important;">Join us in Austin to orchestrate the future!</h2>
 
 <!--<img src="/images/Airflow-Survey-2024-Results-v2.png" class="img-fluid mx-auto d-block mt-4">-->
 
