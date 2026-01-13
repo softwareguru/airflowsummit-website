@@ -1,8 +1,8 @@
 ---
 title: "BMC"
-level: "gold"
+level: "platinum"
 logo: "/images/partners/logo-bmc.png"
 webUrl: "https://www.bmc.com/"
-weight: 1
+weight: 3
 draft: false
 ---
