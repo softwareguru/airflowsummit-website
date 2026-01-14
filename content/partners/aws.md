@@ -1,8 +1,8 @@
 ---
 title: "AWS"
 level: "platinum"
-logo: "/images/partners/aws.png"
+logo: "/images/partners/AWS_logo.png"
 webUrl: "https://aws.amazon.com/"
-weight: 2
+weight: 3
 draft: false
 ---
