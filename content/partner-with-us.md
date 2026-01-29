@@ -1,5 +1,5 @@
 ---
-title: "Partner With Us at Airflow® Summit 2025"
+title: "Partner With Us at Airflow® Summit 2026"
 date: 2023-07-19T16:15:26-06:00
 draft: false
 ---
@@ -8,27 +8,29 @@ draft: false
 
 <br>
 
-Join the leading companies in the data engineering ecosystem and sponsor Airflow Summit 2025 to engage with more than 600 data engineers from outstanding data organizations from all over the world. This edition marks a special milestone for Airflow because the 3.0 version will be launched.
-Check out why Apache Airflow has the most impact on the Engineering Data industry. The recent survey with 5,250 responses from 116 countries shows that 93% of people say that Airflow is important to their business, and 91% are very likely to recommend Airflow. Take a look at the complete survey [here](https://airflowsummit.org/about/).
+Join the leading companies in the data engineering ecosystem and sponsor Airflow Summit 2026 to engage with more than 600 data engineers from outstanding data organizations from all over the world. 
+
+Check out why Apache Airflow has the most impact on the Engineering Data industry. The 2024 survey shows that 93% of respondents say Airflow is important to their business, and 91% are very likely to recommend it. Take a look at the complete survey [here](https://airflow.apache.org/blog/airflow-survey-2024/). 
+
 
 <br>
 
-<h3 class="sub-color-partner">Airflow Summit 2024 in numbers</h3>
+<h3 class="sub-color-partner">Some results from our previous edition: </h3>
 
 <section>
   <div class="container">
-    <div class="row row-cols-1 row-cols-lg-3 g-4 mt-4">
+    <div class="row row-cols-1 row-cols-lg-2 g-4 mt-4">
       <div class="col">
         <div class="card h-100 card-event-info">
           <div class="card-body text-center">
             <h5 class="card-title event-info-title">
             3 Days
             <br>
-            7 Workshops
+            10 Workshops
             <br>
-            105 Talks
+            112 Talks
             <br>
-            189 CFP Submissions
+            243 CFP Submissions
             </h5>
           </div>
         </div>
@@ -37,32 +39,19 @@ Check out why Apache Airflow has the most impact on the Engineering Data industr
         <div class="card h-100 card-event-info">
           <div class="card-body text-center">
             <h5 class="card-title event-info-title">
-            650 Participants
+            513 Participants
             <br>
-            142 Speakers
+            159 Speakers
             <br>
-            15 Sponsors & partners
+            11 Sponsors & partners
             <br>
-            182 Participant Organizations
-            </h5>
-          </div>
-        </div>
-      </div>
-    <div class="col">
-        <div class="card h-100 card-event-info">
-          <div class="card-body text-center">
-            <h5 class="card-title event-info-title">
+            +200 Participant Organizations
+            <br>
             +30 Countries reached
-            <br>
-            +3k Recordings views
-            <br>
-            +12k Twitter followers
-            <br>
-            98.8k LinkedIn reach
             </h5>
           </div>
         </div>
-    </div>  
+      </div>  
   </div>
   <br>
 </section>
@@ -72,61 +61,75 @@ Check out why Apache Airflow has the most impact on the Engineering Data industr
 
 <br>
 
-<h3 class="sub-color-partner">Estimated attendance for 2025 and impact:</h3>
+<h3 class="sub-color-partner">Estimated attendance and impact:</h3>
 
-+600 in-person participants
++500 Participants
 
-+800 live streaming (keynote and sponsored sessions)
++200 Participant organizations
 
-+3k recordings views
++30 Countries reached
+
 
 <br>
 
 <h3 class="sub-color-partner">Who attends?</h3>
 
-Airflow Summit attracts a global community of professionals, including:
+Trusted by leaders in cloud, fintech, retail tech, and big data. Participants included experts from Astronomer, AWS, and Google, as well as users from organizations such as Liberty Mutual, Capital Group, and USAFacts.
 
-- Data Engineers & Developers mastering workflow automation with Apache Airflow.
-- Enterprise Architects & CTOs building scalable, data-driven ecosystems.
-- Data Scientists & Analysts integrating AI/ML workflows with Airflow.
-- Open-Source Contributors shaping the future of Airflow.
-- Technology Decision Makers are evaluating innovative data orchestration solutions.
+ * Airflow Maintainers & Builders – Cloud OSS teams actively building or stewarding Airflow.
+Tech Product Airflow Teams – High-growth SaaS and tech orgs running production workloads atop Airflow.
 
-Attendees represent a diverse range of industries, including technology, finance, healthcare, e-commerce, and more.
+ * Enterprise Airflow Operators – Retail, manufacturing, healthcare, logistics, treating Airflow as critical infrastructure.
+
+ * Financial Services Airflow Power Users – Banks, fintechs, trading firms with regulated ML/data pipelines.
+
+ * Media & Entertainment Data Orchestrators – Broadcasters, sports franchises, streaming/content outfits delivering data-driven fan and media products.
+
+ * Public Sector & Education Airflow Adopters – Government, nonprofits, and universities using or exploring Airflow.
+
+ * Airflow Ecosystem Vendors & Partners – Whose offerings integrate with Airflow.
+
+ * Airflow Explorers & PoC Teams – Still evaluating or piloting Airflow in prototypes or limited use cases.
+
+<img src="/images/partners/sponsors-page/2026/count-of-segment.png" class="img-fluid mx-auto d-block mt-4" >
 
 <br>
 
 <h3 class="sub-color-partner">Why become a sponsor?</h3>
 
-This in-person event is an opportunity to get in contact with users and contributors from all over the world.
+Sponsoring the Airflow Summit offers high-visibility access to a specialized audience of data engineers, developers, and decision-makers. It allows brands to showcase expertise to 600+ attendees, generate leads, and foster relationships within the Apache Airflow community. 
 
-- Spotlight Your Brand During the Airflow 3.0 Launch
+<br>
 
-Position your organization as an industry leader at the forefront of this major open-source milestone. Gain unmatched visibility in front of decision-makers and influential engineers.
+<h3 class="sub-color-partner">Key benefits of sponsoring:</h3>
 
-- Build Lasting Connections with a Targeted Audience
+ * Targeted Brand Exposure: Reach a highly engaged, technical audience actively seeking solutions for data workflows and pipeline automation.
 
-Meet professionals actively searching for tools and solutions to power their workflows. Showcase your offerings to an engaged and tech-savvy audience.
+ * Major Milestone Positioning: Showcase your organization as a leader in the ecosystem.
 
-- Lead the Conversation
+ * Industry Thought Leadership: Present, host workshops, or share success stories in the Builder, Data & AI, or Strategy tracks.
 
-Establish your thought leadership by presenting cutting-edge solutions, hosting workshops, or sharing success stories during sessions.
+ * Direct Networking: Connect with community members, contributors, and industry experts from leading companies.
+
+ * Lead Generation & Recruitment: Utilize exhibition opportunities and job promotion to connect with potential clients and talent. 
 
 <br>
 
 <h3 class="sub-color-partner">Sponsorship packages</h3>
 
-<img src="/images/partners/sponsors-page/sp-1-1.png" class="img-fluid mx-auto d-block mt-4" >
-
-<br>
-<p class="text-center">Platinum and Gold clients will have access to the "Ask me anything" round table with Airflow PMCs.</p>
-
+<img src="/images/partners/sponsors-page/2026/airflow-summit-2026-prospectus-packages.png" class="img-fluid mx-auto d-block mt-4" >
 
 <br>
 
 <h3 class="sub-color-partner">Sponsorships Add-ons</h3>
 
-<img src="/images/partners/sponsors-page/s2.png" class="img-fluid mx-auto d-block mt-4" >
+<img src="/images/partners/sponsors-page/2026/airflow-summit-2026-prospectus-addons.png" class="img-fluid mx-auto d-block mt-4" >
+
+<br>
+
+<h3 class="sub-color-partner">Additional experiences</h3>
+
+Platinum and Gold will have the opportunity to invite their clients and leads to the "Ask me anything" roundtable, an invitation-only lunch at which the PMCs will share the current state and future of Airflow.
 
 <br>
 
