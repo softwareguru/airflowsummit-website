@@ -5,7 +5,7 @@ title: ""
 <div class="" style="margin-top: -40px">
   <div class="row align-items-center mt-4">
    
-<h2 style="color: #0eb6ff">About Austin</h2>
+<h2>About Austin</h2>
       
 <p>With a thriving startup ecosystem, a solid presence of leading tech companies, nearby universities, and an active developer population, Austin naturally supports open collaboration and data-driven problem-solving, aligning closely with the essence of the Airflow community.</p> 
 
@@ -28,7 +28,7 @@ title: ""
 
 
 
-<h2 style="color: #0eb6ff">Venue</h2>
+<h2>Venue</h2>
 
 
 <p><strong>The Hyatt Regency Austin</strong> is located on the shores of Lady Bird Lake at 208 Barton Springs Road, just across from downtown. Being a newly renovated hotel, it offers convenience, comfort, and scenic views with easy access to South Congress entertainment, Rainey Street nightlife, and 6th Street bars and dining. The hotel features modern rooms and suites with lake and downtown skyline views, along with in-house dining and bars ideal for networking.</p>
