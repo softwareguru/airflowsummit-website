@@ -33,12 +33,9 @@ title: "Tickets"
 </ul>
 --->
 
-### Additional Information:
-
-- We are looking for volunteers who can help us create an amazing event. Contact teyza@sg.com.mx if you are interested in this opportunity.
+### Book your Hotel:
 
 - To receive the Airflow Summit 2026 discounted rate at the Hyatt Regency Austin, please click <a href="https://www.hyatt.com/events/en-US/group-booking/AUSRA/G-AIRF" target="_blank">here</a> to book your hotel room. 
-
 
 
 <div class="text-center">
