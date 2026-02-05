@@ -37,10 +37,13 @@ Participants at Airflow Summit may require to interact with the following third 
 
 
 
-*   [Pretalx](https://pretalx.com) is used for submitting proposals to speak at Airflow Summit. Its privacy policy is available at [https://pretalx.com/p/privacy](https://pretalx.com/p/privacy) 
-*   [Tito](https://ti.to) is used for user registration and ticket purchase. Its privacy policy is available at [https://ti.to/privacy](https://ti.to/privacy)
-*   [Stripe](https://stripe.com/) is used for processing payments. Its privacy policy is available at [https://stripe.com/privacy](https://stripe.com/privacy)
-*   [Google Analytics](https://google.com/analytics) is used to track and examine the use of the Airflow Summit website. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: United States. Its privacy policy is available at [https://policies.google.com/privacy](https://policies.google.com/privacy) and you can opt out at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) 
+*   <a href="https://pretalx.com" target="_blank">Pretalx</a> is used for submitting proposals to speak at Airflow Summit. Its privacy policy is available at <a href="https://pretalx.com/p/privacy" target="_blank">https://pretalx.com/p/privacy</a>
+
+*   <a href="https://ti.to" target="_blank">Tito</a> is used for user registration and ticket purchase. Its privacy policy is available at <a href="https://ti.to/privacy" target="_blank">https://ti.to/privacy</a>
+
+*   <a href="https://stripe.com/" target="_blank">Stripe</a> is used for processing payments. Its privacy policy is available at <a href="https://stripe.com/privacy" target="_blank">https://stripe.com/privacy</a>
+
+*   <a href="https://google.com/analytics" target="_blank">Google Analytics</a> is used to track and examine the use of the Airflow Summit website. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: United States. Its privacy policy is available at <a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a> and you can opt out at <a href="https://tools.google.com/dlpage/gaoptout" target="_blank">https://tools.google.com/dlpage/gaoptout</a> 
 
 
 ### Mode and place of processing the data

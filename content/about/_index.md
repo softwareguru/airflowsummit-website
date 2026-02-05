@@ -10,7 +10,11 @@ subtitle: "Airflow Summit is the annual conference for the worldwide community o
 
 ---
 
-Airflow Summit is the annual conference for the worldwide community of [Apache Airflow](https://airflow.apache.org/) users and contributors. This conference is a celebration of the people who make Airflow what it is.
+Airflow Summit is the annual conference for the worldwide community of <a href="https://airflow.apache.org/" target="_blank">Apache Airflow</a> users and contributors. This conference is a celebration of the people who make Airflow what it is.
+
+Apache Airflow thrives because of its vibrant, global community. From open-source contributors and maintainers to data engineers and companies using Airflow at scale, every member plays a crucial role in keeping the project evolving. Airflow Summit is the place where this community comes together to share knowledge, solve challenges, and drive innovation forward.
+
+<img src="/images/about/2026/airflow-survey-2025-results.png" class="img-fluid mb-4">
 
 Apache Airflow thrives because of its vibrant, global community. From open-source contributors and maintainers to data engineers and companies using Airflow at scale, every member plays a crucial role in keeping the project evolving. Airflow Summit is the place where this community comes together to share knowledge, solve challenges, and drive innovation forward.
 

@@ -4,13 +4,13 @@ date: 2023-07-19T16:15:26-06:00
 draft: false
 ---
 
-<h3 class="sub-color-partner">Partner with us, join our sponsors at Airflow Summit 2025</h3>
+<h3 class="sub-color-partner">Partner with us, join our sponsors at Airflow Summit 2026</h3>
 
 <br>
 
-Join the leading companies in the data engineering ecosystem and sponsor Airflow Summit 2026 to engage with more than 600 data engineers from outstanding data organizations from all over the world. 
+Join the leading companies in the data engineering ecosystem and sponsor Airflow Summit 2026 to engage with more than 500 data engineers from outstanding data organizations from all over the world. 
 
-Check out why Apache Airflow has the most impact on the Engineering Data industry. The 2024 survey shows that 93% of respondents say Airflow is important to their business, and 91% are very likely to recommend it. Take a look at the complete survey [here](https://airflow.apache.org/blog/airflow-survey-2024/). 
+Check out why Apache Airflow has the most impact on the Engineering Data industry. The 2025 survey shows that 93% of respondents say Airflow is important to their business, and 89% are very likely to recommend it. Take a look at the complete survey <a href="https://airflow.apache.org/blog/airflow-survey-2025/" target="_blank">here.</a>
 
 
 <br>
@@ -134,7 +134,7 @@ Platinum and Gold will have the opportunity to invite their clients and leads to
 <br>
 
 <div class="text-center">
-<h3>Take a look at our <a href="/docs/airflow-summit-2026-prospectus-v1_3.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h3>
+<h3>Take a look at our <a href="/docs/airflow-summit-2026-prospectus-v1_4.pdf" target="_blank">Prospectus </a>and get to know more about the available opportunities and benefits.</h3>
 
 We are open to participation suggestions, feel free to [Contact Us!](mailto:info@airflowsummit.org)
 

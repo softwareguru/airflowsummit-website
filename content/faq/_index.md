@@ -30,11 +30,11 @@ Report it to a staff member (Airflow Summit t-shirt or staff at the registration
 We will not have live streaming. We will, however, record sessions and make them available later.
 
 ### Can I join as sponsor?
-Yes! Please review our [Prospectus](/docs/airflow-summit-2026-prospectus-v1.2.pdf) or contact us at info@airflowsummit.org
+Yes! Please review our <a href="/docs/airflow-summit-2026-prospectus-v1_4.pdf" target="_blank">Prospectus</a> or contact us at info@airflowsummit.org
 
 ### Accessibility
 
-The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at info@airflowsummit.org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
+The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at <a href="mailto:info@airflowsummit.org" target="_blank">info@airflowsummit.</a>org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
 
 ### What happened to the archive of past sessions?
 
