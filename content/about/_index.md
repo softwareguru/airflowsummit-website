@@ -36,3 +36,5 @@ Apache Airflow thrives because of its vibrant, global community. From open-sourc
 <img src="/images/about/2026/airflow-survey-2025-results-1.png" class="img-fluid mb-4 mx-auto d-block">
 
 <img src="/images/about/2026/airflow-survey-2025-results-2.png" class="img-fluid mb-4 mx-auto d-block">
+
+<p class="text-center"><a href="https://airflow.apache.org/blog/airflow-survey-2025/" target="_blank">Apache Airflow Survey 2025</a></p>
