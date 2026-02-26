@@ -3,7 +3,7 @@ section.hero-2025 {
 	background-size: cover;
 	background-position: center;
   @media (min-width:1600px) {
-    padding-top: 40px;
+    padding-top: 20px;
     padding-bottom: 40px;
   }
   @media (max-width:640px) {
@@ -71,7 +71,7 @@ section.hero-2025 {
   font-size: 35pt;
 }
 
-.hero-titles .date-place {
+.date-place {
   font-size: 18pt;
   @media (min-width:992px) {
     font-size: 20pt;
@@ -80,6 +80,16 @@ section.hero-2025 {
   text-transform: uppercase;
   margin-bottom: 1.2em;
 }
+
+.slogan{
+    font-size: 23pt;
+  @media (min-width:992px) {
+    font-size: 23pt;
+  }
+  font-weight: 700;
+  margin-bottom: .9em;
+}
+
 .hero-titles img {
   margin-bottom: 2.5em;
 }
