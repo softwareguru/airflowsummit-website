@@ -4,7 +4,7 @@ date: 2025-05-19T16:15:26-06:00
 draft: false
 ---
 
-**We have prepared this <a href="" targe="_blank">checklist</a> for you to ensure your successful participation. Please follow this guide and share any required information in <a href="" targe="_blank">this form</a>:**
+**We have prepared this <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">checklist</a> for you to ensure your successful participation. Please follow this guide and share any required information in <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">this form</a>:**
 
 <h3 class="sub-color-partner">Event key info:</h3>
 
