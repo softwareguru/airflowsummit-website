@@ -144,23 +144,23 @@ link = "/tickets"
 [[params.links.media]]
     name = "Email us"
     url = "mailto:info@airflowsummit.org"
-    icon = "fa fa-envelope"
+    icon = "bi bi-envelope-at-fill"
 [[params.links.media]]
-    name = "Follow us on Twitter"
-    url = "https://twitter.com/airflowsummit/"
-    icon = "fab fa-twitter"
+    name = "Follow us on Bluesky"
+    url = "https://bsky.app/profile/airflowsummit.bsky.social"
+    icon = "bi bi-bluesky"
 [[params.links.media]]
     name = "Check us on LinkedIn"
     url = "https://www.linkedin.com/company/airflow-summit"
-    icon = "fab fa-linkedin-in"
+    icon = "bi bi-linkedin"
 [[params.links.media]]
     name = "Watch us on YouTube"
     url = "https://www.youtube.com/channel/UCSXwxpWZQ7XZ1WL3wqevChA/"
-    icon = "fab fa-youtube"
+    icon = "bi bi-youtube"
 [[params.links.media]]
     name = "Check us on Instagram"
     url = "https://www.instagram.com/airflowsummit/"
-    icon = "fab fa-instagram"
+    icon = "bi bi-instagram"
 
 [[params.links.footer]]
     name = "Prospectus"
@@ -202,11 +202,11 @@ link = "/plugins/bootstrap.min.css"
 [[params.plugins.css]]
 link = "/plugins/bootstrap-table.min.css"
 
-[[params.plugins.css]]
-link = "/plugins/fontawesome.css"
+
 
 [[params.plugins.css]]
-link = "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+link = "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+
 
 
 # JS Plugins

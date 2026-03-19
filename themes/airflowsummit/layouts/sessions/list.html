@@ -42,10 +42,10 @@
                 <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
                 <td class="text-center">{{ with .Params.video }}<a
                         href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
-                            class="fab fa-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
+                            class="bi bi-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
                 <td class="text-center">{{ with .Params.slides }}<a
                         href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}'
-                        target="_blank" download><i class="fa fa-download" aria-hidden="true"
+                        target="_blank" download><i class="bi bi-cloud-arrow-down-fill" aria-hidden="true"
                             title="Slides"></i></a>{{ end }}</td>
               {{ end }}  
             </tr>

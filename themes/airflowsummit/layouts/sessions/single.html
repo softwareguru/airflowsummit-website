@@ -66,7 +66,7 @@
 
   {{ with .Params.slides }}
   <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blanck"
-      download><i class="fa fa-download mb-3" aria-hidden="true"></i>&nbsp; Download slides</a></div>
+      download><i class="bi bi-cloud-arrow-down-fill mb-3" aria-hidden="true"></i>&nbsp; Download slides</a></div>
   {{ end }}
 </div>
 
