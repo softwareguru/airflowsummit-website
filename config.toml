@@ -22,25 +22,69 @@ speaker = "speakers"
 ############################## navigation ###############################
 [menu]
 
+## about ##
+
   [[menu.main]]
   name = "About"
   URL = "/about"
   weight = 1
 
+## /about ##
+
+
+## program ##
+
+  [[menu.main]]
+  identifier = "program"
+  name = "Program"
+  URL = "/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "keynote"
+  name = "Confirmed keynotes!"
+  URL = "/keynotes"
+  parent = "program"
+  weight = 3
+
+## /program ##
+
+
+## attend ##
 
   [[menu.main]]
   identifier = "attend"
   name = "Attend"
   URL = "/attend"
-  weight = 2
+  weight = 4
 
+  [[menu.main]]
+    identifier = "convince"
+    name = "Convince your boss"
+    url = "/convince-your-boss"
+    parent = "attend"
+    weight = 5
+
+  [[menu.main]]
+    identifier = "visa-letter"
+    name = "Visa letter request"
+    url = "/visa-letter-request"
+    parent = "attend"
+    weight = 6
+
+  [[menu.main]]
+    identifier = "dei"
+    name = "DEI"
+    url = "/dei"
+    parent = "attend"
+    weight = 7
 
   [[menu.main]]
   identifier = "venue"
   name = "Venue"
   URL = "/venue"
   parent = "attend"
-  weight = 3
+  weight = 8
 
   #[[menu.main]]
   #  identifier = "venue"
@@ -49,26 +93,8 @@ speaker = "speakers"
   #  parent = "attend"
   #  weight = 2
 
-  [[menu.main]]
-    identifier = "convince"
-    name = "Convince your boss"
-    url = "/convince-your-boss"
-    parent = "attend"
-    weight = 3
+## /attend ##
 
-  [[menu.main]]
-    identifier = "visa-letter"
-    name = "Visa letter request"
-    url = "/visa-letter-request"
-    parent = "attend"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "dei"
-    name = "DEI"
-    url = "/dei"
-    parent = "attend"
-    weight = 4
 
   #[[menu.main]]
   #  identifier = "jobs"

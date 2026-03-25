@@ -1,0 +1,28 @@
+---
+title: "Orchestrating 100 ML Models using Airflow"
+slug: orchestrating-100-ml-models-using-airflow
+speakers:
+ - Ryan Stevens
+time_start: 2026-08-31 09:10:00
+time_end: 2026-08-31 10:05:00
+room: 
+track: 
+day: 
+timeslot: 
+gridarea: 
+images:
+ - /images/sessions/2026/ryan-stevens-keynote.png
+slides:
+video: 
+keynote2026: true
+---
+
+Productionizing ML workflows is complicated; scaling them is harder. At Ramp, we grew from zero to nearly 100 production ML models powering systems like credit risk assessment and sales lead valuation. 
+
+This talk covers how Airflow became the backbone of our ML platform, orchestrating ETL jobs, data quality checks, and model runs. We’ll discuss how we evolved it to meet the increasing complexity of our ML systems. 
+
+Every ML system consists of feature creation and large-batch inference. We started with a few DBT models and one cloud-hosted notebook, which evolved into thousands of upstream tables and hundreds of AWS batch inference jobs.
+
+We’ll share practical examples of using Airflow to handle increasing complexity. As upstream ETL jobs grew more interdependent, we built custom Airflow sensors to detect Snowflake table changes, cutting prediction latency by hours. As downstream models scaled, we moved from simple daily schedules to dataset-aware scheduling and custom dynamic DAGs, with custom Slack notifications for one-click debugging. 
+
+We’ll share implementation patterns, code snippets, and lessons for performant Airflow code.
