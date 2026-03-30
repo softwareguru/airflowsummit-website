@@ -4,7 +4,7 @@ date: 2025-05-19T16:15:26-06:00
 draft: false
 ---
 
-**We have prepared this <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">checklist</a> for you to ensure your successful participation. Please follow this guide and share any required information in <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">this form</a>:**
+**We have prepared this <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">checklist</a> for you to ensure your successful participation. Please follow this guide and share any required information in <a href="https://forms.gle/RTHLAfuTFC1kWwyLA" targe="_blank">this form</a>:**
 
 <h3 class="sub-color-partner">Event key info:</h3>
 
@@ -101,7 +101,7 @@ All tables will be dressed with black conference linen and will have access to p
 
   * **Airflow Demos:** Cocktail table. Allowed to place rollup banner or screen
 
-<img src="/images/partners/sponsors-page/2026/event-plan-2.png" class="img-fluid mx-auto d-block mt-4" >
+<img src="/images/partners/sponsors-page/2026/event-plan-2-1.png" class="img-fluid mx-auto d-block mt-4" >
 
 <p class="text-center">*This layout is for reference only and may be subject to changes</p>
 
