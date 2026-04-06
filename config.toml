@@ -42,7 +42,7 @@ speaker = "speakers"
 
   [[menu.main]]
   identifier = "keynote"
-  name = "Confirmed keynotes!"
+  name = "Confirmed keynotes"
   URL = "/keynotes"
   parent = "program"
   weight = 3
