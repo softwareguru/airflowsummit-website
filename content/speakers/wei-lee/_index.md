@@ -1,6 +1,6 @@
 ---
 title: "Wei Lee"
-designation: "Senior Software Engineer at Astronomer & Airflow Committer"
+designation: Astronomer.io
 images:
  - /images/speakers/wei-lee.jpg
 twitter: 
@@ -9,7 +9,7 @@ github:
 events:
  - 2024
  - 2025
+ - 2026
 ---
 
-Wei Lee is a senior software engineer at Astronomer.io and an Apache Airflow committer. He is an advocate for open-source ethics and has been actively contributing to Airflow since 2023. He currently serves as one of the Apache Airflow mentors for OpenSource4You, a community based in Taiwan 🇹🇼.
-
+Wei Lee is a sensior software engineer at Astronomer.io and an Apache Airflow committer. He's an open-source ethicist and has been actively contributing to Airflow since 2023. Other than Airflow, he's also a maintainer of commitizen-tools and an organizer of PyCon Taiwan.

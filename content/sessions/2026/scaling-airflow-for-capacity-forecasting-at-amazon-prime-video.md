@@ -1,0 +1,13 @@
+---
+title: "Scaling Airflow for Capacity Forecasting at Amazon Prime Video"
+slug: scaling-airflow-for-capacity-forecasting-at-amazon-prime-video
+speakers:
+ - Shivam Rastogi
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Amazon Prime Video uses Airflow to forecast traffic for hundreds of micro-services to deliver the best customer experience for some of the world's biggest live events across multiple global regions. The forecasting methodology involves complex job dependencies between customer interaction metrics and geographies - translating to  ~50 production DAGs with cross-DAG dependencies that process terabytes of customer activity data daily across tens of thousands of compute cores.  In this talk, we'll cover how we manage dependency complexity at scale, coordinate data flows across geographical boundaries, and keep forecasts reliable as the system grows.

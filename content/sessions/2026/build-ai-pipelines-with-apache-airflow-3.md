@@ -1,0 +1,17 @@
+---
+title: "Build AI Pipelines with Apache Airflow 3"
+slug: build-ai-pipelines-with-apache-airflow-3
+speakers:
+ - Kenten Danas
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Apache Airflow® has long been the control plane for data pipelines. As AI workflows move into production, teams are discovering the same challenges apply: LLM calls fail, embeddings need regenerating, and agent outputs need human review. The operational discipline that Airflow brings to data pipelines is exactly what AI workflows need too.
+
+Rather than managing data pipelines in Airflow and AI workflows in a separate system, Airflow lets you build both in one observable, reliable control plane. You get scheduling, retries, lineage, versioning, and human-in-the-loop capabilities for your LLM tasks the same way you already have them for your SQL transformations.
+
+In this hands-on workshop, you will build an end-to-end AI pipeline using Airflow's LLM task decorators, all in your browser, no setup required. The scenario: processing customer reviews for AstroTrips, a fictional interplanetary travel company, with LLM analysis, intelligent routing, vector embeddings, and an AI agent that drafts responses, all with human-in-the-loop approval.

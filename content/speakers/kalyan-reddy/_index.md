@@ -9,13 +9,12 @@ linkedin: https://www.linkedin.com/in/kalyanreddykasireddy/
 github: 
 events:
  - 2025
+ - 2026
 ---
 
-Kalyan is an Airflow Engineer on Astronomer's Customer Reliability Engineering team. With a focus on making Airflow more reliable for Astronomer customers.
+Kalyan is an Airflow Engineer on Astronomer's Customer Reliability Engineering team. With a focus on making Airflow more reliable for Astronomer customers. 
 
 Currently an active Apache Airflow contributor.
 
-Outside work, he loves to play chess and table tennis.
-
-
+Outside work, he love to play chess and table tennis.
 

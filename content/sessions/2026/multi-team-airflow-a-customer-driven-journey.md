@@ -1,0 +1,18 @@
+---
+title: "Multi-Team Airflow: A Customer-Driven Journey"
+slug: multi-team-airflow-a-customer-driven-journey
+speakers:
+ - Niko Oliveira
+ - Vincent Beck
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+As Airflow deployments scale and the number of Dag authors increases the question arises: how do we support many teams with different needs and requirements on a shared platform? Over the years we’ve observed many organizations building their own multi-tenant layers on top of Apache Airflow to solve this problem and we’re now adding native support for this type of deployment. This talk explores building multi-team support in Airflow, working backwards from those real deployment challenges and community pain points we’ve observed. 
+
+Rather than strict multi-tenancy with complete isolation, we designed a flexible multi-team architecture allowing isolated task execution, UI experience and connections/variables/secrets management to name a few. This allows multiple teams of engineers to operate within a single Airflow environment, sharing the scheduler API server and database.
+
+We’ll cover some of the technical details of the new architecture, how what we’ve built differs from multi-tenancy, and demo how to use multi-team.

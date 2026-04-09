@@ -47,6 +47,21 @@ speaker = "speakers"
   parent = "program"
   weight = 3
 
+  [[menu.main]]
+  identifier = "sessions"
+  name = "Confirmed sessions"
+  URL = "/sessions/2026"
+  parent = "program"
+  weight = 4
+
+  [[menu.main]]
+  identifier = "speakers"
+  name = "Confirmed speakers"
+  URL = "/speakers"
+  parent = "program"
+  weight = 5
+
+
 ## /program ##
 
 

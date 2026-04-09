@@ -1,6 +1,6 @@
 ---
 title: "Vincent Beck"
-designation: "Software engineer at AWS"
+designation: Apache Airflow PMC Member | Sr Software Development Engineer @ AWS
 images:
  - /images/speakers/vincent-beck.png
 twitter: 
@@ -9,7 +9,8 @@ events:
  - 2023
  - 2024
  - 2025
+ - 2026
 featured: true
 ---
 
-Software engineer for AWS for more than 8 years. Vincent have worked in multiple teams and services and have been working for the Airflow open source team for the last 3 years.
+Vincent Beck is a Senior Backend Software Developer and PMC member of the Apache Airflow. He led the introduction of event-driven scheduling in Airflow 3 (AIP-82) and regularly works on core platform features, with a strong focus on scalability, reliability, and open-source collaboration.

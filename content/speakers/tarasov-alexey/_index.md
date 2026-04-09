@@ -1,12 +1,13 @@
 ---
 title: "Tarasov Alexey"
-designation: "Senior MLOps Engineer at Wildberries"
+designation: Wildberries, Senior MLOps Engineer
 images:
  - /images/speakers/tarasov-alexey.jpg
 twitter: 
-linkedin: 
+linkedin: https://linkedin.com/in/alexeydtarasov
 events:
  - 2025
+ - 2026
 ---
 
-Came to MLOps from Data engineer, interested in offline/online ML/DL inference: Airflow, ClearML, Triton Nvidia Inference Server, Tensor RT
+Came to MLOps from Data engineer, interested in offline/online ML/DL inference: Airflow, ClearML, Triton Nvidia Inference Server, Tensor RT.

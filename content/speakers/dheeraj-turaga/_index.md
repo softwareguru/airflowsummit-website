@@ -1,12 +1,13 @@
 ---
 title: "Dheeraj Turaga"
-designation: "Senior Staff CAD Engineer at Qualcomm"
+designation: Principal Engineer, Qualcomm
 images:
  - /images/speakers/dheeraj-turaga.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/srirajdheerajturaga
 events:
  - 2025
+ - 2026
 ---
 
-Dheeraj Turaga is a Senior Staff Engineer at Qualcomm, specializing in semiconductor workflow orchestration and HPC methodologies. With over 9 years of experience across leading semiconductor firms, he has contributed to SoCs powering today’s premium mobile devices and laptops. Outside of work, he enjoys skiing, pickleball, and yoga.
+Dheeraj Turaga is a Principal Engineer at Qualcomm, where he leads semiconductor workflow orchestration infrastructure and HPC methodologies for the Snapdragon CPU team. The demands of orchestrating complex workloads across multiple datacenters  drove him to contribute to Apache Airflow, where he serves as a Committer and holds Code Ownership for both CeleryExecutor and EdgeExecutor — two of Airflow's core distributed execution engines. Outside of work, he enjoys skiing, pickleball, and yoga.
