@@ -8,7 +8,7 @@ twitter:
 linkedin: 
 github: 
 events:
- - 2025
+ - 2026
 ---
 
 

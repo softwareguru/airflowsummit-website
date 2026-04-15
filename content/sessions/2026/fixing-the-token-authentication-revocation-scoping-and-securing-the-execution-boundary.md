@@ -1,0 +1,27 @@
+---
+title: "Fixing The Token Authentication: Revocation, Scoping, and Securing the Execution Boundary"
+slug: fixing-the-token-authentication-revocation-scoping-and-securing-the-execution-boundary
+speakers:
+ - Anish Giri
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+When Airflow 3 introduced JWT based task authentication, it also
+introduced new attack surfaces; such as, Tokens that can't be revoked,Tasks that lose authentication while waiting in queues and Forked processes that inherit signing keys and also can forge tokens for other tasks.
+
+In this talk, I'll walk through three security challenges at the task
+execution boundary and the code contributed to fix them:
+
+Token revocation (merged, PR #61339): Airflow 3.x had no way to invalidate issued JWTs with implications for common compliance frameworks.
+
+Scope separation (in progress, PR #60108): A two-token mechanism separating long lived workload tokens from short lived execution tokens which is in review with the Airflow core team.
+
+Task identity provenance (in active discussion): I'll present a
+proposed defense, a server-side JTI allowlisting that could make
+forged tokens useless across all execution topologies.
+
+This session is deeply technical and grounded in real contributed code including what attack vectors existed before each fix and the audience will leave understanding Airflow 3's token security model and practical patterns for securing multi team task execution.

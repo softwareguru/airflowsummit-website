@@ -1,0 +1,19 @@
+---
+title: "Designing Domain-Oriented dbt Projects and Making Them Work in Airflow"
+slug: designing-domain-oriented-dbt-projects-and-making-them-work-in-airflow
+speakers:
+ - Pankaj Koti
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+As analytics teams grow, monolithic dbt projects can become tightly coupled and difficult to scale. Cross-domain dependencies multiply, deployment cycles slow down, and ownership boundaries blur.
+
+dbt Mesh proposes a domain-oriented approach with independently owned dbt projects, explicit cross-project contracts, and controlled exposure to dependencies. Applying Mesh principles is not just about splitting repositories; orchestration must also support these boundaries.
+
+In this session, we explore how to design dbt projects according to Mesh principles and how Airflow orchestration can reinforce those architectural decisions. Using multi-project capabilities in Cosmos that leverage dbt Loom-style cross-project referencing, we demonstrate how Airflow can model domain separation while still enabling controlled cross-project dependencies.
+
+We will discuss architectural trade-offs, dependency modelling strategies, and lessons learned while enabling multi-project orchestration. Attendees will leave with practical guidance on moving from monolithic transformation workflows to domain-oriented patterns and understanding what orchestration support is required to make them a success.

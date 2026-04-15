@@ -1,0 +1,13 @@
+---
+title: "Dag Versioning in Airflow: Version Proliferation and Open Questions"
+slug: dag-versioning-in-airflow-version-proliferation-and-open-questions
+speakers:
+ - Ephraim Anierobi
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+This session explores the next phase of Dag versioning in Airflow and the practical questions users face in real deployments. Dag versioning moved Airflow beyond a “latest only” model, but it also introduced confusion around why Dag versions keep increasing, what disabling Dag bundle versioning actually does, what creates a new version, and how users should think about clears, reruns, and backfills after a Dag changes. I will examine a common misconception: disabling bundle versioning does not stop Dag version changes. I will also connect Dag versioning to Dag delivery in Airflow 3, showing how Git backed Dag bundles provide a more native alternative to git-sync in Helm-based deployments.
