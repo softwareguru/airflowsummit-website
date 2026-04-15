@@ -4,7 +4,7 @@ slug: beyond-multi-cluster-airflow-operating-gpu-workloads-at-scale
 speakers:
  - Aleksandr Shirokov
  - Tarasov Alexey
- # - Репьев Владислав N/A
+ - Vladislav Repev
 topics:
  - 
 room: 
