@@ -30,7 +30,7 @@
         {{ end }}
     </div>
 
-<!--
+
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "silver" }}
       {{ if eq $index 0 }}
       <h3 class="my-3">Silver</h3>
@@ -43,7 +43,7 @@
           </a>
         </div>    
         {{ end }}
-    </div>-->
+    </div>
 
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "bronze" }}
     {{ if eq $index 0 }}
