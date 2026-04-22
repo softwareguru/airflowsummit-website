@@ -1,0 +1,23 @@
+---
+title: "Developer Velocity at Scale: Production-Like Airflow Environments on Kubernetes"
+slug: developer-velocity-at-scale-production-like-airflow-environments-on-kubernetes
+speakers:
+ - Matthew Davis
+ - Matt Koski
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Teams running Airflow on Kubernetes know the trade‑off all too well: Kubernetes scales beautifully in production, but makes local development slow, brittle, and unrealistic. Engineers struggle to replicate production environments locally, forcing them into inefficient "test-in-production" cycles that slow delivery velocity, increase deployment risk, and frustrate data teams. 
+
+In this talk, we’ll walk through the architectural patterns and platform engineering approach we used to give engineers on‑demand, isolated, production‑like Airflow environments, without sacrificing the benefits of shared Kubernetes infrastructure.
+
+What You'll Learn:
+- An architectural pattern for provisioning on-demand, isolated Airflow environments on shared EKS infrastructure
+- Real-world lessons from operating this solution in production: what worked, what didn't, and what we'd do differently
+- Measurable outcomes: how this approach reduced DAG development cycle time and improved engineer satisfaction
+
+If you’re operating Airflow on Kubernetes—or designing internal platforms for data and ML teams—this session offers a concrete, battle‑tested blueprint to improve Airflow delivery from your stakeholders. 

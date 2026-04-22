@@ -1,0 +1,17 @@
+---
+title: "Airflow 3.0 Asset Watchers: Cross-Domain Data Mesh Orchestration with AI-Assisted Deployment"
+slug: airflow-3-0-asset-watchers-cross-domain-data-mesh-orchestration-with-ai-assisted-deployment
+speakers:
+ - Corrine Tan
+ - Haofei Feng
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Data Mesh decentralises data ownership across business domains. In regulated industries each domain operates in its own account where producers publish data products and consumers subscribe. This enforces governance, limits blast radius and preserves autonomy. When each domain runs its own Airflow, orchestrating across these boundaries is the central challenge.
+Airflow 2.4 introduced data-aware scheduling which were designed for single Airflow instance with no native cross-instance event propagation. In practice this meant building polling sensors that queried the producer REST API to check upstream completion, but it is unreliable as events were lost and ordering not guaranteed.
+Airflow 3.0 resolves this with Event-driven scheduling via AssetWatcher. The Triggerer monitors a message queue and triggers the consumer DAG when the producer publishes a completion event.
+This talk traces that journey through a regulated enterprise Data Mesh. We also share how we built an agentic AI skills framework that encodes operational Airflow knowledge into reusable skills, enabling an AI agent to autonomously deploy, validate and troubleshoot the cross-environment pattern end-to-end.

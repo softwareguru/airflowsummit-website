@@ -1,0 +1,15 @@
+---
+title: "Pushing to Prod on a Friday"
+slug: pushing-to-prod-on-a-friday
+speakers:
+ - Ashley Gough
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+If the idea of pushing to production on a Friday still makes your stomach drop, you’re in good company because most data professionals know that particular flavor of dread. But that fear says more about systemic fragility than the day of the week. This talk explores how unclear ownership, hidden dependencies, and late validation create production risk in data platforms. I’ll show how data contracts clarify expectations between producers and consumers, how Behavior‑Driven Development (BDD) provides a shared language for system behavior, and how Airflow can enforce guardrails that shift validation earlier and reduce blast radius.
+This session focuses on the organizational and architectural decisions that shape platform reliability. Because Airflow often becomes the visible surface of upstream uncertainty, its teams feel the impact of broader design and governance choices.
+Attendees will learn to interpret “Friday fear” as a strategic signal, how contracts and BDD strengthen alignment and predictability, and how Airflow can act as a platform‑level safety system that builds trust and supports confident deployments - Fridays included.

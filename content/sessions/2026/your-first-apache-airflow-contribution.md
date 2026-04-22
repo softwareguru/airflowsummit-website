@@ -2,7 +2,7 @@
 title: "Your first Apache Airflow Contribution"
 slug: your-first-apache-airflow-contribution
 speakers:
- - Amogh Rajesh Desai
+ - Amogh Desai
  - Kalyan Reddy
  - Phani Kumar
 topics:

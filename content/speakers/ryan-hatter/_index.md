@@ -1,6 +1,6 @@
 ---
 title: "Ryan Hatter"
-designation: "Airflow Committer and Sales Engineer at Astronomer"
+designation: "Senior Airflow Engineer at Astronomer"
 images: 
  - /images/speakers/ryan-hatter.jpg
 events:
@@ -8,8 +8,9 @@ events:
  - 2023
  - 2024
  - 2025
+ - 2026
 linkedin: https://www.linkedin.com/in/rnhttr/
 
 ---
 
-After spending 3 years leading Astronomer's Airflow Support team, Ryan switched to a pre-sales engineering role. An Airflow committer, Ryan is passionate about open source software and adding ever more people to the Airflow contributor's list.
+Ryan is an Airflow Engineer on Astronomer's Customer Reliability Engineering team. With a focus on making Airflow more reliable for Astronomer customers, Ryan is exploring using Airflow to help manage... other Airflow deployments!

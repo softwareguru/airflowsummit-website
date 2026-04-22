@@ -1,0 +1,18 @@
+---
+title: "Orchestrating AI-Enabled Prescription Workflows with Apache Airflow: Improving Accuracy, Efficiency,"
+slug: orchestrating-ai-enabled-prescription-workflows-with-apache-airflow-improving-accuracy-efficiency
+speakers:
+ - Chandra Kiran Yelagam
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Modern pharmacy enterprise systems must process high volumes of complex prescriptions while maintaining strict safety, compliance, and operational efficiency. However, traditional rule-based platforms frequently generate low-specificity alerts that contribute to alert fatigue, workflow bottlenecks, and increased manual intervention. As clinical guidelines, payer requirements, and treatment protocols evolve, static rule engines struggle to keep pace with the dynamic nature of modern pharmacy operations.
+
+This session presents a practical architecture for AI-enabled prescription workflow automation orchestrated through Apache Airflow, enabling scalable, transparent, and auditable clinical workflows. By combining rule-based safety checks with machine learning models for classification, anomaly detection, and intelligent workflow routing, the system significantly improves routing precision, reduces false positives, and accelerates prescription verification.
+
+
+

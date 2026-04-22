@@ -1,13 +1,14 @@
 ---
 title: "Karan Alang"
-designation: "Thought Leader in AI, Cloud & Big Data"
+designation: "Karan Alang | Thought Leader in AI, Cloud & Big Data"
 images:
  - /images/speakers/karan-alang.jpg
 twitter: 
 linkedin: https://www.linkedin.com/in/karan-alang-4173437/
 events:
  - 2025
+ - 2026
 draft: false
 ---
 
-AI, Cloud, and Big Data Thought Leader with 25+ years in distributed systems, data engineering, and AI/ML. I lead Data Engineering teams building scalable cloud-native pipelines using Spark, Kafka, Airflow, and K8s. Previously at Apple, I contributed to Big Data projects like Apple Music and Data Center Analytics. IEEE Senior Member, Forbes Tech Council & ACM member, Airflow contributor, mentor for MLH Fellowship, and frequent speaker & hackathon judge.
+AI, Cloud, and Data leader with 25+ years of experience in distributed systems, big data, and AI/ML. I lead Data Engineering at Versa Networks, building scalable pipelines using Spark, Airflow, and Kubernetes. I’ve helped scale data systems at Apple, Lenovo, 3M, US Steel, and i2 Technologies. I’m an IEEE Senior Member, ACM Certified Reviewer, Forbes Tech Council member, speaker, hackathon judge, MLH mentor, and Airflow open-source contributor.

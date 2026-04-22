@@ -1,0 +1,15 @@
+---
+title: "Triggers at Datadog: What Are Trigger Queues and Why You Should Use Them"
+slug: triggers-at-datadog-what-are-trigger-queues-and-why-you-should-use-them
+speakers:
+ - Zach Gottesman
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Datadog is a world-class data platform ingesting more than a 100 trillion events a day, providing real-time insights. Since our internal adoption of Airflow following the release of 3.0.0, the number of teams relying on our internal Airflow platform have grown organically and quickly. 
+
+This internal Airflow adoption came with a number of platform challenges, requiring novel solutions which could support multi-tenancy, scalability, and bespoke runtime environments. In this talk, we will cover how we’ve expanded the functionality of Airflow triggers – via trigger queue assignment – to support multi-tenancy deployments, while contributing those solutions upstream with the broader Airflow community. We’ll cover the conceptual design and motivations for Trigger queues, and how the trigger queue pattern can benefit both multi-tenant and single-occupant Airflow systems alike.

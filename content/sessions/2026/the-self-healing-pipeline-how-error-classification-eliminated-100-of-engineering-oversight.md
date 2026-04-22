@@ -1,0 +1,13 @@
+---
+title: "The Self-Healing Pipeline: How Error Classification Eliminated 100% of Engineering Oversight"
+slug: the-self-healing-pipeline-how-error-classification-eliminated-100-of-engineering-oversight
+speakers:
+ - Evgeny Nuger
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+What if your pipeline could tell the difference between recoverable errors and real bugs and handle both without waking anyone up? At OnsiteIQ, we process millions of construction site images monthly through Airflow with mixed AWS Batch spot and on-demand tasks. We need to handle corrupt data, spot evictions, and real bugs. Before Airflow, every failure looked the same: something broke, an engineer investigated, and the same transient infrastructure issues kept masking real bugs underneath. In a 3-month solo migration, I built custom Airflow operators that automatically classified and handled every failure via Airflow’s callbacks. Actual code bugs surface through clean, noise-free alerts directly to actionable tickets. Every genuine bug got caught exactly once and permanently fixed. Engineering oversight dropped from 20% to zero within months. This talk covers the error classification architecture, automatic fallback patterns, and the framework for turning Airflow into a self-healing system.

@@ -1,0 +1,19 @@
+---
+title: "Airflow as a Harness: The Workflow That Merged Itself"
+slug: airflow-as-a-harness-the-workflow-that-merged-itself
+speakers:
+ - Ryan Hatter
+topics:
+ - 
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+This talk is the story of getting a PR merged into a Apache Airflow without writing a single line of code, using Apache Airflow itself as an agentic orchestration harness to replicate the functionality of Claude Code for any pluggable LLM.
+
+We'll walk through how Airflow's AIP-99 Dag functionality map naturally onto the tool-use loops, context management, and decision branching that power modern agentic coding workflows. The result is a model-agnostic harness that can read a codebase, reason about changes, write and test code, and deploy a commit to a git repository, all orchestrated as an Airflow Dag.
+
+The proof of concept is a merged PR into Apache Airflow itself!
+
+Attendees will leave with a mental model for thinking about Airflow as an agentic harness, practical patterns for wrapping LLM tool-use in Dag tasks, and a healthy appreciation for what happens when you point an autonomous coding agent at its own codebase.
