@@ -1,6 +1,6 @@
 ---
-title: "[Keynote] The State of Airflow: Momentum, Innovation, and What's Next"
-slug: keynote-the-state-of-airflow-momentum-innovation-and-what-s-next
+title: "The State of Airflow: Momentum, Innovation, and What's Next"
+slug: the-state-of-airflow
 speakers:
  - Vikram Koka
 topics:
@@ -8,6 +8,11 @@ topics:
 room: 
 time_start: 2026-07-31 9:00:00
 time_end: 2026-07-31 9:45:00
+images:
+ - /images/sessions/2026/as26-vikram-koka.png
+slides:
+video: 
+keynote2026: true 
 ---
 
 Airflow 3 has been out for a year. In this keynote, we take stock of where the community stands, what we built together, and where we are headed.

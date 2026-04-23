@@ -10,8 +10,8 @@ time_start: 2026-07-31 9:00:00
 time_end: 2026-07-31 9:45:00
 ---
 
-When I took on the task of upgrading our Airflow's deployments from version 2 to 3, I knew the team couldn't afford a big-bang cutover or weeks of changes requested across different teams. Instead, we developed and shipped a compatibility layer before touching any infrastructure so by the time we flipped the version, everything already worked. 
+Migrating a production Airflow deployment from version 2 to 3 without disrupting hundreds of DAGs across multiple teams sounds scary (and it is). In this talk I will share how we migrated versions without a big-bang cutover, without weeks of cross-team change requests, and without leaving our pipelines in a broken state. 
 
-In my talk, I would walk through how we built a Python shim that makes AF3 code run on AF2 during the migration, a custom connection backend that normalizes legacy connections at runtime and how we used AI-tooling to orchestrate and test 400+ DAG changes. I'd also share how our on-demand ephemeral environments - full k8s deployments that can be spun up on any Pull Request - helped us make sure that DAGs are properly processed, and that major changes to operators and jinja variables are validated in isolation. 
+I’ll walk through how we built a compatibility layer to make sure our code runs on both versions during the migration, how we used AI-tooling to orchestrate 400+ DAG changes and how our on-demand ephemeral environments - full k8s deployments deployed for each pull request - helped us experiment and test all the required changes. 
 
-Most important of all, I would like to share what we learned, where we failed and what we would do better next time. 
+Most important of all, I will share what we learned, where we failed and what we would do better next time.

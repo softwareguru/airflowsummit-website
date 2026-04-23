@@ -3,7 +3,7 @@ title: "Pooja Pal"
 date: 2026-04-15T10:54:47-06:00
 images: 
  - /images/speakers/pooja-pal.png
-designation: Software Engineer - Systems & Infrastructure
+designation: Software Engineer @ LinkedIn
 twitter: 
 linkedin: https://www.linkedin.com/in/pooja-pal-pa14894ap/
 github: 

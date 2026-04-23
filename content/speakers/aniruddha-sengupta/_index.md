@@ -1,6 +1,6 @@
 ---
 title: "Aniruddha Sengupta"
-designation: "Principle Data Engineer, Insignis"
+designation: "Staff Data Engineer @ Insignis"
 images:
  - /images/speakers/aniruddha-sengupta.png
 twitter: 
