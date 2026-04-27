@@ -3,6 +3,6 @@ title: "Preset"
 level: "bronze"
 logo: "/images/partners/preset.png"
 webUrl: "https://preset.io"
-weight: 2
+weight: 1
 draft: false
 ---
