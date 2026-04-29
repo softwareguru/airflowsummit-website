@@ -1,6 +1,6 @@
 ---
 title: "Dheeraj Turaga"
-designation: Principal Engineer, Qualcomm
+designation: Principal Engineer, Qualcomm | Apache Airflow Committer
 images:
  - /images/speakers/dheeraj-turaga.jpg
 twitter: 
