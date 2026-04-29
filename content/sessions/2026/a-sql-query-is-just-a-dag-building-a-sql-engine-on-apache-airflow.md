@@ -1,6 +1,8 @@
 ---
-title: "A SQL Query is Just a DAG: Building a SQL Engine on Apache Airflow"
-slug: a-sql-query-is-just-a-dag-building-a-sql-engine-on-apache-airflow
+title: "An SQL Query is Just a DAG: Building an SQL Engine on Apache Airflow"
+slug: an-sql-query-is-just-a-dag
+aliases:
+ - sessions/2026/a-sql-query-is-just-a-dag-building-a-sql-engine-on-apache-airflow
 speakers:
  - Hussein Awala
 topics:

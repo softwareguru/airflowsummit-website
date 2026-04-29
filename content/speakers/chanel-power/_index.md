@@ -7,6 +7,7 @@ twitter:
 linkedin: https://linkedin.com/in/powerc1
 events:
  - 2026
+draft: true
 ---
 
 Chanel Power is a Senior Machine Learning Engineer and Google Certified Generative AI Leader who ships at the frontier of Agentic AI, LLMs, and accelerated computing.

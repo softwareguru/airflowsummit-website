@@ -8,6 +8,7 @@ topics:
 room: 
 time_start: 2026-07-31 9:00:00
 time_end: 2026-07-31 9:45:00
+draft: true
 ---
 
 Most pipelines do exactly what you tell them. Nothing more. You write the script. You schedule the job. You fix it when it breaks. You're still the brain of the operation... and that's the problem.
