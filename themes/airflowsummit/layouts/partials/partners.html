@@ -59,6 +59,21 @@
       {{ end }}
   </div>
 
+    {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "startup" }}
+    {{ if eq $index 0 }}
+    <h3 class="my-3">Startup</h3>
+
+    <div class="sponsor-strip bronze">
+    {{ end }} 
+      <div class="sponsor-item">
+        <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+          <img src="{{ .Params.logo }}" alt="{{ .Title }}">
+        </a>
+      </div>    
+      {{ end }}
+  </div>
+
+
     {{range $index, $value := where (where .Site.RegularPages "Section" "partners") ".Params.level" "community" }}
       {{ if eq $index 0 }}
         <h3 class="my-3">Community Partners</h3>
