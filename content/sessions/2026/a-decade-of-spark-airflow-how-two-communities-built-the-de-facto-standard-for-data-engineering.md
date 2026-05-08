@@ -1,0 +1,14 @@
+---
+title: "A Decade of Spark + Airflow: How Two Communities Built the De Facto Standard for Data Engineering"
+slug: a-decade-of-spark-airflow-how-two-communities-built-the-de-facto-standard-for-data-engineering
+speakers:
+ - Lisa Cao
+ - Jarek Potiuk
+topics:
+ - Builder
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+No two open source projects have shaped modern data engineering more than Apache Spark and Apache Airflow. But their partnership wasn't designed- it was earned. From the early days of BashOperator wrapping spark-submit, through the SparkSubmitOperator, Livy, Kubernetes-native execution, and now Airflow 3's asset-aware scheduling paired with Spark's Declarative Pipelines, the integration story is a masterclass in how independent communities converge on shared problems without shared governance. This talk traces the full arc: how Spark's compute model and Airflow's orchestration model co-evolved, where they fought, where they complemented each other, and what the next chapter looks like as both projects ship their most ambitious releases simultaneously. Along the way, we'll examine the contribution patterns, the cross-pollination of committers, and why this particular pairing outlasted every managed alternative that tried to replace it. This is not a vendor talk. This is a community talk about what happens when two ecosystems trust each other enough to stay independent.

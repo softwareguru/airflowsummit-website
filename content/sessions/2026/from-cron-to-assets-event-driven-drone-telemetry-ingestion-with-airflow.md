@@ -1,0 +1,16 @@
+---
+title: "From Cron to Assets: Event-Driven Drone Telemetry Ingestion with Airflow"
+slug: from-cron-to-assets-event-driven-drone-telemetry-ingestion-with-airflow
+speakers:
+ - Charles Adetiloye
+ - Bryan Johns
+topics:
+ - Data & AI Applications
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+A drone doesn't care what time it is. It takes off when the mission says so, lands when the battery says so, and uploads its logs whenever the LTE link or WiFi finally cooperates. Cron-based pipelines, by contrast, care deeply about the clock — and that mismatch is where most fleet telemetry stacks quietly bleed money, latency, and engineer sanity on empty polls, half-parsed flights, and workers pinned waiting on slow uploads.
+
+This talk is about throwing the schedule away. In Airflow 3, every completed flight becomes a first-class Asset, and downstream DAGs — parsing, enrichment, anomaly detection, perception-model retraining, regulatory reporting — wake only when the flight they care about actually exists. We'll cover a custom MAVLinkHook and TelemetryIngestOperator for .ulg and .tlog files, Dynamic Task Mapping across concurrent flights, deferrable sensors, Asset producer/consumer chains replacing ExternalTaskSensor tangles, and honest migration lessons from running old and new DAGs side-by-side on a live fleet.

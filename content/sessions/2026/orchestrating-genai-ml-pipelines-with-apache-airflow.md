@@ -1,0 +1,26 @@
+---
+title: "Orchestrating GenAI & ML Pipelines with Apache Airflow"
+slug: orchestrating-genai-ml-pipelines-with-apache-airflow
+speakers:
+ - Sneha Rao
+ - Sushmita Barthakur
+ - Suba Palanisamy
+topics:
+ - Data & AI Applications
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Orchestrating Cross-Account ML & Data Pipelines with Apache Airflow
+As organizations scale data and ML workloads across multiple AWS accounts and Regions, orchestration becomes the hardest engineering problem — not the models themselves. This session shows how Apache Airflow serves as a centralized orchestration hub for distributed data-processing and machine-learning pipelines that span account and regional boundaries.
+
+We walk through a production-ready architecture where a single Airflow environment coordinates:
+  - Cross-account DAG patterns — using Airflow connections, IAM role assumption, and custom hooks to trigger AWS Glue, SageMaker, and Lambda in remote accounts
+  - Cross-Region data flow — leveraging S3 Cross-Region Replication with S3KeySensor operators to gate downstream tasks on data availability
+  - Custom operators for cross-account ML — extending SageMakerHook and SageMakerTrainingOperator to train models in a separate account while keeping orchestration centralized
+  - Sensor and operator design — choosing the right sensor modes, timeouts, and poke intervals for long-running training jobs and inference calls
+  - Human-in-the-loop approval gates — using Airflow's built-in mechanisms to require manual sign-off before promoting models to production
+  - Cost and governance controls — short-circuiting DAG branches on early evaluation metrics, managing spot instances, and enforcing least-privilege IAM across accounts
+
+ Attendees leave with reusable DAG patterns, operator recipes, and an architecture blueprint for running multi-account, multi-Region data and ML pipelines — all orchestrated through Airflow.

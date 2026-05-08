@@ -1,0 +1,15 @@
+---
+title: "Airflow Callbacks Revamped: Beyond the Dag Processor"
+slug: airflow-callbacks-revamped-beyond-the-dag-processor
+speakers:
+ - Ramit Kataria
+topics:
+ - Builder
+room: 
+time_start: 2026-07-31 9:00:00
+time_end: 2026-07-31 9:45:00
+---
+
+Airflow's callback system has undergone significant architectural changes recently. Originally driven by the introduction of Deadline Alerts, these improvements have far broader implications for how callbacks are defined, where they run, and how reliable they are. 
+
+In this talk, I'll cover the user-facing and provider-facing changes along with a brief look at the significant technical design decisions and internal refactoring behind them, such as a new workload type and unified type-agnostic database model for callbacks. In the long term, this work makes both callbacks and the Dag Processor more robust, and the improved isolation is a key stepping stone toward Airflow's upcoming multi-team capabilities.

@@ -9,9 +9,9 @@ linkedin: https://www.linkedin.com/in/ramitk/
 github: https://github.com/ramitkataria
 events:
  - 2025
+ - 2026
 ---
 
-
-Ramit began his Airflow journey nearly a year ago as a Software Engineer at AWS on the Apache Airflow OSS team. He previously gained about two years of internship experience across five companies in various industries, during his Computer Science studies at UBC.
+Ramit began his Airflow journey over a year ago as a Software Engineer at AWS on the Apache Airflow OSS team. He previously gained about two years of internship experience across five companies in various industries, during his Computer Science studies at UBC.
 
 He has participated in and mentored at many hackathons, and is passionate about open source as well as writing clean, secure, and efficient code.
