@@ -5,10 +5,11 @@ images:
  - /images/speakers/vladislav-repev.png
 designation: Middle MLOps Engineera, Wildberries
 twitter: 
-linkedin: 
+linkedin: https://www.linkedin.com/in/vladislav-repev-39652a311/
 github: 
 events:
  - 2025
+ - 2026
 ---
 
 I started my career as a DevOps engineer at MOEX.
