@@ -1,6 +1,6 @@
 ---
 title: "Brent Bovenzi"
-designation: "Staff Frontend Engineer at Astronomer"
+designation: "Frontend Engineer - Astronomer"
 images:
  - /images/speakers/brent-bovenzi.png
 twitter: https://twitter.com/bbovenzi
@@ -9,7 +9,8 @@ events:
  - 2023
  - 2024
  - 2025
+ - 2026
 featured: true
 ---
 
-Frontend Engineer since 2016, contributing to Airflow since 2020. Leading the UI redesign in Airflow 3.
+Frontend Engineer since 2016. At Astronomer and contributor to Airflow since 2020. Airflow PMC member.

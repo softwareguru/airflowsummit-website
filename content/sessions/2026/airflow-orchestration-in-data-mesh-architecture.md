@@ -8,6 +8,7 @@ topics:
 room: 
 time_start: 2026-07-31 9:00:00
 time_end: 2026-07-31 9:45:00
+draft: true
 ---
 
 Airflow has become default orchestration tool in our day to day Data Engineering business. Here I want to focus on the Data Mesh Architecture and how we can plug airflow orchestration to our major workflows.

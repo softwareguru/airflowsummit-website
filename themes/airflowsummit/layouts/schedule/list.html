@@ -44,7 +44,7 @@
                     <div class="track-name">{{ with .Params.track }}Track: {{ . }}{{ end }}</div>
                     <div class="track-name">{{ with .Params.room }}Room: {{ . }}{{ end }}</div>
                   </div>
-                  <div title="Add to Calendar" class="addeventatc" data-styling="none">
+                  <!--<div title="Add to Calendar" class="addeventatc" data-styling="none">
                     <i class="fas fa-calendar-plus"></i>
                     <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                     <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
@@ -52,7 +52,7 @@
                     <span class="title">AS25: {{.Title}}</span>
                     <span class="description">{{.Content}}</span>
                     <span class="location">{{.Params.room}}</span>
-                  </div>
+                  </div>-->
                 </div>
 
                 <div class="collapse card-abstract" id="abs-{{.Params.slug}}">

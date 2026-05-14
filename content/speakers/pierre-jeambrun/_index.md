@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/pierre-jeambrun/
 events:
  - 2023
  - 2025
+ - 2026
 featured: true
 ---
 
