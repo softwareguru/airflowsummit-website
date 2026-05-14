@@ -42,9 +42,9 @@ days:
         gridarea: "6/1/7/2"
       - type: activity
         label: "Coffee break"
-        gridarea: "6/2/7/7"
+        gridarea: "6/2/7/8"
         timelabel: "11:00 - 11:30"
-        gridaream: "12/1/13/2"
+        gridaream: "13/1/14/2"
 
       - type: timelabel
         label: "11:30"
@@ -67,9 +67,9 @@ days:
         gridarea: "11/1/12/2"
       - type: activity
         label: "Lunch"
-        gridarea: "11/2/12/7"
+        gridarea: "11/2/12/8"
         timelabel: "13:30 - 14:30"
-        gridaream: "28/1/29/2"
+        gridaream: "30/1/31/2"
 
       - type: timelabel
         label: "14:30"
@@ -92,18 +92,18 @@ days:
         gridarea: "16/1/17/2"
       - type: activity
         label: "Coffee break"
-        gridarea: "16/2/17/7"
+        gridarea: "16/2/17/8"
         timelabel: "16:30 - 16:50"
-        gridaream: "40/1/41/2"
+        gridaream: "48/1/49/2"
 
       - type: timelabel
         label: "16:50"
         gridarea: "17/1/18/2"
       - type: activity
         label: "Keynote"
-        gridarea: "17/2/18/7"
+        gridarea: "17/2/18/8"
         timelabel: "16:50 - 17:20"
-        gridaream: "41/1/42/2"
+        gridaream: "49/1/50/2"
 
       - type: timelabel
         label: "17:20"
@@ -126,7 +126,7 @@ days:
         gridarea: "2/1/3/2"
       - type: activity
         label: "Coffee break"
-        gridarea: "2/2/3/7"
+        gridarea: "2/2/3/8"
         timelabel: "10:00 - 10:30"
         gridaream: "2/1/3/2"
 
@@ -135,9 +135,9 @@ days:
         gridarea: "3/1/4/2"
       - type: activity
         label: "AWS Workshop"
-        gridarea: "3/6/7/7"
+        gridarea: "3/6/7/8"
         timelabel: "10:30 - 12:30"
-        gridaream: "2/1/3/2"
+        gridaream: "7/1/8/2"
 
       - type: timelabel
         label: "11:00"
@@ -147,7 +147,7 @@ days:
         label: "Presented by IBM"
         gridarea: "4/3/5/4"
         timelabel: "11:00 - 11:30"
-        gridaream: "2/1/3/2"
+        gridaream: "9/1/10/2"
 
       - type: timelabel
         label: "11:30"
@@ -157,7 +157,7 @@ days:
         label: "Presented by BMC"
         gridarea: "5/3/6/4"
         timelabel: "11:30 - 12:00"
-        gridaream: "2/1/3/2"
+        gridaream: "12/1/13/2"
 
       - type: timelabel
         label: "12:00"
@@ -167,16 +167,16 @@ days:
         label: "Presented by Astronomer"
         gridarea: "6/3/7/4"
         timelabel: "12:00 - 12:30"
-        gridaream: "2/1/3/2"
+        gridaream: "14/1/15/2"
 
       - type: timelabel
         label: "12:30"
         gridarea: "7/1/8/2"
       - type: activity
         label: "Lunch"
-        gridarea: "7/2/8/7"
+        gridarea: "7/2/8/8"
         timelabel: "12:30 - 13:30"
-        gridaream: "23/1/24/2"
+        gridaream: "15/1/16/2"
 
       - type: timelabel
         label: "13:30"
@@ -190,7 +190,7 @@ days:
         label: "Presented by AWS"
         gridarea: "9/3/10/4"
         timelabel: "14:00 - 14:30"
-        gridaream: "2/1/3/2"
+        gridaream: "22/1/23/2"
 
       - type: timelabel
         label: "14:30"
@@ -200,7 +200,7 @@ days:
         label: "Presented by Google"
         gridarea: "10/3/11/4"
         timelabel: "14:30 - 15:00"
-        gridaream: "2/1/3/2"
+        gridaream: "25/1/26/2"
 
       - type: timelabel
         label: "15:00"
@@ -212,9 +212,9 @@ days:
 
       - type: activity
         label: "Coffee break"
-        gridarea: "12/2/13/7"
+        gridarea: "12/2/13/8"
         timelabel: "15:30 - 16:00"
-        gridaream: "38/1/39/2"
+        gridaream: "29/1/30/2"
 
       - type: timelabel
         label: "16:00"
@@ -267,7 +267,6 @@ days:
         gridarea: "3/2/4/6"
         timelabel: "10:00 - 10:30"
         gridaream: "3/1/4/2"
-
 
       - type: timelabel
         label: "10:30"

@@ -41,25 +41,32 @@ speaker = "speakers"
   weight = 2
 
   [[menu.main]]
+  identifier = "schedule"
+  name = "Full program"
+  URL = "/program"
+  parent = "program"
+  weight = 3
+
+  [[menu.main]]
   identifier = "keynote"
   name = "Confirmed keynotes"
   URL = "/keynotes"
   parent = "program"
-  weight = 3
+  weight = 4
 
   [[menu.main]]
   identifier = "sessions"
   name = "Confirmed sessions"
   URL = "/sessions/2026"
   parent = "program"
-  weight = 4
+  weight = 5
 
   [[menu.main]]
   identifier = "speakers"
   name = "Confirmed speakers"
   URL = "/speakers"
   parent = "program"
-  weight = 5
+  weight = 6
 
 
 ## /program ##
