@@ -23,7 +23,30 @@ days:
 
       - type: timelabel
         label: "9:00"
+        gridarea: "1/1/2/2"
+      - type: activity
+        label: "Welcome"
+        gridarea: "1/2/2/8"
+        timelabel: "11:00 - 11:30"
+        gridaream: "1/1/2/2"
+
+      - type: timelabel
+        label: "9:10"
         gridarea: "2/1/3/2"
+
+      - type: activity
+        label: ""
+        gridarea: "2/4/2/5"
+        #timelabel: "9:10 - 9:30"
+        #gridaream: "1/1/2/2"
+        gridareamnone: true
+
+      - type: activity
+        label: ""
+        gridarea: "2/5/2/6"
+        #timelabel: "9:10 - 9:30"
+        #gridaream: "1/1/2/2"
+        gridareamnone: true
 
       - type: timelabel
         label: "9:30"
@@ -44,7 +67,7 @@ days:
         label: "Coffee break"
         gridarea: "6/2/7/8"
         timelabel: "11:00 - 11:30"
-        gridaream: "13/1/14/2"
+        gridaream: "16/1/17/2"
 
       - type: timelabel
         label: "11:30"
@@ -69,7 +92,7 @@ days:
         label: "Lunch"
         gridarea: "11/2/12/8"
         timelabel: "13:30 - 14:30"
-        gridaream: "30/1/31/2"
+        gridaream: "33/1/34/2"
 
       - type: timelabel
         label: "14:30"
@@ -94,7 +117,7 @@ days:
         label: "Coffee break"
         gridarea: "16/2/17/8"
         timelabel: "16:30 - 16:50"
-        gridaream: "48/1/49/2"
+        gridaream: "51/1/52/2"
 
       - type: timelabel
         label: "16:50"
@@ -103,11 +126,21 @@ days:
         label: "Keynote"
         gridarea: "17/2/18/8"
         timelabel: "16:50 - 17:20"
-        gridaream: "49/1/50/2"
+        gridaream: "52/1/53/2"
 
       - type: timelabel
         label: "17:20"
         gridarea: "18/1/19/2"
+
+      - type: timelabel
+        label: "17:20"
+        gridarea: "19/1/20/2"
+
+      - type: activity
+        label: "Reception"
+        gridarea: "19/2/20/8"
+        timelabel: "18:00 - 18:10"
+        gridaream: "56/1/55/2"
 
 
   - id: 20262
@@ -133,11 +166,6 @@ days:
       - type: timelabel
         label: "10:30"
         gridarea: "3/1/4/2"
-      - type: activity
-        label: "AWS Workshop"
-        gridarea: "3/6/7/8"
-        timelabel: "10:30 - 12:30"
-        gridaream: "7/1/8/2"
 
       - type: timelabel
         label: "11:00"
@@ -238,47 +266,76 @@ days:
     title_full: Wednesday, September 2, 2026
     rooms: ["Texas Ballroom 1-2-3", "Texas Ballroom 5", "Hill Country CD", "Hill Country AB"]
     schedule_items: 
-      - type: timelabel
-        label: "09:00"
-        gridarea: "1/1/2/2"
+
+
+################## Rooms header ##################
 
       - type: activity
-        label: "Keynote"
-        gridarea: "1/2/2/6"
-        timelabel: "9:00 - 9:30"
-        gridaream: "1/1/2/2"
+        label: "Texas Ballroom 1-2-3"
+        gridarea: "1/2/2/3"        
+        gridareamnone: true
+
+      - type: activity
+        label: "Texas Ballroom 5"
+        gridarea: "1/3/2/4"        
+        gridareamnone: true
+
+
+      - type: activity
+        label: "Hill Country CD"
+        gridarea: "1/4/2/5"        
+        gridareamnone: true
+
+
+      - type: activity
+        label: "Hill Country AB"
+        gridarea: "1/5/2/6"        
+        gridareamnone: true
+
+################## /Rooms header ##################
+
 
       - type: timelabel
-        label: "09:30"
+        label: "09:00"
         gridarea: "2/1/3/2"
 
       - type: activity
         label: "Keynote"
         gridarea: "2/2/3/6"
+        timelabel: "9:00 - 9:30"
+        gridaream: "1/1/2/2"
+
+      - type: timelabel
+        label: "09:30"
+        gridarea: "3/1/4/2"
+
+      - type: activity
+        label: "Keynote"
+        gridarea: "3/2/4/6"
         timelabel: "9:30 - 10:00"
         gridaream: "2/1/3/2"
 
       - type: timelabel
         label: "10:00"
-        gridarea: "3/1/4/2"
+        gridarea: "4/1/5/2"
 
       - type: activity
         label: "Coffee break"
-        gridarea: "3/2/4/6"
+        gridarea: "4/2/5/6"
         timelabel: "10:00 - 10:30"
         gridaream: "3/1/4/2"
 
       - type: timelabel
         label: "10:30"
-        gridarea: "4/1/5/2"
-
-      - type: timelabel
-        label: "11:00"
         gridarea: "5/1/6/2"
 
       - type: timelabel
-        label: "11:30"
+        label: "11:00"
         gridarea: "6/1/7/2"
+
+      - type: timelabel
+        label: "11:30"
+        gridarea: "7/1/8/2"
 
 
 summary: "Welcome to the session program for Airflow Summit."

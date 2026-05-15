@@ -1,6 +1,6 @@
 ---
 title: "Jed Cunningham"
-designation: "Airflow PMC member & Principal Software Engineer at Astronomer"
+designation: "Airflow PMC member & Principal Software Engineer @ Astronomer.io"
 images:
  - /images/speakers/jed-cunningham.png
 twitter: 
@@ -9,6 +9,7 @@ events:
  - 2023
  - 2024
  - 2025
+ - 2026
 featured: true
 ---
 
