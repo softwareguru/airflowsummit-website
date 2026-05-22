@@ -384,6 +384,44 @@ days:
         timelabel: "11:30 - 12:00"
         gridaream: "14/1/15/2"
 
+      - type: timelabel
+        label: "12:00"
+        gridarea: "8/1/9/2"
+
+      - type: timelabel
+        label: "12:30"
+        gridarea: "9/1/10/2"
+
+      - type: activity
+        label: "Lightning talks"
+        gridarea: "9/2/10/7"
+        timelabel: "12:30 - 13:00"
+        gridaream: "18/1/19/2"
+
+      - type: timelabel
+        label: "13:00"
+        gridarea: "10/1/11/2"
+
+      - type: activity
+        label: "Lunch"
+        gridarea: "10/2/11/7"
+        timelabel: "13:00 - 13:30"
+        gridaream: "19/1/20/2"
+
+      - type: timelabel
+        label: "13:30"
+        gridarea: "11/1/12/2"
+
+      - type: timelabel
+        label: "14:30"
+        gridarea: "12/1/13/2"
+
+      - type: activity
+        label: "Community discussions"
+        gridarea: "11/2/13/7"
+        timelabel: "13:30 - 15:30"
+        gridaream: "20/1/21/2"
+
 
 summary: "Welcome to the session program for Airflow Summit."
 description: "Welcome to the session program for Airflow Summit."
