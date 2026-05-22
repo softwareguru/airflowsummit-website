@@ -147,26 +147,17 @@ days:
         gridaream: "49/1/50/2"
 
       - type: timelabel
-        label: "16:50"
+        label: "17:00"
         gridarea: "18/1/19/2"
-      - type: activity
-        label: "Keynote"
-        gridarea: "18/2/19/8"
-        timelabel: "16:50 - 17:20"
-        gridaream: "50/1/51/2"
 
       - type: timelabel
-        label: "17:20"
-        gridarea: "19/1/20/2"
-
-      - type: timelabel
-        label: "17:20"
+        label: "17:30"
         gridarea: "20/1/21/2"
 
       - type: activity
         label: "Reception"
         gridarea: "20/2/21/8"
-        timelabel: "18:00 - 18:10"
+        timelabel: "17:30 - 19:15"
         gridaream: "52/1/53/2"
 
 
@@ -227,12 +218,6 @@ days:
       - type: timelabel
         label: "11:00"
         gridarea: "5/1/6/2"
-
-      - type: activity
-        label: "Presented by IBM"
-        gridarea: "5/3/6/4"
-        timelabel: "11:00 - 11:30"
-        gridaream: "9/1/10/2"
 
       - type: timelabel
         label: "11:30"
@@ -355,12 +340,6 @@ days:
       - type: timelabel
         label: "09:00"
         gridarea: "2/1/3/2"
-
-      - type: activity
-        label: "Keynote"
-        gridarea: "2/2/3/6"
-        timelabel: "9:00 - 9:30"
-        gridaream: "1/1/2/2"
 
       - type: timelabel
         label: "09:30"
