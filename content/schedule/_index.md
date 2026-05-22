@@ -322,16 +322,21 @@ days:
         gridarea: "1/3/2/4"        
         gridareamnone: true
 
-
       - type: activity
-        label: "Hill Country CD"
+        label: "Texas Ballroom 6"
         gridarea: "1/4/2/5"        
         gridareamnone: true
 
 
       - type: activity
-        label: "Hill Country AB"
+        label: "Hill Country CD"
         gridarea: "1/5/2/6"        
+        gridareamnone: true
+
+
+      - type: activity
+        label: "Hill Country AB"
+        gridarea: "1/6/2/7"        
         gridareamnone: true
 
 ################## /Rooms header ##################
@@ -345,25 +350,25 @@ days:
         label: "09:30"
         gridarea: "3/1/4/2"
 
-      - type: activity
-        label: "Keynote"
-        gridarea: "3/2/4/6"
-        timelabel: "9:30 - 10:00"
-        gridaream: "2/1/3/2"
-
       - type: timelabel
         label: "10:00"
         gridarea: "4/1/5/2"
 
       - type: activity
         label: "Coffee break"
-        gridarea: "4/2/5/6"
+        gridarea: "4/2/5/7"
         timelabel: "10:00 - 10:30"
         gridaream: "3/1/4/2"
 
       - type: timelabel
         label: "10:30"
         gridarea: "5/1/6/2"
+
+      - type: activity
+        label: "Session to be confirmed"
+        gridarea: "5/4/6/5"
+        timelabel: "10:30 - 11:00"
+        gridaream: "6/1/7/2"
 
       - type: timelabel
         label: "11:00"
@@ -372,6 +377,12 @@ days:
       - type: timelabel
         label: "11:30"
         gridarea: "7/1/8/2"
+
+      - type: activity
+        label: "Session to be confirmed"
+        gridarea: "7/4/8/5"
+        timelabel: "11:30 - 12:00"
+        gridaream: "14/1/15/2"
 
 
 summary: "Welcome to the session program for Airflow Summit."
