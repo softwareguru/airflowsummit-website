@@ -9,9 +9,10 @@ Depending on your country of origin you may need a visa to enter the United Stat
 
 Please request a letter to daniel@sg.com.mx and include the following info:
 
-* Full Name
-* Passport Number
-* Passport Issuing Country
-* Role
-* Company
+- Full Name
+- Birthday
+- Passport Number
+- Passport Issuing Country
+- Role
+- Company
   

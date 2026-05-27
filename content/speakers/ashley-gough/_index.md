@@ -1,6 +1,6 @@
 ---
 title: "Ashley Gough"
-designation: "The Walt Disney Company, Sr. Data Engineer"
+designation: "Sr. Data Engineer"
 images:
  - /images/speakers/ashley-gough.jpg
 twitter: 

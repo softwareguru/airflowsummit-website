@@ -9,4 +9,4 @@ events:
  - 2026
 ---
 
-Aniruddha Sengupta is a Principle Data Engineer at Insignis with hands-on experience building and scaling Apache Airflow platforms in production environments. He focuses on platform reliability, automation and cost efficient data infrastructures, helping teams adopt best practises whilst keeping operational overheads low.
+Aniruddha Sengupta is a Staff Data Engineer at Insignis with hands-on experience building and scaling Apache Airflow platforms in production environments. He focuses on platform reliability, automation and cost efficient data infrastructures, helping teams adopt best practises whilst keeping operational overheads low.

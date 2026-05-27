@@ -1,6 +1,6 @@
 ---
 title: "Shubham Raj"
-designation: Senior Engineer, Qualcomm
+designation: Senior Engineer, Qualcomm | Apache Airflow Committer
 images:
  - /images/speakers/shubham-raj.jpg
 twitter: 
@@ -11,6 +11,6 @@ events:
  - 2026
 ---
 
-Shubham Raj, a Senior Engineer at Qualcomm, is a full-stack engineer building semiconductor workflow orchestration and also having experience in building data platform on Kubernetes in a private cloud environment.
+Shubham Raj, a Senior Engineer at Qualcomm and an Apache Airflow committer, is a full-stack engineer who builds semiconductor workflow orchestration infrastructure for the Snapdragon CPU team and has experience building data platforms on Kubernetes in private cloud environments.
 
-An Apache Airflow committer, he enjoys sharing knowledge and actively learning from the open-source community.
+He enjoys sharing knowledge and actively learning from the open-source community.

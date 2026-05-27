@@ -3,7 +3,7 @@ title: "Yarden Wolf"
 date: 2026-04-09T16:08:16-06:00
 images: 
  - /images/speakers/yarden-wolf.png
-designation: Data Engineer at Wix.com
+designation: Data Engineer | AI Tech Lead at Wix.com
 twitter: 
 linkedin: https://www.linkedin.com/in/yarden-wolf-a717bb210/
 github: 
