@@ -2,7 +2,7 @@
 title: "Bob Reno"
 date: 2026-05-27T20:57:37-06:00
 images: 
- - /images/speakers/bob-reno.png
+ - /images/speakers/bob-reno.jpg
 designation: Worldwide Global Product Architect - Data Integration @ IBM
 twitter: 
 linkedin: https://www.linkedin.com/in/bobrenoibm/
