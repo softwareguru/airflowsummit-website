@@ -3,6 +3,6 @@ title: "Blue Yeti"
 level: "startup"
 logo: "/images/partners/blueyeti.png"
 webUrl: "https://blueyeti.us/"
-draft: false
+draft: true
 weight: 1
 ---
