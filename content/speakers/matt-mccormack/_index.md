@@ -1,6 +1,6 @@
 ---
 title: "Matt McCormack"
-designation: "Data Engineer - Idelic"
+designation: "Data Engineer - Idelic/Descartes"
 images:
  - /images/speakers/matt-mccormack.jpg
 twitter: 

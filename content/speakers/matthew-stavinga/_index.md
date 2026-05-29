@@ -1,6 +1,6 @@
 ---
 title: "Matthew Stavinga"
-designation: "Data Engineer - Idelic"
+designation: "Data Engineer - Idelic/Descartes"
 images:
  - /images/speakers/matthew-stavinga.jpg
 twitter: 

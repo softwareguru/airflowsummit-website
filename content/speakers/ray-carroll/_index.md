@@ -1,6 +1,6 @@
 ---
 title: "Ray Carroll"
-designation: "Data Engineer - Idelic"
+designation: "Data Engineer - Idelic/Descartes"
 images:
  - /images/speakers/ray-carroll.jpg
 twitter: 
