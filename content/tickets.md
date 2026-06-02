@@ -25,10 +25,9 @@ title: "Tickets"
 - Group Price: It will be automatically added to your purchase once you select more that 5 or 10 tickets
     - Conference pass: 5–9 tickets for $396 each, 10 or more for $372 each
     - Conference + workshop pass: 5–9 tickets for $555 each, 10 or more for $530 each
-- 10% Students: 20DISC_STUDENT (you need to register with a university email)
+- 20% Students: 20DISC_STUDENT (you need to register with a university email)
 - 22% Women and Nonbinary: 22DISC_WNB
 - 15% Committers: 15DISC_COMMITTER
-
 
 
 <!--- 
