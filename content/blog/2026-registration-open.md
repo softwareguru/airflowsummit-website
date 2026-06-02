@@ -8,6 +8,7 @@ images: ["images/blog/2026/registration-open-2026-new.png"]
 # author
 author: "Airflow Summit Team"
 redirection: /tickets
+draft: true
 ---
 
 Early-bird tickets are now available for a limited time. Save your spot at the best rate and join us in Austin!
