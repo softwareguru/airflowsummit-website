@@ -1,7 +1,7 @@
 ---
 title: "On our way to Airflow Summit 2026!"
 date: 2026-03-26T10:00:00
-summary: "Read more about our Austin meetup as the future home of Airflow Summit 2026."
+summary: "Read more about our Austin meetup and watch the recording available now!"
 # post thumb
 images: ["images/blog/2026/as26-meetup-review.png"]
 # author
@@ -21,18 +21,10 @@ On the other hand, Dheeraj Turaga shared how Qualcomm uses Apache Airflow to man
 
 Together, the talks showcased how teams are pushing Airflow to handle increasingly complex, large-scale systems. Beyond the sessions, the meetup created space for sharing challenges, ideas, and lessons learned across different industries. It’s this sense of community that makes these events more than just talks.
 
-Stay tuned for upcoming meetups as we continue building momentum toward the Summit this upcoming August 31st to September 2nd.
+In the meantime, check out the recording and don’t miss out on the great insights that were shared!
 
-<div class="container text-center">
-  <div class="row">
-    <div class="col">
-      <img src="/images/blog/2026/meetup-04-2023/1.jpg" width="300">
-    </div>
-    <div class="col">
-      <img src="/images/blog/2026/meetup-04-2023/2.jpg" width="300">
-    </div>
-    <div class="col">
-      <img src="/images/blog/2026/meetup-04-2023/3.jpg" width="300">
-    </div>
-  </div>
+<br>
+
+<div class="ratio ratio-16x9">
+  <iframe src="https://www.youtube.com/embed/aDlJOWSqACI?si=6s8xohM8fHQuTOjn" title="On our way to Airflow Summit 2026!" allowfullscreen></iframe>
 </div>

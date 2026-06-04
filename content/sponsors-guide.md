@@ -67,7 +67,11 @@ Use our <a href="https://ospo.notion.site/Airflow-Summit-2026-Promo-Kit-3f86196e
 
 * **Read and agree to the <a href="../coc/">Code of Conduct</a>**
 
-* **Register for the event**
+* **Register for the event https://airflowsummit.org/tickets/**
+
+
+- Read and agree to the Code of Conduct
+- Register for the event https://airflowsummit.org/tickets/ 
 
 You have free passes and discounts; invite your clients and your organization. Register on the event website **using the code shared with you via email.**
 
@@ -162,9 +166,12 @@ We will share a registration list with you before the event, so you can identify
 
 *Please note that there is no space for sponsors at this lunch.
 
-* **Set up your space**
+* **Set up and dismanteling hours**
 
-You are welcome to set up your space on Sunday, August 30, from 12:00 PM to 8:00 PM. Exhibition hours will be confirmed once the event program is finalized.
+- You are welcome to set up your space on Sunday, August 30, from 12:00 PM to 8:00 PM. 
+
+- You can start taking down your booth on September 1st, at 1:30PM, once the lunch is over. It must be completed before 4PM.
+
 
 <h3 class="sub-color-partner">During the event</h3>
 
