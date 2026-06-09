@@ -4,7 +4,8 @@ date: 2025-05-19T16:15:26-06:00
 draft: false
 ---
 
-**We have prepared this <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">checklist</a> for you to ensure your successful participation. Please follow this guide and share any required information in <a href="https://forms.gle/RTHLAfuTFC1kWwyLA" targe="_blank">this form</a>:**
+**We have prepared this <a href="https://docs.google.com/document/d/1kpXGnNFK8KlH9MUshFLhST9sFVVj0ENVRUWGHbY-qy0/edit?usp=sharing" targe="_blank">checklist</a> for you to ensure your 
+successful participation, please follow this guide.**
 
 <h3 class="sub-color-partner">Event key info:</h3>
 
@@ -21,11 +22,15 @@ draft: false
       - Tuesday, September 1: Keynotes, talks, workshops, and exhibition floor.
       - Wednesday, September 2: Keynotes, talks, workshops, and exhibition floor.
 
+      <br>
+
   * Three focused tracks: 
+
       - Builder Track: Hands-on Airflow building, scaling, and operating reliable pipelines.
       - Data & AI Applications Track: Using Airflow to power analytics, ML, and AI workflows.
       - Data Strategy Track: Organizational strategy, governance, and scaling Airflow long-term.
 
+<br>
   * Event floor plan:
 
 
@@ -71,6 +76,7 @@ Use our <a href="https://ospo.notion.site/Airflow-Summit-2026-Promo-Kit-3f86196e
 
 
 - Read and agree to the Code of Conduct
+<br>
 - Register for the event https://airflowsummit.org/tickets/ 
 
 You have free passes and discounts; invite your clients and your organization. Register on the event website **using the code shared with you via email.**
@@ -95,15 +101,18 @@ Your **booth number will be emailed to you.**
 
 All tables will be dressed with black conference linen and will have access to power. 
 
-  * **Platinum:** 6’ x 30” table with/ 2 chairs, and a cocktail table. Allowed to place a booth or back wall.
+- Platinum: 6' x 8' total booth space, 6’ x 30” table with/ 2 chairs, and a cocktail table. Allowed to place a booth or back wall.
 
-  * **Gold:** 6’ x 30” table with/ 2 chairs. Allowed to place a booth or back wall.
+- Gold: 6' x 6' total booth space, 6’ x 30” table with/ 2 chairs. Allowed to place a booth or back wall.
 
-  * **Silver:** 6’ x 18” table w/ 2 chairs. Allowed to place a back wall.
+- Silver: 6' x 6' total booth space, 6’ x 18” table w/ 2 chairs. Allowed to place a back wall.
 
-  * **Bronze/Startup:** 6’ x 18” table w/ 2 chairs. Allowed to place rollup banner.
+- Bronze: 6' x 6' total booth space, 6’ x 18” table w/ 2 chairs. Allowed to place rollup banner.
 
-  * **Airflow Demos:** Cocktail table. Allowed to place rollup banner or screen
+- Startup: High square cocktail table. Allowed to place rollup banner or screen.
+
+- Airflow Demos: High cocktail table. Allowed to place rollup banner or screen.
+
 
 <img src="/images/partners/sponsors-page/2026/event-plan-2-1.png" class="img-fluid mx-auto d-block mt-4" >
 
@@ -121,7 +130,7 @@ All tables will be dressed with black conference linen and will have access to p
 
 **Pork Chop Screen Printing:** Specializes in custom T-shirt screen printing, embroidery, and personalized apparel, with over 20 years of experience delivering high-quality work at reasonable prices.
 
-🔗https://www.porkchopscreenprinting.com/
+🔗 https://www.porkchopscreenprinting.com/
 
   * **If you need to rent audio or video equipment**, you can order it from our AV vendor. Click <a href="https://eventnow.encoreglobal.com/myevents/result/index/show_id/3a7f6a6a-32f2-f011-8406-0022482ea702/" target="_blank">here</a> to order from Encore. For any questions, please contact: Olivia Porter, olivia.porter@encoreglobal.com, mobile: 512-777-8964
 
@@ -168,9 +177,9 @@ We will share a registration list with you before the event, so you can identify
 
 * **Set up and dismanteling hours**
 
-- You are welcome to set up your space on Sunday, August 30, from 12:00 PM to 8:00 PM. 
+You are welcome to set up your space on Sunday, August 30, from 12:00 PM to 8:00 PM. 
 
-- You can start taking down your booth on September 1st, at 1:30PM, once the lunch is over. It must be completed before 4PM.
+You can start taking down your booth on September 1st, at 1:30PM, once the lunch is over. It must be completed before 4PM.
 
 
 <h3 class="sub-color-partner">During the event</h3>
