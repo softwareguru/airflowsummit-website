@@ -120,7 +120,7 @@ All tables will be dressed with black conference linen and will have access to p
 
 <br>
 
-* **Hire swag and equipment**
+<h3 class="sub-color-partner">Hire swag and equipment</h3>
 
   * **If you need printed materials or swag**, we recommend working with local Austin vendors such as the following:
 
