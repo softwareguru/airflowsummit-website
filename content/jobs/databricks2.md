@@ -5,7 +5,7 @@ company: "Databricks"
 image: /images/partners/databricks.png
 location: Seattle, Washington
 extlink: https://www.databricks.com/company/careers/product/sr-developer-advocate-open-lakehouse-7871400002
-draft: false
+draft: true
 ---
 
 

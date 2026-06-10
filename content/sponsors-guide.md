@@ -169,9 +169,9 @@ The check-in desk will be open on Sunday, August 30th, from 4:00 PM to 6:00 PM.
 
 We will share a registration list with you before the event, so you can identify and invite your guests. Please share their names with us **before the 2nd day of the event.** The number of seats for each sponsorship level is as follows:
 
-  - Platinum: 6 spots  
-  - Gold: 5 spots
-  - Silver: 4 spots
+  - Platinum: 7 spots  
+  - Gold: 6 spots
+  - Silver: 5 spots
 
 *Please note that there is no space for sponsors at this lunch.
 

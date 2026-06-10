@@ -1,6 +1,6 @@
 ---
 title: "Elad Kalif"
-designation: "Data Engineer at Amazon, Apache Airflow Committer & PMC member"
+designation: "Elad Kalif"
 images: 
  - /images/speakers/elad-kalif.jpg
 events:
