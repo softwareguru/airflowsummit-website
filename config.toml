@@ -109,11 +109,18 @@ speaker = "speakers"
     weight = 7
 
   [[menu.main]]
-  identifier = "venue"
-  name = "Venue"
-  URL = "/venue"
-  parent = "attend"
-  weight = 8
+    identifier = "venue"
+    name = "Venue"
+    URL = "/venue"
+    parent = "attend"
+    weight = 8
+
+  [[menu.main]]
+    identifier = "jobs"
+    name = "Jobs"
+    url = "/jobs"
+    parent = "attend"
+    weight = 9
 
   #[[menu.main]]
   #  identifier = "venue"
@@ -125,13 +132,6 @@ speaker = "speakers"
 ## /attend ##
 
 
-  #[[menu.main]]
-  #  identifier = "jobs"
-  #  name = "Jobs"
-  #  hrefTargetBlank = true
-  #  url = "/jobs"
-  #  parent = "attend"
-  #  weight = 5
 
   #[[menu.main]]
   #  identifier="hapennings"
