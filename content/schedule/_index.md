@@ -206,12 +206,6 @@ days:
         label: "09:30"
         gridarea: "3/1/4/2"
 
-      - type: activity
-        label: "Keynote to be confirmed"
-        gridarea: "3/2/4/8"
-        timelabel: "9:30 - 10:00"
-        gridaream: "2/1/3/2"
-
       - type: timelabel
         label: "10:00"
         gridarea: "4/1/5/2"
