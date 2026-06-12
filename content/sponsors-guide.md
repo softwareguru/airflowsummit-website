@@ -179,7 +179,7 @@ We will share a registration list with you before the event, so you can identify
 
 You are welcome to set up your space on Sunday, August 30, from 12:00 PM to 8:00 PM. 
 
-You can start taking down your booth on September 1st, at 1:30PM, once the lunch is over. It must be completed before 4PM.
+You can start taking down your booth on Wednesday, September 2nd, at 2:30 PM and must be completed by 5:30 PM.
 
 
 <h3 class="sub-color-partner">During the event</h3>

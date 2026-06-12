@@ -9,4 +9,4 @@ events:
  - 2026
 ---
 
-We are Data Engineers at Liberty Mutual.  We work closely with Data Science teams to rapidly deliver both proof of concepts and stable platforms for the data science community.
+Matt works closely with various data science teams around Liberty Mutual educating them on best practices when using Apache Airflow. Matt, as well as his team maintain the various Airflow platforms, ensuring stability across the various accounts.
