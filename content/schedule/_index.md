@@ -376,12 +376,6 @@ days:
         label: "10:30"
         gridarea: "5/1/6/2"
 
-      - type: activity
-        label: "Session to be confirmed"
-        gridarea: "5/4/6/5"
-        timelabel: "10:30 - 11:00"
-        gridaream: "6/1/7/2"
-
       - type: timelabel
         label: "11:00"
         gridarea: "6/1/7/2"
@@ -389,12 +383,6 @@ days:
       - type: timelabel
         label: "11:30"
         gridarea: "7/1/8/2"
-
-      - type: activity
-        label: "Session to be confirmed"
-        gridarea: "7/4/8/5"
-        timelabel: "11:30 - 12:00"
-        gridaream: "14/1/15/2"
 
       - type: timelabel
         label: "12:00"
