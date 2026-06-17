@@ -19,10 +19,6 @@
             "value": "nosniff"
           },
           {
-            "key": "Content-Security-Policy",
-            "value": "default-src 'self'; img-src 'self' data: https://static.scarf.sh https://js.tito.io https://ti.to; script-src 'self' https://js.tito.io; frame-src: https://ti.to; style-src 'self'; connect-src: https://js.tito.io; frame-ancestors 'none'"
-          },
-          {
             "key": "Permissions-Policy",
             "value": "camera=(), microphone=(), geolocation=(), interest-cohort=()"
           },
