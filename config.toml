@@ -6,9 +6,6 @@ enableRobotsTXT = true
 RemovePathAccents = true
 
 DefaultContentLanguage = "en"
-defaultContentLanguage = 'en'
-[languages.en]
-locale = 'en_US'
 
 theme = "airflowsummit"
 
