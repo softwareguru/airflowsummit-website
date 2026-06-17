@@ -4,7 +4,11 @@ title = "Airflow Summit 2026"
 description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 enableRobotsTXT = true
 RemovePathAccents = true
+
 DefaultContentLanguage = "en"
+defaultContentLanguage = 'en'
+[languages.en]
+locale = 'en_US'
 
 theme = "airflowsummit"
 
