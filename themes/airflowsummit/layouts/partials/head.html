@@ -40,7 +40,7 @@
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .link | relURL }}">
+    <link rel="preload" href="https://jsdelivr.net" as="style" onload="this.onload=null;this.rel='stylesheet'">
   {{ end }}
 
   {{ "<!-- Main Stylesheet -->" | safeHTML }}

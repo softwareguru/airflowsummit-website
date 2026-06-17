@@ -3,7 +3,7 @@ title: "On our way to Airflow Summit 2026!"
 date: 2026-03-26T10:00:00
 summary: "Read more about our Austin meetup and watch the recording available now!"
 # post thumb
-images: ["images/blog/2026/as26-meetup-review.png"]
+images: ["images/blog/2026/as26-meetup-review.webp"]
 # author
 author: "Airflow Summit Team"
 draft: false
