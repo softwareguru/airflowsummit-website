@@ -84,6 +84,13 @@ speaker = "speakers"
 ## attend ##
 
   [[menu.main]]
+    identifier = "scholarship"
+    name = "Apply for a scholarship!"
+    url = "/scholarship"
+    parent = "attend"
+    weight = 3
+
+  [[menu.main]]
   identifier = "attend"
   name = "Attend"
   URL = "/attend"
@@ -123,13 +130,6 @@ speaker = "speakers"
     url = "/jobs"
     parent = "attend"
     weight = 9
-
-  #[[menu.main]]
-  #  identifier = "venue"
-  #  name = "Venue + Travel"
-  #  url = "/venue"
-  #  parent = "attend"
-  #  weight = 2
 
 ## /attend ##
 
