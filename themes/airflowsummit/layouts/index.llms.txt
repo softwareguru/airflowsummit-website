@@ -4,24 +4,31 @@ Base URL: {{ .Site.BaseURL }}
 
 > {{ with .Site.Params.description }}{{ . }}{{ else }}Here goest description of this website.{{ end }}
 
-# SECTION: CONTENT_INDEX
+# SECTION: Sessions
 
-{{- $pages := .Site.RegularPages -}}
-{{- range $pages }}
+This is the archive of sessions given in the different editions of Airflow Summit.
+
+{{ range sort ( where $.Site.RegularPages "Section" "sessions") ".Params.time_start" }}
 
 ## {{ .Title }}
-
 [URL]({{ .Permalink }})
-
-{{- if .Date }}  
-Date: {{ .Date.Format "2006-01-02" }}
+{{- if .Params.time_start }}  
+Date: {{ .Params.time_start }}
 {{- end }}
-
 Summary:
 {{- with .Summary }}
 {{ . | plainify }}
 {{- else }}
 (No summary available)
 {{- end }}
+
+{{- end }}
+
+# SECTION: Speakers
+
+{{ range .Site.Taxonomies.speakers }}
+
+## {{ .Page.Title }}
+[URL]({{ .Page.Permalink }})
 
 {{- end }}
