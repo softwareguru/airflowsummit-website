@@ -8,6 +8,7 @@ partners:
 rsvp_link: https://airflowsummit2022-london.eventbrite.com
 venue_name: Google BEL Office
 venue_address: Belgrave House, 76 Buckingham Palace Rd, London SW1W 9TQ, United Kingdom
+draft: true
 
 ---
 

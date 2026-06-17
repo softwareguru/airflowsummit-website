@@ -3,6 +3,7 @@ title: "Making sense of the schedule structure of Airflow Summit"
 description: "With 39 talks distributed in 13 blocks along 10 days and with two possible time sets, the schedule structure of Airflow Summit is a bit complex. Here we explain it in more detail, as well as the rationale behind it."
 tags: ["General"]
 date: "2020-06-22"
+draft: true
 ---
 
 When the organizing team decided to make the Airflow Summit online, the call was *"Let’s do it, but let’s make sure that we take advantage of this opportunity to involve those who wouldn’t have been able to attend the onsite event."*

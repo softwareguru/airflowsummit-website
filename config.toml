@@ -1,11 +1,12 @@
 
 baseURL = "https://airflowsummit.org/"
-title = "Airflow Summit 2026"
+title = "Airflow Summit 2026 | Aug. 31 - Sep 2 in Austin, TX"
 description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 enableRobotsTXT = true
+disableHugoGeneratorInject = true
 RemovePathAccents = true
 
-DefaultContentLanguage = "en"
+defaultContentLanguage = "en"
 
 theme = "airflowsummit"
 
@@ -258,8 +259,6 @@ link = "/plugins/bootstrap.min.css"
 [[params.plugins.css]]
 link = "/plugins/bootstrap-table.min.css"
 
-
-
 [[params.plugins.css]]
 link = "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
 
@@ -274,4 +273,19 @@ link="/plugins/bootstrap.bundle.min.js"
 
 [[params.plugins.js]]
 link="/plugins/bootstrap-table.min.js"
+
+
+[languages]
+  [languages.en]
+    label = 'English'
+    locale = 'en-US'
+
+[outputs]
+  home = ["HTML", "RSS", "llms"]
+
+[outputFormats.llms]
+  baseName = "llms"
+  isPlainText = true
+  mediaType = "text/plain"
+  root = true
 

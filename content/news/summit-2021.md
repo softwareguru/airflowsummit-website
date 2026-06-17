@@ -3,6 +3,7 @@ title: "Call for Papers for Airflow Summit 2021 is open!"
 description: "Airflow Summit 2021 is coming and the call for papers is now open. Join us!"
 tags: ["General"]
 date: "2021-02-10"
+draft: true
 ---
 
 ### Airflow Summit is coming back for 2021!

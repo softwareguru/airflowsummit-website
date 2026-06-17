@@ -4,6 +4,7 @@ linkTitle: "airflow-summit-goes-online"
 description: "In light of the COVID-19 pandemic, and in the best interest for the safety of the Apache Airflow community, we have decided to change the date and format of the Airflow Summit 2020."
 tags: ["General"]
 date: "2020-03-16"
+draft: true
 ---
 
 The event will now be completely online and the date will be moved to “Summer 2020”. We are working on defining specific format and dates, and will communicate that in the coming weeks.

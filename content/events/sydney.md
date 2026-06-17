@@ -8,6 +8,8 @@ partners:
 rsvp_link: https://www.eventbrite.com.au/e/airflow-summit-2022-sydney-in-person-registration-331830392637
 venue_name: Mantel Group offices
 venue_address: L21/580 George St, Sydney NSW 2000.
+draft: true
+
 ---
 
 The Australia Apache Airflow meetup joins the Airflow Summit to present in person talks and networking for its local community in Sydney.

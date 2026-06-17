@@ -8,6 +8,8 @@ partners:
 rsvp_link: https://airflowsummit2022-warsaw.eventbrite.com
 venue_name: Google Warsaw @ WFC
 venue_address: Emilii Plater 53, 00-113 Warszawa.
+draft: true
+
 ---
 
 The Warsaw Apache Airflow meetup joins as one of the 12 participating location in Airflow Summit to present the following talks:

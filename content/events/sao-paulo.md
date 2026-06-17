@@ -8,6 +8,8 @@ partners:
 rsvp_link: https://airflowsummit2022-saopaulo.eventbrite.com
 venue_name: QuintoAndar
 venue_address: 555 Girassol Avenue - Vila Madalena, São Paulo/SP
+draft: true
+
 ---
 
 The group of Apache Airflow users at QuintoAndar are happy to welcome the local Airflow community to this event where we will watch talks, share experiences and network.

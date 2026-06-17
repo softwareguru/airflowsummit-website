@@ -8,7 +8,7 @@ partners:
 rsvp_link: https://airflowsummit2022-bangalore.eventbrite.com
 venue_name: Sahaj Software Pvt Ltd
 venue_address: 1st Cross Road, 3rd Block, Koramangala · Bengaluru
-
+draft: true
 ---
 
 The Bangalore Apache Airflow meetup joins the Airflow Summit to present in person talks and networking. 

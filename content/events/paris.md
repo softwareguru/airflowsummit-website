@@ -8,6 +8,8 @@ partners:
 rsvp_link: https://www.meetup.com/Paris-Apache-Airflow-Meetup/events/285521777/
 venue_name: Société Générale @ Dune technology hub
 venue_address: 6 Allée des Sablons. 94120 Fontenay-sous-Bois.
+draft: true
+
 ---
 
 The Paris Apache Airflow meetup joins the Airflow Summit to host a workshop as well as present talks for its local community. 

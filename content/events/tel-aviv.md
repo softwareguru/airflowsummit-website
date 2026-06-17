@@ -8,6 +8,8 @@ partners:
 rsvp_link: https://www.meetup.com/tel-aviv-apache-airflow-meetup/events/285273885/
 venue_name: BE ALL Alon
 venue_address: Yigal Alon St 94. Alon Towers Building 1, 3rd floor. Tel Aviv-Yafo
+draft: true
+
 
 ---
 

@@ -8,6 +8,7 @@ partners:
 rsvp_link: https://www.eventbrite.com/e/apache-airflow-summit-2022-lagos-nigeria-tickets-315796274157
 venue_name: Co-creation Hub (CcHUB) Nigeria
 venue_address: 294 Herbert Macaulay Way, Yaba 101212, Lagos
+draft: true
 
 ---
 

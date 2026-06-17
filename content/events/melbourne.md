@@ -8,6 +8,7 @@ partners:
 rsvp_link: https://www.eventbrite.com.au/e/airflow-summit-2022-melbourne-in-person-registration-331816761867
 venue_name: Mantel Group offices
 venue_address: Level 2, 452 Flinders St. Melbourne VIC 3000
+draft: true
 
 ---
 

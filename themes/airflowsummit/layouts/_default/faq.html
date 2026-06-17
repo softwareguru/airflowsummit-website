@@ -1,0 +1,27 @@
+{{ define "headextra" }}
+<script type="application/ld+json"> 
+  { 
+    "@context": "https://schema.org",
+    "@type": "FAQPage", "mainEntity": [ { 
+      "@type": "Question",
+      "name": "Where is Airflow Summit 2026?", 
+      "acceptedAnswer": { 
+        "@type": "Answer",
+        "text": "Hyatt Regency Austin, 208 Barton Springs Rd, Austin, TX 78704. Aug 31 - Sep 2, 2026." 
+      } 
+    } ] 
+  } 
+</script>
+{{ end }}
+
+{{ define "main" }}
+
+<section class="section {{ .Type }}">
+  <div class="container">
+      <article>
+        {{ .Content }}
+      </article>
+  </div>
+</section>
+
+{{ end }}
