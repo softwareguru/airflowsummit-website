@@ -1,5 +1,5 @@
 X-Frame-Options: DENY 
-Content-Security-Policy: default-src 'self'; img-src 'self' data: https://static.scarf.sh; script-src 'self'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'
+Content-Security-Policy: default-src 'self'; img-src 'self' data: https://static.scarf.sh; script-src 'self' https://js.tito.io; frame-src: https://js.tito.io; style-src 'self'; frame-ancestors 'none'
 X-Content-Type-Options: nosniff 
 Permissions-Policy: geolocation=(), camera=(), microphone=()
 Strict-Transport-Security: max-age=31536000; includeSubDomains 
