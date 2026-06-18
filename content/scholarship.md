@@ -14,13 +14,10 @@ There are no “right” or “wrong” answers. Our goal with this program is t
 
 ### Scholarship recipients will receive:
 
-A complimentary ticket to attend Airflow Summit 2026
-Up to $600 USD in travel reimbursement for eligible expenses
-Reimbursements are processed after the event and are limited to the following:
+A complimentary ticket to attend Airflow Summit 2026, up to $600 USD in travel expenses to be reimbursed after the event. The eligible expenses are limited to the following:
 
-### Economy (coach) airfare
-
-Hotel or accommodation (up to three nights)
+* Economy (coach) airfare
+* Hotel or accommodation (up to three nights)
 
 As our scholarship budget is limited, we are unable to guarantee approval for all applications. As part of the scholarship, recipients will be expected to support the event through light volunteer activities, such as assisting with setup, registration, microphone support during sessions, and other on-site logistics. Specific responsibilities and schedules will be shared with selected recipients once the scholarship has been accepted.
 
