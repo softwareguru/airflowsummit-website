@@ -300,11 +300,7 @@ a.read-more {
 }
 
 .daygrid {
-	grid-template-columns: 100px 2fr 2fr 2fr 2fr 1fr 1fr 1fr;
-}
-
-#dayblock-20251 .daygrid {
-	grid-template-columns: 100px 1fr 1fr 1fr 1fr;
+	grid-template-columns: 80px 1fr 1fr 1fr 1fr 1fr;
 }
 
 #dayblock-20254 .daygrid, #dayblock-20255 .daygrid {
@@ -331,6 +327,13 @@ a.read-more {
 	line-height: 26px;
 }
 
+.daygrid .card-abstract {
+	font-weight: normal;
+	line-height: normal;
+	font-size:0.9em;
+}
+
+
 section.online-schedule {
 	background-color: #0c0d0f;
 
@@ -351,12 +354,6 @@ section.online-schedule {
 	.session-speakers {
 		color: #d0d0d0;
 		font-weight: normal;
-	}
-
-	.card-abstract {
-		color: #d0d0d0;
-		font-weight: normal;
-		font-size:0.9em;
 	}
 
 	.addeventatc {
