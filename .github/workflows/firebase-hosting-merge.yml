@@ -18,7 +18,7 @@ jobs:
           hugo-version: 'latest'
           extended: true # Required if your Hugo theme utilizes Sass/SCSS features
       - name: Build Hugo Site
-        run: hugo --gc --minify
+        run: hugo
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
