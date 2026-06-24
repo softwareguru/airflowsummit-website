@@ -18,3 +18,4 @@ jobs:
     - uses: softwareguru/hugo-on-fire@master
       env:
         GCP_SA_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}
+        PROJECT_ID: "airflow-summit"
