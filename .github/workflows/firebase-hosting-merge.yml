@@ -15,7 +15,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.152.2'
           extended: true # Required if your Hugo theme utilizes Sass/SCSS features
       - name: Build Hugo Site
         run: hugo
