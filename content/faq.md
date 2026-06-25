@@ -6,23 +6,22 @@ layout: faq
 
 ### Where is Airflow Summit?
 
-We will meet from August 31st to September 2nd at The Hyatt Regency Austin, 208 Barton Springs Rd, Austin, TX 78704
+We will meet from August 31st to September 2nd at The Hyatt Regency Austin, 208 Barton Springs Rd, Austin, TX 78704.
 
 ### Do I need a visa to travel to USA?
-
 Depending on your country of origin you may need a [visa](/visa-letter-request) to enter the United States of America. Please consider that if you need one, it is time to start the process so you don’t miss this event, let us know if you need our support with an invitation letter once you have bought your ticket.
 
 ### Can I get a refund for my ticket if I don't get my visa approved?
-
 Yes, If that happens just send us the info about your visa being rejected and we will issue you a complete refund for your ticket.
 
+### I have a ticket but cannot attend anymore, can I transfer it to somebody else?
+Yes, please reach out to info@airflowsummit.org and let them know the name and email of the person that you want to transfer to.
 
 ### Is there a code of conduct?
-
 Yes. Airflow Summit aims to provide a harassment-free experience to all participants. Please review our [Code of Conduct.](/coc)
 
-### What should you do in case of a CoC violation during the event?
 
+### What should you do in case of a CoC violation during the event?
 Report it to a staff member (Airflow Summit t-shirt or staff at the registration desk), and we will help you. The violation of the CoC has zero tolerance.
 
 ### Will there be live streaming?
