@@ -1,61 +1,61 @@
-  <meta charset="utf-8">
-  <title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
+<meta charset="utf-8">
+<title>{{ .Title }}{{ if not .IsHome }} | {{ .Site.Title }}{{ end }}</title>
 
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description"
-    content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
-  {{ with .Site.Params.author }}
-  <meta name="author" content="{{ . }}">
-  {{ end }}
-  {{ if .Params.noindex }}
-  <meta name="robots" content="noindex" /> 
-  {{ end }}
-  {{ hugo.Generator }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description"
+  content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
+{{ with .Site.Params.author }}
+<meta name="author" content="{{ . }}">
+{{ end }}
+{{ if .Params.noindex }}
+<meta name="robots" content="noindex" />
+{{ end }}
+{{ hugo.Generator }}
 
-  {{- template "_internal/opengraph.html" . -}}
-  {{- template "_internal/twitter_cards.html" . -}}
+{{- template "_internal/opengraph.html" . -}}
+{{- template "_internal/twitter_cards.html" . -}}
 
-  {{ with .Site.Params.google_ads }}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ . }}', { 'debug_mode':true });
-  </script>
-  {{ end }}
+{{ with .Site.Params.google_ads }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '{{ . }}', { 'debug_mode': true });
+</script>
+{{ end }}
 
-  {{ with .Site.Params.google_analytics_4 }}
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', '{{ . }}', { 'debug_mode':true });
-  </script>
-  {{ end }}
-
-
-  {{ "<!-- plugins -->" | safeHTML }}
-  {{ range .Site.Params.plugins.css }}
-    <link rel="preload" href="{{ .link | relURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
-  {{ end }}
-
-  {{ "<!-- Main Stylesheet -->" | safeHTML }}
-  {{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
-  <link rel="stylesheet" href='{{ $styles.Permalink | relURL }}?v={{ now.Format "200601021504" }}' media="screen">
-
-  {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
+{{ with .Site.Params.google_analytics_4 }}
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '{{ . }}', { 'debug_mode': true });
+</script>
+{{ end }}
 
 
+{{ "<!-- plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.css }}
+<link rel="preload" href="{{ .link | relURL }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+{{ end }}
 
-  
-  {{ if .IsHome }}    
-  <script type="application/ld+json">
+{{ "<!-- Main Stylesheet -->" | safeHTML }}
+{{ $styles := resources.Get "scss/style.scss" | toCSS | minify }}
+<link rel="stylesheet" href='{{ $styles.Permalink | relURL }}?v={{ now.Format "200601021504" }}' media="screen">
+
+{{ "<!--Favicon-->" | safeHTML }}
+<link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
+<link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
+
+
+
+
+{{ if .IsHome }}
+<script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "Event",
@@ -98,5 +98,3 @@
     }
   </script>
 {{ end }}
-
-    
