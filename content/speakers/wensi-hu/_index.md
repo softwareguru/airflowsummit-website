@@ -3,7 +3,7 @@ title: "Wensi Hu"
 date: 2026-04-15T10:54:30-06:00
 images: 
  - /images/speakers/wensi-hu.png
-designation: Senior Software Engineer
+designation: Senior Software Engineer @ Linkedin
 twitter: 
 linkedin: https://www.linkedin.com/in/wensi-hu/
 github: 
