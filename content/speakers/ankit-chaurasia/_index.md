@@ -1,6 +1,6 @@
 ---
 title: "Ankit Chaurasia"
-designation: "Software Engineer"
+designation: "Software Engineer at Apple"
 images:
  - /images/speakers/ankit-chaurasia.png
 events:
@@ -10,6 +10,4 @@ events:
 linkedin: https://www.linkedin.com/in/sunank200/
 ---
 
-Ankit Chaurasia is a Senior Software Engineer at Astronomer, where he specialises in the design and development of Apache Airflow. He is a strong advocate for open-source projects and has contributed to initiatives such as Apache Airflow and Ask-Astro. Previously, Ankit led teams at Wadhwani AI, where he developed AI solutions for healthcare and agriculture, culminating in a $2 million grant from the Google AI Challenge.
-
-Ankit has presented at the Airflow Summit in 2022, 2024 and 2025.
+Ankit Chaurasia is a Data Platform Engineer at Apple and an Apache Airflow contributor. Previously a Senior Software Engineer at Astronomer, he's a returning Airflow Summit speaker (2022, 2024, 2025). For more information, visit https://ankitchaurasia.info/.

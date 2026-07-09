@@ -114,7 +114,6 @@ section.sponsors {
 	}
 }
 
-
 .sponsor-strip.local {
 	display: flex;
 	justify-content: center;
@@ -128,7 +127,6 @@ section.sponsors {
 	}
 }
 
-
 .sponsor-strip.community {
 	display: flex;
 	justify-content: center;
@@ -137,7 +135,7 @@ section.sponsors {
 	flex-wrap: wrap;
 
 	.sponsor-item {
-		width: 160px;
+		width: 180px;
 		margin: 0px 25px 20px 25px;
 	}
 
