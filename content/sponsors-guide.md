@@ -74,18 +74,14 @@ Use our <a href="https://ospo.notion.site/Airflow-Summit-2026-Promo-Kit-3f86196e
 
 * **Register for the event https://airflowsummit.org/tickets/**
 
-
-- Read and agree to the Code of Conduct
-<br>
-- Register for the event https://airflowsummit.org/tickets/ 
-
 You have free passes and discounts; invite your clients and your organization. Register on the event website **using the code shared with you via email.**
 
-  * Platinum: 5 passes, 25% discount on additional passes.
-  * Gold: 4 passes, 20% discount.
-  * Silver: 2 passes, 15% discount.
-  * Bronze/Startup: 1 pass, 10% discount.
-  * Community/Talent: 1 pass, 10% discount.
+- Platinum: 5 passes, 25% discount on additional passes.
+- Gold: 4 passes, 20% discount.
+- Silver: 3 passes, 15% discount.
+- Bronze: 2 passes, 10% discount.
+- Startup: 1 pass, 10% discount. 
+- Community/Talent: 1 pass, 10% discount.
 
 * **Book your hotel**
 
