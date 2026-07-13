@@ -2,7 +2,7 @@
 title: "Ankit Chaurasia"
 designation: "Software Engineer at Apple"
 images:
- - /images/speakers/ankit-chaurasia.png
+ - /images/speakers/ankit-chaurasia.jpg
 events:
  - 2024
  - 2025
