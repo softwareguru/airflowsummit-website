@@ -16,6 +16,11 @@ images:
 
 ---
 
+<div style="padding: 1em; background-color: #d0d0d0; margin-bottom: 1em;"><em>
+This information refers to the certification workshop given during Airflow Summit 2023. If you are looking for an upcoming version of this workshop check out the <a href="/program">session program</a> of the next edition of Airflow Summit.
+</em>
+</div>
+
 As an Airflow Summit attendee, we’re thrilled to offer you an in-person opportunity to take an [Airflow Certification](https://www.astronomer.io/certification/) exam at no additional cost. Depending on your skill level, you can take one of two exams:
  * Apache Airflow Fundamentals
  * DAG Authoring for Apache Airflow (Advanced)
