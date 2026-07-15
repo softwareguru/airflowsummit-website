@@ -5,8 +5,8 @@ description = "Airflow Summit is the premier conference for the worldwide commun
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
 RemovePathAccents = true
-
 defaultContentLanguage = "en"
+languageCode = "en-US"
 
 theme = "airflowsummit"
 
@@ -274,8 +274,7 @@ link="/plugins/bootstrap.bundle.min.js"
 [[params.plugins.js]]
 link="/plugins/bootstrap-table.min.js"
 
-
-[languages]
+[languages]  
   [languages.en]
     label = 'English'
     locale = 'en-US'
