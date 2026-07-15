@@ -289,3 +289,5 @@ link="/plugins/bootstrap-table.min.js"
   mediaType = "text/plain"
   root = true
 
+[security]
+  allowContent = ['.*']
