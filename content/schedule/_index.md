@@ -272,12 +272,6 @@ days:
         label: "14:30"
         gridarea: "12/1/13/2"
 
-      - type: activity
-        label: "Presented by Google"
-        gridarea: "12/3/13/4"
-        timelabel: "14:30 - 15:00"
-        gridaream: "25/1/26/2"
-
       - type: timelabel
         label: "15:00"
         gridarea: "13/1/14/2"

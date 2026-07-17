@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/piotr-wieczorek-376b273a/
 github: 
 events:
  - 2025
+ - 2026
 ---
 
 Graduated in Telecommunications & Computer Science. Experience in Financial Services and Management Consulting at Boston Consulting Group. Currently Lead Senior Product Manager at Google, responsible for Cloud Composer (managed Airflow).
