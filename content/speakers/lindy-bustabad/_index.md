@@ -11,4 +11,4 @@ events:
  - 2026
 ---
 
-Lindy is a Senior Analytics Engineer on Pendo's Data as a Product team where she designs and maintains the data infrastructure powering MLOps, enterprise reporting, and cross-functional analytics. She works across dbt, Airflow, BigQuery, and Kubernetes, and is focused on using AI tooling to make data teams more effective. Lindy writes about the intersection of data teams and AI on Medium (@lkbustabad). She holds an M.S. in Analytics from NC State and a B.S. in Mathematics from Davidson College.
+Lindy Bustabad is a Senior Analytics Engineer on Pendo's Data & AI Platform team, where she works across both analytics engineering and AI engineering. She builds the data infrastructure that powers reporting and ML pipelines, and designs and ships production AI analytics agents. She writes about what happens when those two disciplines overlap on Medium (@lkbustabad).

@@ -262,12 +262,6 @@ days:
         label: "14:00"
         gridarea: "11/1/12/2"
 
-      - type: activity
-        label: "Presented by AWS"
-        gridarea: "11/3/12/4"
-        timelabel: "14:00 - 14:30"
-        gridaream: "22/1/23/2"
-
       - type: timelabel
         label: "14:30"
         gridarea: "12/1/13/2"
