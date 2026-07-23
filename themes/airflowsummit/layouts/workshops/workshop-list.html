@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<div class="container mb-4">
+    <p class="text-center">
+        {{ .Content }}
+    </p>
+
+    <br>
+
+    <div class="row">
+     {{ range sort (where (where .Site.Pages "Type" "sessions") ".Params.workshop2026" true) ".Params.time_start" }}              
+ 
+      <div class="col-12 col-lg-4 mb-4">
+        <div class="card h-100 mx-2 my-3">
+          <div class="card-body">
+            <h5 class="card-title"><a href="{{.Permalink}}">{{.Title}}</a></h4>
+            <div class="card-text">{{.Summary }}</div>
+          </div>
+        </div>
+      </div>
+    {{ end }} 
+    </div>
+
+    <br>
+
+</div>
+
+
+{{ end }}
