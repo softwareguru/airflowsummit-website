@@ -238,12 +238,6 @@ days:
         label: "12:00"
         gridarea: "8/1/9/2"
 
-      - type: activity
-        label: "Presented by Astronomer"
-        gridarea: "8/3/9/4"
-        timelabel: "12:00 - 12:30"
-        gridaream: "14/1/15/2"
-
       - type: timelabel
         label: "12:30"
         gridarea: "9/1/10/2"

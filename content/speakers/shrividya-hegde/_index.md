@@ -1,6 +1,6 @@
 ---
 title: "Shrividya Hegde"
-designation: "AI Data Engineer "
+designation: "Senior AI Data Engineer"
 images:
  - /images/speakers/shrividya-hegde.jpg
 twitter: 
@@ -9,4 +9,4 @@ events:
  - 2026
 ---
 
-Shri is an AI Data Engineer with 10+ years in automation as an SDET, bringing a quality-first mindset to data and AI systems. She specializes in Apache Airflow–based pipelines focused on reliability, scalability, and orchestration. An Airflow Champion and Women in Data Chapter Lead, she writes on Medium and Substack about data engineering and GenAI — helping teams move GenAI from experimentation to production through observability, orchestration, and rigorous testing.
+Shri is an AI Data Engineer with over a decade of experience in automation , bringing a strong quality-first mindset to modern data and AI systems. An Apache Airflow Champion and Chapter Lead for Women in Data, Shri is a technical writer on Medium and Substack, and an editor for multiple tech publications on Medium. Her work centers on helping teams move GenAI initiatives from experimentation to production by emphasizing observability, robust orchestration, and rigorous testing practices.
