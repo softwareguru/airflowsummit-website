@@ -4,9 +4,23 @@ title: "Tickets"
 
 ### Get your tickets for attending Airflow Summit 2026!
 
+<script>
+  window.tito = window.tito || function () {
+    (tito.q = tito.q || []).push(arguments);
+  };
+
+  tito("config.set", {
+    linkedin: {
+      purchase_conversion_id:         27306172
+    }
+  });
+
+  tito("plugin.load", "linkedin");
+</script>
 
 <script src="https://js.tito.io/v2/with/ga4,hits" async></script>
 <tito-widget event="airflowsummit/2026"></tito-widget>
+
 
 ****Ticket prices are in US dollars.****
 
