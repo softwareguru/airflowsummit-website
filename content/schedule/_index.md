@@ -228,12 +228,6 @@ days:
         label: "11:30"
         gridarea: "7/1/8/2"
 
-      - type: activity
-        label: "Presented by BMC"
-        gridarea: "7/3/8/4"
-        timelabel: "11:30 - 12:00"
-        gridaream: "13/1/14/2"
-
       - type: timelabel
         label: "12:00"
         gridarea: "8/1/9/2"

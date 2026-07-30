@@ -110,7 +110,7 @@ All tables will be dressed with black conference linen and will have access to p
 - Airflow Demos: High cocktail table. Allowed to place rollup banner or screen.
 
 
-<img src="/images/partners/sponsors-page/2026/event-plan-2-1.png" class="img-fluid mx-auto d-block mt-4" >
+<img src="/images/partners/sponsors-page/2026/event-plan-2-1-1.png" class="img-fluid mx-auto d-block mt-4" >
 
 <p class="text-center">*This layout is for reference only and may be subject to changes</p>
 
