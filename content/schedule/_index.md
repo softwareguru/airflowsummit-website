@@ -40,12 +40,12 @@ days:
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 7"
+        label: "Hill Country CD"
         gridarea: "1/5/2/6"
         gridareamnone: true
 
       - type: activity
-        label: "Hill Country CD"
+        label: "Hill Country AB"
         gridarea: "1/6/2/8"
         gridareamnone: true
 
