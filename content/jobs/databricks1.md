@@ -1,11 +1,11 @@
 ---
-title: "Software Engineer - Lakeflow PhD Candidates"
-date: 2024-09-08T23:31:22-07:00
+title: "Sr. Developer Advocate - Neon"
+date: 2026-06-08T08:31:22-07:00
 company: "Databricks"
 image: /images/partners/databricks.png
-location: Mountain View, California
-extlink: https://www.databricks.com/company/careers/engineering/software-engineer----lakeflow-phd-candidates--7995744002
-draft: true
+location: San Francisco, California
+extlink: https://www.databricks.com/company/careers/product/sr-developer-advocate---neon-8428818002
+draft: false
 ---
 
 

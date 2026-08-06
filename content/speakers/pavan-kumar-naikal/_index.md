@@ -3,7 +3,7 @@ title: "Pavan Kumar Naikal"
 date: 2026-07-17T09:16:22-06:00
 images: 
  - /images/speakers/pavan-kumar-naikal.jpg
-designation: Data Engineer
+designation: Data Engineer @ Capital One
 twitter: 
 linkedin: 
 github: 
