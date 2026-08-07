@@ -1,8 +1,8 @@
 ---
-title: "Qbiz"
-level: "bronze"
-logo: "/images/partners/Qbiz.png"
-webUrl: "https://www.qbizinc.com/"
-weight: 1
-draft: true
+title: "CIOReview"
+level: "community"
+logo: "/images/partners/cio.png"
+webUrl: "https://www.cioreview.com/"
+weight: 9
+draft: false
 ---
