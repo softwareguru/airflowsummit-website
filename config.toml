@@ -131,6 +131,13 @@ speaker = "speakers"
     parent = "attend"
     weight = 9
 
+  [[menu.main]]
+    identifier = "activities"
+    name = "Off the Schedule Activities"
+    url = "/off-the-schedule-activities"
+    parent = "attend"
+    weight = 10
+
 ## /attend ##
 
 
