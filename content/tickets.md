@@ -4,6 +4,21 @@ title: "Tickets"
 
 ### Get your tickets for attending Airflow Summit 2026!
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DQ3SEJY0LP"></script>
+
+<script>
+window.dataLayer = window.dataLayer || [];
+
+function gtag() {
+    dataLayer.push(arguments);
+}
+
+gtag('js', new Date());
+gtag('config', 'G-DQ3SEJY0LP');
+</script>
+
+
 <script>
   window.tito = window.tito || function () {
     (tito.q = tito.q || []).push(arguments);
@@ -18,8 +33,9 @@ title: "Tickets"
   tito("plugin.load", "linkedin");
 </script>
 
-<script src="https://js.tito.io/v2/with/ga4,hits" async></script>
-<tito-widget event="airflowsummit/2026"></tito-widget>
+<script src="https://js.tito.io/v2/with/ga4,hits,facebook" async></script>
+
+<tito-widget event="airflowsummit/2026" save-metadata-parameters="utm_*">></tito-widget>
 
 
 ****Ticket prices are in US dollars.****
