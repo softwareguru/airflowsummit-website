@@ -98,9 +98,12 @@ Attendees have the option to park at the **Hyatt Regency** during the summit. Di
 
 For other parking options, we recommend the following:
 
-* Premium Parking <a href="https://maps.app.goo.gl/C6Aaxt1DmRsxtNGg9?g_st=ic" target="_blank">P3145</a> OR <a href="https://maps.app.goo.gl/camc1SX67D8ird5U9?g_st=ic" target="_blank">P3143</a>, 3 min walk & $5-8 / hr
-* <a href="https://www.google.com/maps/place/676+W+Riverside+PayParking/@30.2612873,-97.7490182,16z/data=!3m1!4b1!4m6!3m5!1s0x8644b505b2e8ea9b:0x6386856734a3246d!8m2!3d30.2612873!4d-97.7490182!16s%2Fg%2F11f_p34xpq!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank">676 W Riverside PayParking</a>, 5 min walk & approx. $5 / hr 
-* <a href="https://maps.app.goo.gl/zyPxSnzMDLY8mKTE9?g_st=ic" target="_blank">301 W Riverside Lot</a>, 5 min walk & $5-8 / hr 
-* <a href="https://maps.app.goo.gl/RLnmmU16LUcaUrWF8?g_st=ic" target="_blank">One Texas Center Parking</a>, 8 min walk & $5 / hr
+* Premium Parking <a href="https://maps.app.goo.gl/C6Aaxt1DmRsxtNGg9?g_st=ic" target="_blank">P3145</a> OR <a href="https://maps.app.goo.gl/camc1SX67D8ird5U9?g_st=ic" target="_blank">P3143</a> - 3-minute walk with an approximate of $5 to $8 / hr.
+
+* <a href="https://www.google.com/maps/place/676+W+Riverside+PayParking/@30.2612873,-97.7490182,16z/data=!3m1!4b1!4m6!3m5!1s0x8644b505b2e8ea9b:0x6386856734a3246d!8m2!3d30.2612873!4d-97.7490182!16s%2Fg%2F11f_p34xpq!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgwOS4wIKXMDSoASAFQAw%3D%3D" target="_blank">676 W Riverside PayParking</a> - 5-minute walk with an approximate of $5 / hr. 
+
+* <a href="https://maps.app.goo.gl/zyPxSnzMDLY8mKTE9?g_st=ic" target="_blank">301 W Riverside Lot</a> - 5-minute walk with an approximate of $5 to $8 / hr. 
+
+* <a href="https://maps.app.goo.gl/RLnmmU16LUcaUrWF8?g_st=ic" target="_blank">One Texas Center Parking</a> - 8-minute walk with an approximate of $5 / hr.
 
 ***Note that rates can vary depending on time, demand, and special events.***
