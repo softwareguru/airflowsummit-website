@@ -25,6 +25,5 @@ All information provided in this form will be used solely for scholarship evalua
 
 **You have until August 7th to apply.**
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdBhn9YnvDeeQ6BNAIkxofGMw6ziSN5cDkhjml3uxEjlfsssA/viewform" target="_blank" class="text-decoration-none">
-  <button class="btn mb-4 btn-rounded btn-primary hero-button mx-auto d-block">Apply for a scholarship!</button>
-</a>
+<button class="btn mb-4 btn-rounded btn-primary hero-button mx-auto d-block" type="button" disabled>Apply for a scholarship!</button>
+
