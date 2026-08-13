@@ -3,7 +3,7 @@ title: "Yashas Prashanth"
 date: 2026-05-27T13:37:27-06:00
 images: 
  - /images/speakers/yashas-prashanth.jpg
-designation: Software Engineer at Amazon
+designation: Amazon - SDE
 twitter: 
 linkedin: https://www.linkedin.com/in/yashas-prashanth/
 github: 
