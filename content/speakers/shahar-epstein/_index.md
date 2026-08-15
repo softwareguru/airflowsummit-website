@@ -3,7 +3,7 @@ title: "Shahar Epstein"
 date: 2024-06-10T22:44:04-06:00
 images: 
  - /images/speakers/shahar-epstein.jpg
-designation: Airflow PMC Member & Senior Software Engineer at NCR Voyix
+designation: Senior Software Engineer at NCR Voyix & Airflow PMC Member
 twitter: 
 linkedin: https://www.linkedin.com/in/shahar-epstein/
 github: 

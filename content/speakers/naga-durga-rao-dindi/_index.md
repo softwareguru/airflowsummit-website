@@ -1,6 +1,6 @@
 ---
 title: "Naga Durga Rao Dindi"
-designation: "Data Engineer at Citi"
+designation: "Data Engineer at Toyota"
 images:
  - /images/speakers/naga-durga-rao-dindi.jpg
 twitter: 
