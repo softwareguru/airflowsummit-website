@@ -18,14 +18,14 @@ days:
     enabled: true
     title_short: Monday
     title_full: Monday, August 31, 2026
-    rooms: ["Texas Ballroom 1-2-3", "Texas Ballroom 5", "Texas Ballroom 6", "Texas Ballroom 7", "Hill Country CD"]
+    rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Texas Ballroom 6", "Texas Ballroom 7", "Hill Country CD"]
     schedule_items: 
 
 
 ################## Rooms header ##################
 
       - type: activity
-        label: "Texas Ballroom 1-2-3"
+        label: "Texas Ballroom 1"
         gridarea: "1/2/2/3"
         gridareamnone: true
 
@@ -65,10 +65,6 @@ days:
         label: "9:10"
         gridarea: "3/1/4/2"
 
-      - type: activity
-        label: ""
-        gridarea: "3/4/4/5"
-        gridareamnone: true
 
       - type: activity
         label: ""
@@ -165,13 +161,13 @@ days:
     enabled: true
     title_short: Tuesday
     title_full: Tuesday, September 1, 2026
-    rooms: ["Texas Ballroom 1-2-3", "Texas Ballroom 5", "Texas Ballroom 6", "Hill Country CD", "Hill Country AB"]
+    rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Texas Ballroom 6", "Hill Country CD", "Hill Country AB"]
     schedule_items: 
 
 ################## Rooms header ##################
 
       - type: activity
-        label: "Texas Ballroom 1-2-3"
+        label: "Texas Ballroom 1"
         gridarea: "1/2/2/3"
         gridareamnone: true
 
@@ -288,14 +284,14 @@ days:
     enabled: true
     title_short: Wednesday
     title_full: Wednesday, September 2, 2026
-    rooms: ["Texas Ballroom 1-2-3", "Texas Ballroom 5", "Hill Country CD", "Hill Country AB"]
+    rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Hill Country CD", "Hill Country AB"]
     schedule_items: 
 
 
 ################## Rooms header ##################
 
       - type: activity
-        label: "Texas Ballroom 1-2-3"
+        label: "Texas Ballroom 1"
         gridarea: "1/2/2/3"        
         gridareamnone: true
 

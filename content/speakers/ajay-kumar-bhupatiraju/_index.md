@@ -6,6 +6,7 @@ images:
 events:
  - 2026
 linkedin: https://www.linkedin.com/in/ajaybhupatiraju/
+draft: true
 ---
 
 Data Scientist with over 8 years of experience designing and operating enterprise analytics and data platforms in financial services, retail, and higher-education environments.
