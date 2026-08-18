@@ -11,4 +11,4 @@ events:
  - 2026
 ---
 
-Rumeysa Ozaydin is a software engineer at Bloomberg, where she works on large-scale workflow orchestration and infrastructure platforms. She is part of the team operating a production Apache Airflow environment that orchestrates compute workflows at scale, powering the provisioning and decommissioning of infrastructure across thousands of virtual machines.
+Rumeysa Ozaydin is a software engineer at Bloomberg, where she works on large-scale workflow orchestration and infrastructure platforms. She is part of the team operating a managed Apache Airflow environment in production, which orchestrates compute workflows at scale to power the provisioning and decommissioning of infrastructure across thousands of virtual machines.

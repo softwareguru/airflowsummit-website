@@ -3,7 +3,7 @@ title: "Jason Housman"
 date: 2026-08-13T14:15:18-06:00
 images: 
  - /images/speakers/jason-housman.jpg
-designation: Senior Software Engineer
+designation: Senior Software Engineer @ Capital One
 twitter: 
 linkedin: https://www.linkedin.com/in/jason-housman
 github: 

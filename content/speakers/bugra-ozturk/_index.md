@@ -9,7 +9,6 @@ linkedin: https://www.linkedin.com/in/bugraozturk93/
 github: 
 events:
  - 2025
- - 2026
 featured: true
 ---
 

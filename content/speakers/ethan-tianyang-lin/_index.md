@@ -11,4 +11,4 @@ events:
  - 2026
 ---
 
-Ethan Lin is a Site Reliability Engineer at Bloomberg, where he focuses on workflow orchestration platform services. He is a key contributor to Bloomberg's Apache Airflow platform, helping drive reliability and scalability for critical infrastructure pipelines. Ethan is passionate about building robust, production-grade orchestration systems at scale.
+Ethan Lin is a Site Reliability Engineer at Bloomberg, where he focuses on workflow orchestration platform services. He is a key contributor to Bloomberg’s managed Apache Airflow platform, helping drive reliability and scalability for key infrastructure pipelines. Ethan is passionate about building robust, production-grade orchestration systems at scale.
