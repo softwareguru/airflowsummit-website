@@ -3,7 +3,7 @@ title: "Palak Patel"
 date: 2026-06-17T17:40:04-06:00
 images: 
  - /images/speakers/palak-patel.png
-designation: Senior Data & AI strategic cloud engineer at Google
+designation: Google Data & AI Engineer
 twitter: 
 linkedin: 
 github: 
