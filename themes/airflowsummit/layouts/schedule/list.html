@@ -87,11 +87,11 @@
         <div class="daygrid-xs">
             {{ range (where .schedule_items ".type" "activity") }}
             {{ if .gridareamnone }}
-              
+             
             {{ else }}
             <div id="{{ .location}}" class="{{.type}}" {{ with .gridaream }}style="grid-area: {{ . | safeCSS}};"{{end}}><div class="session-time hour">{{.timelabel}}</div>{{.label}}
             {{ with .description }}
-                <p id="reception" class="mt-2" style="font-size: 16px;">{{ . }}</p>
+                <p class="mt-2" style="font-size: 16px;">{{ . }}</p>
             {{ end }}</div>
             {{ end }}
             {{ end }}
