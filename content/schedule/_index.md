@@ -145,15 +145,21 @@ days:
       - type: timelabel
         label: "17:00"
         gridarea: "18/1/19/2"
+        #id location towards the reception area
+        location: "reception"
 
       - type: timelabel
         label: "17:30"
         gridarea: "20/1/21/2"
 
+
       - type: activity
         label: "Reception"
+        time: "17:30 - 19:30"
+     
+        description: "Join the Airflow community for an evening of drinks, hors d’oeuvres, networking, and great conversations, sponsored by BMC. Connect with fellow attendees, speakers, and community members while enjoying a relaxed evening together."
         gridarea: "20/2/21/8"
-        timelabel: "17:30 - 19:15"
+        timelabel: "17:30 - 19:30"
         gridaream: "52/1/53/2"
 
 
@@ -262,7 +268,7 @@ days:
         label: "Coffee break"
         gridarea: "14/2/15/8"
         timelabel: "15:30 - 16:00"
-        gridaream: "29/1/30/2"
+        gridaream: "30/1/31/2"
 
       - type: timelabel
         label: "16:00"

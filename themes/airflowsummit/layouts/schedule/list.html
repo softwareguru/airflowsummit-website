@@ -33,9 +33,22 @@
       
       <div class="d-none d-sm-block">
       
+
+
         <div class="daygrid">    
             {{ range .schedule_items }}
-              <div class="{{.type}}" {{ with .gridarea }}style="grid-area: {{. | safeCSS}};"{{end}}>{{.label}}</div>
+
+              <div id="{{ .location}}" class="{{.type}}" {{ with .gridarea }}style="grid-area: {{. | safeCSS}};"{{end}}>{{.label}}
+
+                {{ with .time }}
+                {{ . }}
+                {{ end }}
+
+                {{ with .description }}
+                <p class="mt-2" style="font-size: 16px;">{{ . }}</p>
+                {{ end }}
+              </div>
+              
             {{ end }}
             
             {{ range sort (sort (where (where $.Site.Pages "Section" "sessions") ".Params.day" $curr_day )  ".Title") ".Params.time_start" }}
@@ -76,7 +89,10 @@
             {{ if .gridareamnone }}
               
             {{ else }}
-            <div class="{{.type}}" {{ with .gridaream }}style="grid-area: {{ . | safeCSS}};"{{end}}><div class="session-time hour">{{.timelabel}}</div>{{.label}}</div>
+            <div id="{{ .location}}" class="{{.type}}" {{ with .gridaream }}style="grid-area: {{ . | safeCSS}};"{{end}}><div class="session-time hour">{{.timelabel}}</div>{{.label}}
+            {{ with .description }}
+                <p id="reception" class="mt-2" style="font-size: 16px;">{{ . }}</p>
+            {{ end }}</div>
             {{ end }}
             {{ end }}
 

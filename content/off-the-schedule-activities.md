@@ -16,7 +16,7 @@ Exclusive networking activities have been designed just for you! Extend your sum
 
 Kick off Airflow Summit 2026 at our **<a href="https://www.bmc.com/" target="_blank">Opening Reception sponsored by BMC.</a>** Join fellow attendees, speakers, and community members for an evening of networking, conversations, and refreshments as we celebrate the start of the Summit together.
 
-* **Where and when?** Hyatt Regency terrace from **5:30-7:30 PM.**
+* **Where and when?** Hyatt Regency terrace, 2nd Floor from **5:30-7:30 PM.**
 
 <br>
 
@@ -24,11 +24,11 @@ Kick off Airflow Summit 2026 at our **<a href="https://www.bmc.com/" target="_bl
 
 Start your Airflow Summit mornings with movement and connection! Join fellow attendees for a **<a style="color: #fd7e62">morning run</a>** before the schedule begins. Get your workout done, enjoy Austin’s scenic trails, and start your day feeling energized.
 
-* Meeting point: Access through the <a href="https://maps.app.goo.gl/BwhsdJq88rdsG1Nk6?g_st=ic" target="_blank">Hyatt Regency’s terrace</a>, time TBD.
+* **Meeting point:** Access through the <a href="https://maps.app.goo.gl/BwhsdJq88rdsG1Nk6?g_st=ic" target="_blank">Hyatt Regency’s terrace</a> 1st Floor at **7:30 AM.**
 
 Prefer to be on the water? Join a **<a href="https://capitalcruises.com/boat-rentals-on-lady-bird-lake/" target="_blank">kayaking adventure</a>** on Lady Bird Lake and experience Austin from a different perspective while taking in the skyline, enjoying the outdoors, and creating memorable moments before the day begins.
 
-* Meeting point: Access through the <a href="https://www.google.com/maps/place/Capital+Cruises/@30.2611743,-97.749389,17z/data=!4m12!1m5!3m4!2zMzDCsDE1JzQwLjIiTiA5N8KwNDQnNDguNSJX!8m2!3d30.2611743!4d-97.7468141!3m5!1s0x8644b504282be4a9:0xd5993585320e0296!8m2!3d30.2612697!4d-97.7472973!16s%2Fg%2F1ths9rh1!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Hyatt Regency’s terrace</a>, time TBD. 
+* **Meeting point:** Access through the <a href="https://www.google.com/maps/place/Capital+Cruises/@30.2611743,-97.749389,17z/data=!4m12!1m5!3m4!2zMzDCsDE1JzQwLjIiTiA5N8KwNDQnNDguNSJX!8m2!3d30.2611743!4d-97.7468141!3m5!1s0x8644b504282be4a9:0xd5993585320e0296!8m2!3d30.2612697!4d-97.7472973!16s%2Fg%2F1ths9rh1!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Hyatt Regency’s terrace</a> 1st Floor at **7:30 AM.**
 
 
 <div class="container text-center">
@@ -50,7 +50,7 @@ Prefer to be on the water? Join a **<a href="https://capitalcruises.com/boat-ren
 **Tuesday Night:**
 
 Keep the Summit’s energy going after hours with a night at **<a href="https://www.petesduelingpianobar.com/" target="_blank">Pete’s Piano Bar!</a>** Enjoy live music, sing-along favorites, and a lively Austin atmosphere while connecting with fellow attendees in a fun and relaxed setting.
-* **Location:** <a href="https://maps.app.goo.gl/V3TB2J8EMJyrbzCV8" target="_blank">421 East 6th Street</a> 
+* **Location:** <a href="https://maps.app.goo.gl/V3TB2J8EMJyrbzCV8" target="_blank">421 East 6th Street</a>  doors open at **7:30 PM.** 
 * **Walking distance:** 25 minutes 
 
 <br>
@@ -63,7 +63,7 @@ Close out the Summit experience with one of Austin’s most iconic sights! Watch
 
 Keep the celebration going at **<a href="https://speakeasyaustin.com/spazmatics/" target="_blank">Spazmatics Speakeasy</a>** for an unforgettable night of live music, dancing, and classic Austin entertainment. Wrap up your Summit experience with great energy, fun, and a taste of Austin’s vibrant nightlife.
 
-* **Location:** <a href="https://www.google.com/maps/place/Speakeasy/@30.2668156,-97.7460939,17z/data=!3m1!4b1!4m6!3m5!1s0x8644b5084e4255d9:0xfb9319aa86329575!8m2!3d30.2668156!4d-97.743519!16s%2Fm%2F0k2_b3s?entry=ttu&g_ep=EgoyMDI2MDgwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">412 Congress Ave</a>
+* **Location:** <a href="https://www.google.com/maps/place/Speakeasy/@30.2668156,-97.7460939,17z/data=!3m1!4b1!4m6!3m5!1s0x8644b5084e4255d9:0xfb9319aa86329575!8m2!3d30.2668156!4d-97.743519!16s%2Fm%2F0k2_b3s?entry=ttu&g_ep=EgoyMDI2MDgwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">412 Congress Ave</a>, doors open at **8:00 PM** and the show starts at **9:30 PM.**
 * **Walking distance:** 17 minutes
 
 
