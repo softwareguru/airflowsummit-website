@@ -141,12 +141,13 @@ days:
         gridarea: "17/2/18/8"
         timelabel: "16:30 - 16:50"
         gridaream: "49/1/50/2"
+        #id location towards the reception area
+        location: "reception"
 
       - type: timelabel
         label: "17:00"
         gridarea: "18/1/19/2"
-        #id location towards the reception area
-        location: "reception"
+
 
       - type: timelabel
         label: "17:30"
