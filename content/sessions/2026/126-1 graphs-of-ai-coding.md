@@ -23,8 +23,10 @@ Enter Apache Airflow. With recent moves toward sandboxed execution (like PR #688
 
 This session explores modeling AI software engineering as an Airflow DAG. We will cover:
 
--The AI Coding Graph: Breaking down agentic refactoring into MapReduce DAGs.
--The Sandbox Imperative: Why ephemeral containers fail AI agents, and how Airflow's sandboxed execution secures untrusted model code.
--State and Caching: Managing unified caching and persistent state for massive agent-driven build tasks.
+1) The AI Coding Graph: Breaking down agentic refactoring into MapReduce DAGs.
+
+2) The Sandbox Imperative: Why ephemeral containers fail AI agents, and how Airflow's sandboxed execution secures untrusted model code.
+
+3) State and Caching: Managing unified caching and persistent state for massive agent-driven build tasks.
 
 Leave with a blueprint for using Airflow as the central nervous system for autonomous software engineering.

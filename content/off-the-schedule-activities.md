@@ -22,14 +22,13 @@ Kick off Airflow Summit 2026 at our **<a href="https://www.bmc.com/" target="_bl
 
 **Monday, Tuesday, and Wednesday Morning:**
 
-Start your Airflow Summit mornings with movement and connection! Join fellow attendees for a **<a style="color: #fd7e62">morning run</a>** before the schedule begins. Get your workout done, enjoy Austin’s scenic trails, and start your day feeling energized.
+Start your Airflow Summit mornings with movement and connection! Join fellow attendees for a **<a style="color: #fd7e62">morning run</a>** before the schedule begins. Get your workout done, enjoy Austin’s scenic trails, and start your day feeling energized.All paces are welcome, and walking is always an option.
 
-* **Meeting point:** Access through the <a href="https://maps.app.goo.gl/BwhsdJq88rdsG1Nk6?g_st=ic" target="_blank">Hyatt Regency’s terrace</a> 1st Floor at **7:30 AM.**
+**Meeting point:** Ann and Roy Butler Hike and Bike Trail on the waterfront behind the Hyatt Regency Austin at **7:00 AM.**
 
 Prefer to be on the water? Join a **<a href="https://capitalcruises.com/boat-rentals-on-lady-bird-lake/" target="_blank">kayaking adventure</a>** on Lady Bird Lake and experience Austin from a different perspective while taking in the skyline, enjoying the outdoors, and creating memorable moments before the day begins.
 
-* **Meeting point:** Access through the <a href="https://www.google.com/maps/place/Capital+Cruises/@30.2611743,-97.749389,17z/data=!4m12!1m5!3m4!2zMzDCsDE1JzQwLjIiTiA5N8KwNDQnNDguNSJX!8m2!3d30.2611743!4d-97.7468141!3m5!1s0x8644b504282be4a9:0xd5993585320e0296!8m2!3d30.2612697!4d-97.7472973!16s%2Fg%2F1ths9rh1!18m1!1e1?entry=ttu&g_ep=EgoyMDI2MDgwNC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Hyatt Regency’s terrace</a> 1st Floor at **7:30 AM.**
-
+**Meeting point:** Capital Cruises at **7:00 AM.** Access through the Ripple & Roots Restaurant at the Hyatt Regency Autin.
 
 <div class="container text-center">
   <div class="row">
@@ -59,7 +58,7 @@ Keep the Summit’s energy going after hours with a night at **<a href="https://
 
 Close out the Summit experience with one of Austin’s most iconic sights! Watch **<a href="https://austinbatrefuge.org/congress-avenue-bridge/" target="_blank">thousands of bats</a>** take flight at sunset from under the Congress Bridge, and enjoy a memorable moment that captures the spirit of the city.
 
-* **Meeting point:** Access through the <a href="https://maps.app.goo.gl/BwhsdJq88rdsG1Nk6?g_st=ic" target="_blank">Hyatt Regency’s terrace</a> **at 8:00 PM.**
+**Meeting point:** Access through the <a href="https://maps.app.goo.gl/BwhsdJq88rdsG1Nk6?g_st=ic" target="_blank">Hyatt Regency’s terrace</a> at **7:30 PM.**
 
 Keep the celebration going at **<a href="https://speakeasyaustin.com/spazmatics/" target="_blank">Spazmatics Speakeasy</a>** for an unforgettable night of live music, dancing, and classic Austin entertainment. Wrap up your Summit experience with great energy, fun, and a taste of Austin’s vibrant nightlife.
 
