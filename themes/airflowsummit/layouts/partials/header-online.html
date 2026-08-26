@@ -13,7 +13,7 @@
     <!--  MAIN MENU  -->
     <div class="collapse navbar-collapse text-center" id="navigation">
       <ul class="navbar-nav ms-auto justify-content-end">
-        {{ range .Site.Menus.main }}
+        {{ range .Site.Menus.onlinereconnect }}
         {{ if .HasChildren }}
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
@@ -33,19 +33,19 @@
         {{ end }}
         {{ end }}
 
-        {{ if .Site.Params.navigation_button.enable }}
+        {{ if .Site.Params.navigation_button_online.enable }}
         <li class="nav-item d-lg-none">
-          <a id="nav-button" href="{{ .Site.Params.navigation_button.link | relURL }}" class="btn btn-menu text-white">{{
-            .Site.Params.navigation_button.label }}</a>
+          <a id="nav-button" href="{{ .Site.Params.navigation_button_online.link | relURL }}" class="btn btn-menu text-white">{{
+            .Site.Params.navigation_button_online.label }}</a>
         </li>
         {{ end }}
       </ul>      
     </div>
-    {{ if .Site.Params.navigation_button.enable }}
+    {{ if .Site.Params.navigation_button_online.enable }}
     <ul class="navbar-nav ms-auto align-items-center">
       <li class="nav-item d-none d-lg-block push-right mt-2">
-        <a id="nav-button" href="{{ .Site.Params.navigation_button.link | relURL }}" class="btn btn-menu btn-rounded text-uppercase {{ if hasPrefix .RelPermalink "/onlinereconnect/" }} online-reconnect {{end}}">{{
-      .Site.Params.navigation_button.label }}</a>
+        <a id="nav-button" href="{{ .Site.Params.navigation_button_online.link | relURL }}" class="btn btn-menu btn-rounded text-uppercase {{ if hasPrefix .RelPermalink "/onlinereconnect/" }} online-reconnect {{end}}">{{
+      .Site.Params.navigation_button_online.label }}</a>
        </li>
     </ul>
   {{ end }}

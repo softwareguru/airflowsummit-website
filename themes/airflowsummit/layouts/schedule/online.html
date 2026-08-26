@@ -44,8 +44,8 @@
                     <img src="https://cdn.addevent.com/libs/imgs/icon-calendar-t1.svg" alt="" style="width:18px;" />
                     <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                     <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
-                    <span class="timezone">UTC</span>
-                    <span class="title">AS25: {{.Title}}</span>
+                    <span class="timezone">America/Chicago</span>
+                    <span class="title">AS26: {{.Title}}</span>
                     <span class="description">{{.Content}}</span>
                     <span class="location">{{.Params.room}}</span>
                   </div>

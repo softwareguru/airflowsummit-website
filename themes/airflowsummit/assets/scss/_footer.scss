@@ -1,8 +1,12 @@
-
-// Footer 2025
+// Footer 2026
 
 .footer-section-container {
 	background-color: $footer;
+	padding: 20px 0 1px 0;
+}
+
+.footer-section-container.online-reconnect {
+	background-color: $green-online;
 	padding: 20px 0 1px 0;
 }
 
@@ -24,7 +28,6 @@
 
 footer {
 	min-height: unset;
-	border-top: 2px solid $primary-color;
 
 	.footer-section {
 		display: flex;

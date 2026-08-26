@@ -14,14 +14,44 @@ section.hero-2025 {
   }
 } 
 
-.reconnect-2026 { 
+
+/*Online reconnect*/
+
+section.hero-online-2025 { 
+  background-image: url(/images/stars-bg-2026.png);
+	background-size: cover;
+	background-position: center;
+  position: relative;   /* clave: define el contenedor de referencia */
+  width: 100%;
+  overflow: hidden;
+  min-height: 85vh;
+  margin-top: -60px;
+  @media (min-width:1600px) {
+    padding-top: 20px;
+    padding-bottom: 40px;
+  }
+  @media (max-width:640px) {
+    margin-top: -80px;
+  }
+} 
+
+
+.ciberword { 
   background-image: url(/images/airflow-reconnect-2026.webp);
 	background-size: cover;
 	background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  min-height: 100vh;
+  min-height: 70vh;
+} 
 
+
+.reconnect-2026 { 
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 5; 
 } 
 
 

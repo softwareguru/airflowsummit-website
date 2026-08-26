@@ -1,6 +1,6 @@
 {{ $links := .Site.Params.links }}
 
-<footer class="footer-section-container">
+<footer class="footer-section-container {{ if hasPrefix .RelPermalink "/onlinereconnect/" }} online-reconnect {{end}}">
     <div class="container mt-4 mb-4">
         <div class="row align-items-start">
             <div class="col mb-4">

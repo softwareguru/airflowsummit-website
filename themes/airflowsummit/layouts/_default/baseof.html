@@ -8,7 +8,11 @@
 </head>
 
 <body>
-	{{- partial "header.html" . -}}
+	{{ if hasPrefix .RelPermalink "/onlinereconnect/" }}
+	{{ partial "header-online.html" . }}
+	{{ else }}
+	{{ partial "header.html" . }}
+	{{ end }}
 	<div class="fixed-header-spacer"></div>
 	<div class="main">
 		{{ if not .IsHome }}
@@ -19,6 +23,6 @@
 	{{- partial "footer.html" . -}}
 </body>
 
-	{{- partial "google-tag-manager-noscript.html" . -}}
+{{- partial "google-tag-manager-noscript.html" . -}}
 
 </html>

@@ -2,6 +2,12 @@
   background-color: $header;
 }
 
+.header-bar.online-reconnect {
+  background-color: $green-online;
+}
+
+
+
 .navbar {
   align-items: flex-end;
   @media (min-width: 1600px) {
@@ -27,6 +33,14 @@
 .btn-menu{
 	background-color: $black !important;
   color: $cyan;
+  &:hover{
+    color: white;
+  }
+}
+
+.btn-menu.online-reconnect {
+	background-color: $black !important;
+  color: $green-online;
   &:hover{
     color: white;
   }
