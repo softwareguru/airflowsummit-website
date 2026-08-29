@@ -10,6 +10,11 @@ draft: false
 
 Exclusive networking activities have been designed just for you! Extend your summit experience by joining the Opening Reception, Lightning Talks, and interactive Community discussions. Capitalizing on our unique venue location, you can participate in a morning run, discover Lady Bird Lake via kayaking, or enjoy after-hours options like live music, authentic Texas BBQ, and the famous bat sightings right under the Congress Bridge next to the venue.
 
+
+<br>
+
+**Note:** These activities are suggestions and are not organized by the committee. They’re a chance for the Airflow community to keep connecting after program hours. For questions or to find others joining, post in #airflow-summit-2026 on Slack.
+
 <br>
 
 **Monday Night:**
@@ -28,7 +33,7 @@ Start your Airflow Summit mornings with movement and connection! Join fellow att
 
 Prefer to be on the water? Join a **<a href="https://capitalcruises.com/boat-rentals-on-lady-bird-lake/" target="_blank">kayaking adventure</a>** on Lady Bird Lake and experience Austin from a different perspective while taking in the skyline, enjoying the outdoors, and creating memorable moments before the day begins.
 
-**Meeting point:** Capital Cruises at **7:00 AM.** Access through the Ripple & Roots Restaurant at the Hyatt Regency Autin.
+**Meeting point:** Capital Cruises at **7:00 AM.** Access through the Ripple & Roots Restaurant at the Hyatt Regency Austin.
 
 <div class="container text-center">
   <div class="row">
