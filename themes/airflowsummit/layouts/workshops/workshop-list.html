@@ -8,7 +8,7 @@
     <br>
 
     <div class="row">
-     {{ range sort (where (where .Site.Pages "Type" "sessions") ".Params.workshop2026" true) ".Params.time_start" }}              
+     {{ range where (where .Site.Pages "Type" "sessions") ".Params.workshop2026" true }}              
  
       <div class="col-12 col-lg-4 mb-4">
         <div class="card h-100 mx-2 my-3">
