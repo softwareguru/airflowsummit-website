@@ -10,4 +10,4 @@ summary: "Welcome to the session program for Airflow Summit."
 description: "Welcome to the session program for Airflow Summit."
 ---
 
-## Monday, August 31st - Texas Ballroom 1
+## Wednesday, September 2nd - Texas Ballroom 1

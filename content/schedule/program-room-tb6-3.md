@@ -1,7 +1,6 @@
 ---
-title: "Texas Ballroom 5 - Day 3"
+title: "Texas Ballroom 6 - Day 3"
 day: 20263
-room: Texas Ballroom 5
+room: Texas Ballroom 6
 layout: program-room
 ---
-

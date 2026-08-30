@@ -173,10 +173,15 @@ speaker = "speakers"
 
 ### Online Reconnect menu
 
-#[[menu.onlinereconnect]]
-#  name = ""
-#  url = "/"
-#  weight = 1
+[[menu.onlinereconnect]]
+  name = "Partnet with us"
+  url = "/docs/airflow-summit-online-reconnect-2026-prospectus.pdf"
+  weight = 1
+
+[[menu.onlinereconnect]]
+  name = "FAQs"
+  url = "/onlinereconnect/faq-online"
+  weight = 2
 
 
 # Everything below this are Site Params
@@ -215,8 +220,8 @@ link = "/tickets"
 # Navigation button online reconnect
 [params.navigation_button_online]
 enable = true
-label = "CFP open"
-link = "https://sessionize.com/airflow-summit-online-reconnect-2026"
+label = "Register now"
+link = "https://us.airmeet.com/e/727b81f0-a403-11f1-b69d-9bb4bd49a5a5"
 
 
 [params.links]

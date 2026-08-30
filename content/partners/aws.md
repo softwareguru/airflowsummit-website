@@ -4,5 +4,6 @@ level: "platinum"
 logo: "/images/partners/AWS_logo.png"
 webUrl: "https://aws.amazon.com/"
 weight: 3
+online: false
 draft: false
 ---
