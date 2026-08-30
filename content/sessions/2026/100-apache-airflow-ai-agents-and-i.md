@@ -10,7 +10,7 @@ topics:
 time_start: 2026-09-01 14:30:00
 time_end: 2026-09-01 15:00:00
 track: Builder
-room: Texas Ballroom 5
+room: Texas Ballroom 6
 day: 20262
 timeslot: 35
 gridarea: 12/3/13/4

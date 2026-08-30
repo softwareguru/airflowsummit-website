@@ -18,7 +18,7 @@ days:
     enabled: true
     title_short: Monday
     title_full: Monday, August 31, 2026
-    rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Texas Ballroom 6", "Texas Ballroom 7", "Hill Country CD"]
+    rooms: ["Texas Ballroom 1", "Texas Ballroom 6", "Texas Ballroom 7", "Hill Country CD", "Hill Country AB"]
     schedule_items: 
 
 
@@ -30,12 +30,12 @@ days:
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 5"
+        label: "Texas Ballroom 6"
         gridarea: "1/3/2/4"
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 6"
+        label: "Texas Ballroom 7"
         gridarea: "1/4/2/5"
         gridareamnone: true
 

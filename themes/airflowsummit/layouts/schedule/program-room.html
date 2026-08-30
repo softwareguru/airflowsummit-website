@@ -5,34 +5,35 @@
     </head>
     <body>
     <div class="container">
-        <div class="content mt-4 mb-3">
-          <h2>{{ .Title }}</h2>
+        <div class="content mt-4">
+          <h2>{{.Title}}</h2>
+          <div>
+          {{ .Content }}
+          </div>
         </div>
     
         <div>
-            {{ range sort (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" .Params.day) ".Params.room" .Params.room) ".Params.time_start" }}
+            {{ range sort (where (where (where $.Site.Pages "Section" "sessions") ".Params.day" .Params.day) ".Params.room" .Params.room) ".Params.timeslot" }}
             <div class="my-2">
                 <p class="my-1" style="color: #ff6600">{{ with .Params.time_start | time }}{{ .Format "15:04" }}{{ end }}{{ with .Params.time_end | time }} - {{ .Format "15:04" }}{{ end }}.</p>
                 <h3>{{ .Title }}</h3>
                 <div class="d-flex flex-wrap">
-                    {{ range .Params.speakers }}
-                        {{ $speaker_url := print "/speakers/" . | urlize }}
-                          {{ with $.Site.GetPage $speaker_url }}
-                            <div class="d-flex flex-wrap col">
-                                <div style="max-width:180px; min-width: 80px">{{ with .Params.images}}
-                                    <img class="img-fluid" src="{{ index . 0 }}" alt="">
-                                    {{ end }}
-                                </div>
-                                <div class="mx-3">
-                                    <h4>{{ .Title }}</h4>
-                                    {{ with .Params.designation }}{{ . }}{{ end }}
-                                </div>
-                            </div>
-                          {{ end }}
+                  {{ range .Params.speakers }}                                
+                    {{ $speaker_url := print "/speakers/" . | urlize }}
+                    {{ with $.Site.GetPage $speaker_url }}
+                    <div style="width:160px;">{{ with .Params.images}}
+                        <img class="img-fluid" src="{{ index . 0 }}" alt="">                        
+                       {{ end }}
+                    </div>
+                    <div class="col-2 px-3">
+                        <h4>{{ .Title }}</h4>
+                        {{ with .Params.designation }}{{ . }}{{ end }}
+                    </div>
                     {{ end }}
+                  {{ end }}
                 </div> 
             </div>
-            <hr style="border-bottom: solid 1px #404040;">
+            <hr style="border-bottom: solid 1px #404040; margin-bottom: 2em; margin-top: 2em;">
             {{ end }}
         </div>
     </div>

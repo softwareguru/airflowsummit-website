@@ -8,7 +8,7 @@ topics:
 time_start: 2026-09-01 17:30:00
 time_end: 2026-09-01 18:00:00
 track: Data & AI Applications
-room: Texas Ballroom 6
+room: Texas Ballroom 7
 day: 20262
 timeslot: 66
 gridarea: 18/4/19/5
