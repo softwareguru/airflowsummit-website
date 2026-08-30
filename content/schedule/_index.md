@@ -66,11 +66,6 @@ days:
         gridarea: "3/1/4/2"
 
 
-      - type: activity
-        label: ""
-        gridarea: "3/5/4/6"
-        gridareamnone: true
-
       - type: timelabel
         label: "9:30"
         gridarea: "4/1/5/2"
