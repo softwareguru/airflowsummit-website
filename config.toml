@@ -174,9 +174,14 @@ speaker = "speakers"
 ### Online Reconnect menu
 
 [[menu.onlinereconnect]]
+  name = "Partnet with us"
+  url = "/docs/airflow-summit-online-reconnect-2026-prospectus.pdf"
+  weight = 1
+
+[[menu.onlinereconnect]]
   name = "FAQs"
   url = "/onlinereconnect/faq-online"
-  weight = 1
+  weight = 2
 
 
 # Everything below this are Site Params
