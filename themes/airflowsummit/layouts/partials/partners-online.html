@@ -1,0 +1,19 @@
+<section id="partners" class="text-center py-4 text-dark">
+  <div class="container">
+    <h2 class="principles-header">Sponsors</h2>
+
+    {{range $index, $value := where (where (where .Site.RegularPages "Section" "partners") ".Params.level" "platinum") ".Params.online" true }}
+      {{ if eq $index 0 }}
+      <h3 class="my-3">Platinum</h3>
+      <div class="sponsor-strip platinum">
+      {{ end }}
+        <div class="sponsor-item">
+            <a title="{{ .Title }}" href="{{ .Params.webUrl }}" target="_blank">
+                <img src="{{ .Params.logo }}" alt="{{ .Title }}">
+            </a>
+        </div>
+    {{ end }}
+    </div>
+
+  </div>
+</section>
