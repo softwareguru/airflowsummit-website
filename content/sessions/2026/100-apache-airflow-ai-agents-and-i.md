@@ -16,6 +16,8 @@ timeslot: 35
 gridarea: 12/3/13/4
 slides: 
 video:
+images:
+ - images/sessions/2026/apache-airflow-ai-agents-and-i.png
 ---
 
 Importance of orchestration grows in AI and agentic area. Now we have both humans and agents authoring, adjusting and troubleshooting Airflow DAGs. What's more AI agentic capabilities are used inside of Airflow DAGs to tune task logic.
