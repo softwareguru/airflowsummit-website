@@ -1,0 +1,75 @@
+{{ $links := .Site.Params.links }}
+
+<footer class="footer-section-container {{ if hasPrefix .RelPermalink "/onlinereconnect/" }} online-reconnect {{end}}">
+    <div class="container mt-4 mb-4">
+        <div class="row align-items-start">
+            <div class="col mb-4">
+                <h4>Resources:</h4>
+                <ul>
+                    <!--<li><a href="/convince-your-boss/">Convince your boss</a></li>-->
+                    <!--<li><a href="/visa-letter-request/">Visa letter request</a></li>-->
+                    <!--<li><a href="/venue">Venue & Travel</a></li>-->
+                    <li><a href="/onlinereconnect/faq-online/">FAQs</a></li>
+                    <!--<li><a href="/partner-with-us">Partner with us</a></li>-->
+                </ul>
+            </div>
+            <div class="col mb-4">
+                <h4>Archive:</h4>
+                <ul>
+                    <!--<li><a href="/onlinereconnect/sessions/">Previous sessions</a></li>
+                    <li><a href="/onlinereconnect/speakers/archive">Previous speakers</a></li>-->
+                    <li><a href="https://www.youtube.com/playlist?list=PLGudixcDaxY1ojSWFr8j6S2zBaoXeKNra" target="_blank">Recordings</a></li>
+                </ul>
+
+            </div>
+            <div class="col footer-links">
+                <h4>Contact & Support:</h4>
+                <ul>
+                    <li><a href="/team">Organizers </a></li>
+                    <li><a href="/privacy">Privacy policy</a></li>
+                    <li><a href="/coc/">Code of conduct </a></li>
+                    <li class="email" style="color: black !important;">We are glad to assist: <a href="mailto:info@airflowsummit.org">info@airflowsummit.org</a>
+                    </li>
+                </ul>
+                {{ with $links }}
+                {{ with index . "media"}}
+                <ul class="list-inline mt-3">
+                    {{ range . }}
+                    <li class="list-inline-item mx-2 h3" data-toggle="tooltip" data-placement="top" title
+                        aria-label="{{ .name }}" data-original-title="{{ .name }}">
+                        <a title="{{ .name}}" target="_blank" href="{{ .url }}">
+                            <i class="{{ .icon }}"  aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    {{ end }}
+                </ul>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+
+    
+    <div class="footer-section footer-section__policies-section bg-dark">
+        <div class="container my-0 footer-section__policies-section--disclaimer">
+            <p>
+                Apache Airflow®, Apache, Airflow, the Airflow logo, and the Apache logo are either registered
+                trademarks or trademarks of the <a href="https://www.apache.org/" target="_blank">Apache Software
+                    Foundation</a> in the United States and/or other countries, and are used with permission. The Apache
+                Software Foundation has no affiliation with and does not endorse or review the materials provided at
+                this event, which is managed by SG Software Guru®.
+            </p>
+            <!--<p>Photographs used in this website are derived versions from <a href="https://photos.apachecon.com/?/category/1" target="_blank">ApacheCon Photo Gallery</a> licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>.</p>-->
+        </div>
+    </div>
+</footer>
+
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .link | relURL }}"></script>
+{{ end }}
+
+{{ "<!-- Main Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.Permalink }}"></script>

@@ -20,7 +20,13 @@
 		{{ end }}
 		{{- block "main" . }}{{- end }}
 	</div>
-	{{- partial "footer.html" . -}}
+
+	{{ if hasPrefix .RelPermalink "/onlinereconnect/" }}
+		{{ partial "footer-online.html" . }}
+	{{ else }}
+		{{ partial "footer.html" . }}
+	{{ end }}
+
 </body>
 
 {{- partial "google-tag-manager-noscript.html" . -}}

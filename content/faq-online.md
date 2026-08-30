@@ -1,0 +1,41 @@
+---
+title: "Frequently Asked Questions"
+layout: faq
+url: "/onlinereconnect/faq-online"
+---
+
+### Where is Airflow Summit?
+
+We will meet from August 31st to September 2nd at The Hyatt Regency Austin, 208 Barton Springs Rd, Austin, TX 78704.
+
+### Do I need a visa to travel to USA?
+Depending on your country of origin you may need a [visa](/visa-letter-request) to enter the United States of America. Please consider that if you need one, it is time to start the process so you don’t miss this event, let us know if you need our support with an invitation letter once you have bought your ticket.
+
+### Can I get a refund for my ticket if I don't get my visa approved?
+Yes, If that happens just send us the info about your visa being rejected and we will issue you a complete refund for your ticket.
+
+### I have a ticket but cannot attend anymore, can I transfer it to somebody else?
+Yes, please reach out to info@airflowsummit.org and let them know the name and email of the person that you want to transfer to.
+
+### Is there a code of conduct?
+Yes. Airflow Summit aims to provide a harassment-free experience to all participants. Please review our [Code of Conduct.](/coc)
+
+
+### What should you do in case of a CoC violation during the event?
+Report it to a staff member (Airflow Summit t-shirt or staff at the registration desk), and we will help you. The violation of the CoC has zero tolerance.
+
+### Will there be live streaming?
+
+We will not have live streaming. We will, however, record sessions and make them available later.
+
+### Can I join as sponsor?
+Yes! Please review our <a href="/docs/airflow-summit-2026-prospectus-v1_4.pdf" target="_blank">Prospectus</a> or contact us at info@airflowsummit.org
+
+### Accessibility
+
+The Airflow Community strives to be a welcoming, inclusive, and accessible environment for all, regardless of ability. Participants requiring special accommodations should provide details in their registration and/or by emailing us at <a href="mailto:info@airflowsummit.org" target="_blank">info@airflowsummit.</a>org. This information will be kept private and only be shared with individuals who need to know to secure these accommodations.
+
+### What happened to the archive of past sessions?
+
+Don’t worry, it is still [available here.](/sessions)
+
