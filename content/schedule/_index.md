@@ -58,7 +58,7 @@ days:
       - type: activity
         label: "Welcome"
         gridarea: "2/2/3/8"
-        timelabel: "11:00 - 11:30"
+        timelabel: "9:00 - 9:10"
         gridaream: "1/1/2/2"
 
       - type: timelabel
