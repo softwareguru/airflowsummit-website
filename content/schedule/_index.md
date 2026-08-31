@@ -85,7 +85,7 @@ days:
         label: "Coffee break"
         gridarea: "7/2/8/8"
         timelabel: "11:00 - 11:30"
-        gridaream: "14/1/15/2"
+        gridaream: "13/1/14/2"
 
       - type: timelabel
         label: "11:30"
@@ -110,7 +110,7 @@ days:
         label: "Lunch"
         gridarea: "12/2/13/8"
         timelabel: "13:30 - 14:30"
-        gridaream: "31/1/32/2"
+        gridaream: "30/1/31/2"
 
       - type: timelabel
         label: "14:30"
@@ -135,7 +135,7 @@ days:
         label: "Coffee break"
         gridarea: "17/2/18/8"
         timelabel: "16:30 - 16:50"
-        gridaream: "49/1/50/2"
+        gridaream: "47/1/48/2"
         #id location towards the reception area
         location: "reception"
 
