@@ -58,11 +58,11 @@
                 <div class="session-speakers names">{{ with .Params.speakers }}By {{ delimit . ", " " & " }}{{ end }}</div>
                 
                 <div class="d-flex justify-content-between">
-                  <div class="d-none">
+                  <div>
                     <div class="track-name">{{ with .Params.track }}Track: {{ . }}{{ end }}</div>
                     <div class="track-name">{{ with .Params.room }}Room: {{ . }}{{ end }}</div>
                   </div>
-                  <div title="Add to Calendar" class="d-none addeventatc" data-styling="none">
+                  <div title="Add to Calendar" class="addeventatc" data-styling="none">
                     <i class="bi bi-calendar3"></i>
                     <span class="start">{{ with .Params.time_start | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
                     <span class="end">{{ with .Params.time_end | time }}{{ .Format "01/02/2006 3:04 PM" }}{{ end }}</span>
