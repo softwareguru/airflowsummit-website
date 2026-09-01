@@ -174,12 +174,12 @@ days:
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 5"
+        label: "Texas Ballroom 6"
         gridarea: "1/3/2/4"
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 6"
+        label: "Texas Ballroom 7"
         gridarea: "1/4/2/5"
         gridareamnone: true
 
@@ -298,12 +298,12 @@ days:
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 5"
+        label: "Texas Ballroom 6"
         gridarea: "1/3/2/4"        
         gridareamnone: true
 
       - type: activity
-        label: "Texas Ballroom 6"
+        label: "Texas Ballroom 7"
         gridarea: "1/4/2/5"        
         gridareamnone: true
 
