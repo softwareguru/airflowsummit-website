@@ -197,7 +197,7 @@ days:
 ################## /Rooms header ##################
 
       - type: timelabel
-        label: "09:00"
+        label: "09:15"
         gridarea: "2/1/3/2"
 
       - type: timelabel
@@ -323,12 +323,9 @@ days:
 
 
       - type: timelabel
-        label: "09:00"
+        label: "09:15"
         gridarea: "2/1/3/2"
 
-      - type: timelabel
-        label: "09:30"
-        gridarea: "3/1/4/2"
 
       - type: timelabel
         label: "10:00"
@@ -337,7 +334,7 @@ days:
       - type: activity
         label: "Coffee break"
         gridarea: "4/2/5/7"
-        timelabel: "10:00 - 10:30"
+        timelabel: "09:45 - 10:30"
         gridaream: "3/1/4/2"
 
       - type: timelabel
