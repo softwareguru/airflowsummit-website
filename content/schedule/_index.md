@@ -160,7 +160,7 @@ days:
 
 
   - id: 20262
-    enabled: true
+    enabled: false
     title_short: Tuesday
     title_full: Tuesday, September 1, 2026
     rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Texas Ballroom 6", "Hill Country CD", "Hill Country AB"]
