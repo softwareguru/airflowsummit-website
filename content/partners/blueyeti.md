@@ -1,8 +1,8 @@
 ---
-title: "Blue Yeti"
-level: "startup"
-logo: "/images/partners/blueyeti.png"
-webUrl: "https://blueyeti.us/"
-draft: true
-weight: 1
+title: "Incredibuild"
+level: "bronze"
+logo: "/images/partners/incredibuild.png"
+webUrl: "https://www.incredibuild.com/"
+draft: false
+weight: 3
 ---
