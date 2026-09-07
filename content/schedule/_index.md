@@ -15,7 +15,7 @@ tracks:
 days: 
 
   - id: 20261
-    enabled: false
+    enabled: true
     title_short: Monday
     title_full: Monday, August 31, 2026
     rooms: ["Texas Ballroom 1", "Texas Ballroom 6", "Texas Ballroom 7", "Hill Country CD", "Hill Country AB"]
@@ -160,7 +160,7 @@ days:
 
 
   - id: 20262
-    enabled: false
+    enabled: true
     title_short: Tuesday
     title_full: Tuesday, September 1, 2026
     rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Texas Ballroom 6", "Hill Country CD", "Hill Country AB"]

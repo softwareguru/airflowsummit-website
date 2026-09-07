@@ -213,8 +213,8 @@ link = "/sessions/2025"
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Tickets"
-link = "/tickets"
+label = "Reconnect"
+link = "/onlinereconnect/"
 
 
 # Navigation button online reconnect
