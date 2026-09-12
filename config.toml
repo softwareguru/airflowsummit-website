@@ -42,37 +42,37 @@ speaker = "speakers"
   URL = "/"
   weight = 2
 
-  [[menu.main]]
-  identifier = "schedule"
-  name = "Full program"
-  URL = "/program"
-  parent = "program"
-  weight = 3
+  # [[menu.main]]
+  # identifier = "schedule"
+  # name = "Full program"
+  # URL = "/program"
+  # parent = "program"
+  # weight = 3
 
-  [[menu.main]]
-  identifier = "worshops"
-  name = "Workshops"
-  URL = "/workshops"
-  parent = "program"
-  weight = 4
+  # [[menu.main]]
+  # identifier = "worshops"
+  # name = "Workshops"
+  # URL = "/workshops"
+  # parent = "program"
+  # weight = 4
 
-  [[menu.main]]
-  identifier = "keynote"
-  name = "Keynotes"
-  URL = "/keynotes"
-  parent = "program"
-  weight = 5
+  # [[menu.main]]
+  # identifier = "keynote"
+  # name = "Keynotes"
+  # URL = "/keynotes"
+  # parent = "program"
+  # weight = 5
 
   [[menu.main]]
   identifier = "sessions"
-  name = "Sessions"
+  name = "2026 Sessions"
   URL = "/sessions/2026"
   parent = "program"
   weight = 6
 
   [[menu.main]]
   identifier = "speakers"
-  name = "Speakers"
+  name = "Previous Speakers"
   URL = "/speakers"
   parent = "program"
   weight = 7
@@ -83,60 +83,60 @@ speaker = "speakers"
 
 ## attend ##
 
-  [[menu.main]]
-    identifier = "scholarship"
-    name = "Apply for a scholarship!"
-    url = "/scholarship"
-    parent = "attend"
-    weight = 3
+  # [[menu.main]]
+  # identifier = "scholarship"
+  # name = "Apply for a scholarship!"
+  # url = "/scholarship"
+  # parent = "attend"
+  # weight = 3
 
-  [[menu.main]]
-  identifier = "attend"
-  name = "Attend"
-  URL = "/attend"
-  weight = 4
+  # [[menu.main]]
+  # identifier = "attend"
+  # name = "Attend"
+  # URL = "/attend"
+  # weight = 4
 
-  [[menu.main]]
-    identifier = "convince"
-    name = "Convince your boss"
-    url = "/convince-your-boss"
-    parent = "attend"
-    weight = 5
+  # [[menu.main]]
+  #  identifier = "convince"
+  #  name = "Convince your boss"
+  #  url = "/convince-your-boss"
+  #  parent = "attend"
+  #  weight = 5
 
-  [[menu.main]]
-    identifier = "visa-letter"
-    name = "Visa letter request"
-    url = "/visa-letter-request"
-    parent = "attend"
-    weight = 6
+  # [[menu.main]]
+  #  identifier = "visa-letter"
+  #  name = "Visa letter request"
+  #  url = "/visa-letter-request"
+  #  parent = "attend"
+  #  weight = 6
 
-  [[menu.main]]
-    identifier = "dei"
-    name = "DEI"
-    url = "/dei"
-    parent = "attend"
-    weight = 7
+  # [[menu.main]]
+  #  identifier = "dei"
+  #  name = "DEI"
+  #  url = "/dei"
+  #  parent = "attend"
+  #  weight = 7
 
-  [[menu.main]]
-    identifier = "venue"
-    name = "Venue"
-    URL = "/venue"
-    parent = "attend"
-    weight = 8
+  # [[menu.main]]
+  #  identifier = "venue"
+  #  name = "Venue"
+  #  URL = "/venue"
+  #  parent = "attend"
+  #  weight = 8
 
-  [[menu.main]]
-    identifier = "jobs"
-    name = "Jobs"
-    url = "/jobs"
-    parent = "attend"
-    weight = 9
+  # [[menu.main]]
+  #  identifier = "jobs"
+  #  name = "Jobs"
+  #  url = "/jobs"
+  #  parent = "attend"
+  #  weight = 9
 
-  [[menu.main]]
-    identifier = "activities"
-    name = "Off the Schedule Activities"
-    url = "/off-the-schedule-activities"
-    parent = "attend"
-    weight = 10
+  # [[menu.main]]
+  #  identifier = "activities"
+  #  name = "Off the Schedule Activities"
+  #  url = "/off-the-schedule-activities"
+  #  parent = "attend"
+  #  weight = 10
 
 ## /attend ##
 
@@ -165,10 +165,10 @@ speaker = "speakers"
   #  URL = "/jobs"
   #  weight = 7
 
-  [[menu.main]]
-  name = "FAQ"
-  URL = "faq"
-  weight = 8
+  # [[menu.main]]
+  # name = "FAQ"
+  # URL = "faq"
+  # weight = 8
 
 
 ### Online Reconnect menu

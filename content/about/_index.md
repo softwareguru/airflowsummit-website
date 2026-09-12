@@ -12,20 +12,17 @@ subtitle: "Airflow Summit is the annual conference for the worldwide community o
 
 Airflow Summit is the annual conference for the worldwide community of <a href="https://airflow.apache.org/" target="_blank">Apache Airflow</a> users and contributors. This conference is a celebration of the people who make Airflow what it is.
 
-The 2026 edition will take place from August 31st to September 2nd at the Hyatt Regency Austin, USA, bringing together the brightest minds in workflow orchestration. Expect insightful talks, hands-on workshops, and plenty of opportunities to meet and collaborate with fellow Airflow enthusiasts. Whether you’re contributing code, shaping best practices, or just starting your Airflow journey, this event is for you.
+The 2026 edition took place from August 31st to September 2nd at the Hyatt Regency Austin, USA, bringing together the brightest minds in workflow orchestration. The event featured insightful talks, hands-on workshops, and plenty of opportunities to meet and collaborate with fellow Airflow enthusiasts. Attendees included those contributing code, shaping best practices, and beginning their Airflow journey, making it a valuable experience for the entire Airflow community.
 
-The tracks are designed to better support the growing and diverse Airflow user community and to help every data team operate Airflow more effectively, no matter where they are in their journey. In 2025, we saw tremendous engagement from practitioners, ML teams, data leaders, and Airflow power users. Talks like OpenAI’s deep dive on scaling Airflow and Duolingo’s session on ML-driven pipelines showed us how important it is to create dedicated spaces for the different roles that rely on Airflow every day. Based on that feedback, we’re introducing three focused tracks for 2026:
+The tracks were designed to better support the growing and diverse Airflow user community and help data teams operate Airflow more effectively, no matter where they were in their journey. Building on the strong engagement from practitioners, ML teams, data leaders, and Airflow power users in 2025, we introduced three focused tracks for 2026:
 
-* **Builder Track:** If your talk focuses on building, operating, or scaling Airflow, whether you're writing DAGs, managing deployments, tuning performance, or keeping pipelines reliable at scale, submit it to the Builder Track. This track is ideal for sessions that share hands-on techniques, architectural patterns, lessons learned in production, or deep dives into orchestration and platform engineering.
+- **Builder Track:** Focused on building, operating, and scaling Airflow, including DAG development, deployments, performance optimization, reliability, orchestration, and platform engineering.
 
-* **Data & AI Application Track:** If your talk explores how Airflow powers data products, analytics workflows, ML pipelines, or downstream ML and AI outcomes, submit it to the Data & AI Application Track. Sessions in this track should demonstrate how teams integrate Airflow with modern data and ML ecosystems, including experimentation, quality, metrics, model training, or analytics operations.
+- **Data & AI Application Track:** Explored how Airflow powers data products, analytics workflows, ML pipelines, and downstream AI outcomes, including integrations with modern data and ML ecosystems.
 
-* **Data Strategy Track:** If your talk covers the organizational or strategic side of Airflow, such as team structure, governance, observability, adoption planning, cross-functional alignment, or long-term platform strategy, submit it to the Data Strategy Track. This track is best for leaders sharing frameworks, decisions, and lessons that help organizations scale Airflow effectively and sustainably.
+- **Data Strategy Track:** Covered the organizational and strategic side of Airflow, including team structure, governance, observability, adoption, cross-functional alignment, and long-term platform strategy.
 
-Each track is built to give attendees practical guidance, proven patterns, and real-world insights they can take back to their teams. 
-
-
-<h2 style="color: #e43921!important;">Join us in Austin to orchestrate the future!</h2>
+Each track provided attendees with practical guidance, proven patterns, and real-world insights they could take back to their teams.
 
 <!--<img src="/images/Airflow-Survey-2024-Results-v2.png" class="img-fluid mx-auto d-block mt-4">-->
 
