@@ -1,14 +1,11 @@
 {{ define "main" }}
 
 
-<script async defer>document.addEventListener("DOMContentLoaded", function(){var t=document.getElementById("amEmbRegForm");if(t&&t.appendChild&&!t.querySelector("iframe")){var e=document.createElement("iframe");e.setAttribute("src","https://us.airmeet.com/widgets/event/727b81f0-a403-11f1-b69d-9bb4bd49a5a5/embedded-registration?v=2&backgroundColor=000000&textColor=ffffff&buttonColor=04d659&isLightAmbience=false&bgType=solid&communityId=764624fc-d051-4c74-b573-a1a50759e3c1&title=Register+now+for+free%21&successMsg=A+confirmation+email+with+the+event+access+link+has+been+sent+to+the+registered+email+ID.+You+will+need+this+link+to+enter+the+event.&redirectUrl=https%3A%2F%2Fairflowsummit.org%2Fonlinereconnect%2Fregistration-confirmed&href="+encodeURIComponent(window.location.href)),e.setAttribute("width","100%"),e.setAttribute("height","616"),e.setAttribute("type","text/html"),e.setAttribute("frameborder",0),e.setAttribute("allowTransparency","true"),e.style.border="0",t.appendChild(e)}});function m(a){if(a&&a.origin&&a.data&&a.data.type&&a.data.payload&&a.data.payload.eventName){if("https://us.airmeet.com"!==a.origin||"amRegFormData"!==a.data.type)return;if("regComplete"===a.data.payload.eventName){const a=new URLSearchParams(window.location.search),t=new URL("https://airflowsummit.org/onlinereconnect/registration-confirmed"),n=new URLSearchParams(t.search),o=Object.fromEntries(a);for(var e in o)n.append(e,a.get(e));window.location.href=t.protocol+"//"+t.host+t.pathname+"?"+n.toString()}}}window.addEventListener("message",m);</script>
-
 <section class="hero-online-2025">
 
     <div class="text-center reconnect-2026">
         <div class="ciberword">
-            <img src="/images/airFlow-online-2026.png" width="550" class="img-fluid logo-2026">
-
+            <img src="/images/logos/airflow-online-2026.png" width="550" class="img-fluid logo-2026">
         <div>
             <div class="d-inline mx-4">
                 <a href="#register_now" style="background-color: #04d659 !important;"
@@ -84,6 +81,7 @@
     <br>
 </section>
 
+<script async defer>document.addEventListener("DOMContentLoaded", function(){var t=document.getElementById("amEmbRegForm");if(t&&t.appendChild&&!t.querySelector("iframe")){var e=document.createElement("iframe");e.setAttribute("src","https://us.airmeet.com/widgets/event/727b81f0-a403-11f1-b69d-9bb4bd49a5a5/embedded-registration?v=2&backgroundColor=000000&textColor=ffffff&buttonColor=04d659&isLightAmbience=false&bgType=solid&communityId=764624fc-d051-4c74-b573-a1a50759e3c1&title=Register+now+for+free%21&successMsg=A+confirmation+email+with+the+event+access+link+has+been+sent+to+the+registered+email+ID.+You+will+need+this+link+to+enter+the+event.&redirectUrl=https%3A%2F%2Fairflowsummit.org%2Fonlinereconnect%2Fregistration-confirmed&href="+encodeURIComponent(window.location.href)),e.setAttribute("width","100%"),e.setAttribute("height","616"),e.setAttribute("type","text/html"),e.setAttribute("frameborder",0),e.setAttribute("allowTransparency","true"),e.style.border="0",t.appendChild(e)}});function m(a){if(a&&a.origin&&a.data&&a.data.type&&a.data.payload&&a.data.payload.eventName){if("https://us.airmeet.com"!==a.origin||"amRegFormData"!==a.data.type)return;if("regComplete"===a.data.payload.eventName){const a=new URLSearchParams(window.location.search),t=new URL("https://airflowsummit.org/onlinereconnect/registration-confirmed"),n=new URLSearchParams(t.search),o=Object.fromEntries(a);for(var e in o)n.append(e,a.get(e));window.location.href=t.protocol+"//"+t.host+t.pathname+"?"+n.toString()}}}window.addEventListener("message",m);</script>
 
 <section id="register_now" style="scroll-margin-top: 120px; background-color: black;">
 
@@ -93,10 +91,6 @@
 
 
 {{ partial "partners-online.html" . }}
-
-
-
-
 
 
 {{ end }}

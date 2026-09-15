@@ -221,7 +221,7 @@ link = "/onlinereconnect/"
 [params.navigation_button_online]
 enable = true
 label = "Register now"
-link = "https://us.airmeet.com/e/727b81f0-a403-11f1-b69d-9bb4bd49a5a5"
+link = "/onlinereconnect/#register_now"
 
 
 [params.links]
