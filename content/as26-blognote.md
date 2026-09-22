@@ -5,7 +5,7 @@ url: relive-airflow-summit-2026
 draft: false
 ---
 
-<img src="/images/blog/2026/note/1.jpg" class="img-fluid mx-auto d-block">
+<img src="/images/blog/2026/note/1.webp" class="img-fluid mx-auto d-block">
 <br>
 
 Airflow Summit 2026 has come to a close, and what a gathering it was. From August 31 to September 2, the Apache Airflow community came together at the Hyatt Regency in Austin, Texas, for three days that showed just how central orchestration has become in the AI era. This is our recap, and our thank you to everyone who made it happen.
@@ -21,7 +21,7 @@ The scale set the tone right away:
 
 The theme was not just a banner; it was the thread running through almost every session. Airflow has always been the backbone of data engineering, but this year the conversation moved somewhere new: orchestration is now being treated as the foundation for AI agents and for the pipelines that feed data and memory to large language models.
 
-<img src="/images/blog/2026/note/2.jpg" class="img-fluid mx-auto d-block">
+<img src="/images/blog/2026/note/2.webp" class="img-fluid mx-auto d-block">
 <br>
 
 ### Open source, right in the middle of the AI wave
@@ -39,7 +39,7 @@ That idea got concrete in "Agentic Pipelines on Airflow: From Thesis to Producti
 
 Constance Martineau's keynote, "Data Engineers Already Solved Agentic AI's Reliability Problem," offered one of the sharpest reframes of the event, the reliability issues everyone is discovering in AI agents are problems data engineers solved years ago, just under different names.
 
-<img src="/images/blog/2026/note/3.jpg" class="img-fluid mx-auto d-block">
+<img src="/images/blog/2026/note/3.webp" class="img-fluid mx-auto d-block">
 <br>
 
 ### The "harness" idea, and Astronomer's take
@@ -48,7 +48,7 @@ A word that came up again and again was harness. In the AI world, the harness is
 
 Astronomer made this tangible with Otto, their data engineering agent built specifically for Airflow, along with a customer session on building self-healing pipelines with it. The message across their sessions and their booth was consistent, Airflow is becoming the operational backbone that connects data, AI, and the business.
 
-<img src="/images/blog/2026/note/4.jpg" class="img-fluid mx-auto d-block">
+<img src="/images/blog/2026/note/4.webp" class="img-fluid mx-auto d-block">
 <br>
 
 ### A look at where Airflow is heading
@@ -57,7 +57,7 @@ Some of the best moments came from the people steering Apache Airflow itself. Vi
 
 It was also a good reminder of how much of this still rests on open source and the community that keeps it moving. One perspective that stood out came from Jarek Potiuk, longtime PMC member and open-source contributor. His take on where a project like Airflow is heading was simple and very human, that what maintainers really bring is their intent, the judgment built up over years, and that more and more of the work is about writing that intent down in plain language so both people and AI agents can follow it.
 
-<img src="/images/blog/2026/note/5.jpg" class="img-fluid mx-auto d-block">
+<img src="/images/blog/2026/note/5.webp" class="img-fluid mx-auto d-block">
 <br>
 
 ### Austin, the food, and the community
@@ -65,7 +65,7 @@ Austin was the perfect host city. There is something about the Texan vibe, warm,
 
 This is the part that matters most to us. Airflow Summit brought together data engineers, ML practitioners, and open-source contributors from all over the world, and the energy in the room was a reminder of how strong this community has become.
 
-<img src="/images/blog/2026/note/6.jpg" class="img-fluid mx-auto d-block">
+<img src="/images/blog/2026/note/6.webp" class="img-fluid mx-auto d-block">
 <br>
 
 ### Thank you to the people who made it happen
