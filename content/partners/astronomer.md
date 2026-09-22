@@ -5,5 +5,6 @@ logo: "/images/partners/astronomer.jpg"
 webUrl: "https://astronomer.io"
 weight: 1
 online: true
+onlinerow: row1
 ---
 

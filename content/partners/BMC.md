@@ -5,5 +5,6 @@ logo: "/images/partners/logo-bmc.png"
 webUrl: "https://www.bmc.com/"
 weight: 3
 online: true
+onlinerow: row2
 draft: false
 ---
