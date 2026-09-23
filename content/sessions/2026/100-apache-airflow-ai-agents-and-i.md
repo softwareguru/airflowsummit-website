@@ -14,8 +14,8 @@ room: Texas Ballroom 6
 day: 20262
 timeslot: 35
 gridarea: 12/3/13/4
-slides: 
-video:
+slides: 2026/apache-airflow-ai-agents-and-i.pdf
+video: https://youtu.be/Q-8pMJRU5tA
 images:
  - images/sessions/2026/apache-airflow-ai-agents-and-i.png
 ---
