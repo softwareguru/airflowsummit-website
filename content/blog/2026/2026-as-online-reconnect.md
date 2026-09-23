@@ -7,6 +7,7 @@ images: ["images/blog/2026/latest-news.webp"]
 # author
 author: "Airflow Summit Team"
 redirection: /onlinereconnect/airflow-summit-online-reconnect/
+buttoname: Online Reconnect
 draft: false
 ---
 

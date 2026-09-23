@@ -7,6 +7,7 @@ images: ["images/blog/2026/photo-album.webp"]
 # author
 author: "Airflow Summit Team"
 redirection: http://photos.app.goo.gl/Lv3ZNt8BbfCuMsv1A
+buttoname: 2026 Photo Album
 draft: false
 ---
 
