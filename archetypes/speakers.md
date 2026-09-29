@@ -8,7 +8,7 @@ twitter:
 linkedin: 
 github: 
 events:
- - 2026
+ - 2026-online
 ---
 
 
