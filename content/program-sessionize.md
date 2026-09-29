@@ -4,7 +4,7 @@ url: /program-sessionize
 
 ---
 
-<h3>Check out the full program for Airflow Summit.</h3>
+<h3>Check out the full program for Airflow Summit Online.</h3>
 
 You can also see the list of <a href="/sessions/2026">sessions</a> and <a href="/speakers">speakers</a>.
 
