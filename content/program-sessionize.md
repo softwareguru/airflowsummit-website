@@ -8,4 +8,4 @@ url: /program-sessionize
 
 You can also see the list of <a href="/sessions/2026">sessions</a> and <a href="/speakers">speakers</a>.
 
-<script type="text/javascript" src="https://sessionize.com/api/v2/x63lq7qk/view/GridSmart"></script>
+<script type="text/javascript" src="https://sessionize.com/api/v2/i7o4ny7u/view/GridSmart"></script>
