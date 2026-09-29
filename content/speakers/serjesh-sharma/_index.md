@@ -3,14 +3,13 @@ title: "Serjesh Sharma"
 date: 2024-06-10T22:52:10-06:00
 images: 
  - /images/speakers/serjesh-sharma.jpg
-designation: Supervisor ADAS MLOps 
+designation: Workday,Manager, Software Development Engineering-AI Platform
 twitter: 
 linkedin: https://www.linkedin.com/in/serjeshsharma/
 github: 
 events:
  - 2024
+ - 2026-online
 ---
 
-Serjesh Sharma is seasoned data analytics and machine learning leader with rich experience in data science, machine learning, cloud services and MLOPS. He has successfully executed many machine learning projects related to NLP, CV,chatbot, ML pipeline standardization and automation, feature stores and traditional data science use cases for fortune 500 companies. He previously held roles in ML/Data engineering  both as an individual contributor and tech lead at various point in his career. 
-
-
+Serjesh Sharma is an AI Platform Engineering Manager at Workday leading AI operations, telemetry, and agent security. With 15+ years in MLOps and distributed platforms, he specializes in mission-critical orchestrations and zero-trust systems. His track record spans petabyte-scale pipelines across Fortune 100 leaders and top tier firms, including Ford Motor Company (ADAS MLOps on GCP/Airflow), McKinsey & Company, American Express, and Nationwide.
