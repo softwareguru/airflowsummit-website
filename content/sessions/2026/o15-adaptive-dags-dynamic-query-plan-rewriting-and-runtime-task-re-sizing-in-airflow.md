@@ -9,7 +9,7 @@ day: 2026o2
 time_start: 2026-11-05 13:30:00
 time_end: 2026-11-05 14:00:00
 timeslot: 6
-gridarea: 7/2/8/8
+gridarea: 8/2/9/8
 slides: 
 video:
 ---

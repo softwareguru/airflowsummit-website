@@ -178,17 +178,21 @@ speaker = "speakers"
   url = "/onlinereconnect/program"
   weight = 1
 
+[[menu.onlinereconnect]]
+  name = "Speakers"
+  url = "/onlinereconnect/speakers"
+  weight = 2
 
 [[menu.onlinereconnect]]
   name = "Partner with us"
   url = "/docs/airflow-summit-online-reconnect-2026-prospectus.pdf"
-  weight = 2
+  weight = 3
 
 
 [[menu.onlinereconnect]]
   name = "FAQs"
   url = "/onlinereconnect/faq-online"
-  weight = 3
+  weight = 4
 
 
 # Everything below this are Site Params

@@ -53,21 +53,35 @@ days:
         label: "17:00"
         gridarea: "7/1/8/2"
 
-      - type: timelabel
-        label: "20:00"
-        gridarea: "8/1/9/2"
+######## block 2 ##########
 
       - type: timelabel
-        label: "20:30"
+        label: ""
+        gridarea: "8/1/9/2"  
+
+      - type: activity
+        label: ""
+        gridarea: "8/2/9/8"
+        timelabel: ""
+        gridaream: "6/1/7/2"
+
+######## block 2 ##########
+
+      - type: timelabel
+        label: "20:00"
         gridarea: "9/1/10/2"
 
       - type: timelabel
-        label: "21:00"
+        label: "20:30"
         gridarea: "10/1/11/2"
 
       - type: timelabel
-        label: "21:30"
+        label: "21:00"
         gridarea: "11/1/12/2"
+
+      - type: timelabel
+        label: "21:30"
+        gridarea: "12/1/13/2"
 
 
 ###################################################################3333
@@ -75,7 +89,7 @@ days:
   - id: 2026o2
     enabled: true
     title_short: Thursday
-    title_full: Thursday, November 5, 2026
+    title_full: Thursday, November 05, 2026
     rooms: ["Online"]
     schedule_items: 
 
@@ -97,25 +111,39 @@ days:
         label: "07:30"
         gridarea: "5/1/6/2"
 
-      - type: timelabel
-        label: "13:00"
-        gridarea: "6/1/7/2"
+######## block 2 ##########
 
       - type: timelabel
-        label: "13:30"
+        label: ""
+        gridarea: "6/1/7/2"  
+
+      - type: activity
+        label: ""
+        gridarea: "6/2/7/8"
+        timelabel: ""
+        gridaream: "5/1/6/2"
+
+######## block 2 ##########
+
+      - type: timelabel
+        label: "13:00"
         gridarea: "7/1/8/2"
 
       - type: timelabel
-        label: "14:00"
+        label: "13:30"
         gridarea: "8/1/9/2"
 
       - type: timelabel
-        label: "14:30"
+        label: "14:00"
         gridarea: "9/1/10/2"
 
       - type: timelabel
-        label: "15:00"
+        label: "14:30"
         gridarea: "10/1/11/2"
+
+      - type: timelabel
+        label: "15:00"
+        gridarea: "11/1/12/2"
 
 ######################################################3333        
 

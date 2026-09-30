@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/aleksandr-shirokov-527b3b195/
 events:
  - 2025
  - 2026-online
+aliases: /onlinereconnect/speakers/aleksandr-shirokov/
 ---
 
 My name is Aleksandr Shirokov, I am a Team Lead MLOps & ML/LLM Inference Engineer with 6+ years of experience and Team Lead management competence. Currently, I am heading MLOps&DE Team in world-famous marketplace Wildberries in the RecSys department, launching AI products, building ML infrastructure and tools for 400+ ML engineers. I and my team support the full ML lifecycle, from research to production, and work closely with real user-facing products, directly impacting business metrics.
