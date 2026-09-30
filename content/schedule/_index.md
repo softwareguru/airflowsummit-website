@@ -62,6 +62,7 @@ days:
       - type: activity
         label: ""
         gridarea: "8/2/9/8"
+        description: "Program Break"
         timelabel: ""
         gridaream: "6/1/7/2"
 
@@ -120,6 +121,7 @@ days:
       - type: activity
         label: ""
         gridarea: "6/2/7/8"
+        description: "Program Break"
         timelabel: ""
         gridaream: "5/1/6/2"
 
