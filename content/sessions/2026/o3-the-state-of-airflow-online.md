@@ -1,0 +1,25 @@
+---
+title: "The State of Airflow"
+slug: the-state-of-airflow-online
+speakers:
+ - Vikram Koka
+track: Data Strategy
+room: Online
+day: 2026o1
+time_start: 2026-11-04 16:00:00
+time_end: 2026-11-04 16:30:00
+timeslot: 4
+gridarea: 5/2/6/8
+slides: 
+video:
+---
+
+Airflow 3 has been out for a year, and the systems we are being asked to build are changing quickly. In this keynote, we ask a broader question: what does orchestration need to become as production workloads get more intelligent, dynamic, and distributed?
+
+Airflow has always been about coordinating work, managing dependencies, recovering from failure, and running reliably at scale. Those problems do not go away in the AI era. In many ways, they become more important.
+
+We will look at how Airflow is evolving in response: supporting richer execution models, working across a much broader set of models, frameworks, infrastructure, and data systems, and giving teams the controls they need to run these workloads confidently in production.
+
+We close with what this means for Data Engineers. AI is changing the abstractions we work with and the systems we are responsible for. The opportunity for Data Engineering is to take these new capabilities and make them dependable enough to run in production.
+                                                                                                                                                   
+Twenty-five minutes. A lot of ground to cover

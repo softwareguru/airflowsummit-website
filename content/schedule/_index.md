@@ -1,7 +1,7 @@
 ---
 title: "Program"
 date: 2023-04-21T15:49:31-05:00
-url: /program
+url: /onlinereconnect/program
 
 tracks:
  - Builder
@@ -14,276 +14,113 @@ tracks:
 
 days: 
 
-  - id: 20261
+  - id: 2026o1
     enabled: true
-    title_short: Monday
-    title_full: Monday, August 31, 2026
-    rooms: ["Texas Ballroom 1", "Texas Ballroom 6", "Texas Ballroom 7", "Hill Country CD", "Hill Country AB"]
+    title_short: Wednesday
+    title_full: Wednesday, November 04, 2026
+    rooms: ["Online"]
     schedule_items: 
-
-
-################## Rooms header ##################
-
-      - type: activity
-        label: "Texas Ballroom 1"
-        gridarea: "1/2/2/3"
-        gridareamnone: true
-
-      - type: activity
-        label: "Texas Ballroom 6"
-        gridarea: "1/3/2/4"
-        gridareamnone: true
-
-      - type: activity
-        label: "Texas Ballroom 7"
-        gridarea: "1/4/2/5"
-        gridareamnone: true
-
-      - type: activity
-        label: "Hill Country CD"
-        gridarea: "1/5/2/6"
-        gridareamnone: true
-
-      - type: activity
-        label: "Hill Country AB"
-        gridarea: "1/6/2/8"
-        gridareamnone: true
 
 
 ################## /Rooms header ##################
 
-      - type: timelabel
-        label: "9:00"
-        gridarea: "2/1/3/2"
-      - type: activity
-        label: "Welcome"
-        gridarea: "2/2/3/8"
-        timelabel: "9:00 - 9:10"
-        gridaream: "1/1/2/2"
+#      - type: timelabel
+#        label: "9:00"
+#        gridarea: "2/1/3/2"
+#      - type: activity
+#        label: "Welcome"
+#        gridarea: "2/2/3/6"
+#        timelabel: "9:00 - 9:10"
+#        gridaream: "1/1/2/2"
 
       - type: timelabel
-        label: "9:10"
+        label: "15:00"
         gridarea: "3/1/4/2"
 
-
       - type: timelabel
-        label: "9:30"
+        label: "15:30"
         gridarea: "4/1/5/2"
 
       - type: timelabel
-        label: "10:00"
+        label: "16:00"
         gridarea: "5/1/6/2"
 
       - type: timelabel
-        label: "10:30"
+        label: "16:30"
         gridarea: "6/1/7/2"
         
       - type: timelabel
-        label: "11:00"
+        label: "17:00"
         gridarea: "7/1/8/2"
-      - type: activity
-        label: "Coffee break"
-        gridarea: "7/2/8/8"
-        timelabel: "11:00 - 11:30"
-        gridaream: "13/1/14/2"
 
       - type: timelabel
-        label: "11:30"
+        label: "20:00"
         gridarea: "8/1/9/2"
 
       - type: timelabel
-        label: "12:00"
+        label: "20:30"
         gridarea: "9/1/10/2"
 
       - type: timelabel
-        label: "12:30"
+        label: "21:00"
         gridarea: "10/1/11/2"
 
       - type: timelabel
-        label: "13:00"
+        label: "21:30"
         gridarea: "11/1/12/2"
 
-      - type: timelabel
-        label: "13:30"
-        gridarea: "12/1/13/2"
-      - type: activity
-        label: "Lunch"
-        gridarea: "12/2/13/8"
-        timelabel: "13:30 - 14:30"
-        gridaream: "30/1/31/2"
 
-      - type: timelabel
-        label: "14:30"
-        gridarea: "13/1/14/2"
+###################################################################3333
 
-      - type: timelabel
-        label: "15:00"
-        gridarea: "14/1/15/2"
-
-      - type: timelabel
-        label: "15:30"
-        gridarea: "15/1/16/2"
-
-      - type: timelabel
-        label: "16:00"
-        gridarea: "16/1/17/2"
-
-      - type: timelabel
-        label: "16:30"
-        gridarea: "17/1/18/2"
-      - type: activity
-        label: "Coffee break"
-        gridarea: "17/2/18/8"
-        timelabel: "16:30 - 16:50"
-        gridaream: "47/1/48/2"
-        #id location towards the reception area
-        location: "reception"
-
-      - type: timelabel
-        label: "17:00"
-        gridarea: "18/1/19/2"
-
-
-      - type: timelabel
-        label: "17:30"
-        gridarea: "20/1/21/2"
-
-
-      - type: activity
-        label: "Reception"
-        time: "17:30 - 19:30"
-     
-        description: "Join the Airflow community for an evening of drinks, hors d’oeuvres, networking, and great conversations, sponsored by BMC. Connect with fellow attendees, speakers, and community members while enjoying a relaxed evening together."
-        gridarea: "20/2/21/8"
-        timelabel: "17:30 - 19:30"
-        gridaream: "52/1/53/2"
-
-
-  - id: 20262
+  - id: 2026o2
     enabled: true
-    title_short: Tuesday
-    title_full: Tuesday, September 1, 2026
-    rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Texas Ballroom 6", "Hill Country CD", "Hill Country AB"]
+    title_short: Thursday
+    title_full: Thursday, November 5, 2026
+    rooms: ["Online"]
     schedule_items: 
-
-################## Rooms header ##################
-
-      - type: activity
-        label: "Texas Ballroom 1"
-        gridarea: "1/2/2/3"
-        gridareamnone: true
-
-      - type: activity
-        label: "Texas Ballroom 6"
-        gridarea: "1/3/2/4"
-        gridareamnone: true
-
-      - type: activity
-        label: "Texas Ballroom 7"
-        gridarea: "1/4/2/5"
-        gridareamnone: true
-
-      - type: activity
-        label: "Hill Country CD"
-        gridarea: "1/5/2/6"
-        gridareamnone: true
-
-      - type: activity
-        label: "Hill Country AB"
-        gridarea: "1/6/2/8"
-        gridareamnone: true
-
 
 ################## /Rooms header ##################
 
       - type: timelabel
-        label: "09:15"
+        label: "06:00"
         gridarea: "2/1/3/2"
 
       - type: timelabel
-        label: "09:30"
+        label: "06:30"
         gridarea: "3/1/4/2"
 
       - type: timelabel
-        label: "10:00"
+        label: "07:00"
         gridarea: "4/1/5/2"
 
-      - type: activity
-        label: "Coffee break"
-        gridarea: "4/2/5/8"
-        timelabel: "10:00 - 10:30"
-        gridaream: "3/1/4/2"
-
       - type: timelabel
-        label: "10:30"
+        label: "07:30"
         gridarea: "5/1/6/2"
 
       - type: timelabel
-        label: "11:00"
+        label: "13:00"
         gridarea: "6/1/7/2"
 
       - type: timelabel
-        label: "11:30"
+        label: "13:30"
         gridarea: "7/1/8/2"
 
       - type: timelabel
-        label: "12:00"
+        label: "14:00"
         gridarea: "8/1/9/2"
 
       - type: timelabel
-        label: "12:30"
-        gridarea: "9/1/10/2"
-
-      - type: activity
-        label: "Lunch"
-        gridarea: "9/2/10/8"
-        timelabel: "12:30 - 13:30"
-        gridaream: "16/1/17/2"
-
-      - type: timelabel
-        label: "13:30"
-        gridarea: "10/1/11/2"
-
-      - type: timelabel
-        label: "14:00"
-        gridarea: "11/1/12/2"
-
-      - type: timelabel
         label: "14:30"
-        gridarea: "12/1/13/2"
+        gridarea: "9/1/10/2"
 
       - type: timelabel
         label: "15:00"
-        gridarea: "13/1/14/2"
+        gridarea: "10/1/11/2"
 
-      - type: timelabel
-        label: "15:30"
-        gridarea: "14/1/15/2"
-
-      - type: activity
-        label: "Coffee break"
-        gridarea: "14/2/15/8"
-        timelabel: "15:30 - 16:00"
-        gridaream: "30/1/31/2"
-
-      - type: timelabel
-        label: "16:00"
-        gridarea: "15/1/16/2"
-
-      - type: timelabel
-        label: "16:30"
-        gridarea: "16/1/17/2"
-
-      - type: timelabel
-        label: "17:00"
-        gridarea: "17/1/18/2"
-
-      - type: timelabel
-        label: "17:30"
-        gridarea: "18/1/19/2"
+######################################################3333        
 
   - id: 20263
-    enabled: true
+    enabled: false
     title_short: Wednesday
     title_full: Wednesday, September 2, 2026
     rooms: ["Texas Ballroom 1", "Texas Ballroom 5", "Hill Country CD", "Hill Country AB"]
@@ -373,5 +210,8 @@ description: "Welcome to the session program for Airflow Summit."
 
 <h2 class="mb-4">Check out the full program for Airflow Summit.</h2>
 
-<h5>If you prefer, you can also see this as <a style="color:#c04040; !important" href="/program-sessionize">sessionize layout</a> or <a style="color:#c04040; !important" href="/sessions/2026">list of sessions</a>.</h5>
+<h5>If you prefer, you can also see this as <a style="color:#c04040; !important" href="/onlinereconnect/program-sessionize">sessionize layout</a> or <a style="color:#c04040; !important" href="/sessions/2026">list of sessions</a>.</h5>
 
+<br>
+
+<p>All times in Coordinated Universal Time (UTC).</p>

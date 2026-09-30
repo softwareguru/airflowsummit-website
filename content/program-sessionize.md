@@ -1,7 +1,7 @@
 ---
 title: "Program"
-url: /program-sessionize
-
+url: /onlinereconnect/program-sessionize
+aliases: /program-sessionize
 ---
 
 <h3>Check out the full program for Airflow Summit Online.</h3>
