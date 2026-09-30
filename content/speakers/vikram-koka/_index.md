@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/vikramkoka/
 events:
  - 2024
  - 2025
+ - 2026-online
 featured: true
 ---
 

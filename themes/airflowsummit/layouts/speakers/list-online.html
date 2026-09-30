@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<section class="speaker-2 section">
+  <div class="container">
+    <div class="mb-4">
+      {{ .Content }}
+    </div>
+
+{{ $speakers := (site.GetPage "/speakers").RegularPagesRecursive }}
+{{ $online := where $speakers "Params.events" "eq" (slice "2026-online") }}
+
+    <div class="speaker-strip">
+{{ range $online.ByTitle }}
+    {{ $url := replaceRE "/speakers/" "/onlinereconnect/speakers/" .RelPermalink }}
+      <div class="speaker-item">
+        <div class="speaker-block"> 
+          <div class="headshot-box">
+            <a href="{{.Permalink}}">
+              <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid imagen-border">
+            </a>
+          </div>
+          <div class="speaker-info text-center">
+            <h4 class="mb-0 mt-3"><a href="{{.Permalink | relURL }}">{{ .Title }}</a></h4>
+            <p>{{ .Params.Designation}}</p>
+          </div>
+        </div>
+      </div>
+  
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}

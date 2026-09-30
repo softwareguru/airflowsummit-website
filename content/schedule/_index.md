@@ -210,7 +210,7 @@ description: "Welcome to the session program for Airflow Summit."
 
 <h2 class="mb-4">Check out the full program for Airflow Summit.</h2>
 
-<h5>If you prefer, you can also see this as <a style="color:#c04040; !important" href="/onlinereconnect/program-sessionize">sessionize layout</a> or <a style="color:#c04040; !important" href="/sessions/2026">list of sessions</a>.</h5>
+<h5>If you prefer, you can also see this as <a style="color:#c04040; !important" href="/onlinereconnect/program-sessionize">sessionize layout</a> or <a style="color:#c04040; !important" href="/onlinereconnect/sessions/2026">list of sessions</a>.</h5>
 
 <br>
 

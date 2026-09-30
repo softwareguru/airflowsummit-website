@@ -5,6 +5,9 @@
         {{ .Content }}
     </p>
 
+{{ $sessions := (site.GetPage "/sessions/2026").RegularPagesRecursive }}
+{{ $online := where $sessions "Params.room" "eq" "Online" }}
+
     <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
@@ -13,11 +16,9 @@
         </tr>
       </thead>
         <tbody>
-              {{ range .Sections.ByTitle.Reverse }}
+              {{ range $online.ByTitle }} 
+              {{ $url := replace .RelPermalink "/sessions/2026" "/onlinereconnect/sessions/2026" }} 
               
-              {{ $onlineSessions := where .Pages "Params.room" "Online" }} 
-              {{ if $onlineSessions }}
-
             <tr>
                 <td><h4 class="mb-0">
                     <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
@@ -25,7 +26,6 @@
                 </td>
             </tr>
             
-            {{ end }}
             {{ end }}
         </tbody>
     </table>
