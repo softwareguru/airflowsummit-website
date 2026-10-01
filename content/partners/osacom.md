@@ -5,4 +5,5 @@ logo: "/images/partners/osacom.png"
 webUrl: "https://osacom.io/"
 draft: false
 weight: 4
+online: true
 ---

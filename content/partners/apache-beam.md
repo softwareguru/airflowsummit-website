@@ -5,4 +5,5 @@ logo: "/images/partners/apache-beam.png"
 webUrl: "https://beam.apache.org/"
 draft: false
 weight: 1
+online: true
 ---
