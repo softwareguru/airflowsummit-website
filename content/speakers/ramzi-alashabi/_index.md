@@ -3,7 +3,7 @@ title: "Ramzi Alashabi"
 date: 2026-09-29T14:41:17-06:00
 images: 
  - /images/speakers/ramzi-alashabi.jpg
-designation: Senior Cloud Engineer at ABNAMRO Bank
+designation: Chapter Lead Data and Streaming @ ABNAMRO Bank
 twitter: 
 linkedin: https://www.linkedin.com/in/ramzialashabi/
 github: 
@@ -11,4 +11,4 @@ events:
  - 2026-online
 ---
 
-Ramzi is a Senior Cloud Engineer and Solutions Designer at ABNAMRO Bank, he is also a passionate advocate for Machine learning and Deep learning with expertise spanning multiple programming languages. He excels in crafting efficient IT architectures that prioritize data optimization & ease of governance. Beyond his professional pursuits, Ramzi enjoys reading and building Machine learning models.
+Ramzi Alashabi is a Chapter Lead and data platform expert with deep experience in real-time streaming technologies. He has architected and delivered Kafka and Flink-based solutions spanning analytics, automation, and code-generation systems. At ABN AMRO Bank N.V., he leads real-time data initiatives that emphasize scalability, governance, and practical integration of AI into streaming pipelines. His work focuses on combining deterministic processing with responsibly applied agentic AI to enhance data quality and operational trust.
