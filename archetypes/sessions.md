@@ -3,11 +3,11 @@ title: "{{ replace .Name "-" " " | title }}"
 slug: 
 speakers:
 
-time_start: 2026-08-31 09:10:00
-time_end: 2026-08-31 10:05:00
-room: 
-track: 
-day: 
+track:
+room: Online
+day: 2026o1
+time_start: 2026-11-04 15:00:00
+time_end: 2026-11-04 15:30:00
 timeslot: 
 gridarea: 
 images: 
