@@ -7,6 +7,7 @@ twitter: https://twitter.com/BhavaniRavi_
 linkedin: https://www.linkedin.com/in/bhavanicodes/
 events:
  - 2025
+ - 2026-online
 draft: false
 ---
 

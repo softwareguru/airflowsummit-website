@@ -1,5 +1,5 @@
 ---
-title: "The State of Airflow"
+title: "The State of Airflow: Momentum, Innovation, and What's Next"
 slug: the-state-of-airflow-online
 speakers:
  - Vikram Koka

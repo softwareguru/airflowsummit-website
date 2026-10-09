@@ -1,7 +1,6 @@
 
 baseURL = "https://airflowsummit.org/"
 title = "Airflow Summit Online Reconnect 2026 | Nov 4 & 5 Online and Free Access"
-description = "It's the online edition of Airflow Summit — designed for data practitioners, everyone in the data orchestration space and the Airflow community who can't always make it to the in-person event."
 enableRobotsTXT = true
 disableHugoGeneratorInject = true
 RemovePathAccents = true
@@ -198,7 +197,10 @@ speaker = "speakers"
 # Everything below this are Site Params
 
 [params]
-description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
+
+description = "It's the online edition of Airflow Summit — designed for data practitioners, everyone in the data orchestration space and the Airflow community who can't always make it to the in-person event."
+
+#description = "Airflow Summit is the premier conference for the worldwide community of developers and users of Apache Airflow."
 logo = "/images/logo-pinwheel.svg"
 home = "Home"
 # privacy_policy = "/privacy"
@@ -206,9 +208,9 @@ google_analytics_4 = "G-DQ3SEJY0LP"
 google_ads = "AW-10857785820"
 
 # First one is picked as the Twitter card image if not set on page.
-images = ["/images/card-ia-2026.jpg"]
-start_date = "2026-08-31T09:00-05:00"
-end_date = "2026-09-02T17:00-05:00" 
+images = ["/images/AS2026-reconnect.jpg"]
+start_date = "2026-11-04T15:00-05:00"
+end_date = "2026-11-05T20:00-05:00" 
 
 [params.hero]
 text = "August 31st - September 2nd, 2026."
