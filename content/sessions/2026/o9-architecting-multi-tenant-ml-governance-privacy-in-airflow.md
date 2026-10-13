@@ -1,6 +1,6 @@
 ---
 title: "Architecting Multi-Tenant ML Governance & Privacy in Airflow"
-slug: architecting-multi-tenant-ml-governance-privacy-in-airflow
+url: onlinereconnect/architecting-multi-tenant-ml-governance-privacy-in-airflow
 speakers:
  - Serjesh Sharma
  - John MacMillan

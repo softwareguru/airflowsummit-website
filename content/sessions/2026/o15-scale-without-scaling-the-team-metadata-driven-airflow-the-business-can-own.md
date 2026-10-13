@@ -1,6 +1,6 @@
 ---
 title: "Scale Without Scaling the Team: Metadata-Driven Airflow the Business Can Own"
-slug: scale-without-scaling-the-team-metadata-driven-airflow-the-business-can-own
+url: onlinereconnect/scale-without-scaling-the-team-metadata-driven-airflow-the-business-can-own
 speakers:
  - Ramzi Alashabi
 track: Data Strategy

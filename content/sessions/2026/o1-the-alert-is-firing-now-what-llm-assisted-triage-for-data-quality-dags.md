@@ -1,6 +1,6 @@
 ---
 title: "The Alert Is Firing. Now What? LLM-Assisted Triage for Data Quality DAGs"
-slug: the-alert-is-firing-now-what-llm-assisted-triage-for-data-quality-dags
+url: onlinereconnect/the-alert-is-firing-now-what-llm-assisted-triage-for-data-quality-dags
 speakers:
  - Ashir Alam
 track: Data & AI Applications

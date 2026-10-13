@@ -1,6 +1,6 @@
 ---
 title: "Beyond Multi-Cluster Airflow: Operating GPU Workloads at Scale"
-slug: beyond-multi-cluster-airflow-operating-gpu-workloads-at-scale
+url: onlinereconnect/beyond-multi-cluster-airflow-operating-gpu-workloads-at-scale
 speakers:
  - Aleksandr Shirokov
  - Roman Khomenko

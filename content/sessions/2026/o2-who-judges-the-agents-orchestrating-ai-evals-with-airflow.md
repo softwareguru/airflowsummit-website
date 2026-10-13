@@ -1,6 +1,6 @@
 ---
 title: "Who Judges the Agents? Orchestrating AI Evals with Airflow"
-slug: who-judges-the-agents-orchestrating-ai-evals-with-airflow
+url: onlinereconnect/who-judges-the-agents-orchestrating-ai-evals-with-airflow
 speakers:
  - Rafael Pierre
 track: Data & AI Applications

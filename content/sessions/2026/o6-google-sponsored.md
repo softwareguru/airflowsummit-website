@@ -1,6 +1,6 @@
 ---
 title: "Apache Airflow, AI Agents and I"
-slug: apache-airflow-ai-agents-and-i-online
+url: onlinereconnect/apache-airflow-ai-agents-and-i-online
 speakers:
  - Rafal Biegacz
  - Michal Modras

@@ -1,6 +1,6 @@
 ---
 title: "Self-Healing Airflow: Pipelines That Fix Themselves"
-slug: self-healing-airflow-pipelines-that-fix-themselves
+url: onlinereconnect/self-healing-airflow-pipelines-that-fix-themselves
 speakers:
  - Shrividya Hegde
 track: Builder

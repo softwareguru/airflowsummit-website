@@ -1,6 +1,6 @@
 ---
 title: "The State of Airflow: Momentum, Innovation, and What's Next"
-slug: the-state-of-airflow-online
+url: onlinereconnect/the-state-of-airflow-online
 speakers:
  - Vikram Koka
 track: Data Strategy

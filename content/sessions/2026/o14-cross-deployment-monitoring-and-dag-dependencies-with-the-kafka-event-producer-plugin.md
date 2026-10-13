@@ -1,6 +1,6 @@
 ---
 title: "Cross-Deployment Monitoring and Dag Dependencies with the Kafka Event Producer Plugin"
-slug: cross-deployment-monitoring-and-dag-dependencies-with-the-kafka-event-producer-plugin
+url: onlinereconnect/cross-deployment-monitoring-and-dag-dependencies-with-the-kafka-event-producer-plugin
 speakers:
  - Christos Bisias
 track: Builder

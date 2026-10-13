@@ -1,6 +1,6 @@
 ---
 title: "Adaptive DAGs: Dynamic Query Plan Rewriting and Runtime Task Re-sizing in Airflow"
-slug: adaptive-dags-dynamic-query-plan-rewriting-and-runtime-task-re-sizing-in-airflow
+url: onlinereconnect/adaptive-dags-dynamic-query-plan-rewriting-and-runtime-task-re-sizing-in-airflow
 speakers:
  - Satej Sahu
 track: Builder

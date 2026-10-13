@@ -1,6 +1,6 @@
 ---
 title: "Airflow Across Four Regions and a Fleet of Agents: How Notion Runs Its Data Platform"
-slug: airflow-across-four-regions-and-a-fleet-of-agents-how-notion-runs-its-data-platform
+url: onlinereconnect/airflow-across-four-regions-and-a-fleet-of-agents-how-notion-runs-its-data-platform
 speakers:
  - Yunhao Qing
 track: Data & AI Applications

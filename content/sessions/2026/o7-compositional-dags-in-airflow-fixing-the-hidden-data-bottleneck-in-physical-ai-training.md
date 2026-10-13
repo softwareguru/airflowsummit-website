@@ -1,6 +1,6 @@
 ---
 title: "Compositional DAGs in Airflow: Fixing the Hidden Data Bottleneck in Physical AI Training"
-slug: compositional-dags-in-airflow-fixing-the-hidden-data-bottleneck-in-physical-ai-training
+url: onlinereconnect/compositional-dags-in-airflow-fixing-the-hidden-data-bottleneck-in-physical-ai-training
 speakers:
  - Saket Milind Karve
 track: Data & AI Applications

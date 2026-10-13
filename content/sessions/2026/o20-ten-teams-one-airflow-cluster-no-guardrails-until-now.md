@@ -1,6 +1,6 @@
 ---
 title: "Ten Teams, One Airflow Cluster, No Guardrails. Until Now."
-slug: ten-teams-one-airflow-cluster-no-guardrails-until-now
+url: onlinereconnect/ten-teams-one-airflow-cluster-no-guardrails-until-now
 speakers:
  - Vinod Jayendra
  - Sean Bjurstrom

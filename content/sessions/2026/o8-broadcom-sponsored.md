@@ -1,6 +1,6 @@
 ---
 title: "From Chaos to Control: Navigating Airflow Sprawl with Centralized Observability"
-slug: from-chaos-to-contro 
+url: onlinereconnect/from-chaos-to-control
 aliases: broadcom-sponsored
 speakers:
  - Jon Hiett
