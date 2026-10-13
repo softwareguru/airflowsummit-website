@@ -5,11 +5,11 @@ speakers:
  - Bhavani Ravi
 track: Data & AI Applications
 room: Online
-#day: 2026o1
-time_start: 2026-11-04 15:00:00
-time_end: 2026-11-04 15:30:00
-timeslot: 
-gridarea: 
+day: 2026o2
+time_start: 2026-11-04 06:30:00
+time_end: 2026-11-04 07:00:00
+timeslot: 2
+gridarea: 3/2/4/8
 images: 
 
 slides:

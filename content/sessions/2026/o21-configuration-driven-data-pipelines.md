@@ -7,11 +7,11 @@ speakers:
  - Sneha Rao
 track: Builder
 room: Online
-#day: 2026o1
-time_start: 2026-11-04 15:00:00
-time_end: 2026-11-04 15:30:00
-timeslot: 
-gridarea: 
+day: 2026o2
+time_start: 2026-11-05 15:30:00
+time_end: 2026-11-05 14:00:00
+timeslot: 11
+gridarea: 13/2/14/8
 images: 
 
 slides:

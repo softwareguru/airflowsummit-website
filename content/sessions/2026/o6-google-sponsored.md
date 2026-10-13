@@ -10,10 +10,10 @@ topics:
 track: Sponsored
 room: Online
 day: 2026o1
-time_start: 2026-11-04 17:00:00
-time_end: 2026-11-04 17:30:00
+time_start: 2026-11-04 17:30:00
+time_end: 2026-11-04 18:00:00
 timeslot: 6
-gridarea: 7/2/8/8
+gridarea: 8/2/9/8
 slides: 
 video:
 ---

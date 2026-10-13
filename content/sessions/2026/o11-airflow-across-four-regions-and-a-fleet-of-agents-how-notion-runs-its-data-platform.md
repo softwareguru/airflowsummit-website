@@ -6,8 +6,8 @@ speakers:
 track: Data & AI Applications
 room: Online
 day: 2026o2
-time_start: 2026-11-05 6:00:00
-time_end: 2026-11-05 6:30:00
+time_start: 2026-11-05 06:00:00
+time_end: 2026-11-05 06:30:00
 timeslot: 1
 gridarea: 2/2/3/8
 slides: 

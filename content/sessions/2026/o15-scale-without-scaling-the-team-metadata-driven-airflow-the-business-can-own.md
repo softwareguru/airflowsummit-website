@@ -6,10 +6,10 @@ speakers:
 track: Data Strategy
 room: Online
 day: 2026o2
-time_start: 2026-11-05 7:30:00
-time_end: 2026-11-05 8:00:00
-timeslot: 4
-gridarea: 5/2/6/8
+time_start: 2026-11-05 08:00:00
+time_end: 2026-11-05 08:30:00
+timeslot: 5
+gridarea: 6/2/7/8
 slides: 
 video:
 ---

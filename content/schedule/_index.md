@@ -53,36 +53,40 @@ days:
         label: "17:00"
         gridarea: "7/1/8/2"
 
+      - type: timelabel
+        label: "17:30"
+        gridarea: "8/1/9/2"
+
 ######## block 2 ##########
 
       - type: timelabel
         label: ""
-        gridarea: "8/1/9/2"  
+        gridarea: "9/1/10/2"  
 
       - type: activity
         label: ""
-        gridarea: "8/2/9/8"
+        gridarea: "9/2/10/8"
         description: "Program Break"
         timelabel: ""
-        gridaream: "6/1/7/2"
+        gridaream: "7/1/8/2"
 
 ######## block 2 ##########
 
       - type: timelabel
         label: "20:00"
-        gridarea: "9/1/10/2"
-
-      - type: timelabel
-        label: "20:30"
         gridarea: "10/1/11/2"
 
       - type: timelabel
-        label: "21:00"
+        label: "20:30"
         gridarea: "11/1/12/2"
 
       - type: timelabel
-        label: "21:30"
+        label: "21:00"
         gridarea: "12/1/13/2"
+
+      - type: timelabel
+        label: "21:30"
+        gridarea: "13/1/14/2"
 
 
 ###################################################################3333
@@ -112,40 +116,52 @@ days:
         label: "07:30"
         gridarea: "5/1/6/2"
 
+      - type: timelabel
+        label: "08:00"
+        gridarea: "6/1/7/2"
+
 ######## block 2 ##########
 
       - type: timelabel
         label: ""
-        gridarea: "6/1/7/2"  
+        gridarea: "7/1/8/2"  
 
       - type: activity
         label: ""
-        gridarea: "6/2/7/8"
+        gridarea: "7/2/8/8"
         description: "Program Break"
         timelabel: ""
-        gridaream: "5/1/6/2"
+        gridaream: "6/1/7/2"
 
 ######## block 2 ##########
 
       - type: timelabel
         label: "13:00"
-        gridarea: "7/1/8/2"
-
-      - type: timelabel
-        label: "13:30"
         gridarea: "8/1/9/2"
 
       - type: timelabel
-        label: "14:00"
+        label: "13:30"
         gridarea: "9/1/10/2"
 
       - type: timelabel
-        label: "14:30"
+        label: "14:00"
         gridarea: "10/1/11/2"
 
       - type: timelabel
-        label: "15:00"
+        label: "14:30"
         gridarea: "11/1/12/2"
+
+      - type: timelabel
+        label: "15:00"
+        gridarea: "12/1/13/2"
+
+      - type: timelabel
+        label: "15:30"
+        gridarea: "13/1/14/2"
+
+      - type: timelabel
+        label: "16:00"
+        gridarea: "14/1/15/2"
 
 ######################################################3333        
 

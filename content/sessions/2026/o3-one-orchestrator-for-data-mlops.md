@@ -4,13 +4,13 @@ url: onlinereconnect/one-orchestrator-for-data-mlops/
 speakers:
  - Kuan-Han Chen
  - Alex Ohayon
-track: 
+track: Data & AI Applications
 room: Online
-#day: 2026o1
-time_start: 2026-11-04 15:00:00
-time_end: 2026-11-04 15:30:00
-timeslot: 
-gridarea: 
+day: 2026o1
+time_start: 2026-11-04 16:00:00
+time_end: 2026-11-04 16:30:00
+timeslot: 4
+gridarea: 5/2/6/8
 images: 
 
 slides:
