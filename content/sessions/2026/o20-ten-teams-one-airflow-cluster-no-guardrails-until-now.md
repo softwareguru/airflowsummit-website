@@ -5,6 +5,7 @@ speakers:
  - Vinod Jayendra
  - Sean Bjurstrom
  - Abdul Majid Mohammed
+ - Suba Palanisamy
 track: Data Strategy
 room: Online
 day: 2026o2

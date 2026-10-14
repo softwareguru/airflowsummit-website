@@ -1,6 +1,6 @@
 ---
 title: "Abdul Majid Mohammed"
-designation: "Sr. Solutions Architect, AWS"
+designation: Sr Specialist Solutions Architect @ AWS
 images:
  - /images/speakers/abdul majid-mohammed.jpg
 twitter: 

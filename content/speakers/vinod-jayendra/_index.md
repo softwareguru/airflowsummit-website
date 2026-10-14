@@ -3,7 +3,7 @@ title: "Vinod Jayendra"
 date: 2025-05-16T18:09:22-06:00
 images: 
  - /images/speakers/vinod-jayendra.jpg
-designation: Sr Solutions Architect, AWS
+designation: Sr Specialist Solutions Architect @ AWS
 twitter: 
 linkedin: https://www.linkedin.com/in/vinod-jayendra
 github: 

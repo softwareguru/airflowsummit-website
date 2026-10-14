@@ -4,6 +4,7 @@ url: onlinereconnect/beyond-multi-cluster-airflow-operating-gpu-workloads-at-sca
 speakers:
  - Aleksandr Shirokov
  - Roman Khomenko
+ - Alexey Tarasov
 track: Data & AI Applications
 room: Online
 day: 2026o2

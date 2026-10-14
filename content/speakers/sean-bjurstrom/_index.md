@@ -3,7 +3,7 @@ title: "Sean Bjurstrom"
 date: 2025-05-29T02:36:15-06:00
 images: 
  - /images/speakers/sean-bjurstrom.jpg
-designation: AWS Technical Account Manager
+designation: Sr Specialist Solutions Architect, Analytics @ AWS
 twitter: 
 linkedin: 
 github: 

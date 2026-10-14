@@ -4,7 +4,7 @@ slug: building-an-mlops-platform-for-300-ml-ds-specialists-on-top-of-airflow
 speakers:
  - Aleksandr Shirokov
  - Roman Khomenko
- - Tarasov Alexey
+ - Alexey Tarasov
 topics:
  - Airflow & ...
 time_start: 2025-10-16 16:00:00
