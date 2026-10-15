@@ -1,6 +1,6 @@
 ---
 title: "Aleksandr Shirokov"
-designation: Wildberries & Russ
+designation: Head MLOps RecSys @ Wildberries & Russ
 images:
  - /images/speakers/aleksandr-shirokov.jpg
 twitter: 

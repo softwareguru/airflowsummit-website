@@ -1,6 +1,6 @@
 ---
 title: "Alexey Tarasov"
-designation: Wildberries, Senior MLOps Engineer
+designation: Senior MLOps Engineer @ Wildberries & Russ
 images:
  - /images/speakers/tarasov-alexey.jpg
 twitter: 
