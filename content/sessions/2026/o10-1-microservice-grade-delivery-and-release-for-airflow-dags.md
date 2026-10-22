@@ -7,12 +7,13 @@ speakers:
 track: Builder
 room: Online
 day: 2026o2
-time_start: 2026-11-05 13:00:00
-time_end: 2026-11-05 13:30:00
-timeslot: 6
-gridarea: 8/2/9/8
+time_start: 2026-11-05 05:30:00
+time_end: 2026-11-05 06:00:00
+timeslot: 0
+gridarea: 1/2/2/8
 slides: 
 video:
+
 ---
 
 At Uber, preparing Airflow to take on workloads from Piper (our Airflow 1 fork operating at nearly one million daily task runs) requires rethinking both DAG delivery and release. Shipping a multi-GB monorepo artifact to isolated Kubernetes executors for every task is neither fast nor efficient.

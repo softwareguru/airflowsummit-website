@@ -101,6 +101,10 @@ days:
 ################## /Rooms header ##################
 
       - type: timelabel
+        label: "05:30"
+        gridarea: "1/1/2/2"
+
+      - type: timelabel
         label: "06:00"
         gridarea: "2/1/3/2"
 
@@ -134,10 +138,6 @@ days:
         gridaream: "6/1/7/2"
 
 ######## block 2 ##########
-
-      - type: timelabel
-        label: "13:00"
-        gridarea: "8/1/9/2"
 
       - type: timelabel
         label: "13:30"
