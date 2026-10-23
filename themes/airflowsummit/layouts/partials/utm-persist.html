@@ -1,0 +1,38 @@
+<script>
+(function () {
+  var KEYS = ['utm_source','utm_medium','utm_campaign','utm_term','utm_content'];
+  var STORE = 'utm_params';
+  var LANDING = '/onlinereconnect/';
+
+
+  if (location.pathname.indexOf(LANDING) === 0) {
+    var params = new URLSearchParams(location.search);
+    var found = {};
+    KEYS.forEach(function (k) {
+      if (params.get(k)) found[k] = params.get(k);
+    });
+    if (Object.keys(found).length) {
+      try { sessionStorage.setItem(STORE, JSON.stringify(found)); } catch (e) {}
+    }
+  }
+
+
+  var saved = {};
+  try { saved = JSON.parse(sessionStorage.getItem(STORE) || '{}'); } catch (e) {}
+  if (!Object.keys(saved).length) return;
+
+
+  document.addEventListener('click', function (e) {
+    var a = e.target.closest && e.target.closest('a[href]');
+    if (!a) return;
+    var url;
+    try { url = new URL(a.href, location.href); } catch (err) { return; }
+    if (url.origin !== location.origin) return;                  
+    if (url.pathname === location.pathname && url.hash) return;  
+    Object.keys(saved).forEach(function (k) {
+      if (!url.searchParams.has(k)) url.searchParams.set(k, saved[k]);
+    });
+    a.href = url.toString();
+  }, true);
+})();
+</script>
