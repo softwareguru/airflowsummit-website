@@ -11,6 +11,7 @@ timeslot: 12
 gridarea: 14/2/15/8
 slides: 
 video:
+draft: true
 ---
 
 TBD
