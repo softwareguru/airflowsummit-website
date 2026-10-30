@@ -1,26 +1,18 @@
 ---
-title: "Beyond Multi-Cluster Airflow: Operating GPU Workloads at Scale"
-url: onlinereconnect/beyond-multi-cluster-airflow-operating-gpu-workloads-at-scale
+title: "Ontology-First Pipelines"
+url: onlinereconnect/ontology-first-pipelines
 speakers:
- - Aleksandr Shirokov
- - Roman Khomenko
- - Alexey Tarasov
+ - Cesar Mendez
 track: Data & AI Applications
 room: Online
 day: 2026o2
-time_start: 2026-11-04 07:00:00
-time_end: 2026-11-04 07:30:00
-timeslot: 3
-gridarea: 4/2/5/8
+time_start: 2026-11-04 07:30:00
+time_end: 2026-11-04 08:00:00
+timeslot: 4
+gridarea: 5/2/6/8
 slides: 
 video:
-draft: true
+draft: false
 ---
 
-At last year’s Airflow Summit, we shared how we built a multi-cluster orchestration layer on top of Apache Airflow to run ML workloads across multiple Kubernetes GPU clusters.
-
-Once hundreds of ML engineers started running GPU pipelines in production, we discovered that orchestration alone is not enough. Operating multi-cluster GPU infrastructure introduces new challenges: controlling GPU allocation across teams, observing pipelines across clusters, and helping users run workloads efficiently without wasting expensive GPU resources.
-
-In this talk, we’ll show how our Airflow platform evolved from a workflow orchestrator into an operational control plane for GPU infrastructure. We’ll cover custom scheduling strategies that dynamically route workloads across clusters using Airflow policies and resource awareness, integration with HAMI to improve GPU utilization, and AIOps workflows with KeepHQ that detect underutilized CPU, RAM, and GPU resources. We’ll also present powerful dashboards and AI-assisted tools that reduce Time2Market and simplify debugging while keeping infrastructure complexity hidden.
-
-We’ll be happy to share how our platform continues to evolve with Apache Airflow.
+Knowledge graphs make AI agents more reliable, but the real work happens before the graph. This talk shows how to treat an ontology as a data contract and enforce it with Airflow 3: assets for each semantic layer, LLM extraction guided by the ontology, entity resolution and validation as a quality gate. We’ll build a knowledge graph from public data and finish with an agent querying it through MCP.

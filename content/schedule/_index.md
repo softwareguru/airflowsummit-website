@@ -123,13 +123,6 @@ days:
         label: "07:30"
         gridarea: "5/1/6/2"
 
-      - type: activity
-        label: ""
-        gridarea: "5/2/6/8"
-        description: "Short Break"
-        timelabel: ""
-        gridaream: "5/1/6/2"
-
       - type: timelabel
         label: "08:00"
         gridarea: "6/1/7/2"
