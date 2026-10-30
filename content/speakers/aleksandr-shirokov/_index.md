@@ -7,7 +7,6 @@ twitter:
 linkedin: https://www.linkedin.com/in/aleksandr-shirokov-527b3b195/
 events:
  - 2025
- - 2026-online
 aliases: /onlinereconnect/speakers/aleksandr-shirokov/
 ---
 

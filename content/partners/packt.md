@@ -5,5 +5,5 @@ logo: "/images/partners/packt.png"
 webUrl: "https://www.packtpub.com/en-mx"
 draft: false
 weight: 6
-online: false
+online: true
 ---

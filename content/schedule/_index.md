@@ -57,6 +57,9 @@ days:
         label: "17:30"
         gridarea: "8/1/9/2"
 
+ 
+
+
 ######## block 2 ##########
 
       - type: timelabel
@@ -120,6 +123,13 @@ days:
         label: "07:30"
         gridarea: "5/1/6/2"
 
+      - type: activity
+        label: ""
+        gridarea: "5/2/6/8"
+        description: "Short Break"
+        timelabel: ""
+        gridaream: "5/1/6/2"
+
       - type: timelabel
         label: "08:00"
         gridarea: "6/1/7/2"
@@ -135,7 +145,7 @@ days:
         gridarea: "7/2/8/8"
         description: "Program Break"
         timelabel: ""
-        gridaream: "6/1/7/2"
+        gridaream: "7/1/8/2"
 
 ######## block 2 ##########
 
