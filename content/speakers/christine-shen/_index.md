@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/christineshen14/
 github: 
 events:
  - 2026
+ - 2026-online
 ---
 
 Christine Shen is a Product Engineer at Astronomer, focused on building AI-native features across data pipeline authoring and observability.

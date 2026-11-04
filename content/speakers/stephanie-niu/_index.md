@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/slniu/
 github: 
 events:
  - 2026
+ - 2026-online
 ---
 
 Stephanie is a Senior Product Manager at Astronomer, where she works on data observability and self-healing pipelines.
