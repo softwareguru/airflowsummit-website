@@ -42,9 +42,9 @@
       </ul>      
     </div>
     {{ if .Site.Params.navigation_button_online.enable }}
-    <ul class="navbar-nav ms-auto align-items-center">
+    <ul class="navbar-nav ms-auto align-items-center" >
       <li class="nav-item d-none d-lg-block push-right mt-2">
-        <a id="nav-button" href="{{ .Site.Params.navigation_button_online.link | relURL }}" class="btn btn-menu btn-rounded text-uppercase {{ if hasPrefix .RelPermalink "/onlinereconnect/" }} online-reconnect {{end}}">{{
+        <a id="nav-button" href="{{ .Site.Params.navigation_button_online.link | relURL }}" class="btn btn-menu btn-rounded text-uppercase {{ if hasPrefix .RelPermalink "/onlinereconnect/" }} online-reconnect {{end}}" target="_blank">{{
       .Site.Params.navigation_button_online.label }}</a>
        </li>
     </ul>
