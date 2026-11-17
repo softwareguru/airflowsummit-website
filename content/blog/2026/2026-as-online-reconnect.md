@@ -9,7 +9,7 @@ author: "Airflow Summit Team"
 redirection: https://us.airmeet.com/e/727b81f0-a403-11f1-b69d-9bb4bd49a5a5
 #redirection1: /onlinereconnect/sessions/2026/ 
 buttoname: Online Reconnect Recordings
-draft: true
+draft: false
 ---
 
 Missed a session or want to revisit your favorites? Catch up on all the talks from Airflow Summit Online Reconnect 2026.

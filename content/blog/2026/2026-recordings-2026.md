@@ -1,5 +1,5 @@
 ---
-title: "The 2026 recordings are live!!"
+title: "Watch the Airflow Summit 2026 Recordings!"
 date: 2026-10-01T10:00:00
 summary: "Catch the 2026 Summit recordings on demand! Revisit your favorite sessions and explore the insights, ideas, and conversations from this year’s event."
 # post thumb
