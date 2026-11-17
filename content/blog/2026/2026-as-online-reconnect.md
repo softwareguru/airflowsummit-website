@@ -1,14 +1,15 @@
 ---
-title: "Join Airflow Summit Online Reconnect "
+title: "The Online Reconnect Recordings Are Now Available!"
 date: 2026-09-22T13:00:00
-summary: "Austin was just the beginning! Join the Airflow community online on November 4 & 5 for Airflow Summit Online Reconnect. Enjoy free access to new sessions, selected highlights from the in-person Summit, and more opportunities to connect with the Apache Airflow® community."
+summary: "Missed a session or want to revisit your favorites? Catch up on all the talks from Airflow Summit Online Reconnect 2026."
 # post thumb
-images: ["images/blog/2026/latest-news.webp"]
+images: ["images/blog/2026/as-recording-available.webp"]
 # author
 author: "Airflow Summit Team"
-redirection: /onlinereconnect/airflow-summit-online-reconnect/
-buttoname: Online Reconnect
-draft: false
+redirection: https://us.airmeet.com/e/727b81f0-a403-11f1-b69d-9bb4bd49a5a5
+#redirection1: /onlinereconnect/sessions/2026/ 
+buttoname: Online Reconnect Recordings
+draft: true
 ---
 
-Austin was just the beginning! Join the Airflow community online on November 4 & 5 for Airflow Summit Online Reconnect. Enjoy free access to new sessions, selected highlights from the in-person Summit, and more opportunities to connect with the Apache Airflow® community.
+Missed a session or want to revisit your favorites? Catch up on all the talks from Airflow Summit Online Reconnect 2026.

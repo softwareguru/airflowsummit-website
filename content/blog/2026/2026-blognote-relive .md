@@ -1,5 +1,5 @@
 ---
-title: "Relive Airflow Summit 2026!"
+title: "Relive the Highlights of Airflow Summit 2026!"
 date: 2026-09-22T14:00:00
 summary: "Check out the Airflow Summit 2026 blog note to relive event highlights, key takeaways, and memorable moments from the summit."
 # post thumb

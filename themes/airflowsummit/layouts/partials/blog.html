@@ -3,14 +3,14 @@
   <swiper-container class="mySwiper" pagination="true" pagination-clickable="true" navigation="true" space-between="30"
     centered-slides="true" autoplay-delay="4500" autoplay-disable-on-interaction="false" loop="true">
 
-    {{ range first 4 (where .Site.RegularPages "Type" "blog" )}}
+    {{ range first 2 (where .Site.RegularPages "Type" "blog" )}}
 
     <swiper-slide>
       <div class="container">
         <div class="row">
           <div class="col-lg-5 col-md-6 mt-4">
-            <p class="news-sub">WHAT'S NEW</p>
-            <p class="latest-news-title">Latest news:</p>
+            <p class="news-sub">WHAT'S GOING ON</p>
+            <!--<p class="latest-news-title">Latest news:</p>-->
             <p class="news-title">{{ .Title }}</p>
             <p class="news-description mt-4 mb-4">{{.Summary}}</p>
 
