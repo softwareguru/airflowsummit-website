@@ -1,6 +1,6 @@
 ---
 title: "Apache Airflow, AI Agents and I"
-url: onlinereconnect/apache-airflow-ai-agents-and-i-online
+slug: apache-airflow-ai-agents-and-i-online
 speakers:
  - Rafal Biegacz
  - Michal Modras
@@ -14,8 +14,8 @@ time_start: 2026-11-04 17:30:00
 time_end: 2026-11-04 18:00:00
 timeslot: 6
 gridarea: 8/2/9/8
-slides: 
-video:
+#slides: 2026-online/apache-airflow-ai-agents-and-i-online.pdf
+video: 
 ---
 
 Importance of orchestration grows in AI and agentic area. Now we have both humans and agents authoring, adjusting and troubleshooting Airflow DAGs. What's more AI agentic capabilities are used inside of Airflow DAGs to tune task logic.

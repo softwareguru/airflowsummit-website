@@ -1,6 +1,6 @@
 ---
 title: Speakers
-
+layout: list
 ---
 
 

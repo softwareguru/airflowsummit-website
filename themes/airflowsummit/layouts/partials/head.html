@@ -77,6 +77,12 @@ src="https://www.facebook.com/tr?id=289312236899519&ev=PageView&noscript=1"
 <link rel="shortcut icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
 <link rel="icon" href="{{ `favicon.ico` | relURL }}" type="image/x-icon">
 
+{{ $canonical := .Permalink }}
+{{ if or (hasPrefix .RelPermalink "/onlinereconnect/sessions/") (hasPrefix .RelPermalink "/onlinereconnect/speakers/") }}
+  {{ $canonical = replace .Permalink "/onlinereconnect/" "/" 1 }}
+{{ end }}
+<link rel="canonical" href="{{ $canonical }}">
+
 
 {{ if .IsHome }}
 <script type="application/ld+json">

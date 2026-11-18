@@ -1,6 +1,6 @@
 ---
 title: "Airflow Across Four Regions and a Fleet of Agents: How Notion Runs Its Data Platform"
-url: onlinereconnect/airflow-across-four-regions-and-a-fleet-of-agents-how-notion-runs-its-data-platform
+slug: airflow-across-four-regions-and-a-fleet-of-agents-how-notion-runs-its-data-platform
 speakers:
  - Yunhao Qing
 track: Data & AI Applications
@@ -10,8 +10,8 @@ time_start: 2026-11-05 06:00:00
 time_end: 2026-11-05 06:30:00
 timeslot: 1
 gridarea: 2/2/3/8
-slides: 
-video:
+slides: 2026-online/airflow-across-four-regions-and-a-fleet-of-agents-how-notion-runs-its-data-platform.pdf
+video: https://youtu.be/6mqa1AksVl0
 ---
 
 Notion runs in four AWS regions today, with more on the way, and every data pipeline has to respect where a customer's data lives. Airflow on Astronomer is the control plane that holds this together: two Astro deployments, 500+ DAGs, and region-aware routing to EMR, EMR Serverless, Ray on Anyscale, Kafka, Snowflake, Databricks, and our vector database.

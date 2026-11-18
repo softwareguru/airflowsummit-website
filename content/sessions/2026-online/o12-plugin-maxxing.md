@@ -1,6 +1,6 @@
 ---
 title: "Plugin-Maxxing: How we Built a Data Product inside Airflow 3"
-url: onlinereconnect/plugin-maxxing
+slug: plugin-maxxing
 speakers:
  - Bhavani Ravi
 track: Data & AI Applications
@@ -12,8 +12,8 @@ timeslot: 2
 gridarea: 3/2/4/8
 images: 
 
-slides:
-video: 
+slides: 2026-online/plugin-maxxing.pdf
+video: https://youtu.be/6R4p7wok-8I
 ---
 
 Changing Airflow scripts because something changed upstream is annoying. 3-hour review cycle for a 4-field change that affects 5 different teams. As a freelancer, I came across this problem multiple times a week.

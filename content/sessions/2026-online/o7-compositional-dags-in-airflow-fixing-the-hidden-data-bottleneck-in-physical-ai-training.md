@@ -1,6 +1,6 @@
 ---
 title: "Compositional DAGs in Airflow: Fixing the Hidden Data Bottleneck in Physical AI Training"
-url: onlinereconnect/compositional-dags-in-airflow-fixing-the-hidden-data-bottleneck-in-physical-ai-training
+slug: compositional-dags-in-airflow-fixing-the-hidden-data-bottleneck-in-physical-ai-training
 speakers:
  - Saket Milind Karve
 track: Data & AI Applications
@@ -10,8 +10,8 @@ time_start: 2026-11-04 20:00:00
 time_end: 2026-11-04 20:30:00
 timeslot: 7
 gridarea: 10/2/11/8
-slides: 
-video:
+slides: 2026-online/compositional-dags-in-airflow-fixing-the-hidden-data-bottleneck-in-physical-ai-training.pdf
+video: https://youtu.be/zkiF60IvVPM
 ---
 
 Robot foundation model training is data-bound, not compute-bound. GPUs sit idle while heterogeneous trajectory data, synchronized camera streams, IMU, joint-state, and force/torque signals, waits to be transformed into training-ready tensors. Production teams generate tens of terabytes daily, and generic data-loader patterns don't compose the way this data needs.

@@ -1,6 +1,6 @@
 ---
 title: "One Orchestrator for Data & MLOps: Scaling 400+ Pipelines on Managed Airflow at Waze"
-url: onlinereconnect/one-orchestrator-for-data-mlops/
+slug: one-orchestrator-for-data-mlops/
 speakers:
  - Kuan-Han Chen
  - Alex Ohayon

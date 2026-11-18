@@ -1,6 +1,6 @@
 ---
 title: "Ten Teams, One Airflow Cluster, No Guardrails. Until Now."
-url: onlinereconnect/ten-teams-one-airflow-cluster-no-guardrails-until-now
+slug: ten-teams-one-airflow-cluster-no-guardrails-until-now
 speakers:
  - Vinod Jayendra
  - Sean Bjurstrom
@@ -13,8 +13,8 @@ time_start: 2026-11-05 15:00:00
 time_end: 2026-11-05 15:30:00
 timeslot: 10
 gridarea: 12/2/13/8
-slides: 
-video:
+slides: 2026-online/ten-teams-one-airflow-cluster-no-guardrails-until-now.pdf
+video: https://youtu.be/Ow4QqvKrRdk
 ---
 
 Your Airflow environment started as one team's orchestrator. Now three teams share it, each wants their own connections, variables, and execution roles. Your security review flagged that every DAG runs with the same permissions. Sound familiar?

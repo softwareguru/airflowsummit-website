@@ -1,6 +1,6 @@
 ---
 title: "How We Taught an Agent Airflow: Building Self-Healing Pipelines with Otto"
-url: onlinereconnect/how-we-taught-an-agent-airflow-online
+slug: how-we-taught-an-agent-airflow-online
 speakers:
  - Stephanie Niu
  - Christine Shen
@@ -11,7 +11,7 @@ time_start: 2026-11-04 17:00:00
 time_end: 2026-11-04 17:30:00
 timeslot: 5
 gridarea: 7/2/8/8
-slides: 
+slides: 2026-online/how-we-taught-an-agent-airflow-online.pdf
 video:
 ---
 

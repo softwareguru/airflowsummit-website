@@ -1,0 +1,8 @@
+{{ define "main" }}
+{{ $sessions := slice }}
+{{ $name := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
+{{ with site.GetPage (printf "/speakers/%s" $name) }}
+  {{ $sessions = .Data.Pages }}
+{{ end }}
+{{ partial "speaker-profile.html" (dict "page" . "sessions" $sessions) }}
+{{ end }}

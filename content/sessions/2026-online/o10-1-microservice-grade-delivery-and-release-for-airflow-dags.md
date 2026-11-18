@@ -1,6 +1,6 @@
 ---
 title: "Microservice-Grade Delivery and Release for Airflow DAGs"
-url: onlinereconnect/microservice-grade-delivery-and-release-for-airflow-dags
+slug: microservice-grade-delivery-and-release-for-airflow-dags
 speakers:
  - Piyush Maheshwari
  - Sameer Raj
@@ -11,8 +11,8 @@ time_start: 2026-11-05 05:30:00
 time_end: 2026-11-05 06:00:00
 timeslot: 0
 gridarea: 1/2/2/8
-slides: 
-video:
+slides: 2026-online/microservice-grade-delivery-and-release-for-airflow-dags.pdf
+video: https://youtu.be/ATZydWqc1G4
 
 ---
 

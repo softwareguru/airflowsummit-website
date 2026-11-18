@@ -1,6 +1,6 @@
 ---
 title: "Self-Healing Airflow: Pipelines That Fix Themselves"
-url: onlinereconnect/self-healing-airflow-pipelines-that-fix-themselves
+slug: self-healing-airflow-pipelines-that-fix-themselves
 speakers:
  - Shrividya Hegde
 track: Builder
@@ -10,8 +10,8 @@ time_start: 2026-11-05 14:00:00
 time_end: 2026-11-05 14:30:00
 timeslot: 8
 gridarea: 10/2/11/8
-slides: 
-video:
+slides: 2026-online/self-healing-airflow-pipelines-that-fix-themselves.pdf
+video: https://youtu.be/B9l_N5rAA8Q
 ---
 
 It's 2 AM and a task just failed. Does someone get paged, or does the pipeline quietly diagnose the problem, wait the right amount of time, retry, and only escalate when it truly can't recover on its own?

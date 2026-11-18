@@ -1,6 +1,6 @@
 ---
 title: "Scale Without Scaling the Team: Metadata-Driven Airflow the Business Can Own"
-url: onlinereconnect/scale-without-scaling-the-team-metadata-driven-airflow-the-business-can-own
+slug: scale-without-scaling-the-team-metadata-driven-airflow-the-business-can-own
 speakers:
  - Ramzi Alashabi
 track: Data Strategy
@@ -10,8 +10,8 @@ time_start: 2026-11-05 08:00:00
 time_end: 2026-11-05 08:30:00
 timeslot: 5
 gridarea: 6/2/7/8
-slides: 
-video:
+slides: 2026-online/scale-without-scaling-the-team-metadata-driven-airflow-the-business-can-own.pdf
+video: https://youtu.be/XE1CDktyx0E
 ---
 
 Every data team hits the same wall: a handful of engineers writing and maintaining every Airflow DAG, while the business waits in the queue.

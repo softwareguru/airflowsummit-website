@@ -1,6 +1,6 @@
 ---
 title: "From Data Pipelines to Business Outcomes: Unifying Airflow and Enterprise Workflows"
-url: onlinereconnect/from-data-pipelines-to-business-outcomes-online
+slug: from-data-pipelines-to-business-outcomes-online
 aliases: bmc-sponsored
 speakers:
  - Minh Nguyen

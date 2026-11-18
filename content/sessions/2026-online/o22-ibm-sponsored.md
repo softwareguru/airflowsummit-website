@@ -1,6 +1,6 @@
 ---
 title: "IBM Sponsored"
-url: onlinereconnect/ibm-sponsored
+slug: ibm-sponsored
 speakers:
 track: Sponsored
 room: Online

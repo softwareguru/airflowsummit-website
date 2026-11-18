@@ -1,0 +1,63 @@
+{{ $p := .page }}
+{{ $online := hasPrefix $p.RelPermalink "/onlinereconnect/" }}
+
+<div class="container">
+    <div class="inner-column">
+        <div class="text-box mb-4">
+            {{ with $p.Params.designation }}<h3>{{.}}</h3>{{ end }}
+            <p class="mt-2">{{ $p.Content }}</p>
+        </div>
+    </div>
+</div>
+
+<div class="container">
+    <div class="row">
+      <div class="col-xl-3">
+        <div class="image-column">
+            <img src="{{ with $p.Params.images }}{{ index . 0 | relURL }}{{else}}{{ $p.Params.Image | relURL }}{{ end }}" alt="{{ $p.Title }}" class="rounded-3 mx-auto d-flex mt-2" width="250">
+
+            <div style="display: flex; justify-content: center; align-items: center;">
+                <ul class="social-icon-two social-icon-colored mt-3 mb-3">
+                    {{ with $p.Params.twitter }}{{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="bi bi-twitter-x"></span></a></li>
+                    {{ end }}{{ end }}
+
+                    {{ with $p.Params.linkedin }}{{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="bi bi-linkedin"></span></a></li>
+                    {{ end }}{{ end }}
+
+                    {{ with $p.Params.github }}{{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="bi bi-github"></span></a></li>
+                    {{ end }}{{ end }}
+
+                    {{ with $p.Params.facebook }}{{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="bi bi-facebook"></span></a></li>
+                    {{ end }}{{ end }}
+
+                    {{ with $p.Params.mastodon }}{{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="bi bi-mastodon"></span></a></li>
+                    {{ end }}{{ end }}
+                    &nbsp;
+                    {{ with $p.Params.bluesky }}{{ if ne . "" }}
+                    <li><a href="{{ . }}" target="_blank"><span class="bi bi-bluesky"></span></a></li>
+                    {{ end }}{{ end }}
+                </ul>
+            </div>
+        </div>
+      </div>
+
+      <div class="col-lg-9 mt-4">
+        <h4 class="br-4">Sessions by {{ $p.Title }}</h4>
+        <ul>
+          {{ if .sessions }}
+          {{ range (.sessions.ByParam "time_start").Reverse }}
+            {{ $is_online_copy := hasPrefix .RelPermalink "/onlinereconnect/" }}
+            {{ if eq $online $is_online_copy }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a>{{ with .Params.time_start | time }} ({{ .Format "2006" }}){{ end }}</li>
+            {{ end }}
+          {{ end }}
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+</div>

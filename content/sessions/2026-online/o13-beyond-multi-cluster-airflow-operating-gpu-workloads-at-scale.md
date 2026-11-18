@@ -1,6 +1,6 @@
 ---
 title: "Ontology-First Pipelines"
-url: onlinereconnect/ontology-first-pipelines
+slug: ontology-first-pipelines
 speakers:
  - Cesar Mendez
 track: Data & AI Applications
@@ -10,8 +10,8 @@ time_start: 2026-11-04 07:30:00
 time_end: 2026-11-04 08:00:00
 timeslot: 4
 gridarea: 5/2/6/8
-slides: 
-video:
+slides: 2026-online/ontology-first-pipelines.pdf
+video: https://youtu.be/zfMm7I5hBpk
 draft: false
 ---
 

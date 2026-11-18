@@ -1,6 +1,6 @@
 ---
 title: "Who Judges the Agents? Orchestrating AI Evals with Airflow"
-url: onlinereconnect/who-judges-the-agents-orchestrating-ai-evals-with-airflow
+slug: who-judges-the-agents-orchestrating-ai-evals-with-airflow
 speakers:
  - Rafael Pierre
 track: Data & AI Applications
@@ -10,8 +10,8 @@ time_start: 2026-11-04 15:30:00
 time_end: 2026-11-04 16:00:00
 timeslot: 3
 gridarea: 4/2/5/8
-slides: 
-video:
+slides: 2026-online/who-judges-the-agents-orchestrating-ai-evals-with-airflow.pdf
+video: https://youtu.be/4164RfHWUTg
 ---
 
 Agentic AI systems are difficult to ship safely: their behavior is non-deterministic, traditional assertions only cover part of the problem, and manual evaluation quickly becomes a release bottleneck.

@@ -1,6 +1,6 @@
 ---
 title: "Orchestrating High-Throughput Ingestion Pipelines: Airflow Meets Apache Beam"
-url: onlinereconnect/orchestrating-high-throughput-ingestion-pipelines
+slug: orchestrating-high-throughput-ingestion-pipelines
 speakers:
  - Ashwin Sampathkumar
 track: Data & AI Applications
@@ -11,8 +11,8 @@ time_end: 2026-11-05 15:00:00
 timeslot: 9
 gridarea: 11/2/12/8
 images: 
-slides:
-video: 
+slides: 2026-online/orchestrating-high-throughput-ingestion-pipelines.pdf
+video: https://youtu.be/yfE9zqFwiYA
 ---
 
 Building a RAG prototype is easy, but keeping millions of enterprise documents continually parsed, chunked, embedded, and indexed in vector databases is hard. Document updates, schema changes, embedding model versioning, and rate limits on embedding APIs create unique engineering hurdles.

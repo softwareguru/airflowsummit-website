@@ -1,6 +1,6 @@
 ---
 title: "Architecting Multi-Tenant ML Governance & Privacy in Airflow"
-url: onlinereconnect/architecting-multi-tenant-ml-governance-privacy-in-airflow
+slug: architecting-multi-tenant-ml-governance-privacy-in-airflow
 speakers:
  - Serjesh Sharma
  - John MacMillan
@@ -11,8 +11,8 @@ time_start: 2026-11-04 21:00:00
 time_end: 2026-11-04 21:30:00
 timeslot: 9
 gridarea: 12/2/13/8
-slides: 
-video:
+slides: 2026-online/architecting-multi-tenant-ml-governance-privacy-in-airflow.pdf
+video: https://youtu.be/X68yZjgmAC8
 ---
 
 In enterprise SaaS, orchestrating ML models on sensitive workforce data requires zero compromise on data privacy and multi-tenant isolation. Workday's Scheduling & Labor Optimization product uses Airflow to power predictive workforce forecasts across thousands of customer tenants—where each customer strictly owns their data and model artifacts.   This session demonstrates how Workday leverages Airflow for multi-tenant ML pipeline orchestration. 

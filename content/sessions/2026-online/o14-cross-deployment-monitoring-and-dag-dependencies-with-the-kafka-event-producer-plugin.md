@@ -1,6 +1,6 @@
 ---
 title: "Cross-Deployment Monitoring and Dag Dependencies with the Kafka Event Producer Plugin"
-url: onlinereconnect/cross-deployment-monitoring-and-dag-dependencies-with-the-kafka-event-producer-plugin
+slug: cross-deployment-monitoring-and-dag-dependencies-with-the-kafka-event-producer-plugin
 speakers:
  - Christos Bisias
 track: Builder
@@ -10,8 +10,8 @@ time_start: 2026-11-04 07:00:00
 time_end: 2026-11-04 07:30:00
 timeslot: 3
 gridarea: 4/2/5/8
-slides: 
-video:
+slides: 2026-online/cross-deployment-monitoring-and-dag-dependencies-with-the-kafka-event-producer-plugin.pdf
+video: https://youtu.be/htJvuH9p6hg
 ---
 
 Organizations can have multiple Airflow instances running on separate hardware, each with its own database, and sometimes in different geographical regions. How can we monitor these instances and get updates on their state without polling their databases or APIs? Is there a way to coordinate Dags from different Airflow instances?

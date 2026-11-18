@@ -330,3 +330,22 @@ link="/plugins/bootstrap-table.min.js"
 
 [security]
   allowContent = ['.*']
+
+
+
+[[module.mounts]]
+source = "content"
+target = "content"
+
+[[module.mounts]]
+source = "content/sessions/2025-online"
+target = "content/onlinereconnect/sessions/2025-online"
+
+[[module.mounts]]
+source = "content/sessions/2026-online"
+target = "content/onlinereconnect/sessions/2026-online"
+
+[[module.mounts]]
+source = "content/speakers"
+target = "content/onlinereconnect/speakers"
+excludeFiles = ["/_index.md"]

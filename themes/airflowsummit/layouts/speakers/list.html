@@ -1,5 +1,9 @@
 {{ define "main" }}
 
+{{ $year := .Params.year | default 2026 }}
+{{ $yearOnline := printf "%v-online" $year }}
+{{ $online := hasPrefix .RelPermalink "/onlinereconnect/" }}
+
 <section class="speaker-2 section">
   <div class="container">
     <div class="mb-4">
@@ -7,16 +11,27 @@
     </div>
     <div class="speaker-strip">
       {{ range .Data.Pages.ByTitle }}
-      {{ if in .Params.events 2026 }}
+      {{ $show := false }}
+      {{ if $online }}
+        {{ $show = in .Params.events $yearOnline }}
+      {{ else }}
+        {{ $show = or (in .Params.events $year) (in .Params.events $yearOnline) }}
+      {{ end }}
+      {{ if $show }}
+      {{ $name := path.Base (strings.TrimSuffix "/" .RelPermalink) }}
+      {{ $link := .RelPermalink }}
+      {{ if $online }}
+        {{ $link = printf "/onlinereconnect/speakers/%s/" $name | relURL }}
+      {{ end }}
       <div class="speaker-item">
         <div class="speaker-block"> 
           <div class="headshot-box">
-            <a href="{{.Permalink}}">
+            <a href="{{ $link }}">
               <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid imagen-border">
             </a>
           </div>
           <div class="speaker-info text-center">
-            <h4 class="mb-0 mt-3"><a href="{{.Permalink | relURL }}">{{ .Title }}</a></h4>
+            <h4 class="mb-0 mt-3"><a href="{{ $link }}">{{ .Title }}</a></h4>
             <p>{{ .Params.Designation}}</p>
           </div>
         </div>

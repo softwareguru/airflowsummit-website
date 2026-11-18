@@ -1,6 +1,6 @@
 ---
 title: "The Alert Is Firing. Now What? LLM-Assisted Triage for Data Quality DAGs"
-url: onlinereconnect/the-alert-is-firing-now-what-llm-assisted-triage-for-data-quality-dags
+slug: the-alert-is-firing-now-what-llm-assisted-triage-for-data-quality-dags
 speakers:
  - Ashir Alam
 track: Data & AI Applications
@@ -10,8 +10,8 @@ time_start: 2026-11-04 15:00:00
 time_end: 2026-11-04 15:30:00
 timeslot: 2
 gridarea: 3/2/4/8
-slides: 
-video:
+slides: 2026-online/the-alert-is-firing-now-what-llm-assisted-triage-for-data-quality-dags.pdf
+video: https://youtu.be/d-qq9khpuzs
 ---
 
 At Airflow Summit 2025 we showed how we generate data quality DAGs from YAML using DAGFactory, putting check authoring in the hands of 30+ engineers, analysts, and BI users on Cloud Composer. It worked and it created a new problem. Check coverage grew faster than our ability to respond to it, and on-call was spending a median of one to two hours per alert just deciding whether it was real.

@@ -1,5 +1,8 @@
 {{ define "main" }}
 
+{{ $year := .Params.year | default 2026 }}
+{{ $yearOnline := printf "%v-online" $year }}
+
 <section class="speaker-2 section">
   <div class="container">
     <div class="mb-4">
@@ -7,7 +10,7 @@
     </div>
 
     {{ $speakers := (site.GetPage "/speakers").Pages }}
-    {{ $online := where $speakers "Params.events" "intersect" (slice "2026-online") }}
+    {{ $online := where $speakers "Params.events" "intersect" (slice $yearOnline) }}
 
     <div class="speaker-strip">
       {{ range $online.ByTitle }}
@@ -15,12 +18,12 @@
         <div class="speaker-item">
           <div class="speaker-block">
             <div class="headshot-box">
-              <a href="{{.Permalink}}">
+              <a href="{{ $url }}">
                 <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{ else }}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid imagen-border">
               </a>
             </div>
             <div class="speaker-info text-center">
-              <h4 class="mb-0 mt-3"><a href="{{.Permalink}}">{{ .Title }}</a></h4>
+              <h4 class="mb-0 mt-3"><a href="{{ $url }}">{{ .Title }}</a></h4>
               <p>{{ .Params.Designation }}</p>
             </div>
           </div>

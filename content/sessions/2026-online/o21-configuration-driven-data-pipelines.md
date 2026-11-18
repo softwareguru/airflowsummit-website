@@ -1,6 +1,6 @@
 ---
 title: "Configuration-Driven Data Pipelines: dbt + Airflow + Cosmos"
-url: onlinereconnect/configuration-driven-data-pipelines/
+slug: configuration-driven-data-pipelines
 speakers:
  - Suba Palanisamy
  - Sushmita Barthakur
@@ -14,8 +14,8 @@ timeslot: 11
 gridarea: 13/2/14/8
 images: 
 
-slides:
-video: 
+slides: 2026-online/configuration-driven-data-pipelines.pdf
+video: https://youtu.be/ZiW5RMrpByc
 ---
 
 Most data teams start by hand-writing Airflow DAGs for each dbt model. It works at first — then you hit 50 models, 100 models, and suddenly you're maintaining more orchestration code than transformation logic. DAG sprawl becomes the bottleneck.

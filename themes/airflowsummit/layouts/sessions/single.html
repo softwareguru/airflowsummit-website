@@ -19,6 +19,7 @@
 
 {{ define "main" }}
 
+{{ $in_online := hasPrefix .RelPermalink "/onlinereconnect/" }}
 
 <div class="container">
 
@@ -46,7 +47,7 @@
             </div>
           </div>-->
           {{ else }}
-          {{ if ne $time_start.Year 2025 }}
+          {{ if ne $time_start.Year 2027 }}
           <br>
           <em>Presented at Airflow Summit {{ $time_start.Format "2006" }}</em>
           {{ end }}
@@ -56,7 +57,9 @@
         <div class="d-lg-none d-xl-none mt-4">
           By
           {{ range (.GetTerms "speakers") }}
-          <a class="speaker-inline-item" href="{{ .Permalink }}">{{ .Title }}</a>
+          {{ $link := .RelPermalink }}
+          {{ if $in_online }}{{ $link = printf "/onlinereconnect%s" .RelPermalink }}{{ end }}
+          <a class="speaker-inline-item" href="{{ $link }}">{{ .Title }}</a>
           {{ end }}
         </div>
       </div>
@@ -65,7 +68,7 @@
   <div class="content mt-4">{{ .Content }}</div>
 
   {{ with .Params.slides }}
-  <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blanck"
+  <div class="mb-3"><a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blank"
       download><i class="bi bi-cloud-arrow-down-fill mb-3" aria-hidden="true"></i>&nbsp; Download slides</a></div>
   {{ end }}
 </div>
@@ -79,15 +82,17 @@
     <div class="container d-none d-lg-block">
       <div class="speaker-strip">
         {{ range (.GetTerms "speakers") }}
+        {{ $link := .RelPermalink }}
+        {{ if $in_online }}{{ $link = printf "/onlinereconnect%s" .RelPermalink }}{{ end }}
         <div class="speaker-item">
           <div class="speaker-block"> 
             <div class="headshot-box">
-              <a href="{{.Permalink}}">
+              <a href="{{ $link }}">
                 <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid rounded-3">
               </a>
             </div>
             <div class="speaker-info text-center">
-              <h4 class="mb-0 mt-3"><a href="{{.Permalink | relURL }}">{{ .Title }}</a></h4>
+              <h4 class="mb-0 mt-3"><a href="{{ $link }}">{{ .Title }}</a></h4>
               <p>{{ .Params.Designation}}</p>
             </div>
           </div>
@@ -118,9 +123,11 @@
     let adjString = days[dateStart.getDay()] + ", May " + dateStart.getDate() + ". " + dateStart.getHours() + ":" + (('0' + dateStart.getMinutes()).slice(-2)) + "-" + dateEnd.getHours() + ":" + (('0' + dateEnd.getMinutes()).slice(-2));
     document.getElementById("adjTime").innerHTML = adjString;
   }
-  { { if lt now $time_start } }
-  adjTime("{{ $time_start.Format "02 Jan 2006 15: 04: 05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15: 04: 05 MST" }}");
-  { { end } }  
+  {{ $time_start := .Params.time_start | time }}
+  {{ $time_end := .Params.time_end | time }}
+  {{ if lt now $time_start }}
+  adjTime("{{ $time_start.Format "02 Jan 2006 15:04:05 MST" }}", "{{ $time_end.Format "02 Jan 2006 15:04:05 MST" }}");
+  {{ end }}
 </script>
 
 

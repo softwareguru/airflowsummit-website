@@ -5,55 +5,48 @@
         {{ .Content }}
     </p>
 
-{{ $is_active := eq .RelPermalink "/sessions/2027/" }}
+    {{ $is_active := eq .RelPermalink "/sessions/2027/" }}
+    {{ $in_online := hasPrefix .RelPermalink "/onlinereconnect/" }}
 
     <table id="sessions-table" data-toggle="table" data-search="true" data-search-align="left" data-sortable="true">
       <thead>
         <tr>
           <th data-field="title" data-sortable="true">Title</th>
           {{ if not $is_active }}
-          <th data-field="speaker" data-sortable="true">Speaker(s)</th>         
+          <th data-field="speaker" data-sortable="true">Speaker(s)</th>
           <th data-field="recording" data-sortable="true">Recording</th>
           <th data-field="slides">Slides</th>
           {{ end }}
-        
-
         </tr>
       </thead>
-        <tbody>
-              {{ range .Data.Pages.ByTitle }}
-            <tr>
-                <td data-toggle="collapse" data-target="#abs-{{.File.TranslationBaseName}}" class="session-toggler"><h4 class="mb-0">
-                    <a class="session-title" href="{{.Permalink}}">{{ .Params.title }}</a>
-                    
-                    </h4>
-                    {{ if $is_active }}
-                    <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
-                    {{ end }}
-
-                    {{ if $is_active }}
-                    <div class="collapse card-abstract" id="abs-{{.File.TranslationBaseName}}" >
-                      {{ .Summary }}
-                        <div><a href="{{.Permalink}}">See more ...</a></div>
-                  </div>
-                    {{ end }}
-                  </td>
-                {{ if not $is_active }}
-                <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
-                <td class="text-center">{{ with .Params.video }}<a
-                        href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i
-                            class="bi bi-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
-                <td class="text-center">{{ with .Params.slides }}<a
-                        href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}'
-                        target="_blank" download><i class="bi bi-cloud-arrow-down-fill" aria-hidden="true"
-                            title="Slides"></i></a>{{ end }}</td>
-              {{ end }}  
-            </tr>
+      <tbody>
+        {{ range .Data.Pages.ByTitle }}
+          {{ $link := strings.TrimPrefix "/onlinereconnect" .RelPermalink }}
+          {{ if $in_online }}
+            {{ $link = printf "/onlinereconnect%s" $link }}
+          {{ end }}
+        <tr>
+          <td data-toggle="collapse" data-target="#abs-{{ .File.TranslationBaseName }}" class="session-toggler">
+            <h4 class="mb-0">
+              <a class="session-title" href="{{ $link }}">{{ .Params.title }}</a>
+            </h4>
+            {{ if $is_active }}
+            <em>by {{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</em>
+            <div class="collapse card-abstract" id="abs-{{ .File.TranslationBaseName }}">
+              {{ .Summary }}
+              <div><a href="{{ $link }}">See more ...</a></div>
+            </div>
             {{ end }}
-        </tbody>
+          </td>
+          {{ if not $is_active }}
+          <td>{{ with .Params.speakers }}{{ delimit . ", " " & " }}{{ end }}</td>
+          <td class="text-center">{{ with .Params.video }}<a href='{{ replace . "https://www.youtube.com/embed" "https://youtu.be" }}' target="_blank"><i class="bi bi-youtube" aria-hidden="true" title="Watch"></i></a>{{ end }}</td>
+          <td class="text-center">{{ with .Params.slides }}<a href='{{ if hasPrefix . "http" }}{{ . }}{{ else }}/slides/{{ . }}{{ end }}' target="_blank" download><i class="bi bi-cloud-arrow-down-fill" aria-hidden="true" title="Slides"></i></a>{{ end }}</td>
+          {{ end }}
+        </tr>
+        {{ end }}
+      </tbody>
     </table>
-
 </div>
-
 
 {{ end }}
