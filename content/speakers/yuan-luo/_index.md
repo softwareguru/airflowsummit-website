@@ -7,6 +7,7 @@ twitter:
 linkedin: 
 events:
  - 2025
+ - 2025-online
 ---
 
 Yuan Luo, a data and engineering leader with 20+ years in the field, including 15 years leading R&D teams in both the U.S. and China.

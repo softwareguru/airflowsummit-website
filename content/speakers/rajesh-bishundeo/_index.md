@@ -10,6 +10,7 @@ github:
 events:
  - 2024
  - 2025
+ - 2025-online
 ---
 
 I have over 20 years of experience in the Software Development across many industries. I currently work for AWS leading the open-source team working on the Apache Airflow project.

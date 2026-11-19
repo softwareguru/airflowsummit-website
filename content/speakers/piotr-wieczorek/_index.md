@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/piotr-wieczorek-376b273a/
 github: 
 events:
  - 2025
+ - 2025-online
  - 2026
 ---
 

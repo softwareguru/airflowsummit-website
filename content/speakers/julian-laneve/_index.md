@@ -7,6 +7,7 @@ events:
  - 2023
  - 2024
  - 2025
+ - 2025-online
 linkedin: https://www.linkedin.com/in/julianlaneve
 twitter: https://www.twitter.com/julianlaneve
 ---

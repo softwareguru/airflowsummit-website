@@ -1,5 +1,5 @@
 ---
-title: "Zhe You Liu"
+title: "Zhe-You Liu"
 date: 2025-07-11T13:01:28-06:00
 images: 
  - /images/speakers/zhe-you-liu.png
@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/zhe-you-liu/
 github: 
 events:
  - 2025
+ - 2025-online
  - 2026
 ---
 

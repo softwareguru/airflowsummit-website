@@ -172,21 +172,16 @@ speaker = "speakers"
 
 ### Online Reconnect menu
 
-[[menu.onlinereconnect]]
-  name = "Program"
-  url = "/onlinereconnect/program"
-  weight = 1
-
-[[menu.onlinereconnect]]
+  [[menu.onlinereconnect]]
   name = "Speakers"
-  url = "/onlinereconnect/speakers"
-  weight = 2
+  URL = "/onlinereconnect/speakers/"
+
+## /program onlinereconnect ##  
 
 #[[menu.onlinereconnect]]
 #  name = "Partner with us"
 #  url = "/docs/airflow-summit-online-reconnect-2026-prospectus.pdf"
 #  weight = 3
-
 
 #[[menu.onlinereconnect]]
 #  name = "FAQs"
@@ -234,7 +229,7 @@ link = "sessions/2026/"
 [params.navigation_button_online]
 enable = true
 label = "Watch Recordings"
-link = "https://us.airmeet.com/e/727b81f0-a403-11f1-b69d-9bb4bd49a5a5"
+link = "/onlinereconnect/sessions/2026-online/"
 
 
 [params.links]
@@ -332,6 +327,8 @@ link="/plugins/bootstrap-table.min.js"
   allowContent = ['.*']
 
 
+
+############## Mounts modules ##################3
 
 [[module.mounts]]
 source = "content"

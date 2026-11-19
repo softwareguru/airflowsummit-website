@@ -7,6 +7,7 @@ twitter:
 linkedin: https://www.linkedin.com/in/karan-alang-4173437/
 events:
  - 2025
+ - 2025-online
  - 2026
 draft: false
 ---

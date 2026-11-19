@@ -9,6 +9,7 @@ linkedin: https://www.linkedin.com/in/sanchitsreekanth/
 github: 
 events:
  - 2025
+ - 2025-online
 ---
 
 

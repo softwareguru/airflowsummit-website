@@ -8,6 +8,7 @@ linkedin: https://www.linkedin.com/in/rbiegacz/
 events:
  - 2024
  - 2025
+ - 2025-online
  - 2026
 ---
 

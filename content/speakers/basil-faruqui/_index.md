@@ -10,6 +10,7 @@ github:
 events:
  - 2024
  - 2025
+ - 2025-online
 ---
 
 Basil Faruqui is a senior marketing leader specializing in AI-driven workflow automation and enterprise data orchestration. At the intersection of business strategy and emerging technology, he helps global organizations operationalize strategies for AI and data initiatives to drive agility, resilience, and innovation at scale. Basil brings insights into how enterprises can move beyond pilot projects and embed AI into mission-critical business operations.

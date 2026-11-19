@@ -7,6 +7,7 @@ twitter:
 linkedin: 
 events:
  - 2025
+ - 2025-online
 ---
 
 As a Big Data Director with 10+ years leading data teams, I specialize in designing scalable big data architectures and building high-performance cluster platforms, with expertise in unified batch and streaming processing and lakehouse implementations. Leveraging data-driven insights, I bridge strategy and execution to enhance enterprise decision-making and competitive advantage through data intelligence.

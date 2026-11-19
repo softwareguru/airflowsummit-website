@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+{{ $online := hasPrefix .RelPermalink "/onlinereconnect/" }}
+
 <section class="speaker-2 section">
   <div class="container">
     <div class="mb-4">
@@ -9,18 +11,29 @@
       {{ range $name, $term := .Site.Taxonomies.speakers }}
       {{ $speaker_path := printf "%s" $name | urlize | printf "%s%s" "/speakers/" }}
       {{ with $.Site.GetPage $speaker_path }}
+
+      {{ $has_online := false }}
+      {{ range .Params.events }}
+        {{ if hasSuffix (string .) "-online" }}{{ $has_online = true }}{{ end }}
+      {{ end }}
+
+      {{ if or (not $online) $has_online }}
+      {{ $link := .RelPermalink }}
+      {{ if $online }}{{ $link = printf "/onlinereconnect%s" .RelPermalink }}{{ end }}
       <div class="speaker-item">
         <div class="speaker-block">
           <div class="headshot-box">
-            <a href="{{.Permalink}}">
+            <a href="{{ $link }}">
               <img src="{{ with .Params.images }}{{ index . 0 | relURL }}{{else}}{{ .Params.Image | relURL }}{{ end }}" alt="{{ .Title }}" class="img-fluid rounded-circle shadow">
             </a>
           </div>
           <div class="speaker-info text-center">
-            <h4 class="mb-0 mt-3"><a href="{{.Permalink | relURL }}">{{ .Title }}</a></h4>
+            <h4 class="mb-0 mt-3"><a href="{{ $link }}">{{ .Title }}</a></h4>
           </div>
         </div>
       </div>
+      {{ end }}
+
       {{ end }}
       {{ end }}
     </div>
